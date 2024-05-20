@@ -1,0 +1,1223 @@
+10211 Grand Emporium
+Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
+terms we’ll be using:
+Front: towards you.
+Back: away from you.
+Up: towards the ceiling.
+Down: towards the floor.
+Stud: the bump on a Lego brick. Example: A 2x1 brick has two studs on it.
+Vertically: going from front to back.
+Horizontally: going from left to right.
+Upright: pointing up towards the ceiling, and down towards the floor.
+Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic connector on the
+front wall at the right, connector to the front, and then place another such piece symmetrically on
+the back wall, at the right, the technic connector of the second piece should point to the back,
+since it will be placed symmetrically.
+There are also abbreviations defined at the end of this file.
+The LEGO® Modular Buildings series continues with this spectacularly detailed 3-story department store,
+designed in a realistic scale with lots of special building techniques and rare pieces. On the street outside,
+citizens carry shopping bags, send letters at the mailbox, admire the window mannequins, then cool off at
+the ice cream stand while a busy window washer works above. Enter through the revolving doors to
+discover a ground-floor clothing department, complete with a cash register, fitting room, hats, jewelry,
+perfume, and even a selection of spare trousers. A brick-built escalator carries customers to the secondfloor housewares department with glassware and golden plates for special occasions, and then it’s up to
+the top floor for the toy department (complete with toy house and push-scooter) with an impressive
+chandelier above the open atrium. Up on the roof are a billboard and skylight!
+People bag. Make the people.
+Start the emporium!
+Bag 1 (items 1-2 in book)
+Take a 32x32 square base. We’ll call the top-to-bottom dot lines columns and the left-to-right dot lines
+rows.
+Make a border along the front and the left sides using 3 1x1 flat smooth pieces for the corners and 10 6x1
+flat smooth pieces for the sides
+Make the border wider. Put a 2x1 flat smooth piece in the second column of the base, in the left end
+furthest from you (on top).
+Put a 2x2 flat piece next to it, along the first column of the border.
+Put a 2x1 flat smooth piece next to it.
+Put a 2x1 grate piece next to it.
+Put a 2x2 flat piece next.
+Put 4 2x1 flat smooth pieces next.
+A grate.
+4 2x1 smooth flat pieces.
+A 1x1 flat smooth piece in the inner corner.
+4 2x1 flat smooth pieces along the front side (second row).
+A grate.
+4 more 2x1 flat smooth pieces.
+Then leave a 2-dot gap.
+Then a 2x2 flat piece.
+A grate.
+3 more 2x1 flat smooth pieces.
+That should bring you to the end of the front side second row.
+Bag 2. Mark the floor for the first shop (I guess) (items 3-4 in book)
+Start building the third column and row of the border in the inner corner on your left. Put a 1x1 flat smooth
+piece in the inner corner.
+Put a 6x1 flat smooth piece along the left side on the third column.
+Put another such piece to continue a border further on the left.
+Do the same for the third row on the front (bottom) side using two more 6x1 flat smooth pieces.
+Put a 2x2 flat smooth piece on the fourth and the fifth columns on your left so that the seam between the
+two pieces of steps 2 and 3 is to the left and in the middle of this 2x2 piece.
+Put a 6x1 flat smooth piece each next to and perpendicular to the last 6x1 pieces on both the column and
+the row sides.
+Put a 2x2 flat smooth piece so that its upper left corner touches the bottom right corner of the 6x1 piece of
+the previous step. It should occupy the ninth and the tenth column dots and 14th and 15th row dots.
+On the same two columns, skip 3 rows going down and put another 2x2 flat smooth piece. Skip another 3
+rows and put another 2x2 flat smooth piece. Its bottom should touch the top jf the third row of the border.
+Go back to the middle 2x2 square, skip 3 columns to the right and put another 2x2 square on the same
+rows. Its right bottom corner should touch the left top corner of the 6x1 piece perpendicular to the bottom
+side (and occupying 16th column).
+Use the 34 2x1 flat smooth pieces to build the floor pattern around the squares. Put 6 of them around the
+central square.
+The rest of them go in the continuous zigzag around the other square and along the 6x1 pieces, except
+for the right side vertical 6x1 piece on the column 16. There one 2x1 piece goes vertically next and to the
+left of the 6x1 piece, on the bottom, the other one on the top, and the third one goes horizontally in the
+middle, protruding one dot to the left.
+The beginning and the end of the “zigzag” protrude one dot each: one on the 15th column protrudes on 
+the 12th row, and the other one on the 15th row protrudes on the 12th column.
+Bag 3. (Item 5 in book)
+Put a 2x2 flat piece on the 13th and 14th row and the 6th and 7th column (in the right top inner corner of
+the floor pattern).
+Put a 2x2 corner piece next to the protruding 2x1 piece on your right – so that the corner piece goes on
+top and to the left of it.
+Fill the rest of the floor with the 18 2x1 flat smooth pieces and the 3 1x1 flat smooth pieces. One dot in the
+center of the left bottom pattern square should remain free.
+Put the 1x1 flat smooth piece from the separate bag in it.
+Bag 4 (item 6 in book)
+Build the floor of the shop in the upper left part of the base.
+Put a 2x1 flat smooth piece to the right of the 2x2 flat piece in the upper left corner. Put another 2x1 flat
+smooth piece to the right of the other 2x2 flat piece.
+Use 14 flat smooth squares to pave the floor between, around and to the right of the two 2x2 flat squares.
+Put another 2x2 flat smooth square to the right of the top square. It should occupy the 7th and the 8th
+columns and the 31st and 32nd rows.
+Put a 2x1 smooth flat piece next to and lower than the previous piece. It should be in the 30st row.
+Put two 6x1 flat smooth pieces vertically on the 7th column, next to the squares and lower than and
+touching the 2x1 flat smooth piece of the previous step.
+Put another 2x2 smooth flat piece horizontally lower than and touching the 6x1 flat piece (the one on the
+bottom). It should be in the 7th and 8th columns and in the 17th row.
+Put another 2x1 flat smooth piece higher then and one column to the right of the previous piece.
+Put a 2x2 flat smooth piece in the corner thus made.
+Put 3 2x1 flat smooth pieces vertically starting on one row higher the previous piece and next to the two
+6x1 pieces.
+Put the last 2x2 flat smooth piece further up.
+Put the last 2x1 piece horizontally further up.
+Bag 5 (item 7 in book)
+Leaving the 2x2 space to the left of the 2x2 flat piece on the right lower side free, fill the floor on the left
+lower side analogous to the floor on the right upper part. Rows 5-6 are filled with the 2x2 flat smooth
+pieces.
+Rows 3-4 are filled with the 2x2 flat smooth pieces except that two 2x1 flat smooth pieces are used on the
+row above the 2x2 flat piece and to the left of it (thus leaving the 2x2 space to the left of the 2x2 flat piece
+free).
+Put the two 6x1 flat smooth pieces horizontally next to each other on the 7th row starting on the 18th
+column.
+Put two 2x1 flat smooth pieces vertically to the left and to the right of the two 6x1 flat smooth pieces.
+Put another two 2x1 flat smooth pieces above the right and the left ends of the 6x1 pieces.
+Put the 2 2x2 flat smooth pieces in the right and the left inside corners above the 6x1 pieces.
+Put a 2x1 flat smooth piece vertically to right of the 6x1 pieces.
+Put a 2x2 flat smooth piece to the right of the 2x1 piece of the previous step. It should go to the right edge
+of the board.
+Bag 6 (item 8 in book).
+Put the 4x4 square with a circle in it in the upper right corner of the lower left area of the floor. It should
+occupy the 13th-16th rows and the13th-16th columns.
+Put one 3x1 flat smooth piece horizontally to the left of the circle-in-square piece touching the upper part
+of its left side. Put another 3x1 flat smooth piece vertically under the right part of its bottom side.
+Put one 2x1 flat piece horizontally under the vertical 3x1 flat smooth piece and another one vertically to
+the left of the horizontal 3x1 flat smooth piece.
+Use 3 grate pieces to fill a horizontal gap on the right lower side (in the 9th row) and the other 3 grate
+pieces to fill the analogous vertical gap in the left upper side of the floor (the 9th column).
+Use a 2x1 flat piece and a 1x1 flat smooth piece to fill the rest of the gaps (the 1x1 pieces go next to the
+edge of the board).
+Bag 7 (item 9 in book). Start building the upper middle section of the floor.
+Fill the 10th column the following way: put a 1x1 slide piece on the 17th an 18th rows with slide facing
+you.
+Put a 1x1 piece above it in the same column
+Put 2 4x1 pieces next to each other vertically in the same column
+Put a 4x2 piece vertically above it.
+Put a 2x1 piece with a hole horizontally above it. It should be on the top edge of the board.
+Put another 4x2 piece horizontally in the inner corner made by an upper 4x1 piece and the other 4x2
+piece. It should be in the 25th nd 26th rows.
+Put another 4x1 piece vertically above the right end of the horizontal 4x2 piece. The 3x2 space inside
+should remain free for now.
+Put a 10x1 piece horizontally along the upper edge, to the right of the 2x1 holed piece.
+Continue the border with a 2x1 holed piece, then a 3x1 piece, and finally with a 1x1 corner piece, with its
+inner corner facing down and to the left.
+Bag 8 (item 10 in book)
+Build the inside border on row 10. Put a 1x1 slide piece horizontally in 17th and 18th columns with the
+slide facing left.
+Put 1x1 piece to the right of it in the same row.
+Put 3 4x1 pieces horizontally in the same row.
+Insert plugs into both 2x1 holed pieces.
+Put one of the plugged pieces vertically in the last column on the right edge of the base, with the
+protruding plug facing right.
+Continue building the right-edge border. Put a 10x1 piece vertically in it, next to the plugged piece.
+Put the other plugged piece vertically in the same column next to it.
+Put a 1x1 corner piece higher and to the left, with the inner corner facing right. The upper button of the
+plugged piece should be inside this corner.
+Put the other corner piece to the left of the first one, facing left.
+Put a tall box higher than and next to the second corner piece.
+Put a 3x1 piece vertically to the left of the tall box and the corner piece.
+Bag 9 (item 11 in book).
+Start building the second story. Begin with the inner border on the 10th row. Put a 1x1 flat piece on top of
+the slide piece.
+Put an 8x1 flat piece with a cornice to the right of it, with the cornice facing you.
+Put a 2x1 flat piece with a cornice to the right of it facing the same way.
+Put a 1x1 flat piece to the right of it.
+Put a 3x1 piece to the right of it.
+Build the second store of the right-edge side. Put an 8x1 piece vertically on it.
+Put a 6x1 piece next to it.
+Continue building around the tall box. Put a 4x1 piece horizontally on top of the upper sides of the two
+corner pieces.
+Cover their two lower buttons with a 2x1 flat smooth piece.
+Continue around the box. Put a 2x1 piece vertically to the left of it.
+Bag 10 (item 11 in book)
+Now start building the second story in the back row. Put three 6x1 pieces in the last row, starting on the
+right. One button on the left should remain free.
+Put a 3x1 piece vertically on this free button and covering two more in the 10th column. 
+Put a 1x1 flat piece next to it in the same column.
+Put a 2x1 flat piece with cornice next to it in the same column, cornice to the left.
+Put an 8x1 flat piece with a cornice next to in in the same column, facing the same way.
+Put a 1x1 flat piece next to it in the same column. It should be on top of the slide piece.
+Put the two 4x2 pieces horizontally next to each other in the inner corner formed by the 3x1 vertical piece
+and the leftmost 6x1 piece in the back, on top of the 3x2 hole. The two pieces should occupy 11th-14th
+columns and 28th-31st rows.
+Put a 1x1 piece on top of the free button of the corner piece on the right side in the back.
+Bag 11 (item 12 in book)
+Start building the third story, beginning with the 10th row. Put the three 4x1 flat pieces in that row on top
+of the cornice pieces.
+Put a 2x1 piece horizontally to the right of them in the same row.
+Put a 6x1 piece vertically in the rightmost (edge) row, touching the 2x1 piece of the previous step.
+Put an 8x1 piece vertically next to the 6x1 piece of the previous step.
+Put a 4x1 piece horizontally, touching the previous piece, to continue building around the tall box.
+Put a 3x1 piece vertically next to the previous piece.
+Bag 12 (item 12 in book; from now on the numbers in bag and in book coincide)
+Continue building the third story in the back. Put a 1x1 corner piece in the right-end side on the back,
+following the pattern of the previous story.
+Put a 6x1 piece in the last row to the left of the corner piece of the previous step.
+Put an 8x1 piece to the left.
+Put a 3x1 piece to the left.
+Put a 2x1 piece vertically next to the previous piece, in the 10th row.
+Put the three 4x1 flat pieces vertically in the same row.
+Bag 13 Start the fourth story
+Start the fourth story beginning in the right side of the 10th row, as before. Put there a 3x1 piece
+horizontally.
+Start building the fourth story on the right edge column. Put a 2x1 piece vertically on the right edge next to
+the previous step.
+Put a 2x1 lip piece next to it.
+Put a 4x1 piece next to it.
+Put a 6x1 piece next to it.
+Go around the box. Put a 2x1 piece horizontally to the left of the previous piece.
+Put a 1x1 corner piece left to it.
+Put a 1x1 piece next to it to finish the story.
+Start building the fourth story in the last row. Put a 1x1 piece on top of the protruding button of the corner
+piece on the right, in the 31th row (one but last).
+Put a 6x1 piece to the left of it in the last row.
+Put an 8x1 piece to the left of it.
+Put a 3x1 piece to the left of it.
+Put a 2x1 piece vertically next to it on the 10th row.
+Bag 14 Start building the 5th story beginning as before.
+Put a 2x1 piece horizontally in the right side of the 10th row, leaving the button in the last column free.
+Put a 6x1 piece vertically in the last column of the right, next to the previous piece.
+Put a 2x1 lip piece next to it, lip facing left.
+Put a 2x1 piece next to it.
+Leave next button free. Put a 2x1 piece next to the free button.
+Put a 1x1 corner piece next to it to go around the box.
+Put a 2x1 piece horizontally to the left of it.
+Leave a corner button free. Put a 2x1 piece vertically next to the free button.
+Continue the 5th story in the last row. Put a corner piece as before on the right-side end of the back wall.
+Put a 6x1 piece to the left of it.
+Put an 8x1 piece next to it.
+Put a 3x1 piece next to it.
+Put a 2x1 piece vertically next to it in the 10th row.
+Put a man with an extra pair of trousers next to the bench in the right-hand corner.
+Bag 15
+Make a fitting room. Put a stick through both holes in the two curtains making sure they curve in the same
+direction.
+Bend the stick in the same direction.
+Insert the two ends of the stick into the holes of the 1x1 pieces.
+Put the two 1x1 pieces into the two gaps left in the right wall so that the man and the bench would be
+hidden behind the curtain.
+Bag 16
+Make the stands for the manikins and merchandise.
+Put a 2x2 cylinder on top of the 2x2 trapeze.
+Put a trapeze from a separate bag on top of the cylinder.
+Repeat steps 1-2 two more times to make two more stands.
+Put one stand vertically on the left side with its widest side along (to the right of) the corniced line in
+column 10. It should occupy 19th-22th rows, 11th end 12th columns.
+Put the other two stands horizontally on the 11th and 12th rows, with their widest sides along the corniced
+line in 10th row. Leave two buttons to the left in the 11th row free. Put the first of the horizontal stands in
+the 19th-22nd columns. Leave a two button space to the right free. Put the other stand in the 25th-28th
+columns.
+Start building the 6th story as before. Put a 3 x1 piece horizontally in the right end in the 10th row.
+Put an 8x1 piece vertically on the right end edge.
+Put a 3x1 piece next to it.
+Put a 2x1 piece next to it.
+Leave a corner button free. Put a 2x1 piece horizontally to build around the box.
+Put a corner piece to continue building around the box.
+Put a 1-button piece next to it to finish this side of the wall.
+Put a 1-button piece on top of the protruding end of the corner piece in the back wall. Leave the back side
+button of that corner piece free.
+Put a 3x1 piece horizontally to the left of the free button in the back wall.
+Put an 8x1 piece to the left of it.
+Put a 6x1 piece to the left of it.
+Put a 3x1 piece vertically to the left of it to finish this part of the wall.
+Bag 17.
+Make a centerpiece table with the perfumes and jewelry exhibit.
+Put a 4x2 flat piece horizontally in front of you.
+Put a 1x1 flat smooth piece in the rightmost button of the back row of the 4x2 piece 
+Put a 1x1 flat piece in the rightmost button of the front row.
+Continue with three more smooth and three buttoned 1x1 pieces to make a checkered pattern.
+Put one 1x1 flat piece on top of another and put a smooth piece on top of both to make a jewelry or a
+make-up box.
+Put a jeweled cover on top of a tapered cylinder to make a perfume bottle.
+Put a 1-button circle cover on top of the cylinder.
+Put a 1x1 flat smooth piece on top of the 1x1 flat piece to make another box.
+Install all this merchandise on the checkered table.
+Make a stand for the table. Put a 2x2 trapeze piece on top of the two buttons of the 2x2 flat circle piece,
+with the widest side facing inward.
+Put another trapeze piece on the remaining two buttons of the circle, wide side facing inwards.
+Put a 2x2 cylinder piece on top of the middle four buttons of hexagon thus made.
+Put the table top on this stand.
+Put the table in the center of the store, in the middle between the two horizontal stands and go three rows
+to the back of them. It should occupy the 21st-24th columns and 16th-19th rows.
+Bag 18. Make a jewelry showcase and the register.
+Move your structure aside. Put in front of you, vertically, a 4x2 flat piece. Put two 2x2 trapeze pieces to
+the right and to the left of it to create a hexagon.
+Put a 4x1 flat piece on top of it horizontally on the third row to hold it together.
+Put on top of it 4 1x1 cornice pieces, with their cornices in the back and facing upwards. (put them on the
+side, as it were) and their buttons facing you. Put the four jewels on top.
+Put two 2x1 bracket pieces in front of the jewel stand, on the second row of the hexagon, facing away
+from you. Put the other two brackets at the sides, facing away from each other.
+Put a 6x2 flat piece on top.
+Put two 1x1 cornice pieces in the rightmost end of the front row, with their cornices on the bottom and
+facing in the opposite directions. Put a 2x1 flat cornice piece at the back row, behind these two pieces.
+Put two 1x1 curved pieces (let’s call them hammer pieces) on top of the flat cornice piece and at the
+same time on top of the tall cornice piece, with its curved side at the back.
+Put a smooth bench piece on top of the two tall cornice pieces, with the vertical part at the back. Put a
+handle on the side button of the left tall cornice piece. Put a 1x1 flat smooth piece on the side button of
+the right tall cornice piece.
+Install the showcase in the shop to the left of and behind the perfume table. It goes on the 22nd-25th rows
+and on the 17th-22nd columns.
+Bag 19. Put the hats on the vertical table on the left.
+Put three 1x1 round buttons on top of each other. Put a hat on top. Put on the table.
+Cover the cup with another 1x1 round button. Put a top hat on top. Put on the same table.
+Put the manikins (a girl in the wedding gown and a man in suit) on the two front tables.
+Bag 20. Install the windows.
+Put two large windows vertically on top of the corniced line in column 10.
+Put the other two windows horizontally on top of the corniced line in row 10.all the windows should, of
+course, be turned smooth side out and dented side in.
+Make the door by inserting the “glass” in the frame and putting the 1x1 round button for the handle. Install
+the door vertically (meaning “on the column”!) on the right side at the back, connecting the two parts of
+the wall.
+Bag 21. Start building the arched roof over the door and build the 6th story.
+Put three 4x1 flat pieces on top of the windows on the right. Do the same with the front windows.
+Put a 2x1 piece vertically on the left wall next to the windows.
+Put a 6x1 piece horizontally on the back wall next to it.
+Put two more 6x1 pieces on the back wall.
+Put a 5x1 half-arch piece in the corner button of the back wall, continuing as it were its horizontal line.
+Pit an 8x1 piece over the door.
+Put a 3x1 piece horizontally next to it.
+Put the other half-arch piece in the corner button, vertically and facing backward, perpendicularly to the
+first.
+Put an 8x1 piece vertically next to it in the right wall.
+Put a 6x1 piece next to it.
+Put a 2x1 piece horizontally next to it on the front wall.
+Bag 22. Start the 7th story.
+Put a 1x1 piece on top of the vertical window, on the first button (closest to you). Leave the rest of the
+window top free.
+Put a 4x1 piece vertically on the left wall (and the last button of the window top).
+Put two 8x1 pieces on the back wall.
+Put a 1x1 corner piece next to the second 8x1 piece, the same way as the other stories.
+Put a 2x2 lip piece vertically on top of the door next to it, lip facing left.
+Put a 4x1 piece vertically next to it on top of the door.
+Put a 4x1 piece horizontally next to it.
+Put a 6x1 piece vertically next to it on the right wall.
+Put an 8x1 piece next to it.
+Put a 4x1 piece horizontally next to it on the front wall.
+Put a 1x1 piece on the leftmost button on top of the front window.
+Bag 23. Make the awnings.
+Move your structure aside. Put z 10x2 piece on top of the two 3x1 pieces. The pieces should be under the
+first row of the horizontally placed 10x1 piece, on the opposite sides (leaving the 4 spaces in the middle of
+its underbelly free.)
+Put two 3x2 plus 2x2 zigzag pieces on top of the 10x2 piece, leaving one last (edge) column on each side
+free, “feet” facing you.
+Put two 6-4-2 trapeze pieces on these feet, horizontally, next to each other, the shortest side facing you.
+Put two 1-button sector piece (awning piece) on each trapeze, connecting them so that they form a
+segment (an awning) each.
+Repeat steps 1-4 to make another two-awning part.
+Install them over the windows, in the spaces left free in the previous steps.
+Bag 24. Start the 8th story and the lighting fixture over the door.
+Put a 1x1 flat corner piece over the vertical window, on the buttons nearest you. Do the same for the
+leftmost buttons of the front window.
+Put a 1x1 flat corner piece on the other side of each window.
+Put a 2x1 flat piece next to each flat corner piece.
+Put a 6x1 piece on the left side of the back wall.
+Put another such piece next to it.
+Put an 8x1 piece next to it.
+Put a 4x2 flat piece on your working surface vertically. Put a 2x1 flat piece on the right column in the first
+two buttons. Put a 2x1 piece on the two remaining buttons in the back of the same column. Put the part
+thus made vertically on top of the door, with the free column facing left.
+Put a 4x1 piece vertically next to it.
+Put a 2x1 piece horizontally next to it.
+Put a 1x1 corner piece next to it, facing back and to the left.
+Put a 6x1 piece vertically next to it on the right wall.
+Put an 8x1 piece next to it.
+Bag 25. Make the four semicircle end-pieces for the both sides of the windows.
+Connect eight 1x1 cornice pieces to make one column. The way to do it is to put one piece on its back,
+with the cornice facing upwards and to the left, and then to put another one the same way to the left of it
+and join them by squeezing. Repeat six more time.
+Make another such column. Put them side by side.
+Connect them with 16 hammer pieces (8 on each side) so that the two rows of 8 buttons each are formed
+in the middle.
+Cover this space with eight 2x1 flat pieces.
+Put seven 2x1 flat smooth pieces on top, except the third 2x1 space from the right. Put a 1 dot 2x1 flat
+smooth piece there.
+Make a lamp by connecting a cylinder longwise to the 1x1 cornice piece, inserting the wide hole into the
+corniced side, and putting a tiny wedge piece into the small hole on the other end of the cylinder. Put the
+lamp into the button in the third row, facing right.
+Make three more such end-pieces. Install them vertically on the base to the left and to the right of the
+windows on the 2x1 buttons built in the floor.
+Bag 26. Connect the end-pieces with the windows and build the lighting fixture over the door.
+Put three 6x1 flat pieces on top of each end-piece and window to connect and cover them.
+Cover the inner rows behind these pieces with two long and one short (in the middle) smooth flat pieces.
+Do the same on the other window.
+Make a lighting fixture by putting a one-button 2x2 flat smooth piece on the four buttons of the 2x2 and
+2x1 angle piece. Then put a spout piece on the single button. Put a one-button saucer piece on the other
+end of the spout. Put a cylinder on the other side of the saucer. Install the fixture in the 2x1 space left on
+top of the door, facing right (outside the shop).
+Grand Emporium book 2
+Bag 1.
+Put a 12x2 flat piece horizontally in front of you.
+Put the first row of a 12x4 flat piece turned vertically onto the last four buttons of the back row on the right
+side of the 12x2 piece.
+Bag 2.
+Put a 12x4 piece on the last four buttons of the front row so that the two 12x4 pieces form a continuous
+24x4 platform.
+Put a 6x1 flat piece on the right side of the back row of the 12x2 piece.
+Put a 12x2 flat piece horizontally in the table next to the first 12x2 so that their short ends touch.
+Put an 8x2 flat piece next to the 6x1 flat piece to connect the two 12x2 pieces.
+Bag 3.
+Put a 12x4 flat piece vertically in front of you to the left of the front 12x4 piece, with its last row on the
+front row of the right 12x2 flat piece.
+Put a 12x6 flat piece vertically to the left of the last piece the same way.
+Put a 6x6 flat piece to the left of the last piece the same way.
+Put a 12x6 piece vertically at the back, touching the last piece, with the first row of buttons on the last
+remaining 6 buttons of the 12x2 piece.
+Bag 4.
+Flip the whole structure upside so that the large platform is at the back and the two 12x6 pieces with the
+gap between them are facing you. The corner gap should be in the left back corner.
+All the other pieces you are going to install in this step should be also flipped upside down, of course. Put
+a 10x1 flat piece horizontally on the left front side so that the right four buttons remain free.
+Put another 10x1 flat piece vertically on the first column on the left side of the left 12x6 piece.
+Put another 10x1 flat piece vertically on the first column on the right side of the left 12x6 piece.
+Put a 3x1 flat piece vertically on the first column on the left, touching the 12x2 flat piece.
+Put a 4x1 flat piece vertically touching the short upper side of the last piece to continue the frame. The
+last two buttons of the 4x1 flat piece should remain free.
+Put a 10x2 flat piece vertically on the 6th column from the left at the back, its front short side touching the
+back long side of the 12x2 piece. Its six back left-side buttons should remain free.
+Put an 8x2 flat piece horizontally in the middle of the wide platform so that its short left side touches the
+center of the right long side of the 10x2 piece.
+Put the other 8x2 flat piece to the right of the first to continue the line.
+Put the next three 10x1 flat pieces almost symmetrically to the first three (in steps 2-4), on the right side –
+one horizontally in front, with six left buttons free, and two vertically at both edges of the 12x4 right-side
+part.
+Put another 10x1 flat piece vertically at the back of the right side edge.
+Put another 10x1 flat piece horizontally at the right side on the back row.
+Put the remaining 10x2 flat piece to the left of the last piece to continue the line. Flip the structure the
+right side up so that the gap in at the back.
+Bag 5.
+Put a 4x1 flat piece on the table between the two 10x1 pieces to close the gap.
+Put a 6x1 flat piece on the left side of the back row and an 8x1 flat piece to the right.
+Put a larger pizza slice piece on top of a smaller one and put them in the left front corner, with the curved
+side to the left front.
+Bag 6.
+Put a 2x2 corner piece on the left back side in the shape of the braille H letter.
+Put an 8x1 piece horizontally at the left side of the back row, nesting in the corner piece.
+Put another 8x1 piece horizontally to the right of the first one at the back row.
+Put a 6x1 piece horizontally to the right of the last piece.
+Put a 3x1 piece vertically at the back of the right side touching the last piece.
+Put a 6x1 piece vertically at the right side to continue the wall.
+Put an 8x1 piece to continue the right wall.
+Put a 6x1 piece to continue.
+Put a 2x2 corner piece at the front right side to nestle the last piece, in the shape of the braille letter H.
+Bag 7.
+Build the left and the front walls using the pairs of 2x1 ridged and 2x2 pieces intermittently. Start at the
+back of the left wall. Put two ridged pieces side by side so that their vertical ridges sort of zip together. Put
+them at the back left side next to the corner piece so that the horizontal ridge faces left.
+Put a 2x2 piece on the left edge next to it.
+Do the ridged pieces as before.
+Put a 2x2 as before.
+Repeat with two more ridged and two more 2x2 pieces. (Four of each type altogether).
+Do the save on the front wall starting with the ridged pieces on the right, with horizontal ridges facing you.
+Put a 1x1 piece on the second row next to and to the left of the last piece of the front wall.
+Put another 1x1 piece on the second column to the front of the last piece (nearest to you) of the left wall.
+Connect the two 1x1 pieces by a curved piece.
+Bag 8.
+Continue building the walls. Start with the left wall. Put a 1x1 flat piece at the back of the left wall, on top
+of the corner piece.
+Put a 10x1 flat piece on the left wall next to it.
+Put a 6x1 flat piece on the left wall next to it.
+Put a 2x2 flat corner piece on the left wall next to it, partly on the 2x2 piece and partly on 1x1 piece next 
+to the curved piece, in the shape of the braille letter D.
+Put another 2x2 flat corner piece on the other side of the curved piece in the same manner, again in the
+shape of D.
+Put a 6x1 flat piece on the front wall next to it.
+Put a 10x1 flat piece on the front wall next to it.
+Put a 1x1 flat piece next to it. It should be in the right front corner.
+Start building the guardrails around the gap in the center. Put a 6x1 flat piece on the front edge of the
+gap, to the left, with the one button on the left going on the left-side edge of the gap.
+Put a 10x1 flat piece to the right of it on the front edge so that the last button on the right goes on to the
+right edge of the gap.
+Put a 6x1 flat piece on the left edge of the gap touching the 6x1 flat piece in front of the gap.
+Put another 6x1 flat piece on the right edge in the same manner, symmetrically to the left one.
+Bag 9.
+Continue building the guardrail using the transparent pieces from a separate pocket (with less pieces).
+Start with the 1x1 piece on the back of the left edge of the gap.
+Put two 2x1 transparent pieces on the left edge next to it.
+Put a regular 2x1 piece next to it.
+Put two 2x1 transparent pieces on the left side of the front edge next to it.
+Put a 1x1 piece next to it.
+Put two transparent 2x1 pieces next to it.
+Put a 1x1 next to it.
+Put two 2x1 transparent pieces next to it.
+Put a regular 2x1 piece vertically on the right edge next to it.
+Put two 2x1 transparent pieces on the right edge next to it.
+Put a 1x1 next to it.
+Make two café tables. Put two trapezes long side by long side to form a hexagon and put a flat 2x2 circle
+underneath them to hold them together.
+Put a 2x2 cylinder on top of the hexagon, in the middle.
+Put a 4x2 flat piece on top of the cylinder, perpendicularly to the seam in the hexagon.
+Do the second table the same way.
+Install the tables in the middle of the floor, one to the right and one to the left, with the space of 4 buttons 
+between them and the tables turned horizontally.
+Bag 10.
+Build the second row of the back wall. Put a 3x1 piece horizontally on the right side of the back wall.
+Put an 8x1 piece to the left of it.
+Put a 6x1 piece to the left of it.
+Put a 6x1 piece to the left of it. The last button on the left should remain free.
+Build the right wall. Put a 6x1 piece vertically on the back side of the right wall.
+Put an 8x1 piece next to it.
+Put an 8x1 piece next to it. The first button on the right should remain free.
+Build the inner side of the left wall. For the 6x1 pieces use the ones in the separate bag. Put a 10x1
+piece vertically on the back side of the left wall, on the inner side.
+Put a 6x1 piece next to it.
+Prepare the next piece by putting a 2x1 smooth flat piece with one button on it on top of the 2x1 flat piece.
+Put this part next to the one in the previous step.
+Put a three-button curved piece next to it.
+Prepare another piece as in step 10 and put it horizontally next to the curved piece to start building the
+next row of the inner side of the front wall.
+Put a 6x1 piece next to it.
+Put a 10x1 piece next to it.
+Bag 11.
+Build the outer sides of the left and front walls. Put an 8x1 flat piece with a lip vertically on the back side
+of the left wall.
+Put a 2x1 flat piece with a lip next to it.
+Put an 8x1 flat piece with a lip next to it.
+Put two columns next to it.
+Put a curved colonnade next to it.
+Put the other two columns next to it, horizontally. Put an 8x1 flat piece with a lip horizontally next to them,
+on the front wall.
+Put a 2x1 flat piece with a lip next to it.
+Put an 8x1 flat piece with a lip next to it.
+Bag 12.
+Cover both pairs of columns with the 2x1 flat smooth pieces.
+Cover the railings with the flat smooth pieces. Put a 6x1 flat smooth piece vertically on top of the left-side
+railing, leaving the first button (nearest you) free.
+Put a 2x1 flat smooth piece horizontally next to it, on the left side of the front railing.
+Put a 6x1 piece next to it.
+Put a 6x1 piece next to it.
+Put a 2x1 piece next to it.
+Put a 6x1 piece vertically next to it, on the right-side railing.
+Build the third row of the back and the right walls. Put an 8x1 piece horizontally on the left side of the
+back wall, leaving the outer side button free.
+Put an 8x1 piece next to it.
+Put a 6x1 piece next to it.
+Put a 2x1 piece vertically next to it on the right wall.
+Leave the next four buttons of the right wall free. Put a 3x1 piece next to the gap.
+Put an 8x1 piece next to it.
+Put a 6x1 piece next to it.
+Bag 13.
+Build the outer sides of the left and front walls. Put a 2x1 flat piece on the back side of the left wall.
+Put a 2x1 flat smooth piece next to it.
+Put a 2x1 flat piece with the hinge next to it. Attention! Put it on horizontally, with the hinge protruding to
+the left.
+Put a 1x1 flat piece next to it.
+Put a 2x1 flat smooth piece next to it.
+Put a 2x2 flat piece next to it.
+Put a 2x1 flat smooth piece next to it.
+Put a 2x1 flat piece next to it.
+Put a 2x1 flat smooth piece next to it.
+Put a 2x1 hinge piece next to it as before.
+Put a 1x1 flat piece next to it. It should be next to the 2x1 flat smooth piece covering the columns.
+Build the outer side of the front wall the same way. Put a 1x1 flat piece on the left side of the front wall
+next to the other 2x1 flat smooth piece covering the other pair of columns.
+Put a hinge piece next to it, vertically, with the hinge facing you.
+Put a 2x1 flat smooth piece next to it, horizontally.
+Put a 2x1 flat piece next to it.
+Put a 2x1 flat smooth piece next to it.
+Put a 2x1 flat piece next to it.
+Put a 2x1 flat smooth piece next to it.
+Put a 1x1 flat piece next to it.
+Put a hinge next to it, as before.
+Put a 2x1 flat smooth piece next to it.
+Put a 2x1 flat piece next to it.
+Bag 14.
+Put the plates and glasses on the tables.
+Build the fourth row of the back wall. Put a 6x1 piece horizontally on the left side of the back wall, aligning
+it with the piece underneath it.
+Put a 6x1 piece next to it.
+Put an 8x1 piece next to it.
+Put a 3x1 piece next to it.
+Put a 1x1 piece next to it, on the back side of the right wall.
+Skip the next four buttons of the right wall free, as before. Put a 1x1 piece next to the gap.
+Put an 8x1 piece next to it.
+Put an 8x1 piece next to it.
+Bag 15.
+Build the fifth row of the back and right walls. Install the window and the glass in the gap in the right wall.
+Put a 2x1 piece vertically behind it, on the back of the right wall.
+Put a 3x1 piece in front of the window on the right wall.
+Put an 8x1 next to it.
+Put a 6x1 next to it.
+Put an 8x1 piece on the left side of the back wall.
+Put another 8x1 next to it.
+Put a 1x1 next to it.
+Put a 3x1 raised curved piece next to it so that it occupies one button and faces you.
+Put the other curved piece next to it the same way.
+Put a 3x1 piece next to it.
+Bag 16.
+Make the columns for the left and front walls. Make ten columns consisting of three curved 3x1 pieces
+each.
+Install them on the two-button spaces provided in previous steps, on the outer sides of the left and front
+walls.
+Bag 17.
+Cover the back and right walls. Put a 2x2 flat corner piece on the back side of the left wall and the left
+side of the back wall.
+Put another 2x2 flat corner piece on the back side of the right wall and the right side of the back wall.
+Put ten 2x1 flat pieces on the back wall.
+Put ten 2x1 flat pieces on the right wall.
+Put eight 2x1 flat pieces on tops of the columns.
+Bag 18.
+Build the seventh row of the back and right walls. Put a 3x1 piece on the right side of the back wall.
+Put a 6x1 next to it.
+Put an 8x1 next to it.
+Put a 6x1 next to it.
+Put a 3x1 vertically on the back of the right wall.
+Put a 6x1 next to it on the right wall.
+Put a 6x1 next to it.
+Put a 6x1 next to it.
+Put a 3x1 next to it.
+Put a 4x2 flat piece on the four buttons of the curved raised pieces in the back wall, like a spring board,
+vertically.
+Bag 19.
+Build the next row (I lost count) of the back and right walls. Put a 6x1 piece on the left side of the back
+wall.
+Put a 6x1 piece next to it.
+Put a 6x1 piece next to it.
+Put a 1x1 next to it.
+Put a 2x2 corner piece next to it, in the shape of the braille letter F, so that the protruding button is on the
+right-side button of the spring board.
+Put a 3x1 piece next to it on the back wall.
+Put a 3x1 piece vertically next to it on the back side of the right wall.
+Put an 8x1 piece next to it.
+Put a 6x1 piece next to it.
+Put a 6x1 piece next to it.
+Bag 20.
+Build two tall columns. Put three 1x1 pieces on top of each other.
+Put a 1x1 flat piece from a separate pocket on top.
+Put two 1x1 flat pieces on top.
+Put a 1x1 on top.
+Repeat steps 1-4 to make the other tall column.
+Install the columns on the inner sides of the front, behind the first short columns at both sides of the
+curve, on the buttons of the 2x1 flat single button pieces.
+Bag 21.
+Make nineteen windows by putting the smaller frame on top of the larger and inserting the glass.
+Put the windows on the inner row of the left and front walls, with three windows on the curve, separated
+from the rest by the tall columns.
+Lego grand emporium set 2 part 4
+Bag 22
+1. Cover the windows. Put a 6x1 flat piece vertically on the back side of the left wall.
+2. Put a 10x1 flat piece next to it.
+3. Put a 2x1 flat piece with one button on top next to it.
+4. Put a 1x1 flat smooth piece next to it.
+5. Put a 2x1 flat piece with one button on top next to it diagonally.
+6. Put a 1x1 flat smooth piece next to it on the left side of the front wall.
+7. Put a 2x1 flat piece with one button on top next to it horizontally.
+8. Put a 10x1 flat piece next to it.
+9. Put a 6x1 next to it.
+Bag 23.
+1. Put the arches on the shorter columns, starting with the back side of the left wall and on the right
+side of the front wall.
+2. Put 2x1 arched pieces on the front ends on both sides of the curve, facing toward each other.
+3. Put two 1x1 pieces in the gaps in the 2x1 arched pieces.
+Bag 24.
+1. Build the next row of the inner sides of the left and front walls. Put a 6x1 flat piece on the back
+side of the left wall.
+2. Put a 6x1 next to it.
+3. Put a 6x1 next to it.
+4. Do the same on the front wall starting with the right side.
+5. Build the next row of the back and right walls. Put a 1x1 flat piece on the left side of the back wall.
+6. Put an 8x1 next to it horizontally on the back wall.
+7. Put a 6x1 next to it.
+8. Put a 6x1 next to it.
+9. Put a 6x1 next to it vertically on the right wall.
+10. Put an 8x1 next to it.
+11. Put an 8x1 next to it.
+Bag 25.
+1. Build the outer sides of the left and front walls. Put an 8x1 lipped piece on the back side of the left
+wall.
+2. Put a 2x1 lipped piece next to it.
+3. Put an 8x1 lipped piece next to it.
+4. Put a pizza piece next to it.
+5. Put an 8x1 lipped piece next to it horizontally on the front wall.
+6. Put a 2x1 lipped piece next to it.
+7. Put an 8x1 lipped piece next to it.
+8. Put a 3x1 on the vertically on the springing board on the left side, in front of 1x1.
+Bag 26.
+1. Build the escalator. Put a 4x4 flat piece on top of the 12x2 flat piece, on the right side, on the
+middle two rows of the 4x4 underside.
+2. Put a 10x2 flat piece on top of the 12x2 piece, to the left of the 4x4 piece.
+3. Put a 2x1 flat hinge piece horizontally on the left side of the back row, facing left.
+4. Put a 1x1 flat piece to the right of it.
+5. Put another hinge piece on the left side of the front wall the same way.
+6. Put a 1x1 flat piece to the right of it.
+7. Put the seven grates and seven raised pieces vertically alternately on the base, starting with the
+grate on the left. The raised side of the raised pieces faces left.
+8. Put one 3x1 flat piece on top of another and put the part on the back hinge, horizontally.
+9. Repeat on the front hinge.
+10.Put one 10x1 on the back and one on the front.
+11.Put one cut-off 2x1 on the back, with the cut-off corner facing right, and in front.
+Bag 26 A
+1. Put a 4x1 flat piece vertically on the table. Put a 2x2 flat corner piece to the right of it, in the
+back, in the shape of the braille letter H.
+2. Put another 2x2 flat corner piece to the front of the first one in the shape of the braille letter F.
+3. Put a 2x1 flat smooth piece on the two-button right tip of your part.
+4. Put a 2x2 flat piece to the left on it, on the middle section of your part.
+5. Put one 1x1 flat piece on top of another and both of them on top of the 1x1 flat piece with the
+arm.
+6. Put this part at the back of your part, on the right, with the arm facing right.
+7. Make another such part and put it in the front, the same way.
+8. Put a hammer piece on the left in the back, to lock the arm part.
+9. Do the same in front.
+10. Put one 1x1 smooth flat piece on top of the back hammer and one on top of the front one.
+11. Connect this part to the stair.
+12. Install the escalator in the left side gap in the railing and rest it on the spring board.
+Bag 27.
+1. Make a step for the upper end of the escalator. Put a grate vertically on the left side of the 2x2
+flat piece and a 2x1 flat piece on the right side.
+2. Put the step to connect the upper end of the escalator to the spring board.
+3. Finish the back and right walls. Put four 6x1 flat smooth pieces on the back wall.
+4. Put a 1x1 flat smooth piece next to the last piece on the back side of the right wall.
+5. Put the two longer smooth flat pieces vertically next to it on the right wall.
+6. Put the last 6x1 flat smooth piece next to it, in the front side of the right wall.
+7. Put a 2x1 flat piece on the back side of the left wall, on the inner side, vertically.
+8. Put another 2x1 flat piece on the right side of the front wall, on the inner side, horizontally.
+Bag 28.
+1. Finish the left and front walls. Put a 2x1 flat smooth piece on top on each of the two previous
+pieces.
+2. Put a longer smooth flat piece on the back side of the left wall, on the outer side.
+3. Put a 2x2 flat smooth piece next to it, on the left wall.
+4. Put a shorter flat smooth piece next to it.
+5. Put a 2x2 flat smooth piece next to it, on the left wall.
+6. Put a 2x2 flat smooth piece next to it, on the left wall.
+7. Put a 2x2 flat smooth piece next to it, on the left wall, one row to the right to fit the curve. Its
+left front corner hangs over the curve of the pizza.
+8. Put a 2x2 flat smooth piece next to it, on the front wall, again one row to the right and one row
+to the front.
+9. Put a 2x2 flat smooth piece next to it, on the front wall.
+10. Put a shorter flat smooth piece next to it, on the outer side of the front wall.
+11. Put a 2x2 flat smooth piece next to it, on the front wall.
+12. Put a longer smooth flat piece next to it.
+13. Make the newels for the escalator landing. Put a 1x1 raised smooth piece on top of 1x1 piece.
+Put it on the back side of the landing with the raised side facing left.
+14. Do the same for the front side of the landing.
+Bag 29.
+1. Make the flags. Insert a shorter side of a stick into the flag holder. Put two flags on the other
+side of the stick, one from each bag.
+2. Make three more flags.
+3. Install the flags in the hinges on the bottom of the columns, two on the left wall and two on
+the front.
+4. Put the second story of the structure on top of the first.
+Grand Emporium book 3 1-14
+Bag 1.
+1. Put a 12x2 flat piece horizontally in front of you on the table.
+2. Put a 1x4 flat piece vertically on the second row of the 12x2 piece on the right so that it
+occupies just four buttons of its button and goes all the way to the back.
+Bag 2.
+1. Put another 12x4 flat piece vertically on the first row of the 12x2 piece, to the right, so that it
+forms a continuous 24x4 surface together with the first 12x4 piece.
+2. Put a 6x1 flat piece horizontally on the second row of the 12x2 piece starting from the right
+and touching the first 14x4 piece.
+3. Put another 12x2 flat piece horizontally on the table to the left of the first one to form a
+continuous 24x2 surface.
+4. Connect them with an 8x1 flat piece on the back row starting on the right and touching the 6x1
+piece.
+Bag 3.
+1. Put a 12x4 flat piece vertically on the first row of the first 12x2 piece, on the right, next to the
+second 12x4 piece.
+2. Put a 12x6 piece to the left of the previous piece, as before.
+3. Put a 12x4 piece to the left of it, as before.
+4. Put a 6x6 piece to the left of it, as before.
+5. Put a 12x6 on the second row on the left side.
+Bag 4.
+1. Flip the whole structure upside down so that the large gap is facing you and the cut-off corner
+is in the back and on the left.
+2. Put a 10x1 flat piece horizontally on the front right side so that six of its buttons hang over to
+the left, into the gap.
+3. Put a 10x1 flat piece horizontally on the front left side so that six of its buttons hang over to the
+right into the gap.
+4. Put a 10x2 flat piece vertically on the right side in front, between the 10x1 horizontal piece and
+12x2 horizontal piece.
+5. Put a 10x1 flat piece as before , on the left side of the same 12x4 piece.
+6. Put a 10x1 flat piece vertically on the right side of the 12x6 piece.
+7. Put a 10x1 flat piece vertically on the left side of the 12x6 piece.
+8. Put a 10x1 flat piece vertically on the back of the right side.
+9. Put two 10x1 flat pieces horizontally on the back side.
+10.Put a 3x1 flat piece vertically on the back of the left side, touching the horizontal 12x2 piece.
+11.Put a 4x1 flat piece vertically next to it, so that two of its buttons hang over to the back.
+12.Put a 10x2 flat piece vertically on the back so that it holds together the 12x4 and the 6x6
+pieces of the cut-off corner and the last six buttons on its left remain free.
+13.Put the two 8x2 flay pieces horizontally in the middle of the large area at the back so that they
+hold it together.
+Bag 5.
+1. Flip the whole structure over the right side up. Orient it as in the first and second books.
+2. Put a 4x1 flat piece in the gap on the back.
+3. Connect it on the left with a 6x1flat piece.
+4. Connect it on the right with an 8x1 piece.
+5. Put a larger pizza piece on the smaller and put them in the front left corner to finish the base.
+Bag 6.
+1. Start building the back and right walls. Put a 3x1 piece vertically in the back of the right wall.
+2. Put a 6x1 piece vertically next to it on the right wall.
+3. Put an 8x1 piece next to it.
+4. Put a 6x1 piece next to it.
+5. Put a 2x2 corner piece next to it in the shape of the braille letter H.
+6. Put a 6x1 piece horizontally on the right side of the back wall.
+7. Put an 8x1 piece next to it.
+8. Put an 8x1 piece next to it.
+9. Put a 2x2 corner piece next to it in the shape of the braille letter H.
+Bag 7.
+1. Start building the left and the front walls as in the second floor, alternating the horizontally
+ridged pairs of 2x1 pieces with the 2x2 pieces and finishing with the curved piece between the
+two 1x1 pieces.
+Bag 8.
+1. Cover the left and the front walls. Put a 1x1 flat piece on the back of the left wall.
+2. Put a 10x1 flat piece next to it on the left wall.
+3. Put a 6x1 flat piece next to it.
+4. Put a 2x2 flat corner piece next to it in the shape of the braille letter D.
+5. Put another 2x2 flat corner piece on the other side of the curve, on the front wall, as before.
+6. Put a 6x1 flat piece next to it.
+7. Put a 10x1 flat piece next to it.
+8. Put a 1x1 flat piece next to it.
+9. Put a 10x1 flat piece vertically on the left side of the gap.
+10.Put a 6x1 flat piece horizontally on the left side of the front of the gap.
+11.Put a 10x1 flat piece to the right of it.
+12.Put a 6x1 flat piece vertically on the right side of the gap, in front, leaving the four vertical
+buttons on the back of the right edge of the gap free.
+Bag 9.
+1. Build the second story of the back and right walls. Put a 6x1 piece horizontally on the left side
+of the back wall, leaving the 1x1 flat piece free.
+2. Put a 6x1 piece next to it.
+3. Put an 8x1 piece next to it.
+4. Put a 3x1 piece next to it.
+5. Put a 6x1 piece vertically on the back side of the right wall.
+6. Put an 8x1 piece next to it.
+7. Put an 8x1 piece next to it.
+8. Put the three round table bases evenly in the middle of the floor and cover the left and the
+right bases with the hexagons made of two trapezes. Leave the center base free.
+Bag 10.
+1. Build the inner sides of the left and front walls. Put a 10x1 piece vertically on the back of the
+left wall.
+2. Put a 6x1 next to it.
+3. Put a 2x1 one-button piece on top of the 2x1 flat piece and put this part next to the previous
+piece.
+4. Put a curved piece next to it.
+5. Put another part as in step 3 next to it horizontally on the front wall.
+6. Put a 6x1 next to it.
+7. Put a 10x1 next to it.
+Bag 11.
+1. Put the railing around the gap. Put a 1x1 piece on the back of the left edge of the gap.
+2. Put four 2x1 transparent pieces next to it vertically.
+3. Put a 2x1 next to it.
+4. Put two transparent 2x1 pieces horizontally next to it.
+5. Put 1x1 next to it. Put two transparent pieces next to it.
+6. Put a 1x1 next to it.
+7. Put two transparent 2x1 pieces next to it.
+8. Put a 1x1 next to it. Put a 2x1 vertically on the right edge next to it.
+9. Put two transparent 2x1 pieces next to it.
+10.Put a 1x1 next to it.
+11.Put the two cylinders in the centers of the two hexagons.
+Bag 12.
+1. Cover the outer sides of the left and front walls. Put an 8x1 flat lipped piece on the back of the
+left side.
+2. Put a 2x1 lipped piece next to it.
+3. Put an 8x1 lipped piece next to it.
+4. Put two columns next to it.
+5. Put a colonnade next to it.
+6. Put two columns next to it.
+7. Put an 8x1 lipped piece next to it.
+8. Put a 2x1 lipped piece next to it.
+9. Put an 8x1 lipped next to it.
+Bag 13.
+1. Make a box for the center round base. Put the four corner pieces on the four corners of the
+4x2 flat piece, all facing inside.
+2. Put the two bench pieces to complete the box.
+3. Put the box vertically in the middle of the center base. (Not in the upright position, but
+longwise, in the same sense of the “vertical” as always!)
+Bag 14.
+1. Make an outside border pattern. Put the two 2x1 flat smooth pieces from a separate bag at
+both sides of the curved colonnade.
+2. Put two 2x1 flat pieces at both sides of the pieces in the previous step.
+3. Put two 2x1 flat smooth pieces at both sides of the pieces in the previous step.
+4. Continue alternating the smooth and buttoned pieces to finish the outside border.
+Bag 15.
+1. Make a car. Put two 1x1 flat pieces with the handles side by side so that the handles face in
+the opposite directions.
+2. Connect them by putting a 2x1 flat piece on top.
+3. Put a 1x1 corner piece on the left side so that the upright wall faces left.
+4. Put a 1x1 flat piece with a handle on the upright side of the previous piece, its handle facing
+up.
+5. Put the handle bar in this handle.
+6. Put the wheels in the other two handles.
+7. Put the car on the left table (I don't know why!)
+8. Continue building the right wall. Skipping the first button on the right of the front wall (the
+outside border) put a 6x1 piece on the right wall.
+9. Put an 8x1 piece next to it.
+10.Put a 3x1 next to it.
+11.Continue building the back wall. Skipping the first button on the left of the back wall (the
+outside border) put an 8x1 on the back wall.
+12.Put another 8x1 next to it.
+13.Put a 6x1 next to it.
+14.Put a 2x1 vertically next to it. The 4 buttons on the right remain free.
+Bag 16.
+1. Make a doll house. Put a 1x1 piece from the separate bag on the right back button of the 2x2
+flat piece.
+2. Put a 1x1 lipped piece on the left back button of the 2x2 flat piece.
+3. Put one round button on top of the other and put them on the right front button of the 2x2 flat
+piece.
+4. Put the two 1x1 smooth slanted pieces on the back to make a roof. Put the doll house on the
+left table.
+5. Continue building the right wall. Put two 8x1 pieces on the wall starting in front.
+6. Put a 1x1 next to the second 8x1 piece (next to the gap).
+7. Continue building the back wall. Put two 6x2 pieces starting from left.
+8. Put an 8x1 next to them.
+9. Put a 3x1 next to it.
+10.Put a 1x1 on the back of the right wall next to it.
+Bag 17.
+1. Put a glass in the window and the window un the gap in the right wall.
+2. Put two balls in the box in the middle of the floor.
+3. Continue the right wall. Put a 6x1 piece on it starting in front.
+4. Put an 8x1 next to it.
+5. Put a 3x1 next to it (and the window).
+6. Continue the back wall. Put an 8x1 on it starting on the left.
+7. Put another 8x1 next to it.
+8. Put a 6x1 next to it.
+9. Put a 2x1 vertically next to it (and the window).
+Bag 18.
+1. Make ten columns by putting three 2x1 curved pieces on top of each other.
+2. Put them on the prepared spaces at the outer left and front walls.
+Bag 19
+1. Put the three corner pieces in the three corner of the structure.
+2. Put the 2x1 flat pieces on the back and right walls and on the columns.
+Bag 20
+1. Put pieces on the back wall starting from left in following order: 3x1, 6x1, 8x1 and 6x1. The
+rightmost button remains unoccupied.
+2. Put pieces on the right wall starting from the back in the following order: 3x1, 6x1, 6x1, 6x1,
+3x1.
+Bag 21
+1. Put pieces on the back wall starting from left in following order: 6x1, 6x1, skip a button, 8x1, 
+3x1.
+2. Put pieces on the right wall starting from the back in the following order: 3x1, 8x1, 6x1, 6x1.
+Bag 22
+1. Start building a candelabrum. Put a 2x2 cylinder on top of the 2x2 octagon (that's 8 sides,
+right?) wheel on top of the 2x2 flat circular piece.
+2. Put a cupola on top of the cylinder and cork it with the jewel piece. Put aside.
+3. Make the glass hangings. Put three 2x1 flat pieces from the separate bag together as a
+stepladder - put the first piece horizontally in front of you; put the second horizontally on the
+right button of the first one. Put a tiny clasp (from a separate bag) horizontally on the left
+button of the bottom piece. Put the third 2x1 flat piece horizontally on the right button of the
+second piece. Make seven such parts. Install them on the seven sides of the wheel by fixing
+the clasps onto the bars of the wheel.
+4. Make a fixture to hold the candelabrum. Put a stick horizontally in front of you with the wide
+ring on the right. Put a 1x1 lipped piece from the separate bag with its lip on the ring of the
+stick. Put a tiny clasp horizontally on top of the lipped piece. put a 1x1 piece with the button on
+its side on the opposite end of the stick, attaching it by its side button.
+5. Turn the stick upside down and attach to the eighth side of the wheel by the clasp.
+6. Turn the whole candelabrum upside down and install in in the middle of the back wall, in the
+one-button gap, by putting the 1x1 piece on the opposite side of the stick into the gap.
+Bag 23
+1. Make the pair of taller square columns for the entrance. Put three 1x1 pieces on top of each
+other.
+2. Put a 1x1 flat piece from a separate bag on top.
+3. Put two 1x1 flat pieces on top.
+4. Put 1x1 piece on top.
+5. Repeat the whole thing to make the second column.
+6. Install the columns to the right and to the left of the three-buttoned curve at the entrance.
+Bag 24
+1. Make 19 windows by inserting the glass and putting the smaller frame on top of the larger.
+2. Install the windows all along the second row of the left and front walls, with three on the curve.
+Bag 25
+1. Cover the windows. Put a 6x1 flat piece vertically, starting on the back, on the left window line.
+Put a 10x1 flat piece next to it.
+2. Put a 6x1 flat piece horizontally, starting from the right, on the front window line. Put a 10x1
+flat piece next to it.
+3. Put a 2x1 one-button flat piece next to it - partly on top of the square column, partly on top of
+the window.
+4. Put a 1x1 flat smooth piece on the left button of the same window.
+5. Put a 2x1 one button piece on the window standing diagonally.
+6. Put a 1x1 flat smooth piece on the front button of the first vertical window on the left wall.
+7. Put a 2x1 one-button piece vertically next to it, partly on the window and partly on the square
+column.
+Bag 26
+1. Cover the shorter columns with the arches.
+2. Make the beginning of the wide arch at the entrance. Put a 1x1 piece in the gap in the 3x1
+arch piece. Repeat.
+3. Install the at the opposite sides of the entrance facing each other.
+Bag 27
+1. Put flat pieces on the right wall starting from the back in the following order: 6x1, 8x1, 8x1.
+2. Put flat pieces on the front wall starting from the right in the following order: 6x1, 6x1, 6x1.
+3. Put flat pieces on the inner row of the left wall starting from the back in the following order:
+6x1, 6x1, 6x1.
+4. Put flat pieces on the back wall starting from the left in the following order: 1x1, 8x1, 6x1, 6x1.
+Bag 28
+1. Put a pizza piece over the two arch-ends.
+2. Put the flat lipped pieces on the outer side of the left wall starting from the back in the 
+following order: 8x1, 2x1, 8x1.
+3. Do the same on the front wall.
+Bag 29
+1. Put four 6x1 flat smooth pieces on the back wall.
+2. Put the smooth flat pieces on the right wall starting from the back in the following order: 1x1,
+8x1, 8x1, 6x1.
+3. Put a 2x1 flat piece vertically on the back of the inner side of the left wall.
+4. Put a 2x1 flat piece horizontally on the right of the inner side of the front wall.
+Bag 30
+1. Cover the two previous pieces with the 2x1 flat smooth pieces.
+2. Put an 8x1 flat smooth piece vertically on the back of the outer side of the left wall.
+3. Put a 2x2 flat smooth piece next to it.
+4. Put a 6x1 flat smooth piece next to it, on the outer side.
+5. Put a 2x2 flat smooth piece next to it.
+6. Put a 2x2 flat smooth piece next to it.
+7. Put a 2x2 flat smooth piece next to it, on top of pizza, halfway back.
+8. Put the two 2x2 flat smooth pieces horizontally next to it and halfway forward.
+9. Put a 6x1 flat smooth piece horizontally next to them, on the outer side of the front wall.
+10. Put a 2x2 flat smooth piece next to it.
+11.Put an 8x1 flat smooth piece next to it.
+End of book 3.
+Grand Emporium - book 4. Build the roof
+Bag 1
+1. Build the base. Put a 12x2 flat piece horizontally in front of you.
+2. Put a 12x4 flat piece vertically on the last four buttons of the 12x2 piece at the back row on
+the right.
+3. Put another 12x4 flat piece vertically on the last four buttons of the 12x2 piece at the front row
+on the right. The two 12x4 pieces form a 24x4 platform going both ways from the 12x2 piece.
+4. Put another 12x2 flat piece horizontally to the left of the first 12x2 piece so that their short
+sides touch.
+5. Put a 12x4 flat piece vertically to the left of the second 12x4 piece, on the front row of the first
+12x2 piece.
+6. Put a 12x6 flat piece next to it, connecting the two 12x2 horizontal pieces.
+7. Put a 12x4 flat piece next to it.
+8. Put a 6x6 flat piece next to it.
+9. Put a 12x6 to the back of it, vertically, on the last six buttons of the back row on the left.
+Bag 2
+1. Rotate the whole structure so that the gap in the middle is in front of you and flip the structure
+over. The gap is still in front, and the smaller corner gap is in the back and on the left. Put a 10x1
+flat piece horizontally on the back edge starting from the right.
+2. Put a 10x1 flat piece horizontally to the left of it. The left end of it hangs free.
+3. Put a 10x1 flat piece vertically on the right edge starting from the back and touching the first 10x1
+piece.
+4. Put a 10x1 flay piece vertically on the front side of the right edge.
+5. Put a 10x1 flat piece horizontally on the front edge next to it (starting from the right). Its left end
+hangs free.
+6. Put a 10x1 flat piece horizontally on the front edge starting from the left. Its right end hangs free.
+7. Put a 10 x1 flat piece vertically on the left edge next to it, starting from the front.
+8. Put a 3x1 flat piece on the left edge in the back, skipping the two buttons occupied by 12x2 piece
+in bag 1.
+9. Put a 4x1 flat piece vertically next to it. Its back end hangs free.
+10. Put a 10x2 flat piece vertically on the left edge of the gap – only by its left column; the right
+column hangs free.
+11. Put a 10x2 flat piece vertically on the right edge of the gap – only by its right column; the left 
+column hangs free.
+12. Put a 10x2 flat piece vertically in the left corner on the back so that it holds the seam between the
+6x6 and 12x4 pieces; its last four buttons of the left column on the back hang free. It also
+continues the line of the first 10x2 piece, interrupted by the horizontal 12x2 piece from the bag 1.
+13. Put the two 8x2 flat pieces horizontally side by side in the middle of the back platform.
+Bag3
+1. Flip the structure the right side up and rotate so that the large gap in the middle is at the back and
+the corner gap is in front and on the left. Build the border around the gap. Starting from the back
+on the right side of the gap edge, put vertically a 3x1 flat piece; a 2x1 flat piece; a 2x1 lipped flat
+piece; a 2x1 flat piece; a 3x1 flat piece.
+2. Starting from the right on the front gap edge, put horizontally a 4x1 flat smooth piece; an 8x1
+smooth flat piece.
+3. Starting from the front on the left gap edge, put vertically a 3x1 flat piece; a 2x1; a lipped 2x1; 1
+2x1; a 3x1.
+4. Put a 4x1 smooth flat piece horizontally on the right side of the back gap edge. One button on the
+left remains uncovered.
+5. Put a 4x1 flat piece horizontally in the back to feel the space between this uncovered button on
+the right and the three uncovered buttons on the left.
+6. Cover and connect them all by an 8x1 smooth flat piece. Now you have a hole instead of the gap.
+It’s going to be a skylight.
+7. Put a larger pizza piece on top of the smaller one and fill the left front corner.
+8. Make the end-pieces of the skylight. Put a 10x2 flat piece on top of the 12x2 flat piece, in the
+middle – the two buttons on both ends of the 12x2 piece remain uncovered. Put the two 2x1 slide
+pieces on top of the 10x2 piece, their button sides touching in the middle. Install vertically on the
+right edge of the skylight hole. Repeat for the left side.
+9. Now be very careful. When counting rows and columns, count the whole long lines – don’t let the
+missing buttons of the left-side front pizza curve confuse you. Put a 1x1 slide piece horizontally,
+with the slide facing to the right, on the last row in the back, on the second and third columns from
+the left.
+10. Put a 1x1 slide piece horizontally, with the slide facing to the right, on the sixth row from the front,
+on the second and third columns from the left.
+11. Put a curved 2x1 piece vertically on the third and fourth rows from the front, on the second
+column from the left.
+12. Put a curved 2x1 piece horizontally on the second row from the front, on the third and fourth
+columns from the left.
+13. Put a 1x1 slide piece vertically, with the slide facing to the back, on the second and third rows
+from the front, on the sixth column from the left.
+14. Put a 1x1 slide piece horizontally, with the slide facing to the back, on the second and third rows
+from the front, on the first column from the right (on the right edge).
+Bag 4
+1. Rotate the structure so that the skylight hole is on your right and the pizza corner is at the back
+on your left. Put three 4x1 smooth bench pieces on top of the 12x1 window piece with the backs
+of the benches on the vertical/inner/open side of the window (as opposed to the slightly
+diagonal/outer/walled side). Repeat with the other window. Install the windows in the skylight hole
+with their raised sides in the middle and attach them to the base by the backs of the bench
+pieces.
+2. Make a small square opening on the left side in front part of the base by putting together the four
+2x1 slide pieces in the following manner: all of them touch by the corners; all of their slide sides
+are turned outward. Put the first piece on the 7th and 8th columns from left on the 6th and 7th rows
+from the front with its slide side facing toward you.
+3. Put the second piece two columns to the left and two rows to the back, slide side to the left.
+4. Put the third piece two columns to the right and two rows to the back, slide side to the back.
+5. Pit the 4th piece two columns to the right and two rows to the front, slide side facing right. They
+should form a square gap in the middle.
+Bag 5
+1. Put the four 2x1 flat clasp pieces in the four corners of the skylight frame, each at the foot of the 
+long slide piece, clasps facing toward the windows.
+2. Put the 20 cylinders along the (now) left and back edges. Put the first cylinder on the left edge, on
+the second row. Skip a button (third row) and put another cylinder. Keep putting the cylinders in
+the every other row till you have ten cylinders on the left.
+3. Put the cylinder on the back edge on the second column from right and keep putting them on the
+every other button along the back.
+4. Put the gear piece on the faucet piece wide side on.
+5. Put the faucet on the left in the back, in between two 2x1 curved pieces so that the gear piece
+hangs over the curved pizza end.
+6. Put the 22 3x1 arch pieces on the left and back edges between the cylinders and overhanging
+from the sides.
+7. Put 16x2 flat piece on top of the skylight to connect the two window parts.
+8. Put the four 2x1 flat smooth pieces horizontally on the corners of the skylight, each on the two
+(out of four) buttons closest to the window.
+9. Put the 20 2x1 tipped pieces on the 20 cylinders, tips facing outwards.
+Bag 6.
+1. Put a 3x1 curved piece in the pizza corner.
+2. Put a 1x1 slide piece on the first and the last 3x1 arch piece both on the left and in the back, the
+slide side facing inward.
+3. Put the cylinders on all the other 3x1 arch pieces.
+4. Rotate the structure so that the skylight is in the back and the pizza corner in front on the left.
+Cover the (now) front and left sides (but not their overhanging ends) with the flat pieces in the
+following manner: starting on the right in front, put a 6x2, then 10x2, then 6x2. Do the same on
+the left.
+5. Put the pizza piece on the button in the pizza corner, covering the gear piece.
+6. Cover the overhanging ends with the lipped pieces in the following manner: starting from the right
+in front, put a 2x1, then 8x1, then 2x1, then 8x1, then 2x1. Do the same on the left.
+Bag 7.
+1. Build the sign-holding tower. Put the tower piece in the square gap between the four 2x1 slide
+pieces.
+2. Put the 2x2 seat piece on top, one-button side down and the 2x2 vertical side towards you.
+3. Put eleven 3x1 flat smooth pieces vertically in front starting from the right and skipping every
+other column.
+4. Put eleven 3x1 flat smooth pieces horizontally on the left side starting from the back and slipping
+every other row.
+5. Put a 3x1 flat smooth piece vertically on the third column from the left on the third, 4th and 5th
+rows from the front, perpendicular to and touching the last horizontal 3x1 flat smooth piece.
+6. Put a 2x1 flat smooth piece horizontally on the third row from the front on the 4th and 5th columns,
+perpendicular to and touching the last horizontal 3x1 flat smooth piece.
+Bag 8
+1. Build the sigh with the three lights, smiley face and a gift box. Put a 12x2 flat piece horizontally in
+front of you.
+2. Put a 2x1 flat piece on the back of the 12x2 piece starting from the right.
+3. Put a 2x1 flat piece with a stick next to it. Continue to alternate the rest of the pieces this way.
+4. Put the three fence pieces on top of the six pieces from the previous step.
+5. Make the light fixtures. Put a clasp piece on the short end of the corner stick piece. Put a 1x1 flat
+piece onto the clasp.
+6. Insert the long end of the corner stick into the short tube piece. Repeat two more times to make
+the three lights. Put the lights on the equal distance from each other behind the fence.
+Bag 9
+1. Make the sign. Put a 12x6 flat piece horizontally in front of you. Put three 2x2 flat smooth pieces
+vertically next to each other on the right side of the 12x6 piece.
+2. Put a 2x1 flat smooth piece next to them horizontally on the back.
+3. Put a 2x2 flat piece with one button to the front of it.
+4. Put a 2x1 flat smooth piece horizontally to the front of it.
+5. Put a 2x2 flat smooth piece to the front of it.
+6. Put three 2x1 flat smooth pieces vertically to the left of them, all three on the 5th column from the
+right.
+7. Put three 2x2 flat smooth pieces vertically to the left of them.
+8. Put a 1x1 flat smooth piece in the back to the left of them.
+9. Put a 1x1 flat smooth piece in the left back corner.
+Bag 10
+1. Put a 3x1 flat smooth piece horizontally between the two 1x1 pieces.
+2. Put a 4x1 flat smooth piece vertically to the front of the 1x1 piece on the 5th column from the left.
+3. Put a 4x1 flat piece horizontally on the second row from the back.
+4. Put a 4x1 flat smooth piece vertically on the left edge.
+5. Put a 4x1 flat smooth piece horizontally on the first row.
+6. Put a 2x1 flat smooth piece horizontally on the second row, on the second and third columns from
+the left.
+7. Put a 1x1 flat smooth piece from the separate bag to the right of it.
+8. Put a 3x1 flat smooth piece to the back of them.
+9. Put a 1x1 flat smooth piece in the middle of the space to the back of it and the two 1x1 buttons
+(for the eyes) on the sides.
+Bag 11
+1. Build the gift box. Put a 1x1 flat piece on the left button of the 4x1 flat piece.
+2. Pit a 4x1 piece on top of the first 4x1 piece, to the right of the 1x1 piece.
+3. Put a 1x1 flat piece underneath the right (overhanging) button of the second 4x1 piece.
+4. Put one 2x1 piece on the right of your part and one on the left.
+5. Put a 1x1 lipped piece in the middle, lip part to the front.
+6. Put the two 2x1 pieces underneath your part, one on the right and one on the left.
+7. Put a 1x1 piece in the middle.
+8. Make a bow.
+9. Put a 1x1 smooth wedge piece on top of your part, in the middle, the raised part to the back.
+10. Put two wedge pieces on the sides of the first one, lower sides to the middle.
+11. Put a 1x1 flat smooth piece vertically on the lipped piece.
+12. Put the gift box on the billboard connecting by the one button and rotate diagonally, with the bow
+side on the same side as the eyes (the top).
+13. Put the fence and lights part on the bottom side connecting it by putting the front row of the fence
+part underneath the billboard.
+14. Install the billboard on the sign tower, vertically, top side up – so that the fence and the stick are
+parallel to the platform. The lamps should face the billboard upward and diagonally from the
+bottom.
+15. Put the roof on the building. But this is not all!!
+Bag 12
+1. Make a window-washer crib. Put a 6x2 flat piece horizontally in front of you. Put four 1x1 pieces
+with an arm into the corners, with two arms to the back and two to the front.
+2. Put two 2x1 flat pieces with the clasps side by side horizontally on the table with the clasps facing
+outward.
+3. Put a 4x1 flat smooth piece on top of them.
+4. Attach this part to the two arms on the back of your structure to make a back wall of the crib, with
+the smooth side facing outward.
+5. Put a cup inside the crib. It’s a paint can.
+6. Insert a short tube into the upper hole of a two-hole handle piece. Attach a rope by the button.
+Repeat with the other handle piece.
+7. Put the handles on top of the left and right sides of the crib, with the ropes facing outward.
+8. Put a window washer inside with the broom in his hand.
+9. Attach the crib to the roof by the rope buttons letting the crib hang on the side along the wall.
+Hooray! You have done it!!!
+Thank you so much for building this set!
+Visit legofortheblind.com for more accessible instructions!
+Abbreviation definitions:
+F = flat (Plate.)
+FS = flat smooth (tile)
+Slide = slope.
+Lip = inverted slope.
+Ribbed stick = Technic axle.
+Connector = Technic pin.
+Stubby or Short connector = Technic pin with stud.
+Long connector = elongated Technic pin.
+Nail = technic axle with end stop.
+Fat nut = Technic joiner.
+Thin nut = Technic stop.
+Elbow = technic joiner 90 dg.
+1x1, 2x1, 3x1… means a 1x1, 2x1, 1x3… brick.
+Ver = vertically.
+Hor = horizontally.
+Symm = symmetrically.
+LMA = Lay Momentarily Aside.
+PP = previous piece.
+Sep bag = separate bag.
+Braille letters (for placing corner pieces):
+D = open corner to the front left.
+F = open corner to the front right.
+J = open corner to the back left.
+H = open corner to the back right.

@@ -1,0 +1,1937 @@
+10243 Parisian Restaurant
+Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
+terms we’ll be using:
+Front: towards you.
+Back: away from you.
+Up: towards the ceiling.
+Down: towards the floor.
+Stud: the bump on a Lego brick. Example: A 2x1 brick has two studs on it.
+Vertically: going from front to back.
+Horizontally: going from left to right.
+Upright: pointing up towards the ceiling, and down towards the floor.
+Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic connector on the
+front wall at the right, connector to the front, and then place another such piece symmetrically on
+the back wall, at the right, the technic connector of the second piece should point to the back,
+since it will be placed symmetrically.
+There are also abbreviations defined at the end of this file.
+It’s very busy in the Parisian Restaurant! As a scooter zips by, inside the waiter rushes between the
+tables as the nervous young man gets ready to propose with the ring! It’s just as hectic behind the
+scenes, with the chef busily preparing the food. This beautifully detailed building is the setting for so many
+stories and is a great addition to the modular building series. The Parisian Restaurant has a fully stocked,
+blue and white tiled kitchen with tableware as well as a cozy apartment with pull-down bed, kitchenette
+and fireplace. On the top floor is the artist’s room with a studio that includes a cast iron heater, easel,
+paintbrush and two works of art by the aspiring artist. Outside, stairs lead down to the roof terrace lined
+with hanging lanterns and flowers where the diners eat alfresco style.
+Large bag 1.
+The base.
+People bag.
+Make three people. Make a scooter. Put a scooter base hor, shield to the left. Put a button from a sep bag
+on the shield from the left. Put the wheel bars on the shield from the right. Put the bracket piece ver,
+points to the table, underneath. Insert two buttons into the tires. Put the tires underneath.
+Bag 1.
+1. Put a F 32x32 piece on the table. Put a FS 1x1 in the right front corner. Repeat on the left.
+2. Put five S 6x1 pieces hor on the front row.
+3. Put a FS 2x1 hor on the second row, starting from the left edge.
+4. Put a FS 2x1 hor to the right.
+5. Repeat.
+6. Put a grate piece hor to the right.
+7. Put a FS 2x1 hor to the right.
+8. Repeat three more times.
+9. Put a FS 1x1 from a sep bag to the right.
+10. Skip four buttons to the right and put a FS 1x1 from a sep bag.
+11. Put a FS 2x1 hor to the right.
+12. Put a grate hor to the right.
+13. Put a F 2x1 ver to the right and to the back.
+14. Put a FS 2x2 to the right.
+15. Put a F 2x1 ver to the right.
+16. Put a F 2x2 to the right.
+Bag 2
+1. Put a FS 2x2 on the third and fourth rows, starting on the left edge.
+2. Put a FS 2x2 to the right.
+3. Repeat six times.
+4. Put a FS 2x1 ver to the right.
+5. Put a FS 3x1 ver to the right and to the front.
+6. Put a FS 3x1 ver to the right.
+7. Repeat two more times.
+8. Put four more such pieces the same way to the back of the first four.
+9. Repeat to the back of the second row of the FS 3x1 pieces.
+10. Put a FS 2x1 ver to the right of the first row of the FS 3x1 pieces, to the back of the FS 1x1 (on
+the third and fourth rows).
+11. Put a FS 2x2 to the right.
+12. Repeat.
+13. Put a FS 2x1 hor to the right, partly to the back of the F 2x1.
+14. Put a FS 2x1 hor to the right.
+15. Repeat.
+16. Put a FS 2x2 to the back.
+17. Put a FS 2x2 to the left.
+18. Repeat three more times.
+19. Put a F 1x1 to the left, on the fifth row.
+20. Put a FS 2x1 ver to the back.
+21. Put a FS 2x1 from a sep bag hor to the roght, on the 7th row.
+22. Put a FS 2x1 from a sep bag hor to the right.
+23. Put a FS 2x1 from a sep bag ver to the right and to the back.
+24. Put a F 2x2 to the right.
+25. Put a FS 2x1 ver to the right.
+26. Put F 2x2 to the right.
+27. Put a seat piece hor to the back, seat to the front.
+28. Put a seat piece hor to the left, as before.
+29. Repeat.
+30. Put a FS 2x2 to the left and to the front.
+31. Put a F 1x1 from a sep bag to the left, on the 8th row.
+32. Put a FS 1x1 from a sep bag to the back.
+33. Put a FS 2x1 ver to the right of the two PPs.
+Bag 3
+1. Put a F 2x2 to the back and to the right.
+2. Put a F 1x1 to the right, on the 10th row.
+3. Skip two buttons to the left and put a F 4x1 hor on the 11th row.
+4. Put a F 2x2 to the left and to the front.
+5. Put a FS 2x1 ver to the front of its right row.
+6. Put a FS 2x1 from a sep bag ver to the left.
+7. Put a FS 2x1 from a sep bag ver to the front.
+8. Put a FS 2x1 ver to the right.
+9. Put a F 1x1 to the front.
+10. Put a F2x1 from a bag-inside-sep bag hor to the left.
+11. Put a F 1x1 to the left.
+12. Put a 2x1 grooved piece, upright horizontal grooves to the front.
+13. repeat.
+14. Put a f1x1 to the left. Put a F2x1 hor to the left.
+15. Put a F 1x1 to the left.
+16. Repeat steps 12-14.
+17. Put a F1x1 to the left.
+Bag 4
+1. Put F 2x1 hor to the back, skipping two columns from the left edge.
+2. Put a F 1x1 to the left and to the back, touching corners with the PP.
+3. Put a F 2x1 ver to the back.
+4. Put a F2x2 to the back and to the right.
+5. Put a F 1x1 to the right of the front row of the PP.
+6. Skip one button to the right and put a F 2x1 ver to the right and to the front.
+7. Put a F 2x1 hor to the front and to the right.
+8. Put a F 2x1 ver to the front of its left button.
+9. Skip one button to the right and put a F 2x1 ver to the right.
+10. Put a F 2x1 ver to the back.
+11. Put a F 2x2 to the back and to the right.
+12. Put a F 2x1 hor to the right of its front button.
+13. Put a F 1x1 to the front of its left button.
+14. Put a F2x1 to the hor front and to the right.
+15. Put a F 1x1 to the front of its left button.
+16. Put a F 2x1 hor to the front and to the right.
+17. Skip one button to the right and put a F 2x1 ver to the right and to the back.
+18. Put a F 2x1 to the right of its front button.
+19. Skip one button to the back and put a F 1x1 to the back of its left button.
+20. Put a F 2x1 ver to the right and to the back, touching corners.
+21. Put a F 2x1 hor to the left of its back button.
+Bag 5
+1. All pieces are F 1x1. Rows are counted from the front. Columns are counted from the left. Take
+bag A (dark). Put a piece on row six, column two. (R 6, c 2)
+2. R 6, c 12.
+3. R 7 c 3.
+4. R 7 c 5.
+5. R 7 c 7.
+6. R 7 c 9.
+7. R 7 c 11.
+8. R 7 c 15.
+9. R 8 c 4.
+10. R 8 c 12.
+11. R 9 c 3.
+12. R 9 c 5.
+13. R 9 c 7.
+14. R 9 c 9.
+15. R 9 c 11.
+16. R 9 c 13.
+17. R 10 c 12.
+18. Take bag B. R 6 c 5.
+19. R 6 c 7.
+20. R 6 c 9.
+21. R 7 c 4.
+22. R 7 c 12.
+23. R 7 c 14.
+24. R 8 c 3.
+25. R 8 c 5.
+26. R 8 c 9.
+27. R 8 c 13.
+28. R 8 c 15.
+29. R 9 c 4.
+30. R 9 c 12.
+31. R 9 c 14.
+32. R 10 c 5.
+33. R 10 c 7.
+Bag 6. Make the outlines of the vertical and inside horizontal walls.
+1. Put a 2x1 groved piece vertically on the left edge, rows 6-7, with the upright hor groves to the left,
+repeat. Then put a 2x1 witha hole ver to the back. 
+2. Put a 10x1 ver to the back.
+3. Put a 2x1 with a hole ver to the back.
+4. Put a 4x1 ver to the back.
+5. Put a 6x1 hor to the right of the front button of the 2x1 with a hole, on row 11, counting from the
+back.
+6. Put a 6x1 hor to the right.
+7. Repeat.
+8. Put a three-button corner piece to the right and to the back, letter J (2-4-5).
+9. Put a F 4x1 ver to the back of its right back button.
+10. Put two grate pieces ver to the left, short side by short side.
+11. Put a 6x1 hor to the right of the F 4x1 (from step 10).
+12. Put a 6x1 hor to the right.
+13. Put a 4x1 ver to the front.
+14. Insert a connector into a 2x1 piece with the hole. Put ver to the front of the PP, connector to the
+right.
+15. Put a 4x1 ver to the front.
+16. Repeat.
+17. Put a three-button corner piece to the front and to the left, letter D (1-3-4).
+18. Insert a connector into a 2x1 piece with the hole. Put ver to the front of the right side of the PP,
+connector to the right.
+19. Put a 6x1 hor to the left of the left button of the three-button D.
+20. Put a four-button stepped piece diagonally to the left and to the back, steps to the right.
+21. Put 2x1 from a sep bag ver to the front right-side button of the PP.
+22. Put a 4x2 flat piece horizontally, behind the left-most bench seat.
+Bag 7.
+1. Put a F ten-button pizza piece to the left and to the back, cut-off corner to the right and to the
+back.
+2. Put a FS 3x1 hor to the back and to the left, to the left of the back button of the diagonal piece.
+3. Put a FS 1x1 to the left.
+4. Put a FS 3x1 ver to the front.
+5. Put a F 4x2 ver to the right and to the front.
+6. Put a FS 3x1 to the left of its front row.
+7. Put a FS 6x1 hor to the left.
+8. Repeat.
+9. Put a FS 3x1 ver to the left and to the back.
+10. Put a FS 6x1 ver to the back.
+11. Put a FS 3x1 hor to the back and to the right.
+12. Put a FS 6x1 hor to the right.
+13. Put a F 4x1 hor to the right.
+14. Put a FS 6x1 hor to the right,
+15. Pur a FS 3x1 ver to the right and to the front.
+16. Go to the right of the left wall, on the 15th and 16th rows, on the third and fourth columns. Put a F
+2x2 there.
+17. Put a F 4x2 hor to the right.
+18. Repeat two more times.
+19. Put a F 2x2 to the front of the two PPs, on rows 13 and 14, on columns 12th and 13th .
+20. Skip five buttons to the left and put a F 2x2 there.
+21. Put two curved 2x1 hor, wide side by wide side, on the 10th and 11th rows, on the 5th and 6th
+columns from the right edge.
+Bag 8
+1. Put ten FS 2x1 ver, wide side by wide side, to the left of, in between, and to the right to the two F
+2x2 pieces in rows 13 and 14, to pave that space.
+2. Go to the right of the left wall, rows 17-20, column 3, and put a FS 4x1 ver there.
+3. Put a FS 4x1 ver to the right.
+4. Put a FS2x1 hor to the right of its front button.
+5. Put a F2x2 to the back.
+6. Put a FS2x1 hor to the back.
+7. Put a FS 4x1 ver to the right and to the front.
+8. Put a FS 4x1 ver to the right.
+9. Repeat 9 more times.
+10. Put a FS 2x1 ver to the right of its front buttons.
+11. Put a F 2x1 ver to the back.
+12. Put a FS 4x1 ver to the right and to the front.
+13. Put a FS 4x1 ver to the right.
+14. Go to the right of the left wall, row 11, columns 4-8. Put a 4x1 hor there.
+15. Skip two buttons to the right and put a 6x1 hor there.
+17. Put a 6x1 into the 6x1 gap horizontally in the front wall, and put a 4x1 into the 4x1 gap to the left.
+Bag 9
+1. Make a part. Put a F 2x1 on top of a F 2x2.
+2. Repeat three more times.
+3. Put one such part, taller row to the back, to the left and to the front of the 4x1 from step 14 (rows
+11-12, columns 2-3).
+4. Skip four buttons to the right and put another such part the same way.
+5. Skip six buttons to the right and put another such part the same way.
+6. Skip four buttons to the right and put another such part the same way.
+7. Go to the left of the right wall, row 14, and put a 1x1 there.
+8. Put a F 1x1 to the left.
+9. Put a F 2x1 with one button hor to the back and to the right.
+10. Put a F 2x1 with one button hor to the back.
+11. Put a 2x1 with the flue hor to the back, the flue to the front.
+12. Go to the right of the left wall, rows 15-16, columns 3-4, and put four 1x1 buttons there.
+13. Skip six buttons to the right and put four 1x1 buttons there.
+14. Skip two buttons to the right and put four 1x1 buttons there.
+15. Skip nine buttons to the left and one button to the back and put four 1x1 buttons there.
+Bag 10. Make a floor in the back left room.
+1. Put a FS 6x1 hor to the left of the right room, row 14, columns 4-10 from the right.
+2. Put a FS 4x1 ver to the back of its right button.
+3. Put a F 2x1 hor to the back and to the left.
+4. Put a FS 6x1 ver to the back of its right button.
+5. Put a FS 6x1 hor to the left of its back button.
+6. Put a F 2x2 to the back and to the right (rows 6-7 from the back).
+7. Put a FS 6x1 ver to the front of its left row.
+8. Put a FS 4x1 ver to the front.
+9. Now make a checkered white (sep bag) and blue tile floor inside, leaving the 6x2 vertical space in
+the middle free. Go to the left back inside corner of the FS outline that you've just made. Put a
+white tile there.
+10. Put four white tiles to the front, skipping one button between each.
+11. Do the same to the left, skipping alternate buttons.
+12. Put two white buttons to the left, on the alternate spaces, leaving six buttons in the middle free.
+13. Repeat.
+14. Put five to the left the same way.
+15. Repeat.
+16. Fill the empty alternate spaces with the blue buttons, remembering to keep the middle free.
+Bag 11
+1. Make the second story of the right, middle-back and left walls. Go to the front button of the raised
+part of the right wall (on top of the 2x1 with the connector in it). Put FS 1x1 on it.
+2. Put a 10x1 ver to the back.
+3. Put a 6x1 ver to the back.
+4. Put a three-button corner piece to the back and to the left.
+5. Put a 10x1 hor to the left.
+6. Skip four buttons to the front and put a 2x1 ver there.
+7. Put a 4x1 hor to the left of its front button.
+8. Put a 1x1 to the left.
+9. Make a part. Put a wide mouth of the faucet piece on the side button of a 1x1 with the two side
+buttons, so that the vertical part of the faucet faces downward. Put this part to the left of the PP,
+faucet to the back.
+10. Put a 4x1 hor to the left.
+11. Make a part. put a FS 1x1 upright on the side button of a 1x1 with two side buttons. put to the left,
+the FS piece to the back.
+12. Put a 1x1 to the left.
+13. Put a 6x1 hor to the left.
+14. Put a three-button corner piece to the left and to the front.
+15. Put a 10x1 ver to the front.
+16. Put a grate piece ver to the back of the corner piece from step 14.
+17. Put a FS 2x1 ver to the back.
+18. Put a FS 1x1 to the back.
+19. Go to the left of the right wall, row 13, and put a 1x1 from a sep bag there.
+20. Put a 2x1 seat piece ver to the back, seat to the right.
+21. Put a 2x1 with the flue hor to the back and to the left, the flue to the front.
+Bag 12
+1. Put a 4x1 stepped piece on top of the other such piece, on the diagonal part of the partition.
+2. Put a 2x1 staple piece ver to the back of its back button, sheer wall to the left.
+3. Put a 1x1 to the front of the same stepped piece.
+4. Make a part. put a FS 1x1 upright on the side button of a 1x1 with the side button. Put to the front
+of the PP, FS piece to the front.
+5. Put a 1x1 to the right of the front button of the same stepped piece.
+6. Skip two buttons to the right and put a 4x1 hor there.
+7. Put two 1x1 wedge pieces to the back, fitting them inside the seat piece and pitching in the
+middle.
+8. Go to the front wall ( row 11). Skipping three buttons from the left, put a F lipped 2x1 hor there.
+9. Put another such piece to the right.
+10. Skip two buttons to the right and put another such piece there.
+11. Put another such piece to the right.
+12. Repeat.
+13. Plant the greens (1x1 flower pieces) along the four front buttons of the raised part of the left wall.
+14. Repeat hor on the front wall (four and four, on the raised, ridged part on the left).
+15. Put a F 2x1 with one but hor on the same row, between the two flowered parts, in the middle.
+16. Skip six buttons to the right and put another such piece there.
+17. Stack two 1x1 buttons and put to the right.
+18. Skip four buttons to the right and repeat.
+19. Put a 1x1 button on the second row, third column from the right.
+20. Put a 1x1 button to the back.
+21. Skip two buttons to the left and put a 1x1 button there.
+22. Put a 1x1 button to the front.
+23. Put a f2x1 with a cornice horizontaly cornice to the front, on the 13th row, from the front, columns 6
+and 7 from the front Bag 13 (all flat)
+1. Go to the front of the left wall. skipping four (flowered) buttons to the back, put a 1x1 button there.
+2. Put a 3x1 ver to the back.
+3. Put an 8x1 ver to the back.
+4. Put a 3x1 hor to the back and to the right.
+5. Put an 8x1 hor to the right.
+6. Repeat.
+7. Put a 2x1 hor to the right.
+8. Put a 1x1 with a clasp to the back and to the right, clasp to the right.
+9. Skip five buttons to the back and put a 3x1 hor to the back and to the right.
+10. Put an 8x1 hor to the right.
+11. Put a 3x1 ver to the right and to the front.
+12. Put an 8x1 ver to the front.
+13. Put a 3x1 hor to the front and to the left.
+14. Put a 4x2 ver to the front and to the right.
+15. Put a 2x1 ver to the front.
+16. Put a 3x1 hor to the left of the front row of the 4x2 piece from step 14.
+17. Skip two buttons to the left and put a 2x1 hor there.
+18. Put a 2x1 ver to the front of its left button.
+19. Put a S 3x1 ver skipping two buttons to the left and two to the back, partly on the back button of
+the stepped piece and partly on the staple piece.
+20. Put a 4x1 ver on the fifth row from the right, columns 9-11 (on top of the two curved pieces and to
+the front and to the back of them).
+Bag 14
+1. Put a 1x1 cylinder on the left wall, row 10th .
+2. Make a seat with two 1x1 corner pieces and put it hor to the right of the PP, seat to the back.
+3. Skip four buttons to the right and put another seat the same way.
+4. Skip six buttons to the right and repeat.
+5. Skip four buttons to the right and repeat.
+6. Make a part. Insert a candlestick into the clasp of a F 1x1 with the clasp. Put the candle stick on
+the left wall, row 5th , with the 1x1 clasp piece on the row six, to the back of it.
+7. Skip four buttons to the right of the candlestick and put another candlestick there.
+8. Skip two buttons to the right and put another candlestick there.
+9. Put four buttons to the right and put another candlestick there.
+10. Insert the broom upright into the clasp and the right end of the left part of the back wall.
+Bag 15. Make a sink/stove/counter part.
+1. Put a F 8x2 hor on the table.
+2. Put a three-button corner piece on its right end, letter D (1-4-5).
+3. Put a F 2x1 with the stick hor to the left, on the back row, stick to the front.
+4. Stack two F 2x1 pieces and put them hor on top of the PP.
+5. Put a F 4x2 hor on top of all the PPs.
+6. Put a 3x2 box hor to the left, and insert two drawers there, so that they open to the front.
+7. Put a 2x1 staple piece ver to the left, sheer side to the left.
+8. Put a F 2x2 with one button on top of the PP and to the right.
+9. Put a F 2x2 to the right.
+10. Make a seat with two 1x1 corner pieces and put it ver to the right, seat to the right.
+11. Put a 2x1 seat piece hor to the right, on the back row, seat to the front.
+12. Put a 1x1 to the right.
+13. Put a 1x1 corner piece to the front, sheer sides to the right and to the front.
+14. Put a 2x1 seat piece hor to the left, seat to the back.
+15. Put a 1x1 seat piece to the left, sheer sides to the front and to the left.
+16. Put a faucet piece on the 1x1 piece at the right back corner.
+17. Put a 1x1 flower piece on top of a 1x1 button piece and put on the stove. Repeat.
+18. Put a pie on the counter.
+19. Install the part the way it is in the left inside corner between the back of the right wall and the right
+part of the back wall.
+Bag 16. Make a shelf/counter part.
+1. Put a F 8x2 hor on the table. Put a 2x1 staple piece ver on the right end, sheer side to the right.
+2. Put a 2x1 staple piece ver to the left, sheer side to the left.
+3. Put a 3x2 box hor to the left, open side to the front.
+4. Repeat.
+5. Insert the two doors, handles to the middle.
+6. Put a FS 4x1 hor on the front row, starting on the right.
+7. Put a F 4x1 hor to the back.
+8. Put a F 2x2 to the left of the two PP.
+9. Put a F 2x2 to the left.
+10. Put a F disk on top of the PP.
+11. Stack four saucers and put on top.
+12. Put two glasses to the right.
+13. Install the part ver, doors to the left, to the front of the sink, to the right of the left wall.
+Bag 17. Make a carving table part.
+1. Put a F 6x2 hor on the table. Put a 2x2 box on the right end, opening to the front. insert the door.
+2. Put a 3x2 box hor to the left. Insert the drawers.
+3. Put a 2x1 staple ver to the left, sheer side to the right.
+4. Put a F 2x2 qith one button on top and to the right.
+5. Put F 2x2 to the right.
+6. Put four 1x1 buttons to the right.
+7. Stack two 1x1 buttons and put on the leftmost button.
+8. Put a frying pan in the drawer.
+9. Put the two drumsticks onto the chicken and put on the leftmost button.
+10. Put a FS 1x1 piece (the dial) to the right.
+11. Put a pot to the right.
+12. Install ver, chicken to the front, on the six free buttons on the floor to the left of the shelf/counter
+part.
+Bag 18
+1. Make a chair part. Put a F 2x2 disk on top of a F 2x2. Put a chair piece on top.
+2. Repeat two more times.
+3. Install one, ver, its back to the left, in the inside corner between the front end of the left wall and
+the left end of the front wall (row 6 and 7, columns 3 and four from the left).
+4. Install another chair part the same way, skipping five buttons to the right and two to the back.
+5. Install the other chair part skipping two buttons to the right, its back to the right.
+6. Skip four buttons to the back and put a chair piece there the same way.
+7. Skip two buttons to the left and put a chair piece there, its back to the left.
+8. Skip five buttons to the left and put a chair piece there, its back to the left.
+9. Skip one button to the back and put a chair piece to the right, its back to the back.
+Bag 19
+1. Make a flower pot part. Stack two 1x1 buttons.
+2. Put a three-stalk piece on top.
+3. Put flowers on the stalks.
+4. Insert in the pot.
+5. Repeat to make two.
+6. Install one on row 5, column 7,5 from the left.
+7. Skip 7 buttons and install the other.
+8. Make a flower jar part. Put a stalk on top of a 1x1 cylinder, put the flowers on and install on the
+front button of the diagonal partition.
+9. Put a chain hor on the two right-side candlesticks.
+10. Put a chain hor on the two left-side candlesticks.
+11. Put a chain ver on the two left-wall candlesticks.
+Bag 20. Make a bench part.
+1. Put a F 2x2 sled piece ver on the table, handle to the back.
+2. Put another such piece the same way, skipping two buttons to the left.
+3. Connect by putting a FS 4x1 hor across the front button of the both pieces.
+4. Put a F 4x1 hor to the back.
+5. Insert the clasps of two F 2x1 pieces with the clasp onto the handles.
+6. Put a FS 4x1 hor to connect them.
+7. Put a FS 4x1 hor to the back. Lift the back perpendicularly to the seat.
+8. Install the way it is in the right front, skipping two buttons from the right edge and one button from
+the front edge.
+Bag 21. Make two long and two small tables.
+1. Put a F 6x2 hor on the table. Put a F 2x2 on the right end.
+2. Put a FS 3x1 hor to the left, on the front rwo.
+3. Put a FS 3x1 to the back.
+4. Put a F 2x1 ver to the left and to the front.
+5. Put two 2x2 curved pieces ver underneath, on the second and fifth columns.
+6. Put a FS disk on top of the right end.
+7. Put an inverted bottle on top.
+8. Put an inverted pot on top, to make a lamp.
+9. Repeat steps 1-8 to make another long table.
+10. Install one ver, lamp to the front, on the 5-6 from the left, columns 11-16.
+11. Skip four buttons to the right and put the second table there the same way.
+12. Make a small table. Put a F 2x2 with one button on top of a 2x2 candelabra piece.
+13. Repeat two make two.
+14. Install one on rows 6-7, columns 5-6 from the left.
+15. Install the other skipping three buttons to the right and one to the back (in between the two
+chairs).
+16. Put a croissant on one of the small tables.
+Bag 22
+1. Put a man at the long table with a ring in his hand.
+2. Put a girl at the same table with a glass in her hand.
+3. Put a girl on the motorcycle (at the end of construction she will be placed in front of the building
+entrance, on the table).
+Large bag two.
+Bag 23. Make the next level of the walls.
+1. Go to the front of the left wall (to the back of the vertical chain). Put a 2x1 fron a sep bag ver
+there.
+2. Put an 8x1 ver to the back.
+3. Put a 2x1 from a sep bag ver to the back.
+4. Put an 8x1 hor to the right.
+5. Put a 1x1 to the right.
+6. Put a 4x1 hor to the right.
+7. Put a 6x1 hor to the right.
+8. Put a 2x1 ver to the right and to the back.
+9. Skip four buttons to the back and put a 6x1 hor to the right.
+10. Put a 6x1 hor to the right.
+11. Put an 8x1 ver to the front.
+12. Repeat.
+13. Put a one-button lip piece hor to the front and to the left, lip to the front.
+14. Put a 2x1 lip piece to the back of its left back button and to the left, lip to the front.
+15. Put a 2x1 hor to the left of its back row.
+16. Skip one button to the front and put a 2x1 lip piece ver there, lip to the right.
+17. Put a 1x1 from a sep bag on the second row from the right, column 14 (to the back of the
+horizontal 2x1 lip piece).
+18. Put a 1x1 with the wedge on top (a milk carton) to the back.
+19. Put a bottle to the back.
+20. Put a 2x1 with the flue hor to the back and to the left, flue to the front.
+21. Put a 2x1 hor to the right and to the front of the 1x1 vase touching it diavonally. Put a 2x1 from a
+separate bag, ver infront of the PP.
+Bag 24
+1. Put a FS 1x1 upright on the side button of a 1x1 with the side button. Put it, the FS 1x1 to the
+front, on the front end of the raised left wall (row 7).
+2. Put a 6x1 ver to the back.
+3. Put a 4x1 ver to the back.
+4. Put a 2x1 from a sep bag hor to the back and to the right.
+5. Put a 1x1 to the right.
+6. Skip four buttons to the right and put a 3x1 hor there.
+7. Put a 4x1 hor to the right.
+8. Put a 3x1 hor to the right.
+9. Skip two buttons to the right and put a 2x1 hor to the right.
+10. Put a 1x1 to the back of its right button.
+11. Skip four buttons to the back and put a 1x1 there (on top of the back wall). skip four buttons to the
+right and put a 2x1 hor there.
+12. Skip four buttons to the right and put a 2x1 ver to the right and to the front.
+13. Skip two buttons to the front and put a 3x1 ver there.
+14. Make a part. Put a F 4x1 from a sep bag hor on the table. Put four 1x1 clasp pieces on top, side
+by side, clasps to the front. Put two F 2x1 hor, short side by short side, on top. Install ver to the
+front of the PP, clasps to the left.
+15. Put a 4x1 ver to the front.
+16. Put a F 4x1 hor to the front and to the left.
+17. Skip one button to the left and one down and put a F 4x1 ver there, on the left columns of the lip,
+overhanging to the front and to the back.
+18. Put a 2x1 lip ver to the right of the middle of the PP, lip to the right.
+19. Skip five buttons to the left and put a 1x1 with the side button and put a fs1x1 on it's side button.
+Put it (on top of the front appendix of the diagonal partition), side button to the front.
+20. Put a 2x1 ver to the back of the 1x1 piece.
+21. Put a 1x1 to the right of the back button of the PP.
+Bag 25. Make the next (fifth) level.
+1. Put a 2x1 hor on top of the PP and to the left.
+2. Put a 2x1 from a sep bag ver to the front of its left button.
+3. Go to the front end of the left wall. Put a 2x1 from a sep bag ver there.
+4. Put an 8x1 ver to the back.
+5. Make a part. put a F 2x1 ver on the table. Put a F 1x1 on the front button. Put a F 1x1 clasp to the
+back, clasp to the back. put a F 2x1 ver on top. Put this part ver to the back of the PP.
+6. Put a 2x1 hor to the right of the back button.
+7. Skip four buttons to the right and put a 2x1 hor there.
+8. Put a 1x1 with the side button to the right, side button to the front.
+9. Put a 4x1 hor to the right.
+10. put a 1x1 with the side button to the right, side button to the front.
+11. put a 2x1 hor to the right.
+12. Skip two buttons to the right and put a 1x1 there.
+13. Put a 2x1 ver to the right and to the back.
+14. Skip four (I think) buttons to the back and put a 1x1 on the left end of the right-side back wall.
+15. Skip four buttons to the right and put a 2x1 hor there.
+16. Skip four buttons to the right and put a 2x1 ver there and to the front.
+17. Skip two buttons to the front and put an 8x1 ver there.
+18. Put a 2x1 ver to the front.
+19. Put a F 1x1 from a sep bag to the front.
+Bag 26
+1. Skip one button to the front (and one level down) and put a F 4x2 ver to the front and to the left.
+2. Put a F 4x2 ver to the left.
+3. Put a 1x1 to the left of the F 1x1 (from step 19 in the previous bag).
+4. Put a refrigerator door piece to the left, hinge button to theright and opening to the front and to the
+left.
+5. Skip two (I think) buttons to the back and put a 2x1 with the flue hor on top of the other such
+piece.
+6. Make a rolling pin part. insert two short connectors into the ends of a tube. Insert a stick. Insert
+the rolling pin upright into one of the clasps to the back of the PP. Insert the knives into the other
+clasps.
+Bag 27
+1. Make a part. Put a F 4x2 ver on the table. Put a FS 3x1 ver on the left, skipping front button. Put
+a FS 3x1 ver to the right. put this part, the way it is, to make the top of the refrigerator ( the back
+row resting on the flue piece and the front on the door piece and the 1x1 piece).
+2. Stack two 1x1 pieces and put to the left of the front row of the PP.
+3. Put a 4x2 hor to the right and to the front.
+4. Put the cook (with a knife) in the kitchen and the waiter (with a bottle on the tray) in the hall.
+Bag 28. Make a bottle bar part. 
+1. Put four 1x1 pieces with the side button in a row hor on the table, side buttons to the front.
+Connect them by putting a F 4x1 upright hor on the side buttons. put two F 2x1 with one button
+upright, hor, side by side, on the 4x1.
+2. Repeat to make two such parts.
+3. Stack them.
+4. Put two F 2x1 with the lip hor on top, side by side.
+5. Repeat on the bottom.
+6. Put four bottles on top.
+7. Install this part, as it is, to the front of the back hall wall, on the four buttons in the floor.
+Bag 29 does not exist.
+Bag 30.
+1. Make the bottle-bar left-side part. a) Put a F 6x1 hor on the table. b) Put a grate hor on its left
+end. c) Put a 1x1 corner piece to the right, open corner to the left and to the back. d) Put a 1x1
+corner piece to the right, open corner to the left and to the front. e) Repeat step "d" two more
+times. f) Install this part upright, ver, to the left of the bottle part, grate side to the top and to the
+front.
+2. Make the bottle-bar right-side part. a) Put a F 6x1 hor on the table. b) Put a grate hor on its left
+end. c) Put a 1x1 corner piece to the right, open corner to the left and to the front. d) Put a 1x1
+corner piece to the right, open corner to the left and to the back. e) Repeat step "D" two more
+times. f) Install this part sym on the right. Mount the left one to the left of the bar, and the right
+one to the right of the bar, grates on top, (since they are mounted vertically.
+3. Make the sixth level of the walls. Put a FS 1x1 upright on the side button of a 1x1 piece with the
+side button and put this part on the front end of the left wall, FS piece to the front.
+4. Put a 4x1 ver to the back.
+5. Put a 2x1 with the side buttons ver to the back, side buttons to the right.
+6. Put a 4x1 ver to the back.
+7. Put a 2x1 from a sep bag hor to the back and to the right.
+8. Skip four buttons to the right and put a 3x1 hor there. Put a 4x1 from a sep bag hor to the right.
+9. Put a 3x1 hor to the right.
+10. Skip two buttons to the right and put a 2x1 hor there.
+11. Skip four buttons to the back and put a 1x1 there.
+12. Skip four buttons to the right and put a 2x1 with the side buttons hor there, side buttons to the
+front.
+13. Skip four buttons to the right and put a 2x1 ver to the right and to the front.
+14. Skip two buttons to the front and put a 3x1 ver there.
+15. Put a 6x1 ver to the front.
+16. Put a F 1x1 to the front.
+17. Put a 4x2 hor to the front and to the left.
+18. Put a 1x1 cylinder to the front of its right end, on the lower step.
+19. Put a 2x1 ver to the left of the 4x2 (overhanging to the back).
+20. Skip two buttons to the left and put a 1x1 of its front button.
+21. Put a 2x1 ver to the left and to the front.
+22. Put a FS 1x1 upright on the side button of a 1x1 piece with the side button and put this part to the
+front, FS piece to the front.
+Bag 31. Make and install some accessories.
+1. Make a picture part. Put a F 2x1 with the lip ver on the table, lip to the left. Put a F 2x1 ver to the
+right, lip to the right. Connect by putting a FS 2x2 on top (it has a picture of a tall ship on the sea
+under the moon). Hang on the left wall, on the two side buttons.
+2. Make a clock part. Put a F disk (with the clock face) on a F 2x2 and hang this part on the
+right-side back wall, on the two side buttons.
+3. Make the top of the bottle-bar part. put a 6x1 arch piece hor on the table. Put a F 2x2 in the
+middle, overhanging to the back. Put a 1x1 wedge to the right, slide to the right. put a 1x1 wedge
+to the left, slide to the left. Put a F 2x1 with one button hor on top, in the middle. Put a 1x1 button
+on top. Install as is on top of the bottle bar.
+Bag 32
+1. Put the door in the door frame and install ver in the middle of the floor, between the left-side and
+right-side back walls, opening to the left and to the back.
+2. Insert the window panes into the frames. All the window panes should be facing outside.
+3. Put two hor in the left gap of the left-side back wall.
+4. Put one hor in the right gap in the left-side back wall.
+5. Put two hor in the left gap in the right-side back wall.
+6. Put two hor in the right gap in the right-side back wall.
+7. Put one ver in the gap in the right wall.
+Bag 33. Make the next (7th ) level of the walls.
+1. Put a 2x1 bench piece ver on the front end of the left wall, seat to the right.
+2. Put an 8x1 ver to the back.
+3. Put a 2x1 from a sep bag ver to the back.
+4. Put an 8x1 hor to the right.
+5. Put a 2x1 hor to the right.
+6. Stack two F 2x1 pieces and put them hor to the right.
+7. Put an 8x1 hor to the right.
+8. Put a 6x1 ver to the back of its rightmost button.
+9. Put a 3x1 hor to the right.
+10. Put an 8x1 hor to the right.
+11. Put an 8x1 ver to the front of its rightmost button.
+12. Put a 3x1 ver to the front.
+13. Put a F 1x1 to the front.
+14. Put a 4x2 hor to the front and to the left.
+15. Put a 3x1 ver to the left and to the back (overhanging to the back).
+16. Skip two buttons to the left and put a 2x1 ver to the left of the front button of the PP (to make the
+7th level of the wall appendix).
+17. Put a 2x1 bench piece ver to the front of its left button, seat to the left.
+Bag 34
+1. Insert the window panes into the frames.
+2. Stack a short window on top of the tall one.
+3. Repeat to make six such parts.
+4. Put two hor in the front wall, skipping two buttons to the right from the left end (on top of the
+cornice pieces).
+5. Skip two buttons to the right and put three window pieces hor.
+6. Put one window hor to the right of the wall appendix and to the left of the horizontal stairs.
+Bag 35
+1. Insert the door pane into the door frame; put a 1x1 button for the handle.
+2. Install hor in the front wall, skipping two buttons to the right from the three-piece window, opening
+to the front and to the right.
+Bag 36
+1. Make the window-top part. Put a one-button slipper piece hor on the table, toe to the left.
+2. Put another such piece hor to the right, toe to the right.
+3. Connect by putting a 2x1 corner piece hor in the middle, side buttons to the front.
+4. Put a F 2x1 with one button hor upright on the side buttons of the PP.
+5. Put a 1x1 button upright on the one button of the PP.
+6. Install as is on top of the left-side (double) window.
+7. Make the window-top part. Stack two F 2x1 pieces.
+8. Put a two-buttons/four-side-buttons corner piece on top, four side buttons to the front.
+9. Put a FS 1x1 upright on the leftmost side button.
+10. Put a FS 1x1 upright on the rightmost side button.
+11. Put a F 2x1 with one button hor upright in the middle.
+12. Put a 1x1 button on top,
+13. Put as is on the right-side (single) window.
+Bag 37
+1. Make a door-top part. put two slipper pieces on the table as in steps 1-2 of the previous bag.
+2. Connect by putting a F 2x2 in the middle, overhanging to the front.
+3. Put a two-buttons/four-side-buttons corner piece hor on top of the back row of the PP, side
+buttons to the back.
+4. Put two grate pieces hor, upright, on the side buttons at the back.
+5. Put as is on the door.
+Bag 38. Make the window-top part.
+1. Put a slipper piece hor on the table, toe to the right.
+2. Put a F 2x1 hor to the left.
+3. Connect by putting a 2x1 corner piece hor on top, side buttons to the front.
+4. Put a slipper to the left, toe to the left.
+5. Connect by putting another corner piece the same way.
+6. Connect two corner pieces by putting a F 2x1 with one button hor, upright, on their adjacent side
+buttons.
+7. Put a 1x1 button upright on it.
+8. Put two 1x1 buttons from a sep bag on the leftmost and the rightmost buttons paralel to the
+ground.
+9. Put two FS 1x1 upright, on the left and right buttons respectively.
+10. Put this part as is on top of the triple window.
+Bag 39. Make the column parts.
+1. Put a F 2x1 with a square clasp hor on the table.
+2. Put a F 2x1 hor on top.
+3. Stack five 2x1 fluted pieces and put them on top of the PP, flue to the front.
+4. Put a F 2x1 with the upright hook hor on top.
+5. Put a F 2x1 with two handles hor on top, handles to the front.
+6. Put a cone onto the hook, wide end up.
+7. Insert a shorter end of a stick in the bottom of a claw piece so that the clasp of the claw faces to
+the side.
+8. Repeat.
+9. Put these sticks upright, side by side, to the front of the column, inserting the clasps sym into the
+right and left handles.
+10. Repeat steps 1-9 to make four columns.
+11. Install them hor in the gaps in the front wall.
+Bag 40. Make the curtain parts.
+1. Hold a 2x1 corner piece hor, upright, so that the side buttons face upwards. Put a F 2x1 hor on
+top.
+2. Put a phone-receiver piece hor, upright, on the two front buttons.
+3. Put a 1x1 with the side button on its side, the side button to the front and the top button to the
+right, and put it to the back of the left side of the receiver piece.
+4. Repeat sym on the right.
+5. Put another receiver piece hor on top.
+6. Put a two-buttons/four-side buttons piece hor to the back, side buttons to the front. lay
+momentarily aside.
+7. Make a part. put a F 6x1 hor on the table. put a F 2x1 hor to the right.
+8. Connect by putting a F 6x1 on top, starting from the right.
+9. Put a F 2x1 hor to the left.
+10. Put a F 2x1 hor on top, on the left, skipping the leftmost button.
+11. Put a FS 1x1 on top of the left button of the PP.
+12. Put a stepped curved piece hor on top and to the right, slide to the right.
+13. Put a F 1x1 to the right.
+14. Put a FS 2x1 hor to the right.
+15. Repeat steps 7-14 to make two.
+16. Connect them, upright, ver, symm to the ends of the part made in steps 1-6, so that this part is
+on top, in the middle, and the two upright parts form the curtains at the sides ( F 1x1 upright
+buttons should face each other).
+17. Put a 1x1 button on the 1x1 corner piece. repeat.
+18. Put them symm on the upright 1x1 buttons at the sides of the curtains, so that 1x1 buttons are
+upright facing to the front, and the holes at the corner pieces are mounted on the inside buttons.
+19. Turn your part around and put a two-buttons/four-side-buttons piece hor on front, at the top, side
+buttons to the back and two buttons overhanging to the front.
+20. Repeat steps 1-20 to make two sets of curtains.
+21. Put them as is to the backs of the double and triple windows.
+22. Put a 1x1 cylinder on the rightmost button of the first step of the stairs.
+Bag 41
+1. Put four curved pieces hor over the kitchen door to make an awning, slides overhanging to the
+left.
+2. Put a 3x1 hor to the back and to the right.
+3. Put an 8x1 hor to the right.
+4. Put an 8x1 ver to the right and to the front.
+5. Put a 3x1 ver to the front.
+6. Put a F 1x1 to the front.
+7. Put a 4x2 hor to the front and to the left.
+Bag 42
+1. Put a 3x1 ver to the left of the front row of the PP and to the front (its back button overhanging to
+the back).
+2. Put a 4x1 hor to the front and to the left.
+3. Put a 3x1 ver to the left and to the front.
+4. Put an 8x1 hor to the left.
+5. Put a 6x1 hor to the left.
+6. Put an 8x1 hor to the left.
+7. Put an 8x1 ver to the left and to the back.
+8. Put a 3x1 ver to the back.
+9. Put a 2x1 from a sep bag hor to the back and to the right.
+10. Put a 6x1 hor to the right.
+11. Repeat.
+12. Make a part. stack two F 2x1 and put a F 1x1 on top.
+13. Repeat to make two such parts.
+14. Put one hor to the right of the 6x1, taller side to the left.
+15. Put a 2x1 hor to the right.
+16. Put the other part hor to the right, taller side to the right.
+17. Put a 2x1 ver to the right and to the back.
+18. Skip four buttons to the back (the awning) and put a 3x1 hor to the right.
+19. Put an 8x1 hor to the right.
+20. Put an 8x1 ver to the right and to the front.
+21. Put a 3x1 ver to the front.
+22. Put a F 1x1 from a sep bag on top of the front button of the PP.
+23. Put a 4x2 hor to the front and to the left.
+Bag 43
+1. Stack two F 2x1 from a sep bag and put ver on the rightmost back button of the PP and on the F
+1x1 to the back of it.
+2. Put a 3x1 ver to the back.
+3. Put a 6x1 ver to the back.
+4. Put a 6x1 hor to the back and to the left.
+5. Put a 2x1 hor to the left.
+6. Put a 3x1 hor to the left (leftmost button of the lower level remains free).
+7. Skip the four buttons to the front (the awning) and put a 2x1 hor to the left.
+8. Make a part. Put a F 1x1 on the lower button of a 3x1 half-arch piece.
+9. Repeat to make two such parts.
+10. Put one ver to the left of the 2x1, two buttons on the taller end overhanging to the back.
+11. Put a 2x1 hor to the left.
+12. Repeat step 10.
+13. Put a 6x1 hor to the left.
+14. Put a 2x1 hor to the left.
+15. Make a part. put a F 2x1 hor on the table. put a F 1x1 on the right button. Put a F 1x1 with the 
+clasp to the left, clasp to the left. Put a F 2x1 hor on top. Install this part ver to the left and to the
+front of the PP, clasp to the back.
+16. Put a 6x1 ver to the front.
+17. Put a 3x1 ver to the front.
+Bag 44
+1. Make a part. put a F 2x1 ver on the table. Put a F 2x1 ver to the back. Connect by putting a 6x1
+ver on top, overhanging on both ends. Install ver over the awning.
+2. Make a railing part. put a FS 3x1 hor on the table, upside down. insert three candlestick pieces in
+it, side by side, smaller end down.
+3. Repeat to make two such parts.
+4. Install one ver , right side up, to the front of the cylinder piece on the starirs.
+5. Install the other, right side up, hor, to the left of the front button of the PP.
+6. Stack two F 4x1 pieces and put hor on the back row of the top step, to the left of the stacked F
+2x1, overhanging to the left.
+Bag 45
+1. Put a 2x1 ver to the front of the leftmost button of the PP.
+2. Put a 2x1 ver to the front.
+3. Put a 2x1 hor to the left.
+4. Put a three-button corner piece to the left and to the front (letter F).
+5. Make a part. put a 1x1 button on the side button of a 1x1 piece with the side button and put this
+part to the front of the PP, side button to the front.
+6. Make a part. put a 1x1 wedge upright on the side button of a 1x1 with the side button, slide down
+and put this part to the left of the PP.
+7. Put a 6x1 hor to the left.
+8. Make a part. put a 4x1 with the side buttons on the table, side buttons to the front. Put a wedge
+on its rightmost side button, as before. Put a 1x1 button to the left. Put a wedge to the left. Put a
+1x1 button to the left.
+9. Repeat three times to make four such parts.
+10. Put one hor to the left of the 6x1.
+11. Put another hor to the left.
+12. Repeat.
+13. Repeat.
+Bag 46
+1. Make a menu-stand part. Put a F 2x1 sled piece on the table. Put a F 2x1 with one button on top.
+Put a FS 2x2 (menu sign) on top. Put a F 1x1 clasp upright on the handle. Insert a candlestick
+piece in the bottom of the clasp piece, small end first. Install this part upright, the wider end of the
+candlestick down, on the one button in the base, to the right of the front door.
+2. Make two poles for the restaurant name sign. Insert the non-rounded end of a long stick into a
+tube. Repeat. Install upright on the two stacked buttons to the right and to the left of the front wall.
+3. Make a potted-plant part. Insert a ribbed short stick into the hole in the center of a 2x2 fluted
+piece. Put a cone on top, wider end down. insert one leaf in it and four around.
+4. Repeat to make two such parts. Install on the right, behind the bench and in front of the stairs.
+Bag 47.
+1. Make a part (a start for the over-the-door awning). Put a 2x2 lip piece on the table, lips to the left
+and to the front.
+2. Put a 2x2 lop to the right, lips to the front and to the right.
+3. Connect by putting a F 4x1 with two buttons hor on top, on the back row.
+4. Install as is over the front door, on the protruding 2x1 piece, overhanging to the sides.
+5. Make the restaurant name sign part. put a F 4x1 hor on the table. put a F 1x1 clasp on the
+rightmost button, clasp to the right. repeat symm on the left.
+6. Put a two-buttons/four side buttons piece hor on top, side buttons to the front.
+7. Put two 2x1 bench pieces hor on top, seats to the back, side by side.
+8. Put a FS 4x2 piece (saying "Chez Albert Restaurant") upright on the side buttons.
+9. Hang between the two poles in front of the front door.
+Bag 48. Make the over-the-door awning.
+1. Put a F 4x4 on the table.
+2. Put a 3x1 slide ver, slide to the left, on the 2x2 left back buttons, overhanging to the left and to the
+back.
+3. Repeat symm on the right.
+4. Put a 1x1 half-pyramid piece to the front of the PP, slides to the right and to the front.
+5. Repeat symm on the left.
+6. Put a FS 2x1 on top of the two front rows.
+7. Put two FS 3x1 ver to the back, side by side, overhanging to the back.
+8. Install as is on top of the two poles and over the door.
+Bag 49 (all Flat)
+1. Put a 10x1 ver on the right wall, starting from the back.
+2. Put a 4x2 hor to the front and to the left.
+3. Put a 4x1 ver to the left of its front row and to the front.
+4. Put a 4x1 hor to the front and to the left.
+5. Put a 2x1 ver to the left and to the front.
+6. Put a 2x1 with the cornice hor to the front and to the left, cornice to the front.
+7. Put a 2x1 with the cornice hor to the left.
+8. Skip two buttons (the awning) to the left and put a 2x1 with the cornice hor to the left.
+9. Put a 2x1 with the cornice hor to the left.
+10. Put a 1x1/clasp ver to the left, clasp to the front (on the wedge).
+11. Put a 1x1 to the left.
+12. Put a 1x1/clasp ver to the left, clasp to the front (on the wedge).
+13. Repeat.
+14. Put a 1x1 to the left.
+15. Put a 1x1/clasp ver to the left, clasp to the front (on the wedge).
+16. Put a 1x1 to the left.
+17. Put a 4x1 hor to the left.
+18. Put a 2x1 with the cornice hor to the left.
+19. Put a 10x1 ver to the back.
+20. Put a 10x1 hor to the right.
+21. Repeat.
+22. Put a 4x1 ver to the right and to the back.
+23. Put a 2x1 ver to the back.
+24. Put a 10x1 hor to the back and to the right.
+25. Put a 1x1 to the right.
+Bag 50 (all Flat)
+1. Put a S 6x1 hor on the back wall, starting from the right.
+2. Put a 4x1 with two buttons hor to the left.
+3. Put a S 1x1 to the left.
+4. Put a S 6x1 ver to the front.
+5. Put a S 6x1 hor to the front and to the left.
+6. Put a S 6x1 hor to the left.
+7. Repeat.
+8. Put a S 2x1 jor to the left.
+9. Put a S 6x1 ver to the front.
+10. Repeat.
+11. Put a 4x1 with two buttons hor to the right.
+12. Put a S 6x1 hor to the right
+13. Repeat.
+14. Repeat.
+15. Put a S 2x1 ver to the right and to the back.
+16. Put a 4x1 with two buttons hor to the back and to the right.
+17. Put a S 6x1 ver to the right and to the back, overhanging on the back.
+18. Skip three buttons to the right and put a 2x1 with one button ver on the right edge of the top stair.
+19. Put a 1x1 clasp hor on top.
+20. Put a S 1x1 to the back of the PP.
+21. Put a S 2x1 ver to the back.
+22. Put a S 6x1 ver to the back.
+Bag 51
+1. Put a 3x1 to the left of the 1x1 clasp on the top step of the stairs.
+2. Make a lattice awning over the outside tables. Put a ladder piece (rungs horizontal) with its back
+rung inserted into the rightmost clasp over the triple window, so that it overhangs diagonally down
+to the front. Put the other such piece to the left the same way, but inserted into the two clasps.
+Put a half-gate piece the same way to the left, longest side to the back.
+3. Put a 1x1/clasp piece ver, clasp to the front, on the right edge of the stairs, on the cone and on
+the step behind it.
+Bag 52. Make a diagonal railing.
+1. Put a F 2x1 underneath a FS 6x1, in the middle.
+2. Put a F 2x1 sled piece hor to the right, handle to the right.
+3. Repeat symm on the left.
+4. Put a wrench onto one of the handles.
+5. Install this part ver, diagonally, claw to the back, on the stair.
+Bag 53. Make the lanterns.
+1. Put a saucer piece on top of a cylinder, curves down.
+2. Insert a stick of a claw piece on top.
+3. Repeat steps 1-2 to make three such parts.
+4. Hang on the lattice, on the front rung.
+Bag 54
+1. Turn your structure 180 degrees. Put a 1x1 flower in the middle of the creeping plant. Repeat. Put
+upright between the windows, one to the right and to the top of the other.
+2. Make a part. insert a non-rounded end of a stick into a tube.
+3. Put a short connector on the bottom, ringed end down.
+4. Put a cylinder on the bottom.
+5. Put a cylinder on top.
+6. Install on the right edge of the wall.
+Bag 55
+1. Put a small creeping plant ver on the table, buttons to the front and back. Put a 1x1 flower
+underneath a back button. Put a bone-like branch piece upright on top of the front button.
+2. Repeat to make two.
+3. Install upright on top of the large creeping plants.
+4. Put two wedge pieces inside the trash can, close the lid and put to the front of the wall, to the left
+of the larger window.
+5. Put a mouse next to it.
+Bag 56. Make a garbage container.
+1. Put four 1x1 buttons under four corners of a F 4x4 piece.
+2. Put a 4x1 ver on the left edge.
+3. Repeat on the right.
+4. Put two 1x1 pieces with the side button in the middle of the front row, side buttons to the front.
+5. Put a 2x1 staple piece hor in the middle of the back row, smooth side to the back.
+6. Put a F 4x1 ver on the right edge.
+7. Repeat on the left.
+8. Put a FS 4x1 upright, hor, on the front side buttons.
+9. Put four F 1x1 pieces on the corners.
+10. Put a 2x1 bench piece ver in the middle of the right edge, side buttons to the right.
+11. Repeat symm on the left.
+12. Put a F 4x1 ver on the right edge.
+13. Repeat on the left.
+14. Put two 1x1 pieces with the side button in the middle of the front row, side buttons to the front.
+15. Put a FS 4x1 hor on the front row.
+16. Put a FS 2x1 ver in the middle of the right edge.
+17. Repeat on the left.
+18. Put a 4x1 with two clasps hor on the back.
+19. Put a FS 4x1 hor on the front wall.
+20. Put a FS 2x1 ver, on the side buttons of the right wall.
+21. Repeat on the left.
+22. Insert the lid into the clasps.
+23. Put bones, cherries and sausages inside.
+24. Install as is to the right of the trash can.
+Bag 57
+Make a street light. Put a cylinder on top of the street light pole. Put a saucer on top, curved
+down. Turn your structure 180 degrees and install the street light in the right front corner, to the right of
+the bench.
+The end of book one!
+Parisian Restaurant Book 2
+Bag 1
+Put a F 12x2 hor, upside down, on the table.
+Put a F 10x4 hor, upside down, to the back, aligning on the right.
+Put a F 8x4 hor, upside down, to the back, aligning on the right.
+Connect by putting a F 10x1 ver, upside down, on the right edge.
+Bag 2
+Put a F 3x1 hor, upside down, to the left of the front button of the PP.
+Put a F 3x1 ver, upside down, to the left and to the back.
+Put a F 10x1 ver, upside down, to the back (overhanging to the back).
+Put a F 16x2 ver, upside down, to the left, beginning on the front edge (overhanging to the back).
+Put F 3x2 ver, upside down, to the left, beginning on the front edge.
+Put a F 3x2 hor, upside down, to the left, beginning on the front edge.
+Put a F 3x1 hor, upside down, on the back edge, to the left of the F 10x2 on the right edge.
+Bag 3
+Turn your structure right side up, so that the overhanging parts are vertical and to the front.
+Put a F 4x2 ver on the right side of the overhanging pieces.
+Put a F 4x1 ver to the left.
+Put a F 4x2 hor to the front, overhanging on the left and on the right.
+Bag 4
+Turn your structure upside down so that the protruding pieces are vertical and to the back.
+Put a F 3x1 ver on the right edge of the protruding piece.
+Put a F 2x1 ver on the left edge.
+Bag 5.
+Turn your structure right side up, so that the protruding pieces are vertical and to the front.
+Put a F 2x2 disk on top of a F 2x2. Repeat to make four such parts.
+Put one on the third and 4th rows from the back, on the second and third columns from the right.
+Skip one column to the left and one row to the back and put the second part.
+Skip two columns to the left and put the third part.
+Skip two rows from the first part to the front and put the fourth part there.
+Bag 6
+Put a 4x1 colonnade hor on the front edge.
+Put a 4x1 colonnade ver to the back of the right end of the PP.
+Stack two 1x1 pieces and put to the back.
+Skip three buttons to the right and make a part: stack two F 1x1, put a shoe piece on top and put a 1x1 on
+top. Put it there (in the corner) with the slide (toe) overhanging to the front.
+Put a 4x1 colonnade ver to the back.
+Put a 4x1 colonnade hor to the left of the back end of the PP.
+Put a 4x1 colonnade hor to the left.
+Repeat.
+Stack two 1x1 pieces and put to the front of the left end of the PP.
+Bag 7
+Make a part. Put a stump connector upright into a 2x1 F stub.
+Repeat to make two.
+Put one ver on the left back edge, on top of the 1x1 and a colonnade, button to the front.
+Put a FS 4x1 hor to the right.
+Put a FS 6x1 hor to the right.
+Put the other part ver to the right, as before.
+Put a FS 4x1 ver to the front.
+Repeat.
+Skip three buttons to the left and put a FS 4x1 ver to the front.
+Put a F 1x1 to the front.
+Put a FS 4x1 hor to the front and to the left.
+Bag 8
+Put a 2x1 chair ver on the leftmost disk, seat to the right.
+Put another chair ver on the disk to the right, seat to the left.
+Put another chair hor on the dick to the right, seat to the front.
+Put another chair hor on the dick to the front, seat to the back.
+Make a table part. Put a one-button F 2x2 piece on top of the 2x2 candlestick. Repeat to make two.
+Put in between the chairs.
+Make a side table part. Put a F 2x1 with the cornice on top of a curved 2x1. Put a bottle and a glass on
+top.
+Put ver on the left edge, on the 8th and 9th rows from the front.
+Bag 9
+Make a lantern part. Put a cone, wide side up, on the button of a stick. Put a FS 1x1 upside down on top.
+Put a 1x1 button upside down on top.
+Repeat to make two.
+Put in the back corners.
+Bag 10
+Make flower pot part. Put a three-stalk button on top of a 1x1 button.
+Put this part inside a pot.
+Put a button/clasp stick hor on top, clasp to the side.
+Put the flowers on the stalks.
+Repeat steps 1-4 to make two such parts.
+Hang on the lanterns below the cones, facing each other.
+Bag 11. Install your structure at the right back corner of the restaurant.
+Second floor.
+Bag 1 (bags 1 – 3 are all flat and upside down)
+Put a 12x2 ver on the table, on your left.
+Put a 10x1 ver on its left edge, in the middle (leaving one front and one back button free).
+Put a 10x1 hor to the back and to the right.
+Repeat symm in the front.
+Put a 16x2 hor to the right of the middle of the vertical 10x1.
+Bag 2
+Put a 12x6 ver to the right of the 12x2, underneath the horizontal pieces.
+Put a 12x6 ver to the right.
+Put a 16x8 ver to the right, aligning at the back.
+Bag 3
+Put a 10x1 hor at the back edge, to the right of the 10x1 already there.
+Put a 4x2 hor to the right and to the front.
+Put a 3x2 hor to the front, aligning at the right.
+Put an 8x2 hor in the middle, to the right of the 16x2, overhanging to the right.
+Put a 10x1 hor at the front edge, to the right of the 10x1 already there.
+Put a 4x2 hor to the right and to the back overhanging to the right.
+Put a 3x2 hor to the back, aligning at the right and overhanging to the right.
+Put an 8x2 hor at the front edge, on the right (on the protruding piece).
+Put an 8x2 hor to the back.
+Bag 4 (all flat)
+Turn your structure right side up, hor, protruding piece at the back on the right.
+Make a part. Put a 3x1 hor on the table.
+Put another 3x1 hor to the front, leaving a space of two buttons in between.
+Connect by putting a 4x1 ver on the rightmost buttons of both pieces.
+Put a 12x2 ver to the left, in the middle (overhanging equally to the back and to the front).
+Install as is onto the right of the right edge of your structure.
+Bag 5. Start the first level of the walls.
+Put a 2x1 from bag B hor on the left side of the back, skipping the leftmost button.
+Make a part. Put a F 2x1 ver on the table. Put a F 1x1 on its front button. Put a F 1x1 with the clasp to the
+back, clasp to the back. Put a F 2x1 ver on top.
+Install as is to the left and the front of the PP.
+Put an 8x1 from bag B ver to the front.
+Put a 2x1 ver to the front.
+Put a wedge from bag B to the right, on the front edge, slide to the front.
+Repeat.
+Put a F 2x1 from bag B hor to the right.
+Repeat.
+Put two more wedges as before.
+Put a F 3x1 ver to the right and to the back.
+Put a F 2x1 from bag B hor to the right, at the front edge.
+Repeat.
+Put a F 3x1 ver to the right and to the back.
+Put two more wedges.
+Put a F 2x1 from bag B hor to the right.
+Repeat.
+Put two more wedges.
+Put a 2x1 ver to the right and to the back.
+Put a 2x1 from bag B ver to the back.
+Put a 2x1 hor to the back and to the right.
+Put an etched 2x1 from bag B ver to the back of its right button.
+Put a 2x1 hor to the back and to the left.
+Put a 2x1 from bag B ver to the back.
+Put a 2x1 ver to the back.
+Put a 2x1 from bag B to the left of its back button.
+Put a grate hor to the left.
+Repeat.
+Put a 3x1 from bag B hor to the left.
+Put a 1x1 from bag B to the front of its leftmost button.
+Make a part. Stack two F 2x1 pieces from bag B. Put a F 2x1 with the vertical clasp on top.
+Repeat to make two.
+Install one ver, clasp to the front, to the left and to the back of the PP.
+Put a wedge from bag B to the left of the front button of the PP, slide to the back.
+Put another wedge to the left the same way.
+Install the other part to the left as before.
+Put a 1x1 to the left of its front button.
+Put a 3x1 from bag B hor to the back and to the left.
+Put a F 8x2 hor inside the front left corner.
+Skip one button to the right and put a F 4x2 hor there.
+Skip one button to the right and put a F 8x2 hor there.
+Skip one button to the back of its rightmost button and put a F 4x1 with two buttons ver there.
+Bag 6
+Put a F 4x1 ver on top.
+Put a 2x1 bench piece (fire screen) ver on top, in the middle, seat to the right.
+Put two cylinders ver to the right, side by side.
+Put a FS 2x2 inside the front left corner (on top of the F 8x2).
+Put a F 4x1 with two buttons hor to the right of its back button.
+Put a FS 2x2 to the right and to the front.
+Put a F 3x1 ver to the right and to the front.
+Skipping two buttons to the left, put a F 4x2 hor on the front two rows, between the two pairs of wedges.
+Skipping three buttons to the right, put a F 4x2 from a sep bag ver on the first three rows, overhanging to
+the front.
+Put a F 4x2 from a sep bag ver to the right.
+Repeat steps 18-8 symm on the right: put a F 3x1 ver to the right; put a FS 2x2 to the right; put a F 4x2
+with two buttons hor to the right at the back; put a F 4x2 hor to the front; put a FS 2x2 to the right at the
+back.
+Bag 7
+Make the second level of the left wall. Put a 1x1 with the side button on the left front corner, side button
+to the front. Put a FS 1x1 upright on the side button.
+Put a 4x1 ver to the back of the 1x1.
+Put a 6x1 ver to the back.
+Put a 2x1 hor to the back and to the right (starting the second level of the back wall).
+Put a 1x1 to the right.
+Skip four buttons to the right and put a 2x1 hor there.
+Put a 2x1 ver to the right and to the front.
+Put a 1x1 to the right of its back button.
+Skip two buttons to the right and put a 1x1 there.
+Put a 2x1 ver to the right and to the front.
+Put a 2x1 hor to the right of its back button.
+Skip four buttons to the right and put a 1x1 there.
+Put a 2x1 hor there.
+Put a 4x1 ver to the front (starting second level of the right wall).
+Put a fire to the front.
+Put an etched 2x1 ver to the right and to the back.
+Put a 2x1 ver to the front.
+Put a 4x1 ver to the left and to the front.
+Put a 1x1 with a FS 1x1 on its side button to the front, FS to the front.
+Make a part. Put a 1x1 button on top of a F 1x1. Repeat.
+Put these parts on the front row, to the left and to the right of the two vertical F 4x2 in the front.
+Put a FS 4x1 hor along the back edge of the same two F 4x2.
+Put flowers (some on top of the others) in the front row, on the left and on the right, between the pairs of
+wedges.
+Put two cylinders at the front and the back ends of the fire screen.
+Bag 8
+Stack another cylinder on top of each of the cylinders in the previous step.
+Make level three of the left wall. Put a 2x1 ver, starting at the front.
+Put an 8x1 ver to the back.
+Put a 2x1 ver to the back.
+Put a 2x1 from a sep bag hor to the right.
+Skip four buttons to the right and put a 4x1 hor.
+Put a 1x1 to the front of its third button from the left.
+Put a 2x1 staple piece hor to the right of the 4x1, smooth side to the back.
+Put a 4x1 hor to the right.
+Put a 1x1 to the front of its second button from the left.
+Skip four buttons to the right from the 4x1 and put a 2x1 from a sep bag hor there.
+Put a 2x1 ver to the right and to the front.
+Put a 2x1 from a sep bag ver to the front.
+Put a 2x1 hor to the front and to the right.
+Put a 2x1 ver to the front.
+Put a FS 1x1 upright on the side button of a 1x1 with the side button and put to the front of the PP, FS
+upright piece to the right.
+Put a 3x1 ver to the left and to the front.
+Put a 2x1 ver to the front.
+Put two cylinders on the two buttons at the side of the front entrance, in the middle of the front row.
+Put two tall 2x1 ver to the backs of the two PPs.
+Bag 9
+Make a part. Put a cup on a F 2x2. Put a 2x2 candlestick piece underneath. Install touching the inside of
+the front wall, on the 6th and 7th columns from the left, on the 3rd and 4th rows fro, the front.
+Make a part. Stack two 1x1 buttons. Put on a F 2x2 with one button. Put a FS disk on top. Install to the
+right of the previous part.
+Make a part. Put a FS 2x1 on top of a curved 2x1. Install ver on the right, skipping two columns to the
+left of the fireplace and two rows back from the inside edge of the front wall.
+Bag 10. Make an armchair.
+Put a F 2x2 with the holes on the table, orienting it like a diamond.
+Put a F 2x2 disk inside, orienting it like a square.
+Put a F 2x1 hor on the front row, its corners overhanging over the base diamond.
+Put a F 2x1 with the handle hor to the back, handle to the back.
+Put a F 2x1 with the side buttons ver on the left, buttons to the left.
+Repeat symm on the right.
+Put a FS 2x1 upright, hor, on the side buttons of the PP.
+Repeat on the left.
+Make a back-of-the-chair part. Put a F 2x2 on the table, buttons up. Put a F 1x1 with the clasp on the left
+front, clasp to the left. Put another clasp to the back, as before. Put a F stepped 2x2 on top of your part.
+Install it upright at the back of the chair, putting the clasps into the handle.
+Install the armchair to the left of the tiny table made in step three of bag 9, the back of the chair diagonally
+to the front and to the left, and one corner touching the table.
+Bag 11. Make an oven part.
+Insert a door into the door hinges of the box.
+Put a F 2x2 disk underneath the box.
+Put four 1x1 buttons on top.
+Put a frying pan on top.
+Install next to the left wall, skipping two rows to the front of the back wall, the door to the right.
+Bag 12. Make a counter part.
+Insert two drawers into the box.
+Put a F 3x2 underneath.
+Put three FS 2x1 ver on top, side by side.
+Install to the front of the stove, drawers to the right.
+Bag 13.
+Start the 4th level. Put a FS 1x1 upright on the side button of a 1x1 with the side button and put on the
+front end of the left wall, as before.
+Put a 4x1 ver to the back.
+Put a 2x1 hor to the back and to the right.
+Put a 1x1 to the back.
+Put 4x1 ver to the back.
+Put a 2x1 from a sep bag hor to the back and to the right. Put a 1x1 to the right.
+Skip four buttons to the right and put a 2x1 hor to the right.
+Put a 2x1 ver to the right and to the front.
+Put a 4x1 hor to the right.
+Put a 2x1 ver to the right and to the front.
+Make a lantern part. Put a F 1x1 upside down on the wide end of a cone. Put a 1x1 button upside down
+on top. Insert a handle of a 1x1 with the handle into the narrow end of the cone. Install to the right of the
+PP, cone to the back.
+Put a 1x1 to the right.
+Skip four buttons to the right and put a 1x1 there.
+Put a 2x1 from a sep bag hor to the right.
+Put a 4x1 ver to the front.
+Put a 2x1 from a sep bag ver to the right and to the front.
+Put an etched 2x1 ver to the front.
+Put a 4x1 ver to the front.
+Put a 1x1 with the FS 1x1 on its side button to the front, as before.
+Make the-top-of-the-fireplace part. Put two F 2x1 with the cornice on top of a 4x1 arch. Install ver on tops
+of the cylinders at the fireplace, cornices to the left.
+Bag 14
+Start the 5th level on the left wall. Put a 2x1 from a sep bag ver on the front end of the left wall.
+Put an 8x1 ver to the back.
+Put a 2x1 from a sep bag ver to the back.
+Make a part. Stack two F 2x1 pieces. Put a F 1x1 on the left button. Install hor to the right.
+Skip four buttons to the right, stack two F 1x1 pieces and put there (it will be lower then the next piece).
+Put a 3x1 hor to the right.
+Put a 6x1 hor to the right.
+Skip four buttons to the right and put a 2x1 hor there.
+Put a 2x1 from a sep bag ver to the right and to the front.
+Put a 2x1 ver to the front.
+Put a carved-out 2x2 to the front and to the right, carved-out corner to the left and to the back.
+Repeat symm to the front.
+Put a 2x1 ver to the front.
+Put a 2x1 from a sep bag ver to the front.
+Put a 2x1 from a sep bag ver to the right of the two carved-out pieces, in the middle of the right-wall
+protrusion.
+Put a FS 1x1 upright on the side button of a 1x1 with the side button and install to the back of the PP, FS
+side button to the right.
+Make another such part and put to the front of the ver 2x1 (skipping two buttons to the front of the PP),
+FS side button to the front. Put two 1x1 pieces on the back wall onto the 1x1 columns to the left and right
+of the clasps respectively.
+Bag 15. Make a floor lamp.
+Put a saucer piece, rim down, on top of a F 2x2 with one button.
+Put a stick upright on top, wide end up.
+Put a shade piece on top, wide rim down.
+Install inside the right back corner.
+Bag 16
+Make a part. Put a F 2x1 hor on the table. Put a F 1x1 on its left button. Put a F 2x1 ver on its right button,
+overhanging to the front. Put a F 2x1 hor on top of its back button and on top of the 1x1. Install ver,
+overhanging side to the right, on the front of the left wall, skipping the front button.
+Put an 8x1 ver to the back.
+Put a 2x1 from a sep bag hor to the back and to the right.
+Skip six buttons to the right and put a 1x1 there.
+Make a part. Put a F 2x1 hor on the table. Put a F 1x1 on its rightmost button. Put a F 2x1 hor to the left,
+overhanging to the left. Put a F 2x1 hor on top, skipping the leftmost button. Put ver, overhanging side to
+the back, to the right, back and front of the PP, overhanging to the back.
+Put a 4x1 hor to the right.
+Put a 2x1 ver to the right and to the front.
+Put a 2x1 hor to the right.
+Skip four buttons to the right and put a 1x1 there.
+Put a 2x1 from a sep bag hor to the right.
+Put a 4x1 ver to the front.
+Put an etched 2x1 ver to the right and to the front.
+Put a 2x1 from a sep bag ver to the front.
+Put a 2x1 ver to the left and to the front.
+Make a part. Put a F 2x1 hor on the table. Put a F 1x1 on its right button. Put a F 2x1 ver to the left
+overhanging to the front. Put a F 2x1 on top of its back button and the 1x1. Install ver, overhanging side
+to the left, to the front of the PP.
+Bag 17
+Make a part. Put a F 1x1 on the bottom button of a three-button half-arch. Repeat to make two.
+Put one ver, taller end overhanging to the back, on the third button from the left on the back wall.
+Skip four buttons to the right and repeat.
+Make a part. Put a FS 1x1 upright on the side button of a 1x1 with the side button. Repeat to make two.
+Put one on the front end of the left wall, as before.
+Put the other on the front end of the right wall, as before.
+Bag 18. Make the bed part.
+Put a F 5x4 with the handles ver on the table, handles to the back.
+Make a quilt on the front 4x4 space, putting four FS 2x1 pieces hor on the left side, and four on the right,
+alternating the pieces from the common and from the sep bags.
+Put a FS 1x1 on the leftmost button of the 5th row.
+Repeat symm on the right.
+Put a F 2x1 with the cornice hor in the middle, on the 6th row, cornice to the back.
+Turn your part upside down, the handles still to the back.
+Put four F 2x2 with longish buttons of the front 4x4 space, smooth side up.
+Put a F 1x1 on the leftmost button of the 5th row, upside down.
+Repeat symm on the right.
+Put a F 2x2 with longish buttons in the middle and to the back, smooth side up.
+Turn right side up.
+Put a FS stepped 2x1 ver on the second column from the left, on the 5th and 6th rows, slide to the front.
+Put another such piece the same way to the right.
+Install as is to the front of the back wall, inserting the handles into the clasps.
+Put a tall 2x1 slide ver in the middle of the fireplace, in the gap in the right wall, slide to the left (on top of
+the carved-out pieces).
+Bag 19
+Make a microwave part. Put the box ver on the table, the opening to the right. Insert the door so that it 
+opens to the front and to the right. Put a FS 3x1 ver on its right column. Put a FS 1x1 in the front left and
+in the back left corners.
+Install as is inside the left wall, over the counter.
+Put two tall 2x1 pieces ver to the sides of the front entrance, on tops of the other two tall 2x1 pieces.
+Bag 20
+Put a 1x1 on the front button of the right PP.
+Put a 2x1 lip hor to the back and to the right, lip overhanging to the right.
+Repeat steps 1-2 symm on the left.
+Put a 2x1 ver on the front end of the left wall.
+Put a 3x1 ver to the back.
+Put a 2x1 hor to the back and to the right (on top of the microwave).
+Put a 4x1 ver to the back.
+Make a part. Put a F 2x1 hor on the table. Put a F 1x1 on its right button. Put a F 1x1 with the clasp to the
+left, clasp to the left. Put a F 2x1 hor on top. Install ver to the back of the PP, clasp to the back.
+Put an 8x1 hor to the right.
+Put a 6x1 hor to the right.
+Put a 6x1 arch hor to the front.
+Put an 8x1 hor to the right of the 6x1 in step 10 (on the back wall).
+Put a 2x1 ver to the right and to the front.
+Put a 2x1 from a sep bag ver to the front.
+Put a 2x1 hor to the front and to the right.
+Make two FS-upright/side button parts and put them to the front of the right button of the PP, FS pieces to
+the right (on the protrusion).
+Put a 2x1 hor to the front and to the left.
+Put a 2x1 from a sep bag ver to the front.
+Put a 2x1 ver to the front.
+Bag 21. Make doors.
+Put a door frame hor on the table.
+Insert a door so that it opens to the front and to the left.
+Put a button for the handle.
+Put a 4x1 hor on top.
+Install in the left gap of the back wall, on the second row from the back.
+Do the same in the right, except the door should open to the back and to the left.
+Bag 22
+Make a part. Insert a connector in a tube. Put another tube on. Put a short connector into the other end of
+this tube, ring end up. Put a button on top.
+Repeat to make two.
+Install upright, on the sides of the front entrance, on top of the two cylinders in the front row. Put two 2x1
+shoe pieces to the back of each of the PPs, slides to the back.
+Bag 23.
+Make the front door and install it so that it opens to the back and to the right.
+Bag 24
+Make a part. Put a 1x1 with the side button on the table, side button to the front. Put a 1x1 with the side
+button and the cornice to the front, cornice to the front. Put a FS 1x1 upright on its side button.
+Repeat to make two.
+Put as is on tops of the pillars at the sides of the front entrance and to the back.
+Put two F 2x1 with the cornices hor in the middle, on top of the door, cornices to the front.
+Bag 25. Make the window parts.
+Put a stepped 2x1 with side buttons on the table, side buttons to the left.
+Put another such part to the right, symm.
+Connect by putting a F 2x2 in the middle.
+Put a FS 2x1 hor on the left end of the back row.
+Repeat on the right. Lay momentarily aside.
+Insert the panes into four window frames. Make two stacks of two.
+Put the stacks hor on the front row of your part. Lay momentarily aside.
+Make a part. Put a F 2x1 with the cornice hor on the table, cornice to the front.
+Put another such piece the same way to the right.
+Connect by putting a 3x1 hor on top, starting from the right.
+Put a 2x1 hor to the left, overhanging to the left.
+Put another F 2x1 cornice hor underneath, protruding to the left.
+Put a F 1x1 to the back of the protruding end.
+Connect by putting a 2x1 ver on top.
+Put a FS 6x1 hor on top.
+Put a FS 1x1 on the left back button.
+Install upright, ver, the protruding end to the back, on the left of the window.
+Make the same part, except it is for the right:
+Put a F 2x1 with the cornice hor on the table, cornice to the front.
+Put another such piece the same way to the right.
+Connect by putting a 3x1 hor on top, starting from the left.
+Put a 2x1 hor to the right, overhanging to the right.
+Put a cornice piece hor underneath, protruding to the right.
+Put a F 1x1 to the back.
+Connect by putting a 2x1 ver on top.
+Put a FS 6x1 hor on top.
+Put a FS 1x1 on top of the right back.
+Install symm on the right.
+Repeat steps 1-6 to make two such windows.
+Install in the gaps in the front wall.
+Bag 26. Make the over-the-window arch parts.
+Make a part. Put a F 4x2 hor on the table.
+Put a F 2x1 with one button hor in the middle of the back row. Put two 1x1 at the sides.
+Put a F 1x1 in the middle, on the 2x1 with one button.
+Put a corner piece with the hole on top, hanging to the back.
+Put a button upright in the hole at the back of it.
+Put two 1x1 with the side buttons at the front corners, side buttons to the front.
+Put a 2x1 with the arch on top of the middle, arch to the back.
+Put a F 6x2 hor on top, overhanging equally to the sides. Lay momentarily aside.
+Make a part. Put a 2x1 with the cross-hole hor on the table. Insert a ridged end of a connector into a
+cross-hole, protruding to the back. Put a 2x1 with a round hole on the other end of the connector.
+Repeat to make two such parts.
+Rotate your arch part so that the arch is to the front.
+Install the two parts just made, as is, to the right and to the left, under the overhanging ends of the F 8x2.
+Put a FS 8x1 upright, hor, at the back wall, smooth side to the back.
+Repeat steps 1-8 to make two.
+Install over the windows, as is.
+Bag 27
+Rotate your structure front to back.
+Put a FS 3x1 hor on the right end of the front wall.
+Skip four buttons to the left and put a FS 3x1 hor there.
+Put a FS 4x2 to the left and to the back.
+Put a FS 3x1 hor to the left, on the front wall.
+Put a FS 4x2 hor to the left and to the back.
+Put a FS 3x1 hor to the left, on the front wall.
+Put a FS 8x1 ver to the back.
+Put a FS 2x2 to the back and to the right.
+Put a FS 1x1 to the back of its left row.
+Put a FS 6x1 hor to the right of the back button of the FS 2x2, on the back row of the back wall.
+Put a fs6x1 hor on the left of the back wall Put a FS 8x1 hor to the right.
+Put a FS 6x1 hor to the right.
+Put a FS 2x2 to the right and to the front.
+Put a FS 1x1 to the back of its right row.
+Put a FS 1x1 to the front of its right row
+Put a F 4x1 with two buttons ver to the front.
+Put a FS 3x1 ver to the front.
+Put a F 4x1 with two buttons ver to the left of the left wall, on the protrusion.
+Make a part. Put a F 4x2 hor on the table. Put a colonnade hor on its front row. Put a FS 4x1 hor on top.
+Install in front of the right-side door. Put the 2 fs1x1s from a sep bag over the back door.
+Bag 28
+Put the stair on the table, leading up to the right. Put a 2x1 curved piece ver on top of the stairs, in the
+middle, on the short step. Install the stair in the middle of the front wall, as is, left (bottom) step resting on
+the rightmost row of the F 8x4 platform in front of the left door.
+Bag 29
+Make a part.
+Stack two F 1x1 pieces.
+Put a 1x1 with the clasp on top, clasp to the right.
+Put a 1x1 clasp on top.
+Put a colonnade hor to the right, the clasp inserted onto the leftmost pillar.
+Put this part hor on the front row of the F 8x4, placed hor on the table, skipping the leftmost button.
+Stack two 1x1 pieces and put to the right of the colonnade.
+Put another colonnade ver to the right and to the back.
+Install as is to the right of the stair, over the right door, resting on the left on the curved 2x1.
+Bag 30
+Stack two 1x1 pieces and put on the front row of the F 8x4 platform in front of the left door, skipping one
+button from the left edge.
+Put a colonnade hor to the right.
+Put a 1x1 to the right.
+Put a 1x1 with the upright clasp hor to the right, clasp to the left, on top of it and on top of the bottom step.
+Go to the top of the front wall, on the right (to the back of the balcony). Put a FS 3x1 ver on it, skipping
+three buttons from the right, protruding to the back and to the front.
+Put a grate piece hor to the left of its front button.
+Put a FS 2x2 to the back.
+Put a FS 3x1 ver to the left and to the front.
+Bag 31. Make a stair-railing part.
+Put a F 6x1 hor on the table.
+Put a F 4x1 hor to the right.
+Connect by putting a F 6x1 hor on top, in the middle (leaving two buttons free both on the left and right).
+Put a F 2x1 sled piece hor to the right, handle to the right.
+Repeat symm on the left.
+Put a FS 4x1 hor on top of the right end.
+Put a FS 6x1 hor to the left.
+Insert a claw clasp from the right into the right handle.
+Install as is on the stair diagonally.
+Bag 32
+Put a FS 4x1 hor on the bottom railing, starting on the left.
+Put a F 1x1 to the right.
+Put a FS 6x1 hor on the top (balcony) tailing, starting on the left.
+Put a FS 4x1 ver to the right and to the back.
+Bag 33. Make a pole part.
+Connect two sticks with a candlestick piece. Install upright (wider end of the candlestick to the bottom)
+onto the clasps on the right corner of the front wall. Put a cone on top, wider end up.
+Bag 35. Rotate your structure so that the front entrance is at front. Put a FS 4x1 on top of a colonnade
+and put hor in the middle of the front wall, in front of the door.
+Put your structure on top of the first floor.
+End of Book 2.
+Parisian Restaurant book 3
+Bag 1 (upside down)
+Put a F 12x6 ver on the table.
+Put another such piece the same way to the right.
+Bag 2 (upside down)
+Connect by putting a F 10x1 hor on the back edge, starting from the left.
+Put a F 10x2 ver to the front, on the left edge.
+Put a F 10x1 hor to the front and to the right.
+Put a F 3x2 hor to the right of the 10x2, in the middle.
+Put a F 10x2 hor to the right (overhanging on the right).
+Bag 3 (upside down)
+Put a F 12x6 ver to the right of the right edge of your structure (partially underneath the PP).
+Put a F 12x6 ver to the right.
+Bag 4 (upside down)
+Connect by putting a F 10x2 hor to the right of the 10x2 in the middle (overhanging on the right).
+Put a F 10x1 hor on the front edge, to the right of the 10x1.
+Put a F 4x1 hor to the right.
+Put a F 3x2 ver to the back, on the right edge.
+Put a F 4x1 hor to the back, to the right and to the left (overhanging on the right).
+Skip two buttons to the back and put a F 4x1 hor as before.
+Put a F 3x2 ver to the back, on the right edge.
+Put a F 4x1 from a sep bag ver underneath the overhanging four buttons on the right. Put a 4x1 behind
+the pp. Put a f10x1 to the left of the pp.
+Bag 5
+Turn your structure right side up, so that the protruding end is to the right.
+Put a 2x1 ver on the right edge, skipping two buttons from the front.
+Put a 2x1 from a sep bag hor to the back and to the right.
+Put 2 1x1 cylinders ver to the back of its left button.
+Put an etched 2x1 ver to the right, vertical etchings to the right.
+Put a 2x1 from a sep bag hor to the back and to the left.
+Put a 2x1 hor to the back and to the left.
+Put a 1x1 to the back of its right button.
+Put a 2x1 from a sep bag ver to the back.
+Put a 3x1 ver to the left and to the front.
+Put a 1x1 wedge to the left of its back button, slide to the back.
+Put a F 2x1 with one button ver to the left and to the front.
+Put a F 2x1 with one button ver to the left.
+Repeat.
+Repeat.
+Put a wedge to the left of its back button, as before.
+Put a wedge to the left.
+Put four more F 2x1 one-buttoned pieces to the left, as before.
+Put another wedge to the left, as before.
+Bag 6
+Make a part. Put a F 3x2 ver on the table. Put a F 2x1 with one button ver on the right edge, starting at
+the front. Put another such piece ver to the left.
+Repeat to make four such parts.
+Put a 1x1 on the third column from the right, on the second row from the back (to the front of the wedge).
+Put one of your pieces as is to the left and to the back, overhanging to the back.
+Put another the same way to the left.
+Put a 2x1 hor to the left, in front of the wedges.
+Put two more parts the same way to the left.
+Put a 1x1 to the left, to the front of the wedge.
+Put a 3x1 ver to the left, to the front and to the back.
+Put a 2x1 from a sep bag ver to the left, starting at the back edge.
+Put a 1x1 to the front.
+Put a 3x1 hor to the front, to the right and to the left.
+Put a grate piece from a sep bag hor to the left and to the back, touching corners with the PP (on the third
+row from the back, on the 6th and 7th columns from the left).
+Put another grate from a sep bag hor to the left.
+Put a 1x1 slide ver on the left back corner, overhanging to the back.
+Put a 1x1 with the side hole to the front, hole to the right.
+Put a 1x1 to the front.
+Put a 3x1 hor to the front and to the right.
+Put a 6x1 ver to the front, on the edge.
+Make a part. Put a 1x1 with the side button on the table, side button the left. Put another such piece the
+same way to the front. Connect by putting a grate upright, hor, on the side buttons.
+Repeat to make two.
+Put one, as is, ver on the second column from the right, on the 5th and 6th rows from the front.
+Put the other such part ver to the back.
+Insert a flame to the right, into the front 1x1 cylinder, blowing to the back.
+Bag 7
+Put a 3x1 ver on the right wall, on top of the front 2x1.
+Put an etched 2x1 ver to the right.
+Skip two buttons to the back and put a 3x1 ver there.
+Put a 2x1 from a sep bag ver to the right and to the front.
+Put a 2x1 from a sep bag ver to the back of the same 3x1 (on the back corner of the right wall).
+Put a F three-button corner piece to the left, letter J.
+Put a F 10x1 hor to the left, on the back wall.
+Put a F three-corner piece to the left and to the back, letter H. Put a f2x1 ver in front of the right column of
+the h.
+Put a F 2x1 ver to the front of its left side.
+Put ten flower pieces on the protruding end to the back of the back wall, some of the flowers on top of the
+others.
+Bag 8
+Put an 8x1 ver on the left wall, starting from the front (that is, on the second level, not from the front
+edge).
+Put a 2x1 from a sep bag ver to the back.
+Put a 2x1 hor to the right of its second button from the back of the same 8x1 piece.
+Skip four buttons to the right and put a 1x1 there.
+Put a 2x1 ver to the right and to the back.
+Put a 2x1 from a sep bag ver to the back.
+Put a F 2x1 with one button ver to the right.
+Put a F 2x1 with one button ver to the front.
+Put a F 2x1 with the cornice hor to the right and to the back, touching corners with the PP, cornice to the
+back.
+Put five more such pieces hor to the right, cornices to the back.
+Put two F 2x1 with one buttons ver to the right, as before.
+Bag 9
+Make a part. Put a 2x1 with the vertical clasp ver on the table, clasp to the back. Put a F 1x1 to the front.
+Connect by putting a F 2x1 with one button ver on top.
+Repeat to make two.
+Install one, as is, on top of the two PPs, and the other symm on the left.
+Put three S 4x1 benches hor in between the two PPs, on the back wall, seats to the front.
+Bag 10
+Put a 2x1 from a sep bag ver on the right wall, starting from the front.
+Put a 2x1 hor to the back and to the right.
+Put a 2x1 ver to the back of its right button.
+Put a FS 1x1 upright on the side button of a 1x1 with the side button and install to the back, FS piece to
+the back.
+Put a 1x1 to the left.
+Make a part. Put a F 2x1 ver on the table. Put a F 1x1 on its front button. Put a F 2x1 hor to the back,
+overhanging to the left. Put a F 2x1 ver on top. Install as is to the back of the PP.
+Put a 2x1 ver to the back.
+Skip thirteen buttons to the left and put a 2x1 ver on the partition wall, starting from the back.
+Make a part. Put a F 2x1 ver on the table. Put a F 1x1 on its front button. Put a F 2x1 hr to the back,
+overhanging to the right. Put a F 2x1 ver on top. Install as is to the front.
+Put a 1x1 to the left of its front button.
+Skip four buttons to the left and put a 3x1 hor there.
+Put a 6x1 ver to the front of its leftmost button.
+Put a 1x1 to the back of the same leftmost button.
+Put a 2x1 ver to the back.
+Bag 11. Make a part.
+Put a F 8x1 with wide cornice hor on the table, cornice to the front.
+Put a 2x1 ver on the left edge.
+Repeat on the right.
+Put six 1x1 with the cornice in between, cornices to the front.
+Put an 8x1 hor on top.
+Put a 1x1 corner piece to the front of its left button, seat to the front and to the right.
+Repeat symm on the right.
+Put a 1x1 with the side button (from the sep bag on its back, cornice upright at the back. Insert it this way
+into the side button of the rightmost 1x1 piece with the side button.
+Repeat five more times to the left.
+Insert six “check mark-shaped” leaves into the six buttons on top of the six PPs, so that they overlap in
+the fence-like pattern (horizontally, but a little askew, each left-side leaf to the front, and right-side leaf to
+the back).
+Put a F 8x1 with the wide cornice hor on top, cornice to the front.
+Put a FS 8x1 upright, hor, on the upright buttons on the front wall.
+Repeat steps 1-12 to make two more such parts.
+Install as is on the front wall, side by side.
+Bag 12
+Put four F 6x2 hor on top of the front wall, side by side.
+Bag 13. Make decoration part.
+Put a F 8x2 hor on the table.
+Put a F 2x1 with the upright clasp hor on the front row, skipping two buttons from the left, clasp to the left.
+Put another such piece the same way to the back.
+Repeat steps 2-3 symm on the right.
+Put a F 2x2 on top, in the middle.
+Put a 1x1 with the side clasp on the front left corner, of your part, clasp to the front.
+Repeat symm on the right.
+Put a 2x1 stepped piece hor on top, slide to the left.
+Repeat symm on the left.
+Put a F 2x1 with one button hor on the front row, in the middle.
+Put a FS 2x1 hor to the back.
+Put a F 1x1 in the middle of the front row.
+Put a 1x1 with the side button on top, side button to the front.
+Put a FS 1x1 on top. Lay momentarily aside.
+Put a 2x2 with the arch on the table, arch to the front.
+Put a F 2x1 with the handle ver on the left, handle to the left.
+Put a 1x1 hammer piece ver on the right front button, slide to the right.
+Repeat on the back.
+Put a F 2x1 with the handle ver underneath the two PPs, handle to the right.
+Put a FS 2x2 on top.
+Install upright, ver, slides to the top and to the left, on the left side of your decoration part.
+Make a symm a – g part for the right side and install.
+Put one croissant piece on the left end, curving to the top and to the right.
+Repeat symm on the left.
+Fold the shell and install upright in the middle, flat side to the bottom.
+Repeat steps 1-19 to make two.
+Install on hor on the left end of front wall, skipping the leftmost button.
+Repeat symm on the right.
+Bag 14
+Make a part. Put a F 2x1 hor on the table. Put a 2x1 hor on top. Put a 3x1 half-arch ver on top of the left
+button, overhanging to the front. Repeat to the right.
+Repeat to make two such parts.
+Rotate your structure front to back.
+Put a S 4x1 bench hor to the front of the back wall, on the left end, skipping one button from the left wall,
+seat to the back.
+Put one of your parts as is to the right and to the front.
+Skip six buttons to the right and put the other part there.
+Put a F 2x1 with one button hor on the third row from the back wall, in the middle (skipping two columns
+to the center from each half-arch).
+Bag 15
+Put a FS 2x2 on this part, on the lower level of the right-side half-arch (to the back of the 2x2, to the front
+of the slide).
+Put a 2x1 ver to the left of its back row and to the back of it (to the left of the slide).
+Repeat steps 1- 2 symm on the left.
+Make a “picture” by putting two FS 2x1 pieces and four FS 1x1 pieces on top of a F 4x2. Install the picture 
+upright, hor, to the left of the left-side half-arch, sliding it between the back wall and the bench piece.
+Put the palette piece on top of the table and install under the left-side half-arch, skipping one button to the
+front from its foundation.
+put a fs2x1 hor at the left corner of the back wall, to the front of the slide, repeat symm at the right.
+Bag 16
+Make a part. Put one F 2x1 with one button piece ver on top of another, also vertical. So that the top one
+overhangs to the front.
+Repeat to make four such parts.
+Put them ver n the middle of the back wall, side by side, so that they overhang to the front.
+Put two 2x1 pieces ver at the sides, on top of the other two 2x1 pieces.
+Put two 2x1 with the upright clasp ver on top of the upper level of the left-side half arch. Side by side,
+clasps to the back.
+Repeat on the right.
+Bag 17. Make an easel part.
+Stack two F 2x1 and put hor on the table.
+Put a F 1x1 on the left.
+Put a F 1x1 with a F clasp on the right, clasp to the right.
+Put a pew piece hor on top, seat to the front.
+Insert the connector of a F 2x2 with the connector on the bottom to the pew.
+Insert a brush into the clasp, upright.
+Put a F 2x2 with feet on top, feet to the front.
+Put the FS pieces on top of a F 4x2 to make a picture and put on top.
+Swivel upright to look like an easel and install to the right of the palette table and to the back.
+Bag 18.
+Insert the lattice pieces into the two window frames.
+Install side by side in the middle of the back wall.
+Make a part. Put two 2x1 ver on the table, with the distance of four buttons in between. Connect by
+putting a 6x1 arch on the back buttons of the both PPs. Put a F 2x1 with the handle hor on top, in the
+middle, handle to the back. install as is on the back wall, over the windows.
+Bag 19
+Make a part. Stack two F 6x1 pieces. Put a F 2x1 hor on top, in the middle. Put two F 1x1 underneath the
+corners. Install hor to the front of the PP.
+Bag 20
+Put four S 2x1 stepped pieces hor on top of the window, to make it rounded.
+Make a part. Insert a narrow end of a cone into the bottom of a 1x1 piece with the upright clasp. Install so
+it is to the back of the back wall, in the middle, over the window.
+Put a 4x1 arch ver in the middle of the left wall, to bridge the gap.
+Put a F 2x1 ver in the middle of the PP.
+Bag 21
+Put a 2x1 ver on the left wall, skipping two buttons from the front.
+Skip four buttons to the back and put a 2x1 ver there.
+Put an etched 2x1 ver on the front end of the left-wall protrusion.
+Put a FS 1x1 upright on the side button of a 1x1 piece with the side button and put to the back, FS piece
+to the left.
+Put a FS 1x1 upright on the side button of a 1x1 piece with the side button and put to the back, FS piece
+to the back.
+Put an 8x1 ver on the right wall, skipping two buttons from the front.
+Put a 1x1 to the left of its second button from the front.
+Put a 1x1 with the handle to the left, handle to the front. Put a 2xx1 ver on the wall to the left of the grates,
+skipping 2 buttons to the back. Put a 1x1 to the right of the pp's back button. Put a 1x1 to the front of
+the pp.
+Bag 22
+Put a 3x1 hor on top of the 1x1 with a handle and to the right, on the 8x1 on the right wall.
+Put a 1x1 to the front of its rightmost button.
+Put a 6x1 ver to the back of the same button.
+Put a 3x1 ver on the left wall, skipping two buttons from the front.
+Skip two buttons to the back and put a 3x1 ver there.
+Put a 1x1 piece with the side button on the front button of the left-wall protrusion? Side button to the left.
+Put a 1x1 with the side button to the back as before.
+Put a FS 2x1 upright, hor, on both side buttons.
+Put a 2x1 ver to the back.
+Put 2 f2x1s hor on the two front buttons of the arches with the horizontal clasps, one f2x1 per arch. GO to
+the wall to the left of the grates, put a 2x1 hor on the vertical 2x1 and it's 1x1to the right, and put a 1x1 on 
+the front button of the 2x1.
+Bag 23. Make a closed fireplace part.
+Put a f 4x1 hor on the table.
+Put a F 1x1 on the leftmost button.
+Put a F 1x1 with the F clasp on the rightmost button, clasp to the front.
+Put a 1x1 with the hole on top, hole to the front.
+Repeat on the left.
+Put a F 1x1 on top.
+Put a F 1x1 with the F clasp on top of the right end, clasp to the front.
+Put a 4x1 arch hor on top.
+Put two F 2x1 with the cornices hor on top, side by side, cornices to the front. Lay momentarily aside.
+Put a F 2x2 washer-board piece upside down on the table, curved end to the back. put a F 2x1 with the
+handle ver on the right side, upside down, handle to the right. Put a F 2x1 with the hook ver, upside down,
+to the left, hook to the left and to the bottom. Put a F 2x2 disk in the middle, upside down.
+Insert the handle into the two clasps of your part, upright, curved side to the top, so that it opens to the
+right and to the back.
+Install this way ver to the right of the left wall, in the middle.
+Bag 24
+Install a 2x1 large half-cylinder hor on top, in the middle, and to the left.
+Put an etched 2x1 ver to the left.
+Put a 2x1 hor to the front and to the right.
+Put a 2x1 ver to the front of its right button.
+Repeat steps 3-4 symm on the back.
+Go to the front-wall vertical partition. Skip two buttons from the front and put a 3x1 ver to the back (and on
+the higher level), overhanging to the back.
+Put an 8x1 ver on the right wall, skipping two buttons from the front.
+Put a 2x1 hor to the left of its second button from the front.
+Make a part. Put a F 1x1 upside down on top of a wider end of a cone. Put a 1x1 button upside down on
+top.
+Install on the hook at the right side of the front wall (to the front of the PP).
+Bag 25
+Make a door and install hor in the front right-side gap so that it opens to the front and to the left.
+Put a 1x1 to the left.
+Put a 1x1 tall slide ver to the left and to the front, in front of the vertical 3x1, on the front wall, slide to the
+front.
+Install a 1x1 tall slide on the left end of the front wall the same way.
+Install another slide symm on the back.
+Install another slide on the back end of the right wall.
+Install another slide symm on the front.
+Put a tube upright on the left button of the fireplace half-cylinder.
+Bag 26
+Put a F 1x1 with the roll to the front of the PP, roll to the right.
+Put a F 1x1 to the front.
+Repeat steps 1-2 symm on the back.
+Put an etched 2x1 ver on the front end of the left-wall protrusion.
+Put a 2x1 ver to the back.
+Go to the front wall vertical protrusion, skip two buttons to the back and put a F 1x1 there.
+Put a F 1x1 with the roll to the back, roll to the left.
+Go to the back end of the right wall, skip two buttons to the front and put a F 1x1 there.
+Put a F 1x1 with the roll to the front, roll to the left.
+Bag 27
+Make four stacks of two F 2x1 each and put ver on all four pairs of the F 1x1 and F 1x1 with the roll.
+Put an 8x1 hor over the front door, starting on the right.
+Put a 2x1 hor to the back of its right end, overhanging to the left.
+Put a 2x1 hor to the back.
+Put a 1x1 to the back of its right button.
+Bag 28
+Put a 1x1 tall slide ver on the front end of the left wall, slide to the front.
+Put a 6x1 ver to the back.
+Put a 1x1 tall slide ver to the back, slide to the back.
+Put a FS 1x1 on the side button of a 1x1 with the side button and put on the front end of the left-wall
+protrusion, FS piece to the front.
+Put a 2x1 ver to the back.
+Put a FS 1x1 on the side button of a 1x1 with the side button and put to the back, FS piece to the left.
+Repeat steps 1- 3 symm on the right.
+Put four S 2x1 stepped pieces ver, side by side, on top of the front wall, overhanging to the front.
+Put a F 2x1 hor to the left, and another to the right.
+Bag 29
+Put two more F 2x1 hor on tops of the two PPs.
+Stack two F 8x2 and put hor to the back of the two PPs, overhanging to the back.
+Put a 2x1 ver on the front end of the left-wall protrusion.
+Put an etched 2x1 ver to the back.
+Bag 30
+Put a F 2x1 ver on to the left of the awning above the door.
+Put a 1x1 tall slide to the front, ver, slide to the front of the pp.
+Put a 3x1 one-button slide ver on the front end of the right wall, slide to the front.
+Put a 2x1 ver to the back.
+Put a 3x1 slide ver to the back, slide to the back.
+Repeat steps 3-5 symm on the left.
+Lay aside.
+Bag 31
+Start the roof part.
+Put a F 4x4 on the table. Put a F 4x1 ver to the right.
+Connect by putting a F 3x2 ver on the right back four buttons, overhanging to the back.
+Put a F 4x2 hor to the left of its two front buttons, overhanging to the left.
+Put a F 12x4 hor to the left of the F 4x4, connected by the PP.
+Put a F 3x2 ver on top, to the left and to the back of the horizontal 4x2, overhanging to the back.
+Put a F 6x2 hor to the left of the two front buttons of the PP.
+Put a F 3x2 ver to the left and to the back.
+Put a F 4x4 to the left of the left edge of your part.
+Bag 31 B
+Connect by putting a F 4x2 hor on top, to the left of the front two buttons of the 3x2.
+Put a F 4x1 ver to the left of left edge.
+Connect by putting a F 3x2 ver to the left and to the back of the 4x2, overhanging to the back.
+Put a F 10x1 hor on top of the back (skipping the overhanging pieces), starting from the left.
+Put a F 2x1 hor to the right.
+Put a F 10x1 hor to the right.
+Put a S 3x1 stepped piece ver on the front left edge, slide to the front.
+Skip one button to the right and repeat.
+Repeat nine more times (skipping each time a button).
+Put another such piece ver on the second row from the left, starting on the third button from the front,
+slide to the back.
+Skip five buttons to the right and repeat.
+Skip seven buttons to the right and repeat.
+Skip five buttons to the right and repeat.
+Put seven 1x1 FS pieces on the seven free buttons in between the PPs, on the 4th row from the front.
+Put eleven S 2x1 stepped pieces ver in the gaps on the front two rows, slides to the front.
+Put four S 2x1 stepped pieces ver at the back, slides to the back, on the free buttons next to the four
+protrusions.
+Flip your part upside down, so that the protrusions are still to the back.
+Put two F 3x2 ver on the back edge, to the front of the two middle protrusions, upside down.
+Put two F 2x1 sled pieces ver on each of the PPs, upside down, skipping the front row (of the PPs),
+handles to the back.
+Put a FS 2x2 disk on top of each of the two PPs.
+Flip right side up, handles to the back, and install by inserting the handles into the clasps on the
+half-arches.
+Bag 32
+Put a 1x1 long slide ver on top of the front-wall partition (to the left of the wall) starting from the front, slide
+to the front.
+Put a 2x1 long slide ver to the right and to the back, slide to the front.
+Put a 2x1 long slide ver to the right, as before.
+Repeat.
+Put a 1x1 long slide ver to the right, as before.
+Bag 33
+Make a part. Put a F 14x2 hor on the table. Put a F 8x2 hor on top, in the middle. Put a F 4x2 hor to the
+left of the 14x2. Connect by putting a F 8x2 hor on top, to the left of the 8x2 in the middle. Put a F 4x2 hor
+to the right of the 14x2. Connect by putting a F 8x2 on top, to the right of the 8x2 in the middle.
+Install as is on top of your structure, in the middle.
+Put a F 1x1 on the front button of the right wall, to the front of the rightmost row of the PP.
+Repeat symm on the back.
+Put a F three-button corner on the front two rows of the left wall, letter H.
+Repeat symm on the back.
+Bag 34
+Make a small chimney part. Put two F 2x1 with one button hor on the table, short side by short side.
+Connect by putting a F 3x1 on top, in the middle. Put three cylinders on top, side by side.
+Install ver on the right wall.
+Bag 35
+Make a large chimney part.
+Put a 4x2 hor on the table.
+Put a FS 2x2 in the middle.
+Put two F 2x1 ver at the sides.
+Put a F 3x3 on the right side, overhanging to the front, to the right and to the back.
+Put a F 3x2 ver to the left, so that overhanging ends are equal on all sides.
+Put two FS 3x1 ver at the edges.
+Put two FS 3x1 hor at the edges.
+Put a F 3x1 hor in the middle.
+Put a F 4x2 hor on top, in the middle.
+Put four F 2x1 with one button ver on top, side by side.
+Put four cylinders on top, side by side.
+Install ver on the left wall.
+Bag 36
+Put a leaf in the cylinder, put into the pot and install in the right front inside corner, on the floor to the right
+of the door.
+Bag 37
+Make the other side of the roof.
+Put a F 14x2 hor on the table.
+Put three F 2x1 from a sep bag hor on top of the front row, skipping two buttons from the right, and then
+skipping two buttons in between.
+Put three F 2x1 hor to the back of the three PPs. Put momentarily aside.
+Put a F 3x2 hor on the table.
+Put a F 4x2 hor on top, overhanging on the right.
+Put a F 2x2 on top, in the middle.
+Put a 4x1 S stepped piece hor on the front row, on the two buttons on the left, slide overhanging to the
+left.
+Put a 3x1 S stepped piece hor to the back, slide to the left, aligned on the left.
+Put a FS 1x1 to the right.
+Put a 3x1 S stepped piece hor to the right, slide overhanging to the right.
+Put a 4x1 S stepped piece hor to the front, slide to the right, aligned on the right.
+Put a FS 1x1 to the left.
+Repeat steps 4- 12 three more times, to make four such parts.
+Install one ver on the 2x2 leftmost space of your structure, aligned on the back and overhanging to the
+front.
+Install three other pieces the same way, skipping two buttons in between each.
+Bag 37 B
+Flip your structure upside down, oriented as before.
+Put a F three-buttoned corner upside down on the front left end, letter D (145), to the front of the 3x2.
+Put a F 2x1 sled ver, upside down, to the front, on the left edge, handle to the front.
+Repeat steps 2-3 symm on the right.
+Put two F 2x2 pieces upside down on the front ends of the two middle prongs.
+Put a F 12x1 hor on the front row, in the middle, upside down.
+Put four FS 2x2 disks on the front row, at the corners and in the middle, on the equall distance from each
+other.
+Flip right side up, oriented as before.
+Make the skylight part.
+Insert the pane into the frame. Put hor on the table, so that the window pane is to the back.
+Put two 1x1 clasps side by side ver on top.
+Insert a F 2x1 with the handle on top, buttons to the back.
+Put a 2x1/2x1 corner piece underneath, hor, side buttons to the top and two buttons to the back.
+Repeat two more times to make three.
+Install flat, ver, in the gaps, the 2x1/2x1 to the back.
+Put three S 2x2 stepped pieces in the front, in the gaps, slides to the front.
+Repeat symm on the back.
+Install your structure diagonally on the front of the third floor, inserting handles at the bottom into the
+clasps.
+Bag 38.
+Install on top of the second floor.
+Bag 39
+Insert two claw sticks into each of the branches. Put on the trellis.
+Enjoy!
+Thank you so much for building this set!
+Visit legofortheblind.com for more accessible instructions!
+Abbreviation definitions:
+F = flat (Plate.)
+FS = flat smooth (tile)
+Slide = slope.
+Lip = inverted slope.
+Ribbed stick = Technic axle.
+Connector = Technic pin.
+Stubby or Short connector = Technic pin with stud.
+Long connector = elongated Technic pin.
+Nail = technic axle with end stop.
+Fat nut = Technic joiner.
+Thin nut = Technic stop.
+Elbow = technic joiner 90 dg.
+1x1, 2x1, 3x1… means a 1x1, 2x1, 1x3… brick.
+Ver = vertically.
+Hor = horizontally.
+Symm = symmetrically.
+LMA = Lay Momentarily Aside.
+PP = previous piece.
+Sep bag = separate bag.
+Braille letters (for placing corner pieces):
+D = open corner to the front left.
+F = open corner to the front right.
+J = open corner to the back left.
+H = open corner to the back right.

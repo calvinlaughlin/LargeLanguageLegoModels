@@ -1,0 +1,108 @@
+
+40058 Decorating the Tree
+Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
+terms we’ll be using:
+Front: towards you.
+Back: away from you.
+Up: towards the ceiling.
+Down: towards the floor.
+Stud: the bump on a Lego brick. Example: A 2x1 brick has two studs on it.
+Vertically: going from front to back.
+Horizontally: going from left to right.
+Upright: pointing up towards the ceiling, and down towards the floor.
+Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic connector on the
+front wall at the right, connector to the front, and then place another such piece symmetrically on
+the back wall, at the right, the technic connector of the second piece should point to the back,
+since it will be placed symmetrically.
+There are also abbreviations defined at the end of this file.
+Help celebrate the season with this charming little Christmas Tree!
+Note: This build is very color centric. Please have a sighted
+person separate the parts out by color, to make the build
+easier.
+Minifigures: The man wears a blue coat and brown
+trousers, and the girl wears a red sweater, and red trousers.
+Both are happily smiling.
+Build the tree:
+1. Put a 6x6 on the table. Put a 2x2 cylinder in
+the middle. Put 4 2x1 curved quarter round pieces around the pp.
+Put the long-ribbed stick into the center of the 2x2 cylinder.
+Put aside. Make a part: Take a f3-bladed 2x1 propeller piece, and
+put it on the table. Take a 3x1 slope piece with one button and
+put it on the previous part, on its frontmost button with two
+buttons overhanging to the front. Repeat on the other blades of
+the propeller. Put a 2x1 slope horizontal behind the previous piece,
+overhanging to the left. Repeat on the other ends. Take 3 fs2x1s
+(green) and put them on the free two buttons of the previous steps.
+Make a part, stack 1x1 bu7ttons, the white on top and red on the
+bottom. Put them on the free outermost button of the 3x1 slope
+brick. Repeat, but this time with white, on top and yellow on the
+bottom. Out this part onto the long-ribbed stick. Take a 3x1
+propeller, and put the 3x1 sloped bricks on as before, with one
+button overhanging to the front. Put a 1x1 brick to the back. Put
+3 1x1 buttons (white) on the pointed ends of the 3x1 slide
+pieces. Put one red 1x1 button under the previous parts, and two
+yellow 1x1s on the other buttons. Put a fs2x1 on top of the two
+fre buttons (the 1x1 bricks and 3x1 slide. Repeat on the other
+free buttons. Take a 3-bladed 2x1 propeller with a cross-hole and
+put a 3x1 slide onto the blades, leaving 1 free button at the tip
+of the slide (it should over-hang by one button. Put a red 1x1
+button on top and two yellow ones on the other free 1x1 buttons. 
+Put it onto the axle. Take a 3-bladed 2x1 propeller piece and put
+3 2x1 slides on top, and put 3 1x1 with toe pieces on the free
+buttons, toes pointing at the slides. Then mount a white 1x1
+button on the end of the propeller blades, and a red and yellow
+one on the white buttons as before. Mount that part on the axle.
+Take a 1x1 cone and put a stick with a star in it, put this part
+on the axle.
+Build a present, take a 2x2 and put a fs2x1 with
+one button on top hor. Repeat symmetrically at the front. Put a 1x1 wedge
+on the front button, slide to the back, repeat symmetrically at the
+back. Take a f2x1 (white and put a f2x1 on top (red) hold the
+parts hor. Put a fs2x1 with one button on (red) Put a 1x1 button
+(white) on top. Make a ladder: Take a 2x1/2x1 hinge, and put it
+Horizontal on the table, hinge to the back. Take a 4x1 railing and put
+it on the hinge, overhanging to the left, repeat symmetrically at the
+right. Put a f4x1 on each of the railings, and put a f2x1/2x1
+hinge on top as before. Put the dad on the ladder.
+Build a camera:
+Take a 2x1 with side buttons and protrusion, put a fs
+round 1x1 on the side buttons, and put a f3x1 on top,
+overhanging to cover the protrusion, put a f1x1 wedge on the back
+button, slide to the bottom. Put a f1x1 (blue) on a clear 1x1 nd
+put it on the front button of the f3x1. Put a 1x1 button black on
+the opposite button, and put another one on top, (to the front of
+the wedge. Take a f3x2 and put it horizontal on the table, take a f2x1
+green and put it on the left end, vertical, put a white f2x1 in the
+middle, and another f2x1 (green) to the right. Put a green f2x1
+and put it vertical on the left and right on top, leaving a 2x1 gap in
+the middle. Put a fs2x1 with one button in the gap. Take a fs2x1
+(Printed with a letter) and put it on the button. Put it under
+the tree.
+You are done! Enjoy!
+Thank you so much for building this set!
+Visit legofortheblind.com for more accessible instructions!
+Abbreviation definitions:
+F = flat (Plate.)
+FS = flat smooth (tile)
+Slide = slope.
+Lip = inverted slope.
+Ribbed stick = Technic axle.
+Connector = Technic pin.
+Stubby or Short connector = Technic pin with stud.
+Long connector = elongated Technic pin.
+Nail = technic axle with end stop.
+Fat nut = Technic joiner.
+Thin nut = Technic stop.
+Elbow = technic joiner 90 dg.
+1x1, 2x1, 3x1… means a 1x1, 2x1, 1x3… brick.
+Ver = vertically.
+Hor = horizontally.
+Symm = symmetrically.
+LMA = Lay Momentarily Aside.
+PP = previous piece.
+Sep bag = separate bag.
+Braille letters (for placing corner pieces):
+D = open corner to the front left.
+F = open corner to the front right.
+J = open corner to the back left.
+H = open corner to the back right.

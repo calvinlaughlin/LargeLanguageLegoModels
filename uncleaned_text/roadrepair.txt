@@ -1,0 +1,81 @@
+10750 Road Repair Truck
+Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
+terms we’ll be using:
+Front: towards you.
+Back: away from you.
+Up: towards the ceiling.
+Down: towards the floor.
+Stud: the bump on a Lego brick. Example: A 2x1 brick has two studs on it.
+Vertically: going from front to back.
+Horizontally: going from left to right.
+Upright: pointing up towards the ceiling, and down towards the floor.
+Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic connector on the
+front wall at the right, connector to the front, and then place another such piece symmetrically on
+the back wall, at the right, the technic connector of the second piece should point to the back,
+since it will be placed symmetrically.
+There are abbreviations defined at the end of this file.
+
+Mystery Lego Juniors set Road Repair Truck with construction worker, cement mixer, and truck/trailer.
+Build a minifig, he has a red construction hat, orange vest and a black shovel.
+Put the car body hor on the table.
+Put a steering wheel in the indent at the left and put the seat to the right.
+Put a 2x4 to the left of the steering wheel, ver on the right edge.
+Take 2 f4x1 with two buttons, and put them ver, long side by long side, to the right of the seat.
+Put a 4x1 bench piece hor to the right of the 2x4 brick, seat to the front. Repeat symm at the back.
+Put a 4x1 railing ver to the right of the seat.
+Put a fs 2x1 ver upright on the left edge, at the front.
+Put a fs2x2 with one button to the back and put another fs2x1 ver to the back as before.
+Put a 4x1 windshield on the left edge of the structure.
+Put a f4x4 dump-truck bed ver on the right end, diagonal lip of the bed to the right.
+Put a 2x2 with ball-joint-holder hor on the right in the middle under the dump-truck bed, ball joint-holder
+to the right.
+Put a f4x1 on top of the windshield piece, ver.
+Put a 1x1 cone on the front button, and another 1x1 cone on the back button of the pp.
+Put a shovel and a jackhammer into the holes on the 4x1 railing at the back.
+The truck is done!
+Now make the trailer:
+Take the trailer body and put the small wheels on it.
+Put a 2x1 with ball hor on the left end, ball to the left.
+Put a stepped 2x2curve hor on the buttons of the pp, curve to the right.
+Put a 2x1 handle on the front row, hor slant to the front. Repeat symm at the back.
+Take a f2x1 with handle and put it ver on the right end.
+Make a part,
+Take a 4x4 and put it on the table.
+Take a fs4x2 with clasps and put it hor in the middle, clasps to the left.
+Put a fs4x1hor to the front, and to the back. Make a part: (the trash-can-holder).
+Take a f2x2 with axles.
+Put the wheels on the axles.
+Put a f4x2 hor on the top and overhanging to the right.
+Take a 2x2 and put it on the right end of this part. 
+Put a f2x1 ver on its left column.
+Put a f2x1 with handles hor to the right, handles to the right.
+Put a 2x2 with connector on top, connector to the right.
+Take around 4x4 disk and mount it upright on the connector and the handles.
+Put a 4x4 cone with hole on top of the PP.
+Thank you so much for building this set!
+Visit legofortheblind.com for more accessible instructions!
+Abbreviation definitions:
+F = flat (Plate.)
+FS = flat smooth (tile)
+Slide = slope.
+Lip = inverted slope.
+Ribbed stick = Technic axle.
+Connector = Technic pin.
+Stubby or Short connector = Technic pin with stud.
+Long connector = elongated Technic pin.
+Nail = technic axle with end stop.
+Fat nut = Technic joiner.
+Thin nut = Technic stop.
+Elbow = technic joiner 90 dg.
+1x1, 2x1, 3x1… means a 1x1, 2x1, 1x3… brick.
+Ver = vertically.
+Hor = horizontally.
+Symm = symmetrically.
+LMA = Lay Momentarily Aside.
+PP = previous piece.
+Sep bag = separate bag.
+Braille letters (for placing corner pieces):
+D = open corner to the front left.
+F = open corner to the front right.
+J = open corner to the back left.
+H = open corner to the back right.

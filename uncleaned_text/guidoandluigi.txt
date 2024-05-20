@@ -1,0 +1,96 @@
+10732 Guido and Luigi's Pit Stop
+
+Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
+terms we’ll be using:
+Front: towards you.
+Back: away from you.
+Up: towards the ceiling.
+Down: towards the floor.
+Stud: the bump on a Lego brick. Example: A 2x1 brick has two studs on it.
+Vertically: going from front to back.
+Horizontally: going from left to right.
+Upright: pointing up towards the ceiling, and down towards the floor.
+Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic connector on the
+front wall at the right, connector to the front, and then place another such piece symmetrically on
+the back wall, at the right, the technic connector of the second piece should point to the back,
+since it will be placed symmetrically.
+There are abbreviations defined at the end of this file.
+
+Let’s get started!
+Take a 4x2 with a concaved 2x2 and short wheel axles and put the wheels on.
+Put 2 fs2x1s with 1 button hor onto the raised 2x1s at the front and the back of the part.
+Put 2 f2x1s hor on top of the pps.
+Take a 2x1-2x4 corner piece and put it on the pps 2x4 upright to the front and repeat symm to the back.
+Take a 2x4-2x2 fat windshield piece and put it windshield to the front on the front part of your structure.
+(It is printed with eyes). Take another part and put it symm to the back.
+Take a 2x1 grate and put it hor in the middle of the top row of the upright 4x2, put a fs2x1 hor below it,
+also in the middle.
+Take a curved phone-receiver piece, (a curved 4x1 with concaved 2x1) and put it on the front row of the
+front (upright.)
+Put another piece the same way on the bottom row of the 4x2 upright part, the bottom one is printed
+with his mouth.
+Put an fs4x1 hor on the back, on the upper upright row of the upright 2x4.
+Put a f2x1 hor on the bottom row in the middle of the f2x4.
+Put a phone receiver piece hor on top.
+Make another car.
+Put the f2x2 on the windshields at the top of the car.
+Take a 4x2 and put it hor on the table, put a 2x1 ver on the right and left sides.
+Put a 2x2 with axles on, axles to the front and to the back,
+Put a curved 3x2 on 2x2 on the middle, curve to the left. so that the right-most row of the part is free.
+Put a 2x1 with smooth curved wings on, at the right, wings to the right.
+Put a2x1 on top.
+Put a tall 2x2 slope with 2 buttons on top, of the 2x2 of the curved piece, slope to the right, put a 2x1
+with cornice ver on top cornice to the right.
+Put a 2x2 inverted disk nder the wheels.
+Take an 8x6 with smooth middle and 2x2 in the middle, and put a 2x8 hor on the back row, (not
+concaved, put two curved 2x1s in the concaved 4x1s at the left curves to the left,
+and repeat symm at the right.
+Put a fs4x1 on the back row of the part in the middle.
+Put a 2x1 ver on the second and 7th columns of the 8x2 piece.
+Put a 2x1 with clasp on the left end, clasp to the left, and a 2x1 with two side buttons on the right.
+Put a 2x2 brick on top on the left end.
+Put a 2x1 with axle hor, on the back row, axle to the front. Put a curved 2x2 on top curve to the
+back. 
+Put a 2x2 on the left part of the right 2x2 (ver) and put a 2x1 with clasp to the right clasp to the right.
+Put a 2x2 dome on top of the right brick, put an l-shaped stick into the clasp, curved end into the clasp,
+stick to the left.
+Put a round sign on a clasp onto the stick. Make a sign (reading Rust Easy Bumper Ointment).
+Put a 4x2 hor on the table.
+Stack three 4x1s on the back row.
+Put a tall 4x1 window piece in the front (sign reads Rust Easy Bumper Ointment) and put 2 4x2s with
+2x2 and curve ver on the front, on the left and right.
+Put a 4x1 curve on the front concaved 4x1 curve to the front.
+Put the sign on the back of the structure hor, in between the 2x2 bricks.
+Take a 2x1 handle and put it hor on the curved 2x1s in the middle.
+Put the 2x1 with two clasps on the handle.
+Take a hose and put a telescope piece (wide end first) on one end of the hose.
+Put a 1x1 cone on the narrow end of the telescope piece.
+Put the hose into the 1x1 side button and clasp the handle of the hose into
+the right clasp.
+Thank you so much for building this set!
+Visit legofortheblind.com for more accessible instructions!
+Abbreviation definitions:
+F = flat (Plate.)
+FS = flat smooth (tile)
+Slide = slope.
+Lip = inverted slope.
+Ribbed stick = Technic axle.
+Connector = Technic pin.
+Stubby or Short connector = Technic pin with stud.
+Long connector = elongated Technic pin.
+Nail = technic axle with end stop.
+Fat nut = Technic joiner.
+Thin nut = Technic stop.
+Elbow = technic joiner 90 dg.
+1x1, 2x1, 3x1… means a 1x1, 2x1, 1x3… brick.
+Ver = vertically.
+Hor = horizontally.
+Symm = symmetrically.
+LMA = Lay Momentarily Aside.
+PP = previous piece.
+Sep bag = separate bag.
+Braille letters (for placing corner pieces):
+D = open corner to the front left.
+F = open corner to the front right.
+J = open corner to the back left.
+H = open corner to the back right.

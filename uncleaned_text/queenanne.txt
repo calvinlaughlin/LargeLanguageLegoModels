@@ -1,0 +1,785 @@
+4195 Queen Anne’s Revenge
+Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
+terms we’ll be using:
+Front: towards you.
+Back: away from you.
+Up: towards the ceiling.
+Down: towards the floor.
+Stud: the bump on a Lego brick. Example: A 2x1 brick has two studs on it.
+Vertically: going from front to back.
+Horizontally: going from left to right.
+Upright: pointing up towards the ceiling, and down towards the floor.
+Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic connector on the
+front wall at the right, connector to the front, and then place another such piece symmetrically on
+the back wall, at the right, the technic connector of the second piece should point to the back,
+since it will be placed symmetrically.
+There are also abbreviations defined at the end of this file.
+Captain Jack Sparrow and his motley band of pirates are taking control of the Queen Anne’s Revenge!
+It’s mayhem and mutiny as they seize the ship from Angelica and her zombie crew. If they only knew that
+Blackbeard, the pirate all pirates fear, is watching and waiting in the captain’s quarters. This time Jack
+has gone too far!
+Large bag 1 (0.3-05)
+Bag 0.3
+1. Make assorted men with weapons.
+2. Put a 2x2 circle on top of the barrel and put two bottles with plugs on it.
+Bag 0.4
+1. Make a table. Put a flat 6x2 on top of a flat 6x1.
+2. Put two flat lipped 2x1 under the 6x2, in the opposite corners (two buttons in the middle remain
+free)
+3. Put four cylinders in the four corners under the table to make legs.
+4. Put a flat smooth 2x2 on the table (it's a map), two jars with covers and a chess piece (it that's
+what it is!). The chess piece fits between the buttons.
+Bag 0.5
+1. Put a handle in the bucket.
+2. Put three cannons into the cannon carriers.
+3. Put six cylinders into the box to make cannonballs. Just throw them in.
+Large bag 2 (1-28)
+Bag 1-3.
+1. Insert two sticks into the two holes on both sides of the large rectangular boat base piece.
+Connect it with the second and with the third such pieces.
+2. Insert two sticks into two holes on both sides. Put it horizontally in front of you.
+3. Put a flat smooth 2x2 next to the back wall, skipping the first column from the left.
+4. Skip four columns to the right and put another flat smooth 2x2.
+5. Skip six columns to the right and put another flat smooth 2x2.
+6. Skip four columns to the right and put another flat smooth 2x2.
+7. Put four flat 2x2 pieces in front of the previous four pieces.
+8. Put four flat smooth 2x2 pieces next to the front wall, symmetrically to the previous four smooth
+flat pieces (on the same columns).
+9. Put four flat 2x2 pieces to the back of the previous four flat smooth pieces.
+There is no separate bag 4. Use the large pieces from the large bag.
+Put the large end bracket piece on top of the large end piece. Repeat. Connect these parts to the 
+opposite ends of your structure to make the foundations of the ship.
+Bag 5-6.
+1. Put a 1x1 button on top of a 1x1 piece. Repeat three times to make four such parts. Put two of
+these parts on the first row of the front wall, in the leftmost and rightmost ends.
+2. Put the other two parts on the back row of the back wall, also in the opposite ends.
+3. Put three 10x2 flat pieces on the front wall and three on the back wall.
+Bag 7-8.
+1. Put a 4x2 piece horizontally on the leftmost buttons of the front wall (to the right of the 1x1 with
+the button on top).
+2. Put a flat smooth 2x1 horizontally to the right of it, on the first row.
+3. Put a 4x2 horizontally to the right of it.
+4. Put a flat smooth 2x1horizontally to the right of it, on the first row.
+5. Put a 2x2 to the right.
+6. Skip two buttons to the right and put a 2x2.
+7. Put a flat smooth 2x1 horizontally to the right on the first row.
+8. Put a 4x2 horizontally to the right of it.
+9. Put a flat smooth 2x1 horizontally to the right of it, on the first row.
+10. Put a 4x2 horizontally to the right of it.
+11. Repeat the sequence symmetrically on the back wall, with the flat smooth pieces on the back
+row.
+12. Put a ten-button circle in the very center of the floor, one column to the right from the second pair
+of the 2x2/smooth 2x2 pieces from the left, and one row to the front from the back four pairs.
+13. Put one 2x1 horizontally in front of the circle, and one at the back.
+Bag 9-10.
+1. Put a 2x1 piece with the toe on the front two buttons of the circle, with the toe on the 2x1 piece in
+front of it.
+2. Put another 2x1 piece with the toe on the back two buttons of the circle, with the toe on the 2x1
+piece at the back of it.
+3. Put a flat 2x1 in between two flat 2x1 pieces with a handle. Repeat.
+4. Put one such part in the middle of the front wall, in between the two 2x2 pieces, on the front row,
+handles to the front.
+5. Put the other part symmetrically on the back wall, handles to the back.
+6. Go to the right end. Put a 2x1 vertically on the first column on the right (on the floor, not on the
+steps), in the middle (skipping two rows from the front).
+7. Put a flat 4x2 horizontally to the left of it, also in the middle.
+8. Put a flat 2x1 vertically to the front of the leftmost column of the previous piece (on the 5th column
+of the floor).
+9. Put a flat 2x1 vertically to the back of the 4x2 flat piece, on the 5th column of the floor.
+10. Put a 1x1 piece with the toe vertically to the back of the previous piece, toe to the back, on the
+same 5th column.
+11. Put a 1x1 piece with the toe vertically to the front of the other flat 2x1 piece, toe to the front, on
+the same column.
+Bag 11-12
+1. Put an 8x1 arch vertically on top of the two 1x1 pieces with the toes.
+2. Put a 10-button circle to the left of the 4x2 flat piece and the arch, in the middle of the floor.
+3. Put two 2x1 pieces vertically on the ends of the arch.
+4. Put a flat 2x1 vertically in the middle of the arch.
+5. Put a 4-button flat circle in the middle of the top step of the right end of the ship.
+Bag 13-14
+1. Flip a flat 12x2 piece over. Put a smooth flat circle on one end of it.
+2. Flip the part over. Put a flat 4x2 horizontally on the same end of the 12x2 piece.
+3. Put this part vertically with the empty end on the left, on top of the middle of the arch, on the flat
+2x1 piece, and align it on the left, so that the right side is on the 4-button flat circle and protrudes
+to the right.
+4. Make a little tower with the flat circle on the bottom, then the fat circle, then the flat one, then the
+fat one on top.
+5. Put this part on top of the right-side 12-button circle, in the middle.
+Bag 15-16
+1. Put a flat holey 4x2 piece horizontally on top of the tower to connect it to the 12x2 flat piece on
+top of the arch by two buttons.
+2. Put a flat 2x2 piece on the front wall, on the right, on the first step.
+3. Repeat at the back.
+4. Put a 2x1 piece horizontally on the right end of the front wall (partly on top of the 1x1 button).
+5. Put a flat 2x1 piece to the left of it.
+6. Put a 4x1 arch piece to the left, to connect the two 4x2 pieces.
+7. Put a flat 2x1 piece to the right of it.
+8. Repeat steps 2-5 on the back wall, on the right side.
+Bag 17-18
+1. Put four 2x1 pieces on top of the four flat 2x1 pieces from the previous bag.
+2. Put a 1x1 piece on the second row of the back wall, to the front of the arch, on the leftmost button
+of the 4x2 piece.
+3. Put a 1x1 piece on the second row of the back wall, to the left of the previous piece, on the
+rightmost button of the next 4x2 piece, to the front of the arch.
+4. Put a flat 2x1 vertically on the front wall, on the right, on the first step, on the right two buttons of
+the flat 2x2 piece.
+5. Put a flat 2x1 with the roll horizontally to the left of it, on the first row of the front wall, rolls to the
+front.
+6. Put a 1x1 button to the left of it.
+7. Skipping two buttons to the left, put another 1x1 button.
+8. Put a flat 2x1 piece with the roll to the left, roll to the front.
+9. Put a 1x1 button to the left.
+10. Put a flat 4x2 piece horizontally to the back of the previous three pieces.
+11. Repeat steps 4-10 on the back wall, with the rolls to the back.
+Bag 19-20
+1. Put a flat 12x2 horizontally on the right side of the front wall.
+2. Do the same on the back wall.
+3. Make a rudder. Put a flat 4x2 horizontally in front of you. Put a 3x1 with the holder vertically on
+the right side of it, holder to the right.
+4. Put a 2x2 to the left of it.
+5. Put a 2x2 on top, aligned on the right.
+6. Put a 2x1 with the holder vertically on top, on the right, holder to the right.
+7. Put a stick into the two holders.
+8. Flip the ship upside down. Flip your part upside down and insert it in the right end, stick side to
+the right.
+Bag 21-22.
+1. Make the movable part of the rudder. Put a 1x1 button on the bottom of a 1x1 piece with the side
+button. Put another 1x1 button on top of it.
+2. Put another 1x1 piece with the side button on top.
+3. Put a 1x1 button on top.
+4. Make sure that the side buttons are facing right. Put a flat 3x1 on the bottom, so that the two left
+buttons of it remain free.
+5. Put a tall 1-button wedge piece on these two buttons, slide side to the left.
+6. Put a flat smooth 2x1 piece on top.
+7. Put two clasps on the right side, in the side buttons.
+8. Flip your part upside down and connect to the other half of the rudder by putting the clasps on the
+stick. Put aside.
+9. Make the other underneath part of the ship. Put a flat 4x2 horizontally in front of you. Put a 2x2
+with the lip on the two rightmost buttons of it, lip to the right.
+10. Put a 2x2 piece to the left of it.
+11. Put another 2x2 with the lip on the two right buttons of the first lipped piece, lip to the right.
+12. Put a 2x2 piece to the left.
+13. Make the third level the same way. Put the third lipped piece on the two right buttons of the 
+second. Put a 2x2 to the left.
+14. Put a 2x2 on the top, in the middle.
+15. Flip your part upside down, steps to the right, and insert it into the left opening of the ship. Flip the
+ship right side up (the rudder on the right).
+Bag 23-25.
+1. Put a flat 2x1 on top of a 2x2 piece, vertically, on the right side.
+2. Put a 2x1 underneath the 2x2 piece, the same way.
+3. Put this part in the middle of the left side of the floor, so that the left side of the 2x2 rests on the
+first step.
+4. Put a 2x2 piece underneath the 6x2 piece, on the right end.
+5. Put this part on the left-side steps, the 2x2 piece resting partly on the other 2x2 piece and partly
+on the second step, and the whole part connecting with the underneath part of the ship.
+6. Put one flat 2x1 on top of the other (different colors!). Put two 1x1 pieces with the side buttons on
+top, side by side, with the side buttons to the right.
+7. Put another flat 2x1 piece on top.
+8. Put this part to the left of the 6x2 piece, on the very left end of the ship.
+9. Put a 12-button circle in the middle of the left side of the floor, to the right of the stepped part you
+made earlier in this bag.
+Bag 26-27.
+1. Put a 2x2 circle on top of the flat 2x2 circle.
+2. Put another flat 2x2 circle on top.
+3. Put a 2x2 circle on top.
+4. Put this part on top of the left 12-button circle.
+5. Put a flat 2x1 on top of a 2x1.
+6. Put a flat holey 4x2 on top, with the leftmost two buttons resting on it and protruding to the right.
+7. Put this part partly on top of the left-side tower, partly on the step to the left.
+Large bag 3.
+Bag 28-29.
+1. Insert a double-clasp piece into the side holes of a 3x1 piece with the side holes.
+2. Repeat.
+3. Put one of this parts horizontally in the middle of the front wall, on top of the two handles, clasps
+to the front.
+4. Put the other part horizontally in the middle of the back wall, clasps to the back.
+5. Put one 4x1 arch piece horizontally to the right of the previous piece and one to the left.
+6. Do the same at the front.
+7. Put a 2x1 flat piece horizontally to the left of the previous piece (left).
+8. Put a 4x1 arch piece horizontally to the left of the previous piece.
+9. Put a 2x1 flat piece to the left,
+10. put a 2x1 piece horizontally to the left..
+11. Put a flat 2x1 piece to the left, on the first step.
+12. Repeat steps 7-11 at the back.
+Bag 30-31
+1. Go to the second row of the front wall. Put a 1x1 piece on the rightmost button of the left 4x2
+piece, at the back of the left leg of the left 4x1 arch.
+2. Skipping two buttons to the right, put a 1x1 piece at the back of the other leg of the same arch.
+3. Skipping two buttons to the right, put a 1x1 piece at the back of the left leg of the next arch.
+4. Skipping two buttons to the right, put a 6x1 piece horizontally in the middle of the front wall, at the
+back of the double-clasp piece.
+5. Skipping two buttons to the right, put a 1x1 piece at the back of the next arch.
+6. Repeat steps 1-5 at the back.
+7. Put a flat 2x1 vertically on the left side of the first step on the left side of the front wall, on top of
+the flat 2x1.
+8. Put a flat 2x1 with the handle horizontally to the right of it, on the first row, handle to the front.
+9. Put a 1x1 button to the right.
+10. Put 1x1 buttons at the ends of the next three arches to the right.
+11. Put flat 2x1 pieces with the handles in the middle of the same arches, in between the 1x1 buttons, 
+handles to the front.
+12. Repeat steps 7-11 at the back.
+Bag 32-33
+1. Put a flat 4x2 horizontally in the middle of the front wall, over the double-clasp piece.
+2. Skipping four buttons to the left, put a 2x1 piece horizontally on the flat 2x1 piece.
+3. Skipping four buttons to the left, put a 2x1 piece horizontally on the flat 2x1 piece.
+4. Repeat steps 1-3 on the back wall.
+5. Go to the second row of the front wall. Skipping six buttons from the left, put a flat 4x2 piece
+horizontally on the second row, protruding to the back (and forming the third row of the wall).
+6. Skip two buttons to the right and do it again.
+7. Skip four buttons to the right and do it again.
+8. Repeat steps 5-7 at the back wall.
+Bag 34-35.
+1. Put three flat 12x2 pieces horizontally on the first and second rows of the front wall.
+2. Do the same at the back.
+3. Flip the ship upside down. Put a flat 6x2 piece horizontally in the middle of the ship, upside down.
+4. Put four 2x2 flat smooth circles in the front wall, at the points where the large pieces of the ship
+connect.
+5. Do the same at the back.
+6. Put one 2x2 flat smooth circle at the right, on the right side of the rudder (on the unmovable part).
+7. Put one 2x2 flat smooth circle at the left, on the left side of the prow. Flip the ship the right side
+up.
+Bag 36-37.
+1. Make an anchor winch. Put a 2x2 flat piece with the holes in it on top of a 2x2 flat piece.
+2. Put a 2x2 flat circle on top.
+3. Put a chain on one of the buttons on top.
+4. Put three 1x1 buttons on the rest of the buttons of the 2x2 flat piece.
+5. Put a 2x2 cylinder on top.
+6. Insert a short ribbed stick in the cylinder.
+7. Put a cross with the ring inside on the stick.
+8. Connect the other end of the chain to the anchor on the top ( the bottom of the anchor has two
+sharp ends).
+9. Insert a longer smooth stick in the hole under the chain button.
+10. Put the winch in the middle of the floor, on the left side, skipping one column to the left from the
+left-side 12-button circle. Throw the anchor on the floor.
+11. If you want to, put the stickers with the ugly skulls on the twelve flags. Insert the flags - six on
+each side - at the rolls on the 2x1 flat pieces with the rolls that are built into the sides of the ship.
+12. Put the three cannons on the floor, into the three right holes at the back wall.
+Bag 38-40
+1. Put a flat smooth 2x2 on the rudder, on right end.
+2. Put another flat smooth 2x2 to the left of it.
+3. Put two 1-button hammer pieces to the left of it, vertically, buttons facing each other.
+4. Put two 1x1 buttons on the hummers.
+5. Put five 2x1 flat smooth pieces vertically on the curving segment of the front wall, on the right,
+forming a step pattern.
+6. Repeat at the back.
+7. Put one flat smooth 2x2 piece at the back and one at the front, to the left of the previous pieces,
+on the rightmost buttons of the walls.
+8. Put a flat smooth 8x1 piece vertically to the left of the previous piece at the front, to make a bridge
+to the middle and to rest on the forth column to the right of the flat 4x2 holey piece on top of the
+right tower.
+9. Do the same at the back, so that the two pieces meet in the middle to form a continuous bridge.
+10. Put a 2x1 tall wedge piece on the front wall, to the left of the flat smooth 8x1 piece, horizontally,
+slide side to the front.
+11. Put a 2x1 short wedge piece to the left of it, the same way.
+12. Put a 1x1 piece with the clasp on top of the previous piece, on its right button, clasp to the back.
+13. Repeat steps 10-12 at the back, symmetrically.
+Bag 41-42
+1. Cover the tall wedge in front and the 1x1 piece with the clasp to the left of it by a flat 3x1 piece.
+2. Put a stepped curved piece horizontally to the left of it, curve to the left, resting on the free button
+of the short wedge.
+3. Repeat steps 1-2 at the back.
+4. Go to the front again. Put a 1x1 cone in the middle of the flat 3x1 on top of the wedge.
+5. Put a flat 1x1 with the roll on top of the tall side of the stepped curve, roll to the left.
+6. Put a flat smooth 4x1 piece with its right end on the rolled piece, and the middle on the cone.
+7. Repeat steps 4-6 at the back.
+Bags 43-44
+1. Put two clasps on top of a 2x1 piece, vertically.
+2. Insert a stick in the clasps.
+3. Repeat.
+4. Put one such part in the first row of the front wall, skipping one button to the left from the shorter
+wedge, to the front of the curved stepped piece.
+5. Do the same at the back.
+6. Put two rifles into the clasps inside the front and the back wall, muzzles up.
+7. Insert the stick into the right tower, in the right hole of the flat 4x2 holey piece.
+Bag 45-48
+1. Put a 2x2 flat circle onto the stick.
+2. Put a 2x2 piece with the clasps onto the stick, clasp to the right.
+3. Put a 2x2 cylinder onto the stick.
+4. Put a 2x2 flat circle onto the stick.
+5. Put two large flat triangle pieces on the left end of the ship, to form one large triangle and to cover
+the left end.
+6. Put two 1x1 pieces with the side buttons side by side on the leftmost end of the ship, on the
+triangle's tip, side buttons to the left.
+7. Put 2x1 piece with the toe to the right, toe to the right.
+8. Put a flat smooth 2x2 piece to the right.
+Bag 49-50
+1. Put a flat 2x1 vertically on the front wall, on the left, to the right of the large triangle's long side.
+2. Put a 4x1 piece to the right, on the first row of the wall.
+3. Put a 1x1 piece with the short toe to the right, toe to the back.
+4. Repeat steps 1-3 at the back, symmetrically.
+5. Put a flat 2x1 on the left side of the front wall, partly on the flat 2x1and partly on the large triangle.
+6. Skipping to buttons to the right, put a 2x1 horizontally on the wall, on top of the 4x1.
+7. Put a 1x1 piece with the long toe to the right, toe to the right.
+8. Repeat steps 5-7 at the back, symmetrically.
+Bag 51-52
+1. Put a 2x1 piece with the toe on the left side of the front wall, on the flat 2x2 piece, toe to the back.
+2. Put a flat 2x1 on top of it.
+3. Repeat at the back, symmetrically.
+4. Put a 1x1 piece with the clasp on top of the flat 2x1 from the step 2, clasp to the left.
+5. Put a 4x1 horizontally to the right.
+6. Put a 1x1 piece with the toe to the right, toe to the right.
+7. Drop the anchor at the back before repeating steps 4-6 at the back, so that its chain goes in the
+opening under the 4x1 piece.
+Bag 53-54
+1. Put a flat smooth 2x1 horizontally at the left side of the front wall, on top of the clasp piece and
+the 4x1 piece.
+2. Put two 1x1 buttons to the right.
+3. Put a flat smooth 2x1 horizontally to the right.
+4. Put two clasps vertically on the two buttons to the left.
+5. Put a bone in the clasps.
+6. Repeat steps 1-5 at the back.
+Bag 55-56
+1. Put two clasps vertically on the 2x1 piece with the toe. Insert s stick in the clasps. Repeat three
+more times.
+2. Put one such part on the front wall, skipping five buttons from the left, toe to the back.
+3. Skip six buttons to the right and put another part the same way.
+4. Put the other two parts on the back wall, symmetrically.
+5. Put two buttons on top of a 2x1 piece with the toe.
+6. Put two clasps on top of the buttons, vertically.
+7. Put a bone into the clasps.
+8. Repeat five more times (two 2x1 pieces with the toe are missing!)
+9. Put one such part on the front wall, skipping one button from the left.
+10. Skip the part with the stick and two buttons after it to the right and put another such part in.
+11. Do it again.
+12. Repeat steps 9-11 at the back.
+Bag 57-60
+1. Insert a long stick into the left-side tower.
+2. Put a flat 2x2 circle onto the stick.
+3. Put two 2x2 cylinders onto the stick. Put aside.
+4. Hold a 2x2 corner piece in your hand in the shape of the letter F, so that the 2x2 buttons are on
+top and the back of the smooth side is at your left. Put a 2x2 cylinder from the left, lying on its
+side, into the back button.
+5. Hold another 2x2 corner piece in the shape of the letter J, so that the 2x2 buttons are facing right
+and the smooth part is facing up. Connect it to the left to the cylinder with the 2x2 buttons.
+6. Holding this part the same way, put it onto the same stick with its right 2x2 corner piece. The left
+side rests in the middle of the large triangle.
+7. Insert a short stick horizontally from the left into the back button of the left 2x2 corner piece.
+8. Put four 1x1 flat clasp pieces on the tip in the middle of the left side, on the large triangle. Two
+clasps face to the front and two to the back.
+9. Put a 2x1 flat handle piece vertically on top of the two leftmost clasp pieces, handle to the left.
+10. Put two 1x1 flat clasp pieces on top of the two rightmost clasp pieces, the same way as before.
+Bag 61-62
+1 Put a flat 2x1 on top of a flat 2x2.
+2 Put two curved stepped pieces on top of both the 2x2 and 2x1, stepped sides to the step made by
+the first two pieces.
+3 Put this part upright, vertically, lower side facing downwards, on the four buttons on the left side
+of the ship, under the handle piece on the left tip.
+4 Put a two-button frog piece on the left tip, partly on top of the handle piece, buttons to the left.
+5 Put two ladder pieces upright vertically at the sides of the frog piece, inserting them at the double
+clasps. The shorter sides of the ladders face away from each other. They form the railings of the
+prow side of the ship.
+Bag 63-64
+1. Put two double-sided clasps on a bone (one at a side).
+2. Put another bone at the end of one of the clasps.
+3. Repeat steps 1-2.
+4. Connect these parts to the ladders by the free clasps.
+5. Make the lanterns. Put a cone inside the chandelier piece, smaller side up.
+6. Put a plate piece on top, button side up.
+7. Put a 1x1 button on top.
+8. Repeat steps 5-7 to make another lantern.
+9. Put the lanterns at the left side of the ship, one at the front and one at the back, inserting them in
+the clasps.
+Bags 65-66
+1. Make a skeleton. Use the double-sided clasps for the legs. Put a spear in one hand.
+2. Put in at the handle on the left tip, with the spear leaning against the curved piece underneath for
+the balance.
+3. Make a decoration piece for the prow. Put a 1x1 piece with the side buttons on top of the 1x1 flat 
+piece with the clasp.
+4. Put two clasp pieces at the opposite side pieces horizontally.
+5. Insert the flame pieces vertically at the clasps.
+6. Put this part, flame side to the left, on the same handle with the skeleton.
+Large bag 4.
+Bag 1-3
+1. Put a flat 2x1 piece with the side hole on the middle two buttons of the short end of a 12x4 flat
+piece, hole hanging over the edge.
+2. Put this part vertically on the table, the side with the hole piece facing to the back. Put two large
+flat sawed-off pieces at the sides, vertically, the shortest sides to the front.
+3. Put two flat 3x1 pieces horizontally at the sides of the side-hole piece to connect them.
+4. Put three flat 10x2 pieces vertically side by side to the front of the previous pieces, one in the
+middle and two at the sides.
+Bag 4-7
+1. Put a flat smooth 4x1 horizontally on the second row of your piece, on the first row of the three
+10x2 flat pieces, in the middle.
+2. Put two 1x1 wedge pieces to the sides of the previous piece, lower sides to the front.
+3. Put a flat smooth 6x1 piece horizontally to the back of the 4x1 flat piece.
+4. Put a flat 8x1 piece horizontally at the middle of the back side, on top of the other pieces there.
+5. Put two 10x1 pieces vertically at the sides of the three 10x2 flat pieces.
+6. Put two 1x1 buttons at the backs of the two previous pieces, on the end buttons of the flat 8x1
+piece.
+7. Put two 2x1 pieces vertically at the sides, partly on top of the 1x1 buttons and partly on top of the
+10x1 pieces.
+8. Put two more 2x1 pieces on top of the first ones.
+9. Put two 2x2 tall pieces at the sides of the previous pieces, on the flat platform base.
+10. Put two 2x1 wedge pieces at the sides of the previous pieces, at the ends of the flat platform
+base, slide sides facing to the sides (outward).
+Bag 8-10
+1. Put two 2x1 long-toe pieces on top of the previous pieces, toe sides facing outward.
+2. Put two cone pieces to the front of the previous pieces, at the flat platform base, in the corners
+formed by the tall pieces and the 10x1 pieces. Put aside.
+3. Put a 1x1 button on the button of the 2x1 flat button/clasp piece.
+4. Put a 1x1 piece on the button.
+5. Put a 1x1 button on top.
+6. Put a 1x1 piece on top.
+7. Repeat steps 3-6. Put these parts horizontally at the sides, partly on top of the cones and partly
+on the 10x1 pieces, tall sides facing each other.
+8. Put two 2x1 upside-down wedge pieces to the front of the previous pieces, on the 10x1 pieces,
+slanted sides facing outward.
+9. Put the table with the map horizontally in the middle, at the front, to the back of the 6x1 smooth
+flat piece.
+Bag 11-14
+1. Put two latticed window wings into each of the window frames. Put these windows vertically at the
+sides, to the front of the upside-down wedge pieces.
+2. Put two more upside-down wedge pieces to the front, as before.
+3. Put 1x1 button piece on top of another and put them at the back button of a flat 4x1 piece.
+Repeat.
+4. Put these parts vertically to the front and to the sides of the previous pieces, on the flat platform
+base, to the sides of the 10x1 pieces, protruding one button forward and overhanging the base at
+the front. Put aside.
+5. Put a 1x1 button on the button of the 2x1 flat button/clasp piece.
+6. Put a 1x1 piece on the button.
+7. Put a 1x1 button on top.
+8. Put a 1x1 piece on top.
+9. Repeat steps 3-6. Put these parts horizontally at the sides, partly on top of the two-buttons parts, 
+and partly on the 10x1 pieces, clasp sides facing outward.
+10. Put two upside-down wedge pieces vertically to the front of the previous pieces, on the remaining
+free buttons of the 10x1 pieces, slanted sides facing to the front.
+Bag 15-16.
+1. Put two 1x1 buttons on the front buttons of the previous pieces.
+2. Put two flat 10x1 pieces vertically to the backs of the previous pieces.
+3. Put two more 1x1 buttons to the backs of the previous pieces.
+4. Put two 1x1 pieces with the toes on top of the previous two pieces, toes to the back.
+5. Put two 6x1 pieces vertically to the front of the previous two pieces.
+6. Put two 1x1 pieces with the clasps to the front of the previous two pieces, clasps facing each
+other.
+7. Put two 2x1 pieces vertically to the front of the previous two pieces. Put aside.
+Bag 17-18
+1. Put a flat 2x1 with the two clasps on top of the 6x1 arch piece, on the middle two buttons.
+2. Put a bone in the clasps. Repeat.
+3. Put these parts at the sides, vertically, bones facing outward, resting on the two protruding
+buttons above the windows.
+4. Put two 4x1 pieces vertically to the front and to the center from the previous pieces, on the next
+level of the walls, aligning at the front with the lower level.
+5. Put two 2x1 pieces with the toes to the back, toes facing outward.
+6. Put two 2x1 vertically to the back.
+7. Put two 1x1 pieces with the toes to the back, toes to the back. Put aside.
+Bag 19-21
+1. Put a cylinder on top of a 1x1 button.
+2. Put a faucet piece on top, faucet side up. Repeat.
+3. Flip these pieces upside down and put them inside the walls, in the clasps above and to the front
+of windows.
+4. Insert a small connector with the ball into the side hole of a 1x1 piece with the side hole. Repeat.
+5. Put these parts at the back of the walls, on the next level, balls facing outward.
+6. Put two 6x1 pieces vertically to the front.
+7. Put two 2x1 pieces to the front.
+8. Put two 2x1 upside-down wedge pieces to the front, slanted sides to the front. Put aside.
+9. Put two clasp pieces vertically on a flat 2x1 piece with the handle.
+10. Insert a spear in the clasps, the tip facing away from the handle.
+11. Repeat steps 9-10 three more times.
+12. Put these parts at the front and at the back of the outside sides of the walls, in the clasps, spear
+tips facing outwards and up.
+Book 2.
+Large bag 5.
+Bags 22- 24
+1. Continue the bridge. Put two flat 2x1 pieces vertically on top of the wedges in front, on both sides.
+2. Put a flat 8x1 horizontally across the bridge to the back of the previous pieces.
+3. Put two flat 2x1 pieces with the cornice vertically to the back of the previous piece, on both sides,
+cornices facing each other.
+4. Put two flat 4x1 pieces vertically to the back of the previous pieces, on both sides.
+5. Put two flat 2x1 pieces with the cornice vertically to the back of the previous pieces, as before.
+6. Put two flat 10x1 pieces vertically on top of both sides, leaving the last buttons on each side free.
+7. Put two flat 1x1 pieces with the grasps on these last buttons, grasps facing outwards.
+8. Put two flat 2x1 pieces with the grasp horizontally on top of the flat 6x1 piece across the bridge, at
+the sides, leaving the two middle buttons free, grasps facing forward.
+9. Put a flat 3-button corner piece on the left wall, in the shape of F, on the second and third buttons
+from the front and on the left button of the flat 2x1 piece with the grasp.
+10. Do the same on the right side, but in the shape of D, symmetrically.
+11. Put a flat smooth 4x1 piece horizontally between the two previous pieces.
+12. Put two flat smooth 2x1 pieces vertically on both sides, on the last two buttons of each side. Put
+the structure aside.
+Bag 25.
+1. Make the window. Insert the glass in the frame. Put a flat 6x1 underneath, so that a button
+remains free on each side.
+2. Put one cone on top of another and put them on the free button. Repeat on the other side.
+3. Put a 1x1 piece with the grasp on top of the cone, grasp forward. Put a cone on top. Put another
+1x1 piece with the grasp on top, as before. Put another cone on top. Repeat on the other side.
+4. If you wish, put a sticker with some fire-like patterns on it on the glass. Insert two bones upright in
+the grasps.
+5. Put a flat 6x1 piece on top.
+6. Put two 1x1 buttons at the ends of it.
+7. Put two flat 2x1 pieces with the handles in the middle, handles to the back.
+8. Put this part horizontally on the bridge, handles into the grasps on the flat 6x1 piece across the
+bridge.
+Bag 26-27.
+1. Put two 2x1 pieces vertically on both sides, on the second and third buttons (on top of the F and
+D pieces).
+2. Put four 1x1 buttons on top of the four cones. Skipping a button back to the previous piece, put a
+cone on. Do the same on the other side.
+3. Skip a button back and put another cone. Do the same on the other side.
+4. Put a 1x1 button on a hammer piece. Repeat.
+5. Put these parts on both sides, vertically, buttons to the front, at the back of the second cone, to
+the front of the flat smooth 2x1 piece.
+Bag 28-30
+1. Insert a pin with the head into the side hole of the 1x1 piece with the side hole. Repeat.
+2. Put these parts on both sides, on top of the first button of the 2x1 piece in front, pin heads facing
+outwards.
+3. Put two 1x1 pieces with the long toe on both sides, vertically, toes to the back, to the back of the
+previous pieces.
+4. Put two flat smooth 2x1 pieces on both sides, vertically, to the back of the previous pieces.
+5. Put two fabric flaps outside of both walls, even side down, longest corner to the front, two holes at
+the bottom on the spears and two holes on the top on the pin heads. Put aside.
+6. Build the top of the bridge. Flip a flat 8x6 piece upside down. Put two flat 4x2 pieces upside down
+along the wide edges, at the middle (leaving two buttons on each side free). Flip right side up, put
+vertically in front of you.
+7. Put a 2x1 piece with the toe in the middle of the last two rows, toe to the back.
+8. Put a flat 2x1 on top of it.
+9. Put a two-hole piece on top.
+10. Insert a steering wheel in the hole, facing you.
+11. Put this part as a ceiling to the bridge, resting on the cornices.
+Bag 31-34
+1. Put a flat 2x1 on top of an upside-down wedge. Repeat. Put these parts on both sides, on the first
+buttons, slide side forward, in front of the taller wall sides.
+2. Put two one-button pieces with the toes on both sides at the back of the previous pieces, on the
+taller wall sides, toes to the back.
+3. Put two cones on both sides, on the first buttons, on top of the flat 2x1 and the wedges.
+4. Put two flat 2x1 with the hooks on both sides, vertically, at the back of the previous pieces, hooks
+facing outwards.
+5. Put two 1x1 buttons on both sides, on the cones.
+6. Put two 1x1 pieces with the toes on both sides, to the back of the cones, toes to the back.
+7. Put two flat 2x1 pieces with the handle on both sides, on the first and second buttons (partly on
+top of the cones and partly on the pieces with the toes), handles facing outwards.
+8. Put two arm pieces on both sides, on the hooks.
+Bag 35-36
+1. Make two skeletons, put clasps on their heads and put them on both sides by the clasps on the
+handles.
+2. Make a lantern. Put a cone inside the chandelier, put a plate on top and a button on the plate. 
+Repeat.
+3. Put the lanterns on both sides in the arm pieces on the hooks.
+Bag 37
+1. Make a window. Insert the glass in the frame.
+2. Put a flat 6x1 underneath as before.
+3. Put two flat 1x1 pieces with the clasp on top of the window, at the end buttons, clasps facing
+forward.
+4. Put two cones on the previous pieces.
+5. Put a flat 2x1 with one button in the middle.
+6. Put a skull head on this button.
+7. On both sides, put a cone at the end buttons of the 6x1 piece. Put a 1x1 piece with the clasp on
+top of each cone, clasps facing forward.
+8. Put a cone on both sides.
+9. Put a 1x1 piece with the clasp on top of each cone, as before.
+10. Put a 1x1 button on top of the previous pieces on both sides.
+11. Put a flat 6x1 on top.
+12. Put three flat smooth 2x1 pieces on top.
+13. Put a sticker on the window.
+14. Put two longer bones at the sides, in two clasps each.
+15. Put shorter bones in the single clasps.
+16. Install this window on top of the larger window at the front. Put aside.
+Bag 38
+1. Put a flat 8x2 piece horizontally in front of you. Put a four-button circle in the middle of it.
+2. Put a 2x1 piece horizontally at the two back buttons of the circle.
+3. Put two cones at the sides of the cone, on the first row of the 8x2 piece.
+4. Put a 2x1 piece with the cross at the side on the front two buttons of the circle.
+5. Put two two-button pieces with the long toe horizontally on the sides of the 8x2 piece, on four
+buttons each, toes facing outwards and overhanging at the sides.
+6. Cover with four curved/stepped pieces, two on each side, shorter sides facing outwards and
+longer sides meeting in the middle.
+7. Put this part on top of the window.
+8. Connect the bridge part to the main ship. Put it over the right (rudder) end, window to the right,
+and click the hook in the middle of the left side of the bridge to the small handle on the right side
+of the tower on the ship.
+Bag 39
+1. Build the skull railing. Put a flat 8x2 piece horizontally in front of you.
+2. Put three flat 2x1 pieces with one button on the first row of it, horizontally, in the middle, leaving
+one button free at each end.
+3. Put a double flat 2x1 piece (movable) on each of these free buttons, so that it overhangs at the
+side and bends to the back.
+4. Put the end two buttons of a flat 10x1 piece underneath the second part of each of the previous
+pieces.
+5. Skipping a button on the flat 10x1 piece back of the connected double piece, put a 1x1 button.
+6. Skip a button and put another. And another, and another. Repeat on the other side.
+7. Put five skull heads on the middle part, at the equal distance.
+8. Repeat at the sides.
+9. Put two double flat 2x1 pieces on the heads on top of the other two double pieces, as before.
+10. Put a flat 6x1 on the heads in the middle part.
+11. Put two 1x1 flat pieces with the roll on top of the two end heads, rolls to the back.
+12. Put 1x1 buttons on the rest of the heads.
+13. Put three flat 10x1 pieces on top, one on each side.
+14. Flip the part upside down. Put 1x1 buttons (upside down) at each end of the side 10x1 flat pieces.
+15. Put two 1x1 buttons at each end of the middle piece, at the front row (not the overhanging row).
+16. Flip right side up. Put a flat 2x1 piece on the front two buttons of each side 10x1 flat piece.
+17. Put a 1x1 flat piece with the roll on the second button of each of the previous pieces, rolls to the
+front (or, rather, facing outwards). Put aside.
+18. Put a cone on the button of a hammer piece. Put a 1x1 wedge piece on the cone, shorter side
+facing the larger side of the hammer piece. Repeat.
+19. Put these parts on the free button of the flat 2x1 pieces, next to the roll pieces, wedge sides
+facing backward (or toward each other).
+20. Insert an axe piece in the flag narrow-side opening. Repeat.
+21. Insert them, parallel to the table, into the rolls.
+22. Connect the railing to the bottom of the bridge. Put the protruding buttons in the base of the
+middle part on top of the free eight buttons at the back of the bridge.
+Bag 40-41
+1. Insert a short stick into the wide opening of a cone. Put the other side of the cone onto the small
+protruding part of an elephant-trunk piece. Put the other end of the stick into the cross-opening on
+the top of the outer side of the right-end of the ship.
+2. Make a lantern. Put a 2x2 circle on 2x2 8-sided wheel.
+3. Put two 2x1 flat pieces with the handles on top of the circle, handles facing away from each other.
+4. Put a one-button flat square on top.
+5. Put two two-sided hands (actually, they are legs!) on one handle, and two on the other.
+6. Put two skeleton bodies on the legs. Put aside.
+7. Put a cone on top of a 1x1 piece with the side buttons.
+8. Put four 1x1 clasps on four side buttons horizontally.
+9. Put four pieces of flames upright in the clasps.
+10. Put a small tube on the cone.
+11. Put a tiny connector in the tube, with the rim side up.
+12. Put this part on the lantern. Raise the skeletons up and put the part aside.
+13. Put the cone on the stick with the handle, narrow end first, so that it goes all the way to the
+pummel.
+14. Put a smaller saucer on the stick, convex side first, and move all the way up.
+15. Put a larger saucer on the same way.
+16. Put a 2x2 circle on the stick button side first.
+17. Put a 1x1 clasp on the handle part of the stick.
+18. Put this part on the lantern to cover it.
+19. Hang the lantern by inserting the tip of the elephant-trunk piece in the back of the clasp.
+20. Put one 2x2 cylinder on top of the other. Put a 2x2 circle on top. Put this part on the right-side
+tower.
+Bag 44. (sail and mast in bag 40)
+1. The mast has three-hole crossing on the top and on the bottom. will call them top and bottom
+crossings. It also has four holes running up its length. I will call them first, second, third and fourth
+holes, starting on the bottom. Insert a connector in the middle hole of the top crossing. Insert a
+connector into the third hole.
+2. Take a tube with the hole in the middle. Put it by this hole on the connector on the top crossing,
+parallel to the crossing.
+3. Take a half-tube with the hole. Put it by this hole on the connector in the third hole, turned to the
+left.
+4. Insert the smooth stick in it.
+5. Insert two longer ribbed sticks on both sides of the tube in the top crossing.
+6. Put two half-tubes on the ends of these sticks, not by the hole, but by the opening in the tubes.
+The holes are parallel to the ground.
+7. Insert two small connectors with the heads into these holes, from the front.
+8. Put a stick with the button on the end on top of the mast, button end first.
+9. Take a sail. Find the right-angle hole and put it on the smooth stick.
+10. Tip the ribbed sticks and put the heads of the connectors on the two other holes in the sail.
+11. Install the mast on the right-end tower.
+Bag 45-47
+1. Put a 2x2 circle on top of the column.
+2. Put a 2x2 flat corner piece on top, so that the 2x2 buttons are up and the corner side is down
+along the column and to the left. Put this part on the middle "tower".
+3. Insert a ribbed stick in the center hole on top.
+4. Make another column just like the firs but insert a small ribbed stick in the hole, rim up.
+5. Put this column on top of the first, the same way.
+Bag 48-51
+1. Put a 16x2 flat piece upright between the two corner pieces, alongside the top column.
+2. Put a 2x2 piece on the bottom end of the 16x2 piece.
+3. Put a 2x2 piece on its side. Put a 2x2 flat piece with the hole to the back of it.
+4. Insert a connector into the hole.
+5. Put a tube with the hole on the connector by the hole in the middle.
+6. Repeat steps 3-5. Put one of these parts on the bottom of the 16x2, on the 2x2 piece, and the
+other on the top.
+7. Make another mast. Insert two connectors on the side holes of the bottom crossing, long ends
+first (rims facing you). Put aside.
+8. Put two 2x1 flat pieces with the clasps underneath a 4x1 piece with the side holes.
+9. Put a 4x2 flat piece on top so that four front buttons overhang. Repeat steps 8-9.
+10. Put these parts on the bottom on the mast, on the opposite sides, inserting the connectors in the
+side holes.
+11. Connect these two parts by putting two 3x1 flat smooth pieces across them on the opposite sides.
+12. Insert a rib-ended connector into a half-tube (not in its hole), ribbed end first. Insert a connector in
+its hole. Insert the top of the connector into the hole of a tube. Insert the other end of the ribended connector into the second hole of the mast.
+13. Repeat step 12 and insert into the third hole.
+14. Put a cone on top of the mast.
+15. Put two riggings (ladder-like pieces) in the clasps on the bottom of the mast, by the short sides.
+16. Install this mast on top of the column, with the riggings perpendicular to the body of the ship and
+the tubes to the left. Lower the riggings and insert the other short ends into the clasps on the
+sides of the ship.
+Bag 52-54
+1. Put the flag on the stick with the handle and put the handle on the cone on the top.
+2. Do the same with the two cylinders, circle and the corner piece as before. Put this part on the
+left-side tower, corner side to the left.
+3. Put a 2x2 circle on a column.
+4. Put a corner piece as before on top.
+5. Insert a stick in the middle, rimes end up.
+6. Put the column on top of the left-end tower.
+Bag 55-57
+1. Put a flat 16x2 the same way as before.
+2. Put a 2x2 on the bottom of the 16x2 as before.
+3. Insert a connector into a flat 2x2 with the hole.
+4. Put a tube with the hole on the other end of the connector by the hole in the middle of the tube.
+5. Repeat steps 3-4.
+6. Put one of these parts on the top of the 16x2 as before, and the other on the bottom, on the 2x2
+as before.
+7. Make a mast. Put a tiny connector, rim last, into the middle hole of the top crossing.
+8. Put a stick with the button on top of the mast.
+9. Put a flat 4x1 alongside the mast, hanging from the tiny connector.
+10. Put a ribbed connector into the tube side of the half-tube with the hole, ribbed end first.
+11. Put a connector in the hole of the half-tube.
+12. Put a tube on the other end of the connector, by the hole in the middle of the tube.
+13. Put this part by the other end of the ribbed connector in the second hole of the mast.
+14. Put this mast on top of the left-end tower, crossings to the left as before.
+Bag 58-60.
+1. Insert a long ribbed stick into one end of a tube with the hole.
+2. Put a short ribbed end into the other end.
+3. Put a half-tube by the end (not by the hole) on the other end of the short ribbed stick.
+4. Insert a small connector with the head into the left hole of the half-tube.
+5. Repeat steps 1-4 three more times to make four such parts.
+6. Put these parts on the ends of the lower long cross-masts of the left-end and middle masts.
+7. Repeat steps 1-4. Insert a small connector with the head into the hole of the tube on the same
+side.
+8. Repeat step 7 three more times to make four such parts.
+9. Put these parts on the middle (second) ends of the cross-masts.
+10. Insert a long ribbed stick into a half-tube with the hole (not in the hole). Insert a smack connector
+with the head into the left hole of the half-tube. Repeat three more times.
+11. Put these parts on the upper-middle (third) ends of the cross-masts.
+Bag 61-62
+1. Insert a short ribbed stick into the half-tube.
+2. Insert a small connector with the head into the hole of the half-tube.
+3. Repeat steps 12-13 to make two such parts.
+4. Put these parts on the upper cross-mast of the middle mast.
+5. Put the only small sail on the top of the middle mast, smaller side up.
+6. Put the other four sails on the other four cross-masts, smaller side up.
+Bag 63.
+1. Insert a ribbed connector into the end of a bent tube with the hole.
+2. Insert the other end if the connector into the bottom of the last mast.
+3. Insert a tiny connector into the middle hole of the bottom crossing of the mast, rim end up.
+4. Insert another tiny connector into the middle hole of the top crossing, the same way.
+5. Put a cone on this last connector, larger end down.
+6. Insert the other end of the bent tube into the corner piece on the bottom of the left-end mast, so
+that the your mast rises slightly upright to the left over the left end of the ship.
+Bag 64.
+1. Take a triangular sail. Insert a clasp into one of its holes. Put a roll piece on the other end of the
+clasp.
+2. Do the same with another hole.
+3. Attach the two buttons on the rope to each clasp, each by one button.
+4. Put the other button of the one end (it will be the top one) on the bottom button of the upright 4x1
+flat piece running alongside the left-end mast.
+5. Put the other button of the bottom end on the slightly protruding tip of the connector in the bottom
+of the diagonal mast.
+6. Put the third corner of the sail on the cone in the top crossing of the diagonal mast.
+7. Insert a clasp into the cone.
+8. Put the barrel with the two bottles, the box with the cannon balls (cylinders) and the bucket
+somewhere at the back of the left side.
+Enjoy!
+Thank you so much for building this set!
+Visit legofortheblind.com for more accessible instructions!
+Abbreviation definitions:
+F = flat (Plate.)
+FS = flat smooth (tile)
+Slide = slope.
+Lip = inverted slope.
+Ribbed stick = Technic axle.
+Connector = Technic pin.
+Stubby or Short connector = Technic pin with stud.
+Long connector = elongated Technic pin.
+Nail = technic axle with end stop.
+Fat nut = Technic joiner.
+Thin nut = Technic stop.
+Elbow = technic joiner 90 dg.
+1x1, 2x1, 3x1… means a 1x1, 2x1, 1x3… brick.
+Ver = vertically.
+Hor = horizontally.
+Symm = symmetrically.
+LMA = Lay Momentarily Aside.
+PP = previous piece.
+Sep bag = separate bag.
+Braille letters (for placing corner pieces):
+D = open corner to the front left.
+F = open corner to the front right.
+J = open corner to the back left.
+H = open corner to the back right.

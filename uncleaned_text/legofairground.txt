@@ -1,0 +1,448 @@
+10244 Lego Fairground
+Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
+terms we’ll be using:
+Front: towards you.
+Back: away from you.
+Up: towards the ceiling.
+Down: towards the floor.
+Stud: the bump on a Lego brick. Example: A 2x1 brick has two studs on it.
+Vertically: going from front to back.
+Horizontally: going from left to right.
+Upright: pointing up towards the ceiling, and down towards the floor.
+Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic connector on the
+front wall at the right, connector to the front, and then place another such piece symmetrically on
+the back wall, at the right, the technic connector of the second piece should point to the back,
+since it will be placed symmetrically.
+There are also abbreviations defined at the end of this file.
+The build is separated into the following three phases: Book 1.
+Minifigures, midway booths (strongman game, dunk tank and ticket
+booth), transport for booths. Book 2. Truck and trailer for the
+Fairground Mixer. Book 3. Fairground Mixer ride and fence.
+Book 1.
+1-3. Build a man on stilts.
+Put a F 2x2 on the table. Put a F three-button corner piece on
+top. Letter F. Put a F 1x1 with a clasp on the free button, clasp
+overhanging at the front. Put a F 2x2 with one button on top. Put
+a FS 1x1 on top. Put this piece on one of the minifigures head,
+as is.
+Make three skittles by connecting a cone to a cone with a stick,
+wide end, to wide end. Insert one into the clasp on the head and
+put two into his hands.
+Put two 1x1 tall pieces on his legs and put two shoe pieces
+underneath, the toes to the front.
+1-25. transport for the booths.
+Put a F 4x1 with two buttons ver on the table. Put a 12x1 with
+side holes hor on the back buttons and to the right. Put another
+such piece symm at the front.
+Flip upside down, front to back. Put a F 8x1 with a cornice hor,
+upside down, cornice to the front, on the back left end, skipping
+one button from the left. Repeat symm at the front. Put a F 4x1
+with two buttons ver, upside down, to the right of the two PPs.
+Flip right side up. Put a F 8x1 with a cornice hor, cornice to
+the front, at the back row, to the right of the PP. Repeat symm 
+at the front. Put a F 4x1 with two buttons ver to the right of
+the two PPs.
+Connect by putting an 8x1 with side buttons hor on the back row,
+to the right of the 12x1, and the other symm at the front. Lay
+momentarily aside.
+Make a part. Sandwich a F 2x1 with a clasp between two F 2x1
+pieces. Put two 2x1/2x2 corner pieces hor side by side, the 2x2
+side button wall upright to the back. And connect by putting your
+part on top, in the middle, the clasp to the front. Put this part
+ver, the clasp to the left, as the right edge of your main part.
+Connect by putting a F 4x2 ver on top and to the left.
+Put a F 2x1 hor to the left, at the back. Put a 2x1/2x1 corner
+piece hor to the left, the side wall to the back and to the top.
+Put a F 4x1 hor to the left. Put a 2x1/2x1 to the left, as
+before. Put a 2x1 with a clasp hor to the left, the clasp to the
+back. Put a F 4x1 hor to the left. Put a 2x1/2x1 to the left s
+before.
+Repeat step 6.1 symm at the front.
+7.1 put a 6x1 hor at the left end of the back wall. Put a F 2x1
+hor to the right. Put a 3z1 hor to the right. Put a 6x1 hor to
+the right. Put a F 3x1 hor to the right.
+7.2 repeat step 7.1 symm at the front.
+8. Flip upside down, front to back.
+8.1. put a 2x1/2x2 corner piece hor, upside down, on the left end
+of the back wall, the 2x2 side to the back, to the bottom. Skip
+six columns to the right and repeat. Skip four columns to the
+right and repeat. Put a FS 2x2 disk on the right end of the back
+wall.
+8.2 Repeat step 8.1 symm at the front.
+9. Mount a grate upright, hor, at the left end of the front wall,
+on the two bottom side buttons. Put a FS 1x1 disk on the wide end
+of a candlestick piece and insert ver, the disk to the bottom, on
+the clasp on the front wall. Mount a F 8x2 upright, hor, to the
+right, on the two top side buttons and to the right. Mount a
+grate upright, hor, underneath the right bottom end of the PP.
+10. Mount a bench piece upright, hor, the back to the front at
+the top, to the top of the PP. Mount another bench piece to the
+top, as before. Mount a 2x1 half-cylinder hor to the left.
+Repeat. Mount a grate upright, hor, to the left, at the top row.
+Mount a FS 2x2 curve piece upright to the bottom, the slide to
+the bottom. Lay momentarily aside. Make a part. Put a F 2x1 with
+two side holes ver on the table. Insert a connector from the
+right into the bottom hole. Put another such piece from the
+right, as before. Insert a long end of a half-connector from the 
+right into the top hole of the PP. Put a FS 1x1 disk on the
+half-connector. Mount this part upright, ver, the disk to the
+left, at the left end of the front wall, to the top of the grate.
+11. Rotate left to right (the disk of the previous part should
+be at the right end of the back wall). Mount a grate upright,
+hor, at the right end of the front wall, at the bottom row.
+Insert a hammer, the head to the top, in the clasp on the front
+wall. Mount a F 8x2 upright, hor, to the left, at the two top
+rows. Mount a grate upright, hor, to the bottom of the left end
+of the PP.
+12. Mount two benches to the top, as before. Mount a 2x1
+semi-cylinder hor to the right. Repeat. Mount a grate upright,
+hor, to the right, at the top row. Mount a FS 2x2 curve to the
+bottom, slide to the bottom. Lay momentarily aside. Make a part.
+Put a F 2x1 with two side holes ver on the table. Insert a
+connector from the right into the bottom hole. Put another such
+piece from the right, as before. Insert a long end of a
+half-connector from the right into the top hole of the PP. Put a
+FS 1x1 disk on the half-connector. Mount ver, the disk to the
+right, on the right end of the front wall, symm to the similar
+part at the back.
+13. Flip rotate left to right (the disks should be at the left
+wall). Stack two 1x1 buttons and put at the right end of the
+front wall. Repeat at the back. Put a 2x2 cylinder to the front
+and to the left. Put a 2x2 with an arch hor, the arch to the
+front, to the left of the front button stack. Repeat symm at the
+back.
+14. Put a F 6x1 ver on the right edge (on the button stacks).
+Skip two columns to the left and put a F 6x4 ver there. Put a F
+4x1 ver to the left, in the middle. Put a F 8x8 lattice piece to
+the left, to the front and to the back. Put a F 8x4 ver to the
+left.
+15. mount a 2x1/2x2 ver on the front end of the right wall, the
+2x2 side buttons upright to the right and to the bottom. Repeat
+symm at the back. Put a F 2x1 ver on the right wall, in the
+middle. Put a F 4x2 ver to the left, to the front and to the
+back. Put a F 6x1 hor to the front and to the left. Repeat symm
+at the back. Put a F 1x1 with a side hole hor to the front of the
+leftmost button of the PP, the side hole to the left. Put a F 2x1
+ver to the front of the right button of the PP. Put another F 1x1
+with a side hole hor to the front and to the left, as before. Put
+a S 2x1 wedge hor, slide to the front, on the right end of the
+front edge of the 8x8 lattice piece. Repeat symm at the back. Put
+a FS 8x1 hor to the left. Repeat symm at the front. Put a S 2x1
+wedge hor, slide to the front, to the left. Repeat symm at the
+back. Put a FS 3x1 ver to the front of the left column of the PP.
+Put a FS 3x1 ver to the front. Put a F 2x2 with one button on
+the 4th-5th column from the left, on the 4th-5th row from the
+front. Skip two columns to the right and put another F 2x2 with
+one button there.
+16. Put a door hor on the right end of the front wall, skipping
+two columns from the right, the handle to the left and to the
+front. Put a F 2x1 ver to the back of the rightmost column of the
+PP. Put a 2x1 steering wheel ver to the back, the steering wheel
+to the left. Put a door hor to the back and to the left, the
+handle to the left and to the back. Put a 1x1 corner piece to the
+left, the walls to the back and to the left. Repeat symm at the
+front. Put a 6x1 ver to the left of the two PPs. Put a F 1x1 with
+a clasp hor on the front button of the PP, the clasp overhanging
+to the left. Repeat symm at the back.
+17. Stack two F 1x1 with clasp and put ver on top of the PP, the
+clasps overhanging to the back. Repeat symm at the front. Put a
+2x1 slide hor on the right end of the front wall, the slide to
+the right. Repeat symm at the back. Put a 4x1 ver to the front of
+the left column of the PP. put a 4x1 slide ver to the right, the
+slide overhanging at the right. Skip three columns to the left
+and put a chair to the left of the steering wheel, the seat
+obviously to the right. Put a cup to the front, in the right
+front inner corner.
+18. Put a 6x1 windshield ver on the second and third column from
+the right, the slide to the right. Skip three columns to the left
+and put a 1x1 on top of the stacked clasp at the front and at the
+back. Put two 2x1 shelf pieces ver in between, the shelves to the
+right.
+19. Put a f 6x1 vert on top of the two PP and to the front and to
+the back. Insert a shovel and a broom on the double clasps at the
+front and at the back, handles to the bottom.
+20. Put a F 2x1 with a cornice ver, the cornice to the right, on
+the second and third rows from the front of the F 6x1 (the back
+wall of the cabin). Put a F 2x1 with a cornice ver to the back,
+as before. Put three F 2x1 with a cornice ver on the windshields,
+the cornices to the right.
+21. Put a 1x1 wedge on the front end of the back cabin wall, the
+slide to the front. Repeat symm at the back. Put a F 4x1 ver in
+between. Put a F 6x4 with four buttons (the roof piece) ver to
+the right, the buttons to the left. Insert the short end of a
+muffler piece from the front into the hole at the back of the
+back cabin wall, the long end to the front and to the left.
+Repeat symm at the back.
+22. Make a part. Put a pew piece hor on the table. Insert a
+connector of a F 2x2 with an attached connector into the pew
+piece. Put a FS 4x2 hor on top, overhanging to the sides. Affix a
+sticker with a Lego Amusements sign on top. Install ver, the pew
+to the right, on the two middle buttons of the 6x4 roof piece and
+swing the Lego sign piece diagonally down. Lay momentarily aside.
+23. Make the front piece. Put a f 4x4 on the table. Put a FS 2x1
+hor in the middle of the front row. Affix the sticker with the
+license plate. Put a 1x1 clasp hor to the back, of its left
+column. Put a 1x1 clasp hor to the right. Put a S 2x1 curve hor 
+to the right, slide overhanging at the right. Repeat symm at the
+left. Put a grate hor to the back and to the right. Put a grate
+hor to the back. Put a grate hor to the leftt. Put a grate hor to
+the front. Put a fence piece hor on top of the grates and to the
+front, inserting the two middle vertical poles into the clasps.
+Push it all the way to the back. Mount upright, hor, the license
+plate to the right and to the bottom, on the right outer wall of
+the truck, starting from the bottom.
+24. Mount two 1x1 wedges on the two side buttons at the front end
+of the right wall, the slides to the front. Repeat symm at the
+back.
+25. Insert a cross end of a cross connector into the snowflake
+side of a wheel. Put a rubber tire on it. Repeat to make four.
+Install with the snowflake side to the inside of the truck.
+Mount the two other 1x1 wedges above first ones, the same way.
+Enjoy!
+
+Large Bag 2.
+Numbers 1-13. Strongman booth
+Put a F 3x2 hor on the table. Put a F 2x1 with a hinge ver on the
+rightmost column, the hinge overhanging to the right.
+Put a F 14x2 hor to the left, overhanging to the left.
+Put a F 16x2 hor underneath the overhanging end of the PP and to
+the left.
+Put a F 3x2 on top, skipping the leftmost column.
+Make a part. Put a F 1x1 on each end of a F 4x1. Put this part
+ver underneath the leftmost column of your structure, protruding
+to the front and to the back.
+Put a F 2x2 on the right end of your structure. Put a F 2x1 with
+one button ver to the left. Put a FS 2x1 ver to the left. Repeat.
+Put a FS 2x2 to the left. Put a FS 2x1 ver to the left. Put a FS
+2x2 to the left. Put a FS 2x1 from a sep bag ver to the left. Put
+a FS 2x2 to the left. Put a FS 2x1 from a sep bag ver to the
+left. Put a FS 2x1 from a sep bag ver to the left. Put a FS 2x2
+to the left. Put a FS 2x1 from a sep bag ver to the left. Skip
+one column to the left and put two F 2x2 with a hole there, back
+to front, holes overhanging to the left.
+Put a F 2x1 with one button ver in the middle of the left edge.
+Put a FS 2x2 to the right. Put a F 2x2 with one button on the
+right end of your structure.
+Put a saucer piece on top of the PP, the rim to the bottom. Put a
+1x1 clasp ver to the left. Put a 1x1 clasp ver on the left edge.
+Insert the left end of a stick into the left clasp, but do not
+yet insert the right end into the right clasp. Lay momentarily 
+aside.
+Make a base part. Put a F 6x6 on the table. Put a F 2x1 hor in
+the middle of the front edge. Put a F 2x1 with one button hor on
+top. Put a F 2x2 with a connector on the back edge, skipping the
+leftmost column. Put another such piece to the right. Install the
+previous part upright, ver, the saucer on the top to the front,
+onto the two connectors on your base. Lay momentarily aside.
+Make a part. Insert the connectors of two 2x1 with the side
+connectors into both ends of a F 2x2 with a hole. Put a F 2x1
+with two clasps hor on the back edge, in the middle, the clasps
+overhanging to the back. Put a F 2x1 with a hook hor to the
+front, the hole overhanging to the front. Put a saucer onto the
+hook, the rim to the top. Put a FS 2x2 to the back. Install this
+part as is in the middle of your structure, starting from the
+front edge.
+Put a tube onto the stick.
+Insert the upper end of the stick into the clasp.
+Bag 13. The hammers and the hammer holder.
+1-2. Stand.
+Put a F 4x2 hor on the table. Put a F 2x1 with one button ver on
+the right edge. Repeat symm at the left.
+Put a stand piece hor on top.
+A small hammer. Insert a stick into a long end of a gavel piece.
+Stack two 1x1 buttons. Repeat. Put on two ends of a barrel
+faucet. Put two FS 1x1 disks on ends. Install this hammer on the
+stand.
+Large hammer. Put a F 1x1 on the table. Put a 1x1 with side
+buttons on top. Mount two FS 1x1 on the back and front side
+buttons. Insert the short end of a stick with ring, into the top
+button. Mount two 2x2 cylinders onto the left and right side
+buttons. Mount two FS 2x2 disks on the cylinders from the sides.
+Install this hammer on the stand.
+1-14. The dunk tank.
+Put a F 6x6 on the table. Put a F 6x1 hor on the back edge. Stack
+two 1x1 and put on the left front corner. Repeat at the right.
+Put a 2x1 shelf ver to the back, shelf to the left. Repeat.
+Put a F three-button corner on the front end of the right wall,
+letter F, overhanging to the right. Put another such piece symm
+to the back (letter H). Put a F 1x1 to the back. Put a 1x1 on the
+left front corner. Put a 4x1 shelf ver to the back, the shelf to
+the right.
+Put a 1x1 on the right front corner. Skip two rows to the back
+and put a 1x1 from a sep bag there. Put a 1x1 from a sep bag to
+the back. Repeat. Put a F 1x1 on the left wall, skipping one row
+from the back. Put a F 2x1 with two clasps ver to the front, the
+clasps to the left. Mount a ladder upright, ver, on the clasps
+and to the bottom. Put a F three-button corner piece to the front
+and to the right, letter F. Lay momentarily aside.
+Make a part. Put a five-hole oblong piece hor on the table, holes
+to the top. Insert the long end of a half-connector into the
+rightmost hole. Repeat to the left. Put this part on top of a F
+2x2 with an attached connector, the attached connector in the
+second hole from the left. Mount a 2x1/2x2 corner piece hor, the
+2x2 side buttons to the front, onto the two half-connectors.
+Affix a sticker (a target made of red and white concentric
+circles) onto a FS 2x2 disk. Mount this piece hor onto the 2x2
+side buttons at the front. Install this part as is in the middle
+of the right wall and overhanging to the right.
+Put a door hor on the left end of the back wall, the handle to
+the back and to the right. Repeat symm at the right.
+Put a F 3x1 ver on the back end of the left wall. Repeat symm at
+the right. Put a F 1x1 on the front right corner. Repeat at the
+left. Lay momentarily aside.
+Put a five-hole oblong piece hor on the table, the holes to the
+front and to the back. Insert a connector from the front into the
+second hole from the left. Insert the long end of a
+half-connector from the back to the right. Repeat. Mount a bench
+piece upright, hor, on the two half-connectors from the back, the
+back of the bench on the top, parallel to the table and to the
+back. Put a F 2x1 with a hole hor, the hole to the right, to the
+front of the left end of your part, the hole on the connector.
+Install as is on the second and third rows from the front on the
+left wall, overhanging to the right.
+Put a F 6x1 ver on the right wall. Put a F 2x1 ver on the front
+end of the left wall. Skip two rows to the back and put a F 2x1
+with a cornice ver there, the cornice to the right. Put a F 1x1
+to the back.
+Put a six-button tall half-cylinder hor in the middle of the
+front wall, the curve overhanging to the front.
+Affix two stickers onto the curve (one with a picture of a fish
+and the other with the words ” ”Dunk tank” ”). Put a F 2x1 with a
+top hinge hor on the left end of the front wall, the hinge to the
+left. Repeat symm at the right. Put a F 2x1 hor to the left.
+Put a F 4x1 hor in the middle of the front wall. Put a FS 4x1 hor
+on top. Lay momentarily aside.
+Make a part. Put a F 2x1 with a side hinge hor on the table, the
+hinge to the left. Put a 4x1 fence piece hor on top and to the
+right. Repeat to make two such parts. Mount one upright, ver, the 
+2x1 to the left and to the bottom, on the left end of the front
+wall, the side hinge in the top hinge. Repeat symm at the right.
+Put a minifigure to the back. The dunk tank is finished.
+Make a table part. Put a F 2x1 with one button ver on the table.
+Put another such piece the same way to the right, skipping the
+one-button space. Connect by putting a 3x1 arch hor on top of
+both pieces. Put a F 4x2 hor on top, in the middle. at the left.
+Put two balls on the table. Put this part next to the dunk tank.
+The ticket booth.
+Put a F 6x6 on the table. Stack two 1x1 pieces. Repeat to make
+four stacks. Put one at the right back corner. Skip one row to
+the front and put another. Repeat at the left. Stack two 3x1
+pieces and put ver to the right of the two PPs. Make two stacks
+of two 1x1 from a sep bag. Put one on the left wall, on the third
+row from the front. Repeat at the right.
+Insert the drawers into the chest, put a FS 2x1 dollar piece into
+one and two FS 1x1 (token) pieces into the other and install hor,
+opening to the front in the middle of the back wall and to the
+front.
+Put a FS 6x1 hor on the back wall. Put a F 3x1 hor to the front
+of the second-fourth columns of the PP from the right. Put a 2x1
+1 button slide (cash register) ver to the left and to the front,
+the slide to the front. Insert the panes into the two frames. Put
+one ver, the pane to the left, in the middle of the left wall.
+Repeat symm at the right.
+1. Put a tall 1x1 from a sep bag in the left front corner. Put a
+tall 1x1 to the back. Put a 1x1 from a sep bag to the back. Put a
+1x1 to the back. Put a tall 1x1 from a sep bag to the back. 7.2.
+repeat 7.1 symm at the right.
+Rotate your part back to front. Put a 3x1 slide ver on the back
+end of the left wall, the slide to the back. Repeat symm at the
+right. Put a 1x1 from a sep bag (black) to the front. Repeat at
+the left. Put a 6x1 arch hor to the front of the two PPs. Affix a
+sticker to the front wall (it says ” ”ticket prices” ” and depicts
+one dollar=one token, two dollars=two tokens).
+Put one F 2x1 sled ver one the left wall, skipping the front row,
+the handle to the front. Repeat symm at the right. Put a F 4x1
+hor on top of the arch. Lay momentarily aside.
+Make a part. Mount one FS 1x1 disk from a sep bag and one from
+the same bag on the side buttons of a 2x1/2x1 corner piece.
+Repeat to make two such parts. Put them hor, side by side, on top
+of the PP, the disks to the front. Put one FS 1x1 to the right,
+and the other to the left. Put a FS 2x1 curve ver to the back of
+each FS 1x1, the slide to the back. Lay momentarily aside.
+Make a part. Put a F 6x4 with twelve buttons hor on the table,
+the smooth edge to the front. Affix a sticker (it says 
+” ”tickets” ” and depicts a roll of tickets). Put a F 2x1 with a
+clasp ver on the front end of the left wall, the clasp to the
+front. Repeat symm at the right. Put a F1x1 to the back. Repeat
+at the left. Put a F 6x1 hor on the back edge. Put six FS 1x1
+disks on the alternate buttons. Put six FS 1x1 disks from a sep
+bag on the other buttons. Install this part upright, hor, the
+sign to the front, on the top of the front wall, the clasps in
+the sled handles. Enjoy!
+Book 2. Truck and trailer for the Fairground Mixer.
+1-31. Truck.
+Bags 1. Put a 16x1 with the side holes hor on the table. Insert
+the round end of a x-shaped connector from the back into the
+rightmost hole. Insert the round end of a connector from the back
+into the third hole from the left. Lay momentarily aside.
+Bag 2. 2.1 Insert a ribbed stick halfway into the side holes of a
+cannon piece. Put ver on the table, the muzzle to the right. 2.2
+Put a double connector from the right into the muzzle, the free
+end to the top. 2.3 Mount a F 3x1 oblong piece upright, hor, from
+the front, with its leftmost hole on the ribbed stick. Insert a
+cross end of a connector from the front into the rightmost hole.
+2.4. Repeat 2.3 symm at the back. Repeat 2.4 symm at the back.
+Install as is from the front into the second-fourth holes from
+the right. Lay momentarily aside.
+Bag 3.
+Make a part. Put a 16x1 with the side holes hor on the table.
+Insert the round end of a connector from the front into the
+rightmost hole. Insert the round end of a connector from the
+front into the third hole from the left. Install this part as is
+from the front to your main part, symm to the similar piece at
+the back. LMA (lay momentarily aside).
+Bag 4-5.
+Make a part. Put a F 4x2 ver on the table. Put a 2x1 with the
+side buttons ver on the left front edge, the side buttons to the
+left. Put a 2x1 with the side buttons ver to the back, as before.
+Mount a FS 2x1 upright, hor, on the two side buttons in the
+middle. Affix a sticker (license plate DB 120) on the FS piece.
+Mount a FS 1x1 disk on the front and back side buttons. Install
+as is under the right edge and to the right.
+Bag 5.
+Flip upside down, back to front. Put a F 8x1 ver on the left
+edge, overhanging to the front and to the back. Put a F 4x1 hor
+to the right, on the front edge. Repeat symm at the back. Put a F
+4x2 ver to the right of the two PPs. Mount a 2x1/2x1 corner piece
+hor to the right, on the front edge, the side buttons to the
+front and to the bottom. Repeat to the right. Put two more such
+pieces symm at the back.
+Bag 6-8. Bag 6.
+Flip the right side up. Put a 2x1 with the side buttons on the
+front end of the left edge, the side buttons to the left. Repeat
+symm at the back. Skip one row to the front and put a 2x1 ver
+there. Put a FS 4x1 ver on the eight columns from the left. Put a 
+2x1/4x1 hor to the left of the pp, on the front edge, side
+buttons to the front and to the bottom. Repeat symm at the back.
+Put a FS 4x1 ver to the right of the two PPs. Put a 2x1/4x1
+corner piece hor to the right-side buttons to the front. Repeat
+symm at the back. Put a fs4x1 ver to the right. Put a f4x2 ver on
+the right edge.
+Enjoy!
+Thank you so much for building this set!
+Visit legofortheblind.com for more accessible instructions!
+Abbreviation definitions:
+F = flat (Plate.)
+FS = flat smooth (tile)
+Slide = slope.
+Lip = inverted slope.
+Ribbed stick = Technic axle.
+Connector = Technic pin.
+Stubby or Short connector = Technic pin with stud.
+Long connector = elongated Technic pin.
+Nail = technic axle with end stop.
+Fat nut = Technic joiner.
+Thin nut = Technic stop.
+Elbow = technic joiner 90 dg.
+1x1, 2x1, 3x1… means a 1x1, 2x1, 1x3… brick.
+Ver = vertically.
+Hor = horizontally.
+Symm = symmetrically.
+LMA = Lay Momentarily Aside.
+PP = previous piece.
+Sep bag = separate bag.
+Braille letters (for placing corner pieces):
+D = open corner to the front left.
+F = open corner to the front right.
+J = open corner to the back left.
+H = open corner to the back right.

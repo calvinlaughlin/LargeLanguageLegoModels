@@ -1,0 +1,74 @@
+60006 Police ATV
+Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
+terms we’ll be using:
+Front: towards you.
+Back: away from you.
+Up: towards the ceiling.
+Down: towards the floor.
+Stud: the bump on a Lego brick. Example: A 2x1 brick has two studs on it.
+Vertically: going from front to back.
+Horizontally: going from left to right.
+Upright: pointing up towards the ceiling, and down towards the floor.
+Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic connector on the
+front wall at the right, connector to the front, and then place another such piece symmetrically on
+the back wall, at the right, the technic connector of the second piece should point to the back,
+since it will be placed symmetrically.
+There are also abbreviations defined at the end of this file.
+This set includes a Police ATV with steering wheel, movable lights, and handcuffs. It also includes a
+wheelbarrow and some diamonds. The set includes two minifigures, a Police officer with a baseball cap,
+and a robber with a crowbar.
+Instruction art: An unshaven robber with a wheelbarrow full of diamonds and wielding a crowbar, is
+chased by a policeman in a baseball cap, on an ATV, holding a pair of handcuffs.
+First build the wheelbarrow, by putting a small rubber tire onto a double-sided button and insert it into the
+clasps at the bottom. Put the jewels and the crowbar inside. Give it to the robber. The robber wears a
+grey jump suit with black stripes, and a helmet with notched edges. He has a rope over his shoulder, on
+which are a set of keys.
+Build the ATV:
+1. Put a f6x2 hor on the table, and put 2 f2x2 axles underneath at the edges, ver.
+2. Put a 2x2 on the right edge. Put a 2x2 with two 2x1 wings, ver to the left.
+3. Put a f2x1 ver to the left. Put a f2x1 with two clasps ver to the left, clasps overhanging to the left.
+4. Put a f1x1 with a clasp, hor clasp to the right, on the right front corner. Put an identical piece the same
+way at the back.
+5. Insert a walkie-talkie into one clasp, and the handcuffs into the other. Skip one column to the left, and
+put a 2x1 slide ver there, slide to the left.
+6. Put a fs2x1 with a curve hor to the front, curve to the right, putting the left end on the front wing.
+Repeat symm at the back.
+7. Put a f2x2 with smooth wings, ver, on the left edge, slides of the wings to the left.
+8. Put a 2x1 slide ver on the left edge, slide to the left. Put the steering wheel, to the right of the PP.
+wheel to the right.
+9. Insert a smooth stick into the two clasps at the left edge. Put a fs2x1 with a frame, on top, ver, at the
+right edge, in the middle. Lay momentarily aside.
+10. Make a part Put a f1x1 on the table. Put a f1x1 with clasp on top, put a fs1x1 disk on top. Repeat to
+make 2. Mount them on top of the frame, the disks to the left, on top.
+1. Insert a f1x1 with a clasp, upright ver, onto the stick at the left edge, and mount a fs1x1 disk on its
+button, the button to the left.
+12. Make the tires onto the wheels and mount them onto the axles.
+Enjoy
+Thank you so much for building this set!
+Visit legofortheblind.com for more accessible instructions!
+Abbreviation definitions:
+F = flat (Plate.)
+FS = flat smooth (tile)
+Slide = slope.
+Lip = inverted slope.
+Ribbed stick = Technic axle.
+Connector = Technic pin.
+Stubby or Short connector = Technic pin with stud.
+Long connector = elongated Technic pin.
+Nail = technic axle with end stop.
+Fat nut = Technic joiner.
+Thin nut = Technic stop.
+Elbow = technic joiner 90 dg.
+1x1, 2x1, 3x1… means a 1x1, 2x1, 1x3… brick.
+Ver = vertically.
+Hor = horizontally.
+Symm = symmetrically.
+LMA = Lay Momentarily Aside.
+PP = previous piece.
+Sep bag = separate bag.
+Braille letters (for placing corner pieces):
+D = open corner to the front left.
+F = open corner to the front right.
+J = open corner to the back left.
+H = open corner to the back right.
+!

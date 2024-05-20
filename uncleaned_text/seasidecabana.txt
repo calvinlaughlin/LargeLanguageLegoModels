@@ -1,0 +1,82 @@
+6401 Seaside Cabana
+Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
+terms we’ll be using:
+Front: towards you.
+Back: away from you.
+Up: towards the ceiling.
+Down: towards the floor.
+Stud: the bump on a Lego brick. Example: A 2x1 brick has two studs on it.
+Vertically: going from front to back.
+Horizontally: going from left to right.
+Upright: pointing up towards the ceiling, and down towards the floor.
+Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic connector on the
+front wall at the right, connector to the front, and then place another such piece symmetrically on
+the back wall, at the right, the technic connector of the second piece should point to the back,
+since it will be placed symmetrically.
+There are also abbreviations defined at the end of this file.
+This beach scene from 1992 features a deck/veranda with a table with sunshade and two chairs, a mug,
+a parrot, wind-surfing board with sail, foliage, and a small one-person motorboat. The set includes 2
+minifigures, a man with a lifejacket, and a woman with a pony-tail.
+Minifigures. The girl: The girl has a ponytail and bangs, her eyes have make-up with heavy eyelashes,
+and lipstick with a red summer blouse with a blue bow on it.
+1. Put the 2 pizza pieces side by side so they form a semi-circle.
+2. Take a 2x2 cylinder and put it on the second row form the front, in the middle connecting the two
+pieces. Put a 4x1 fence piece horizontally on the back row one column to the right from the left edge.
+Repeat symmetrically at the right.
+3. Put 2 tall 2x1 pieces vertically on the edge of your structure, to the left and right of the fence pieces
+respectively. Put another 2x1 tall piece in the middle, between the fences one row to the front of the back
+edge.
+4. Take 2 6x1 arches and put them horizontally to connect the 2x1 tall pieces one row to the front from
+the back edge. Take 2 2x2 seat pieces and put them in the middle, left and right of your structure at the
+front, backs of the chairs to the back. Take a short pile and put it on the front left button of the 2x2
+cylinder.
+5. Take a leaf part and hold it horizontally, so that its point is to the right. Put it horizontally on the fifth
+button from the left, at the back of your structure, so the fanned out pat of the leaf is to the left. Skip two
+buttons to the right and repeat symmetrically with another leaf part. Take a 1x1 parrot and put it on the
+right middle button, facing forward. Take a 1x1 mug piece it on the cylinder piece to the right of the pole,
+on the cylinder's front right button.
+6. Take the girl and put her in the left chair.
+7. Take the man and give him the lifejacket. Make a watercraft: Take a f6x2 and put it horizontally on the
+table. Put a f2x2 vertical on its right end. Put a 2x2 slope piece with two buttons vertical on the left end,
+slope to the left. The slope is printed with a palm-tree-on-an-island design. Put a stepped 1x1 on the right
+end, on the f2x1 at the front, step to the right. Repeat at the back. Flip your part over, front to back. Put
+an f domed 2x2 on the left side. Put another domed f2x2 on the right front edge, with two buttons
+overhanging to the front, repeat symmetrically at the back. Flip your part right-side up. Put a f2x1 ski
+piece on the front buttons horizontally ski to the left and repeat symmetrically at the back. Put a f3x1
+corner piece at the back right of your part braille letter f, repeat symmetrically at the front braille letter h.
+Put a f2x1 in the middle of the previous part, vertical connecting the corner pieces. Put the 1x1 joystick on
+the back button of the slope piece on the left. Put the man in this watercraft. Put the joystick in his hand.
+Put that 1x1 saucer, (with a pink umbrella pattern, on the stick on the table of your main structure. Then
+take a 1x1 pole with ball. Put a 1x1 stick into the pole's 1x1 button. Take the tail and hold it upright 
+sharpest angle to the top. Put the bottom part of the sale with the round hole onto the ball at the bottom of
+the stick. Put the top part of the sale onto the slot at hte top of the pole. Take a stick with the ring in the
+middle hole, of the large pole so the ring is on the left, stick to the right, put the right hole of the sale onto
+that stick. Attach the sail to the surfboard.
+Enjoy!
+Thank you so much for building this set!
+Visit legofortheblind.com for more accessible instructions!
+Abbreviation definitions:
+F = flat (Plate.)
+FS = flat smooth (tile)
+Slide = slope.
+Lip = inverted slope.
+Ribbed stick = Technic axle.
+Connector = Technic pin.
+Stubby or Short connector = Technic pin with stud.
+Long connector = elongated Technic pin.
+Nail = technic axle with end stop.
+Fat nut = Technic joiner.
+Thin nut = Technic stop.
+Elbow = technic joiner 90 dg.
+1x1, 2x1, 3x1… means a 1x1, 2x1, 1x3… brick.
+Ver = vertically.
+Hor = horizontally.
+Symm = symmetrically.
+LMA = Lay Momentarily Aside.
+PP = previous piece.
+Sep bag = separate bag.
+Braille letters (for placing corner pieces):
+D = open corner to the front left.
+F = open corner to the front right.
+J = open corner to the back left.
+H = open corner to the back right.

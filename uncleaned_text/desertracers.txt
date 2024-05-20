@@ -1,0 +1,77 @@
+31040 Desert Racers
+Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
+terms we’ll be using:
+Front: towards you.
+Back: away from you.
+Up: towards the ceiling.
+Down: towards the floor.
+Stud: the bump on a Lego brick. Example: A 2x1 brick has two studs on it.
+Vertically: going from front to back.
+Horizontally: going from left to right.
+Upright: pointing up towards the ceiling, and down towards the floor.
+Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic connector on the
+front wall at the right, connector to the front, and then place another such piece symmetrically on
+the back wall, at the right, the technic connector of the second piece should point to the back,
+since it will be placed symmetrically.
+There are also abbreviations defined at the end of this file.
+Model 1: (the largest model, a jeep-style car.)
+1. Put a f6x2 upside-down hor on the table. Put a f2x1 with clasp, upside-down ver, clasp to the left, on
+the left edge. 2. Put a f2x1 ver upside-down to the right. Put a 2x1/2x1 upside-down ver on the right
+edge, side buttons overhanging to the right and to the bottom. Put a f2x1 ver to the left.
+Model 2: Model 3: Put a f2x1 with axles, ver on the left edge, and the other one on the right edge.
+4. Flip it right-side up, back to front. Put a f2x2 on the left edge, and the other f2x2 on the right edge.
+5. Put a f4x1 ver to the left, overhanging to the front and back. Put a f4x1 ver to the left. Install the
+handlebars into the clasp and turn upright.
+6. Put a 4x2 wheel-rim ver on the left edge, above the axles. Put a f4x1 ver to the right. Put the other
+wheel-rim ver to the right.
+7. Make a part, put a 2x1/4x1 corner piece. put a round f1x1 on the front button of the 4x1, put a f2x1
+grate piece hor to the back. put the other f1x1 round piece to the back. Mount this part hor, on the left
+edge, above the steering wheel.
+8. Put a f2x1/4x1 corner hor on the right edge. Put a f2x2 to the left, put a f2x1 hor ro the left of the front
+and back forward of the pp.
+9. Put a f2x1 in the middle gap in the front row, and another f2x1 in the gap of the back row.
+10. Put a f2x1/f2x1 corner piece ver on the right edge. Put a f1x1 to the front, and an f1x1 to the back.
+11. Put a 2x1 ver in the middle of the right edge. Put a 1x1 with a clasp to the back, clasp to the right,
+repeat symm at the front.
+12. Put a 2x1 bench piece in the middle of the right edge, ver, seat to the left. Repeat to the left. Put a
+2x1 ver on the front edge, to the left of the PP. put another part to the back. Put two 2x1 ribbed slide
+pieces, hor in the middle of the left edge, long side to long-side, slides to the left.
+14. Take 2 f2x1/2x1 corner piece, s, and put 2 1x1 buttons on their vertical buttons. Put them ver, buttons
+to the left on the 2 2x1 pieces to the right of the 2x1 ribbed ladder pieces.
+15. Put an fs4x1 hor on the front row, on top of the Put a 2x1 grate ver on the two buttons at the right.
+Put a fs4x1 hor to the back and to the left. 16. Put 2 f1x1 clasps hor in the 2x1 gap, to the right of the 1x1
+buttons.
+17. Put a ladder into the clasps.
+18. Make a part take f2x1 and lay it hor on the table. Put 2 f2x1 stepped pieces on the f2x1 to form a
+bumper piece. Put this piece at hte bottom 2x1 buttons hor, on the right edge.
+19. Mount a fs2x2 disk with a hole on the right edge. Put 2 fs1x1 pieces on the free buttons on the right
+edge (lower front, and lower back corners.) Put a stick intto the front clasp, and a faucet into the other
+clasp on the right edge. Put on the ties on the wheels and put them onto the axles.
+You are done! 
+Thank you so much for building this set!
+Visit legofortheblind.com for more accessible instructions!
+Abbreviation definitions:
+F = flat (Plate.)
+FS = flat smooth (tile)
+Slide = slope.
+Lip = inverted slope.
+Ribbed stick = Technic axle.
+Connector = Technic pin.
+Stubby or Short connector = Technic pin with stud.
+Long connector = elongated Technic pin.
+Nail = technic axle with end stop.
+Fat nut = Technic joiner.
+Thin nut = Technic stop.
+Elbow = technic joiner 90 dg.
+1x1, 2x1, 3x1… means a 1x1, 2x1, 1x3… brick.
+Ver = vertically.
+Hor = horizontally.
+Symm = symmetrically.
+LMA = Lay Momentarily Aside.
+PP = previous piece.
+Sep bag = separate bag.
+Braille letters (for placing corner pieces):
+D = open corner to the front left.
+F = open corner to the front right.
+J = open corner to the back left.
+H = open corner to the back right.

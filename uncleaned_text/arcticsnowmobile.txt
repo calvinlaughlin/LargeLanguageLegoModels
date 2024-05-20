@@ -1,0 +1,80 @@
+60032 Arctic Snowmobile.
+Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
+terms we’ll be using:
+Front: towards you.
+Back: away from you.
+Up: towards the ceiling.
+Down: towards the floor.
+Stud: the bump on a Lego brick. Example: A 2x1 brick has two studs on it.
+Vertically: going from front to back.
+Horizontally: going from left to right.
+Upright: pointing up towards the ceiling, and down towards the floor.
+Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic connector on the
+front wall at the right, connector to the front, and then place another such piece symmetrically on
+the back wall, at the right, the technic connector of the second piece should point to the back,
+since it will be placed symmetrically.
+There are also abbreviations defined at the end of this file.
+Put a F 2x1 ver on top of a F 2x2.
+Put a F 6x2 hor to the left, overhanging to the left.
+Put a F winged 2x2 on top, at the right end, wings to front and back, cut-off corners to the left.
+Put a F 1x1 with a clasp to the left, on the front row, clasp overhanging to the front. Repeat symm at the
+back. Lay momentarily aside.
+Make a part.
+Put a F 2x2 with wheels ver on the table, cut-off corners to the left.
+Put a F 2x2 on top.
+Put a 2x1/2x1 corner piece ver on top, at the left, side buttons to the left.
+Put a 1x1 wedge upright, slide to the bottom, on the front side button. Repeat at the back.
+Connect this part to your structure by putting the leftmost column of your structure on top of the right
+column of your part, as is.
+Put a F 6x2 hor on top, starting from the left.
+Stack two F 3x2 and put hor on top, skipping the leftmost column. Put a long frog piece hor on the three
+right columns, the nose overhanging to the right.
+Put a 2x1/2x1 curved frame hor on the four left columns, slides to the left.
+Flip your structure upside down and put a 4x1 stepped curve upside down, hor, on the four right buttons
+at the front row, slide to the left. Repeat at the back.
+Put a F 2x1 with a hook upside down, ver, at the rightmost column, hook to the right and to the bottom.
+Put a FS 2x1 disk to the left.
+Flip the structure right side up and fir the skis hor, curves to the left, at the connectors on the wheels.
+Put a F 2x1 ver on the 3rd column from the left. Put a 2x1 handle piece ver on top of the frog piece, cutoff corners to the left.
+Put a F 2x1 with one button ver on the 4th column from the left. Put a 1x1 clasp hor on top.
+Put a handlebar piece ver on top, the ends to the right. Put a S 2x2 curved piece to the left, slide to the
+left. (This piece is printed with the Arctic logo, a circle with a half-moon segment outlined in it. In the halfmoon segment is a picture of blue sky. In the rest of the circle is a picture of Antarctica as seen from
+space.)
+Put two 1x1 wedge pieces to the left, slides to the left. Put a walkie-talkie and an ice pick at the clasps at
+the front at back.
+Fit a button at one end of a chain onto the hook at the right end. Lay momentarily aside.
+Make a part.
+Put a F 6x2 hor, upside down, on the table.
+Put a F 2x1 with two handles ver, upside down, on the second column from the right, the handles to the
+left. Repeat symm at the left.
+Flip right side up. Put a F 2x1 with a hook ver at the leftmost column, the hook overhanging to the left.
+Put a crystal in the icebox, close and put on the sledge.
+Fit the other end of the chain to the hook.
+Enjoy!
+Thank you so much for building this set!
+Visit legofortheblind.com for more accessible instructions!
+Abbreviation definitions:
+F = flat (Plate.)
+FS = flat smooth (tile)
+Slide = slope.
+Lip = inverted slope.
+Ribbed stick = Technic axle.
+Connector = Technic pin.
+Stubby or Short connector = Technic pin with stud.
+Long connector = elongated Technic pin.
+Nail = technic axle with end stop.
+Fat nut = Technic joiner.
+Thin nut = Technic stop.
+Elbow = technic joiner 90 dg.
+1x1, 2x1, 3x1… means a 1x1, 2x1, 1x3… brick.
+Ver = vertically.
+Hor = horizontally.
+Symm = symmetrically.
+LMA = Lay Momentarily Aside.
+PP = previous piece.
+Sep bag = separate bag.
+Braille letters (for placing corner pieces):
+D = open corner to the front left.
+F = open corner to the front right.
+J = open corner to the back left.
+H = open corner to the back right.
