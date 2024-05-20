@@ -1,30 +1,39 @@
-60387 4x4 Off-Roader Adventures
-Adapted by John Le and tested by Natalie Charbonneau.
-Kids can head out on camping vacations every day with this LEGO® City 4x4 Off-Roader Adventures
-(60387) playset. The 4x4 vehicle features huge tires and high suspension for a cool off-roader look. Kids
-also get 2 toy mountain bikes, a LEGO tent, and cool accessories including a campfire. Just add the 2
-minifigures and animal figure and let the adventures begin!
-What’s in the box? – Everything kids need to build a toy 4x4, 2 mountain bikes, tent, campfire, and offroad-terrain setting, plus 2 minifigures and an animal figure.
-Packed with features for imaginative play – The 4x4 features large tires, high suspension, and a flatbed
-for transporting the toy mountain bikes.
-Dimensions – The toy 4x4 off-roader measures over 3.5 in. (8 cm) high, 7.5 in. (19 cm) long, and 4.5 in.
-(12 cm) wide.
-Minifigure accessories – The LEGO accessories in this set include a toy camera, shovel, pan, and
-backpack.
-The front of the box shows a male minifigure riding a huge white and orange truck equipped with massive
-wheels. He rides over terrain like it is nothing because of the truck’s suspension! He has a bike in the
-back of the truck to go mountain biking. In the back, there is a girl on a mountain bike looking over at his
-massive truck. Behind her, there is an orange tent, a fireplace, and a rabbit hiding behind the tent.
-The back of the box shows the huge truck parked in the back next to the orange tent and fireplace. The 2
-minifigures are both on their mountain bikes riding over the rocks and terrain! They have to be careful
-though because a scorpion is hiding behind one of the rocks!
-The top of the box shows both the minifigures riding their mountain bikes while a rabbit follows them and
-a scorpion sits in the background on a hill.
-The build is 252 pieces in total, 94 steps long, and is for ages 6+.
-Bag 1 includes the pieces to make the minifigures, tent, and terrain. Bags 2 and 3 includes the pieces to
-make the truck.
+31133 White Rabbit
+Set adapted by Alex Charbonneau and tested by Natalie Charbonneau.
+Kids aged 8 and up can play out fun stories with this fantastic LEGO® Creator 3in1 White Rabbit (31133)
+playset. It features a brick-built toy bunny with a posable head, legs, mouth and ears, and it comes with a
+choice of 2 snacks: a carrot or a flower.
+Nonstop imaginative play for animal lovers
+- There are 3 different build-and-play experiences for kids to enjoy with this LEGO Creator 3in1 set. They
+can build a toy bunny and then rebuild it into a beautiful cockatoo parrot eating seeds, or an adorable
+white seal with a fish snack.
+Posable animals:
+- The rabbit can move its head, legs, mouth and ears; the cockatoo parrot can move its wings, tail and
+neck and rotate its head 360 degrees; and the seal can move its mouth and flippers.
+Packed with accessories:
+- The toy rabbit comes with a carrot and a flower, the cockatoo parrot can ‘eat’ seeds, and the seal has a
+fish that can be attached to its mouth.
+A fun build:
+- This 258-piece building set lets kids aged 8 and up enjoy an exciting building experience and is the
+perfect reward for passionate LEGO® fans
+Play on the go:
+- The toy rabbit stands over 5.5 in. (15 cm) high, making it a portable size for kids to take wherever they
+go.
+The box is yellow. On the front of the box is an image of the white rabbit, standing on all fours next to a
+carrot and a yellow flower. The rabbit is completely white, except for the inside of the ears which are pink.
+There is a small inset image of a white cockatoo with yellow head feathers, and another of a white seal
+sitting next to a fish.
+The top of the box shows a life sized image of a green 1x1 circular plate with three leaves. There are also
+small images of each of the three builds included in the set. The rabbit stands next to a carrot. The
+cockatoo stands next to two brown plates which represent treats, and the seal playfully rolls on its back
+as it holds the fish over its mouth.
+The back of the box shows the three builds again. The rabbit is shown posing with its ears laying flat next
+to the carrot and flower. The cockatoo is shown perched on a computer generated branch. The seal is
+shown in a swimming pose on a blue background.
+The rabbit build is 258 pieces, and 102 building steps. The cockatoo build is 173 pieces and 74 building
+steps. The seal is 161 pieces and 59 steps.
 Welcome to text-based instructions from Bricks for the Blind. Before you start building, here are some
-terms we may be using:
+terms we’ll be using:
 - In Front of/Front: towards you.
 - Behind/Back: away from you.
 - Up: towards the ceiling.
@@ -36,376 +45,965 @@ terms we may be using:
 - That one/ppp: previously placed piece.
 - Plate: piece with studs.
 - Tile: smooth piece without studs (unless otherwise specified)
-- Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic
-connector on the front wall at the right, connector to the front, and then place another
-such piece symmetrically on the back wall, at the right, the technic connector of the
-second piece should point to the back since it will be placed symmetrically.
-- Centered-vertically: even amount of space in front of and behind piece
-- Centered-horizontally: even amount of space left and right of piece.
-- Row: studs lined up from left to right.
-- Column: studs lined up from top to bottom or front to back
-For builders with low vision, or a sighted building partner may want to follow along with the printed visual
-instructions that come with each kit, or PDF versions are always online at LEGO.com for each set:
-(https://www.lego.com/en-us/service/buildinginstructions/60387) As low vision users may benefit from
-viewing the instructions on a personal device where they can zoom in on content and use assistive
+- Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic connector on the front wall
+at the right, connector to the front, and then place another such piece symmetrically on the back wall, at
+the right, the technic connector of the second piece should point to the back, since it will be placed
+symmetrically.
+- Centered-vertically: even amount of space in front of and behind the piece
+- Centered-horizontally: even amount of space left and right of the piece.
+- Row: studs lined up horizontally (left to right/side to side).
+- Column: studs lined up upright or vertically (top to bottom/back to front).
+For builders with low vision, or a sighted building partner who may want to follow along with the printed
+visual instructions that come with each kit, PDF versions are always online at LEGO.com:
+(https://www.lego.com/en-us/service/buildinginstructions/31133) As low vision users may benefit
+from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
 Sorting the pieces:
-
-To begin a successful build, it helps to sort the pieces into groups, bags, or small containers. Have a
+To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
 should be sorted according to the building steps in the kit. Doing this in advance makes locating the
 pieces for each step easier. See below on how to sort the pieces to correspond to the steps in this set.
-Number the containers using letters A-Z, numbers, or meaningful names. The parts will be sorted into one
+Number the containers using letters A-Z, numbers or meaningful names. The parts will be sorted into one
 or a small number of steps in the instructions. Example: Steps 1-3 means collect all the parts used in
-steps 1,2 and 3, and put them in one container.
-This LEGO set comes with 3 bags labeled 1, 2, and 3, 2 sets of instructions, and some loose pieces. Sort
-the pieces into groups or piles as described below. Note that where there are multiple colors of the same
-brick in a step, the colors will be split into 2 groups to make telling the difference easier for the builder!
-LEGO includes a few spare parts in case you lose something. Set these into their own group away from
-the rest, in case you need them later.
-Bag 1
-Group 1 - Pages 5-7 (Female minifigure and Bike).
-Group 2 - Pages 8-10 (Male minifigure and Bike).
-Group 3 - Pages 11-15 (Tent).
-Group 4 - Page 16.1. This group has 1 white 2x4 tile (Tent).
-Group 5 - Page 16.2. This group has 1 white 2x4 tile (Tent).
-Group 6 - Pages 17-18 (Tent).
-Group 7 - Pages 19-27 (Terrain).
-Group 8 - Pages 28-32 (Terrain).
-Bag 2
-Group 9 - Pages 2-8 (Car).
-Group 10 - Pages 9-15 (Car).
-Group 11 - Pages 16-32 (Car).
-Group 12 - Pages 33-38 (Car).
-Bag 3
-Group 13 - Pages 40-42 (Car).
-Group 14 - Pages 43-52 (Car).
-Group 15 - Pages 53-55 and 2 clear transparent 1x1 circular tiles from step 56 (Car).
-Group 16 - Pages 56-60 (Car).
-Group 17 - Pages 61-69 and 4 large tires that were not in a bag (Car).
-Let’s get to building!
-Note that building instructions will be using page numbers instead of steps.
-Building Instructions (Bag 1, Book 1):
-Group 1 — Female Minifigure and Bicycle
-5. Assemble the female minifigure using the dark blue short legs, brown jacket over a pink sweatshirt
-printed torso, female head, and white cap. Then assemble her camera using the clear 1x1 circular tile and
-camera. Attach the circular tile to the stud on the camera. This is the camera flash! Then put it in her hand
-so she can take pictures!
-6. You are also given a white helmet so she is safe when riding her mountain bike!
-7. Locate 1 orange bicycle frame, 2 tires, and 2 white cylinders with small pegs. Insert the cylinders into
-the tires. Then attach the small pegs of the wheels to the front and back of the bicycle. Then put your
-minifigure on to ride the bike!
-Group 2 — Male Minifigure and Bicycle
-8. Assemble the male minifigure using the dark tan legs, light blue and dark blue sweatshirt torso with a
-mountain logo in the middle, red sack bag, male head, and dark blue cap. When assembling your
-minifigure, make sure the sack bag sits on his back.
-9. You are also given a dark blue helmet so he is safe when riding!
-10. Locate 1 dark blue bike frame, 2 tires, and 2 orange cylinders with small pegs. Insert the cylinders into
-the tires. Then attach the small pegs of the wheels to the front and back of the bicycle. Then put your
-minifigure on to ride the bike!
-Group 3 — Tent and Camp Fire
-11. Locate 1 black 6x10 plate and horizontally place it in front of you.
-12. Locate 2 black 1x6 tiles. Vertically place them on the first and last columns of this plate so that there
-is no overhang.
-13. Locate 4 black 1x2 plates with a clip. Vertically place 2 in the second column on the front and back
-sides so that the clips are overhanging off the plate. Then vertically place 2 more in the second to last 
-column in the front and back so the clips overhang off the plate. Then locate 2 dark grey 2x4 tiles.
-Horizontally place them in the middle 2 rows so they sit between the previously placed pieces.
-14. Locate 2 light orange 1x2 plates. Horizontally and symmetrically place them in the middle on the front
-and back rows. Then locate 4 more black 1x2 plates with clips. Vertically and symmetrically place them to
-the left and right of the light orange plates so the clips overhang in the front and back.
-15. Locate 2 white 1x4 plates and 4 orange 1x2 ingot tiles. Horizontally place 2 on top of each of the
-white plates so they cover all the studs. Then horizontally and symmetrically place them on top of the
-previously placed pieces on the front and back sides. Make sure they sit on the light orange plates and
-black plates with clips.
-Group 4 — Tent
-16.1. Locate 1 white 2x4 tile.
-16.2. Skip this step if you have already placed your sticker! Ask a helper to place sticker 4 on the white
-2x4 tile. This sticker is a dark red sleeping bag that is slightly open.
-16.3. Horizontally place this to the left of the black 1x6 tile located on the right side so that it sits in the
-fourth and fifth rows. Half of the sleeping bag should be in front of the orange 1x2 tile shaped like a gold
-bar located at the back. Make sure the opening of the sleeping bag is on the left!
-Group 5 — Tent
-16.4. Locate 1 white 2x4 tile.
-16.5. Skip this step if you have already placed your sticker! Ask a helper to place sticker 5 on the white
-2x4 tile. This sticker is a dark blue sleeping bag that is slightly open.
-16.6. Horizontally place this to the right of the black 1x6 tile located on the left side so that it sits in the
-second and third rows. Half of the sleeping bag should be behind the orange 1x2 tile shaped like a gold
-bar located at the front. Make sure the opening of the sleeping bag is on the right!
-Group 6 — Tent
-17. Locate 4 light orange 5x6 double-sided tiles with 2 clips on the side, and 4 black 1x4 bars. Attach
-each bar to the 2 clips on each double-sided tile so the clips attach to the ends of the bars. Horizontally
-and symmetrically attach 1 bar to the front left 2 clips and 1 to the back left 2 clips. Horizontally and
-symmetrically attach 1 bar to the front right 2 clips and 1 to the back right 2 clips. Flip all the double-sided
-tiles up to create a tent!
-18. Rotate your tent 90 degrees clockwise so the right side is now the front. Locate 1 brown 3x3 crossshaped plate, 1 brown 1x1 circular plate, and 1 small candle fire. Insert the candle fire into the circular
-plate, then attach the plate to the middle of the cross-shaped plate to make a campfire! Place this in front
-of the tent. Don’t get it too close or your tent will catch fire! Then locate 1 light grey shovel and 1 light grey
-frying pan. Place these in front of the tent!
-Congratulations on finishing your tent and campfire!
-Group 7 — Terrain
-19. Locate 1 dark tan 4x12 plate and horizontally place it in front of you. Then locate 1 dark tan 1x3 slope
-brick. Horizontally place this in the back right corner so the slope goes down from left to right. Make sure
-there is no overhang!
-20. Locate 1 dark grey 2x2 slope plate that has 2 studs on it. Vertically place this plate in the back right
-corner in front of the previously placed slope brick so that the studs of this plate are both on the left.
-21. Locate 1 dark tan 1x3 slope brick. Vertically place this to the left of the previously placed piece so that
-the slope goes down towards you. There should be a 1x2 stud area created by the two slope bricks now.
-Locate 1 dark tan 2x2 slope brick. Vertically place this to the left of the two 1x3 slope bricks so the slope
-goes down from right to left. There should now be a 2x2 stud area created by all 3 bricks. Now locate 1
-more 2x2 dark grey 2x2 slope plate. Horizontally place this in front of the 2x2 slope brick so that the 2
-studs of the plate are in the back.
-22. Locate 1 brown 1x1 circular plate and 1 dark grey 2x2 slope plate that has 2 studs on it. Place the 1x1
-circular plate in the back row to the left of the 2x2 slope brick. Then to the left of this circular plate, place
-your 2x2 slope plate so that the 2 studs are on the left side and the slope part is on the right.
-23. Locate 1 dark grey plate that is shaped like an A and has 8 studs on it, 2 sets of 4 studs. Horizontally
-place it in the back row to the left of the 2x2 slope plate you just placed so that 1 set of studs is attached
-to the 4x12 plate and the other set of studs is overhanging in the back. Make sure the back set of studs of
-the A is going back from left to right. Now locate 1 brown 1x1 circular plate and 1 dark tan 1x3 slope brick.
-Place the 1x1 circular plate directly in front of the A-shaped plate in the first column of the 4x12 plate.
-Then to the right of this circular plate, horizontally place the 1x3 slope brick so it goes down from right to
+steps 1, 2 and 3, and put them in one container.
+This LEGO set comes with two unlabeled bags and an instruction booklet. Sort the pieces into groups as
+described below. Note that where there are multiple colors of the same brick in a step, the colors will be
+split across two groups to make telling the difference easier for the builder! LEGO includes a few spare
+parts in case you lose something. Set these into their own group away from the rest, in case you need
+them later.
+Bag 1 (16 groups of bricks)
+Main build:
+Group 1 contains the pieces for steps 1-7.
+Group 2 contains the pieces for steps 8-13.
+Group 3 contains the pieces for steps 14-16.
+Group 4 contains the pieces for steps 17-24.
+Group 5 contains the pieces for steps 25-30.
+Group 6 contains the pieces for steps 31-42.
+Group 7 contains the pieces for steps 43-54.
+Group 8 contains the pieces for steps 55-63.
+Group 9 contains the pieces for steps 64-72.
+Group 10 contains the pieces for steps 73-78, and one tan 1x2 plate from step 79.
+Group 11 contains the pieces for steps 79-82 as well as a light pink 1x1 quarter circle tile from step 85.
+Group 12 contains the pieces for steps 83-87.
+Group 13 contains the pieces for step 88.
+Sub-build 1: Yellow flower
+Group 14 contains the pieces for steps 1-7 of the flower.
+Sub-build 2: Carrot
+Group 15 contains the pieces for steps 1-4 of the carrot.
+Group 16 contains the pieces for steps 5-7 of the carrot.
+Building Instructions:
+Open bag 1.
+Open group 1.
+1. We’ll start by making the body of the rabbit. Place a white 2x6 plate, horizontally long, in front of you.
+2. Place a white 2x4 brick, horizontally long, on the right three columns of the previous piece so it
+overhangs one column to the right. Place another to the left of the first. Flip the assembly over so it is
+horizontally long and the studs are down.
+3.1. Place a tan 1x2 plate, vertically long, on the rightmost column of anti-stud. “Anti-stud” is a term for the
+portion of a LEGO piece which accepts studs, like the bottom of a plate.
+3.2. Place a white 1x2 plate with two side studs on one long side, with the side studs on the left, on the
+leftmost column of anti-stud. Flip the assembly over so it is horizontally long with the studs on top again
+and the side studs of the previous piece on the left.
+4.1. Place a tan 1x2 plate with two side studs hanging down on one long side, with the side studs on the
+left, on the leftmost column of the assembly.
+4.2. Place a white 2x6 plate, horizontally long, to the right of the previous piece.
+4.3. Place a white 1x2 plate with a 2x2 of side studs hanging down on one long side, with the side studs
+on the right, to the right of the previous piece.
+5.1. Place a white 1x2 plate with two side studs on one long side, with the side studs on the right, on the
+previous piece.
+5.2. Place a tan 2x4 plate, horizontally long, to the left of the previous piece.
+6.1. Place a black 1x1 circular plate to the left of the front row of the previous piece. Place another behind
+the first.
+6.2. Place a tan 1x2 plate, vertically long, to the left of the previous two pieces.
+6.3. Place a white 1x2 plate with two side studs on one long side, with the side studs on the left, to the left
+of the previous piece.
+7.1. Place a dark gray 2x2 brick with two large tow balls on it, vertically long, on the rightmost two
+columns on top of the assembly.
+7.2. Place a white 1x2 brick with a log pattern, horizontally long, to the left of the front row of the previous
+piece. Place another behind the first.
+Open group 2.
+8.1. Place a dark gray 1x1 brick with a stud on one side, with the side stud at the front, to the left of the
+front piece from the previous step. Place another symmetrically behind the first.
+8.2. Place a white 2x2 tile with a single stud to the left of the previous two pieces.
+9.1. Place a dark gray 1x1 brick with a stud on one side, with the side stud at the front, on the front row to
+the left of the previous piece. Place another symmetrically behind the first.
+9.2. Place a pink 1x1 heart tile on the stud on the 2x2 tile with a single stud. The point of the heart should
+be on the right.
+10.1. Place a tan 1x2 plate with two side studs hanging down on one long side, with the side studs on the
+left, on the leftmost column of the assembly. Place another symmetrically on the rightmost column.
+10.2. Place a white 2x3 plate, horizontally long, to the left of the right piece from the previous step.
+10.3. Place a pink 1x2 plate with rounded ends, vertically long, to the left of the previous piece.
+11. Place a tan 2x2 plate on the top two rows of side studs on the right side of the assembly.
+12.1. Place a white 1x2 plate, horizontally long, on the top row of the previous piece.
+12.2. Place a white 2x2 curved slope tile, with the cutout on the top, on the previous piece, even with the
+top of the previous piece.
+13. Place a white 1x2 quarter cylinder, with the thick end on top, below the previous piece. It might look
+small, but this is the rabbit’s tail!
+Open group 3.
+14.1. Set the rabbit’s body aside for now. Place a tan 2x4 plate, horizontally long, in front of you.
+14.2. Place a tan 2x2 plate on the right two columns of the previous piece.
+14.3. Place a white 2x2 plate with two studs on one side, with the side studs at the right, on the previous
+piece.
+14.4. Place a white 1x1 plate with a 1x1x1 curved slope on one side, with the slope on the left, on the
+front left stud of the previous piece so it extends one stud to the left. Place another behind the first.
+14.5. Place a tan 2x2 plate on the right two columns.
+14.6. Place a white 1x3x3 half arch, with the curve on the left, on the front left stud of the previous piece
+so it extends two studs to the left. Place another behind the first.
+14.7. Place a tan 1x2 plate, vertically long, to the right of the previous two pieces.
+14.8. Place a white 2x2 tile with a single stud on the right two columns. Now rotate the assembly so the
+anti-stud is on the right, and the side studs are now on the top. The half arches should be at the bottom.
+14.9. Place the body back in front of you, horizontally long with the tail at the left. Attach the assembly we
+just made onto the studs on the left side of the body.
+15. Now we’ll build the rabbit’s back. Set the rest of the body aside for now. Place a white 2x12 plate,
+horizontally long, in front of you.
+16.1. Place a dark gray 1x2 plate with a tow ball on one long side, with the tow ball at the front, on the left
+two studs on the front row of the previous piece. Place another symmetrically behind the first.
+16.2. Place a tan 1x2 plate, vertically long, to the right of the previous two pieces.
+Open group 4.
+17. Place a tan 1x4 brick with four studs on one side, with the side studs at the front, to the right of the
+front stud of the previous piece. Place another symmetrically behind the first.
+18.1. Place a white 2x2 brick with a large tow ball socket on one side, with the tow ball socket on the left,
+to the left of the previous piece.
+18.2. Place a tan 2x4 plate, horizontally long, to the right of the previous piece.
+19.1. Place a white 1x2 brick with a log pattern, vertically long, on the right column of the previous piece.
+19.2. Place a brown 2x2 turntable base to the left of the previous piece. This piece looks like a 2x2 tile
+with a large stud in the center.
+19.3. Place a white 2x3 slope brick, with the slope at the left, to the left of the previous piece.
+20. Place a white 1x4x3 curved slope, with the slope at the right, to the right of the front stud of the log
+brick. Place another behind the first.
+21. Place a tan 2x2 plate to the left of the previous piece.
+22. Place a white 1x6x3 half arch, with the curve at the right, on the front right stud of the previous piece,
+extending to the right so it is even with the right side of the back. Place another behind the first.
+23.2. Place a white 1x2 plate, vertically long, on the second column from the left on the previous piece.
+23.2. Place a white 2x4 curved slope tile, with the cutout at the right, to the left of the previous piece. The
+left side of this piece should attach to a 2x3 slope brick.
+24. Now the back is complete! Set the body in front of you with the tail at the right. Attach the back
+assembly, with the tow ball socket at the left, on top of the body.
+Open group 5.
+25. There are now six side studs on the front of the rabbit: a row of four above two singles. Place a dark
+gray 2x2 plate on the two center studs on the top row of side studs. Place it so it hangs down.
+26. Place a white 3x3 flat quarter dome, with the corner at the top left, on the bottom right stud of the
+previous piece. Place another, with the corner at the bottom left, above the first.
+27. Repeat the previous two pieces symmetrically to the left.
+For steps 28-30, you can repeat steps 25-27 symmetrically on the back side of the rabbit and skip ahead
+to step 31. Otherwise, the instructions are below
+28. Rotate the rabbit 180 degrees so the previous pieces are at the back and the tail is at the left. Place a
+dark gray 2x2 plate on the two center studs on the top row of side studs on the front of the rabbit. Place it
+so it hangs down.
+29. Place a white 3x3x1 flat quarter dome, with the corner at the top left, on the bottom right stud of the
+previous piece. Place another, with the corner at the bottom left, above the first.
+30. Repeat the previous two pieces symmetrically to the left.
+Open group 6.
+31. Now we’ll make the rabbit’s back legs. Set the body aside for now. Place a white 6x6 circular plate in
+front of you.
+32. Place a white 3x3x2 quarter dome, with the stud at the back left, on the front right quarter of the
+previous piece. Place another symmetrically behind the first.
+33.1. Place a white 1x2 brick with a log pattern, vertically long, on the back two studs to the left of the
+back piece from the previous step.
+33.2. Place a black 1x1 cone in front of the previous piece.
+33.3. Place a black 1x1 pyramid tile in front of the previous piece.
+34. Place a white 2x2 brick with a large tow ball socket on one side, with the tow ball socket on the left, on
+the second and third studs from the back on the leftmost two columns of the leg. There should be two
+exposed studs in front of the right stud of this piece, and one exposed stud in front of the left stud.
+35.1. Place a tan 1x3 plate, vertically long, in front of the left stud of the previous piece.
+35.2. Place a black 1x2 curved slope tile, with the cutout at the left, on the back stud of the previous piece
+so it extends one stud to the right.
+35.3. Place a dark gray 1x2 plate with a tow ball on one short side, with the towball at the front, in front of
+the previous piece on the 1x3 plate.
+35.4. Place a tan 1x3 plate, vertically long, on the previous piece so it extends one stud behind the
+previous piece.
+36. Place a white 1x2 brick with a stud on one side, with the stud at the back, to the right of the center
+stud of the previous piece.
+37.1. Place a light gray 1x1 double slope tile on the side stud of a tan 1x1 brick with a stud on one side.
+The flat sides of the double slope tile should be at the top and bottom.
+37.2. Place this assembly, with the slope at the left, in front of the right stud of the 1x2 brick with a stud on
+one side from step 36.
+38.1. Place a white 3x3 left sloped wedge on the front three columns of the leg, to the left of the front
+quarter dome. The studs of this piece should be in a row at the back, and the widest part should be at the
+right.
+38.2. Place a white 3x3 right sloped wedge symmetrically behind the previous piece.
+39. Place a white 2x4 tile with rounded ends, horizontally long, on the previous two pieces so that it
+extends one column to the right. Keeping the tow ball socket at the left, flip the leg over so the anti-stud is
+on top.
+40. Place a dark gray 2x2 circular plate with a rounded bottom, centered vertically and horizontally, onto
+the 6x6 circular plate on the bottom of the leg. Keeping the tow ball socket at the left, flip the leg over so
+the anti-stud is on the bottom again.
+41.1. Place a white 2x4 tile with rounded ends, horizontally long with the anti-stud on top, in front of you.
+41.2. Place a light gray 1x2 plate with a tow ball socket on one long side, with the tow ball socket at the
+left, on the left anti-stud column of the previous piece.
+41.3. Place a dark gray 2x2 plate on the anti-stud to the right of the previous piece.
+41.4. Place a white 2x2 plate with a clam shell on one side, with the clam shell on the right, onto the left
+two anti-stud columns. This is the rabbit’s foot.
+41.5. Attach the tow ball socket of the foot onto the tow ball at the front left side of the leg. Rotate the foot
+so the clamshell is at the back on the right and is up against the rest of the leg.
+42. Now place the rabbit’s body back in front of you, with the tail at the left and the large tow ball socket at
+the right. Locate the large tow ball on the front left side of the rabbit. Attach the large tow ball socket of
+the leg to this tow ball. The leg should be able to rotate freely. Rotate the leg so the flat side of the large
+portion of the leg is against the front of the body, and the flat portion of the foot is at the bottom.
+Rotate it so the foot is at the bottom, and then rotate it so the flat side of the leg is against the body.
+Open group 7.
+For steps 43-54, you can mirror steps 31-42 to make the opposite leg. If you do this, skip ahead to step
+55. Otherwise, the instructions are below
+43. Set the body aside again. Place a white 6x6 circular plate in front of you.
+44. Place a white 3x3x2 quarter dome, with the stud at the back right, on the front left quarter of the
+previous piece. Place another symmetrically behind the first.
+45.1. Place a white 1x2 brick with a log pattern, vertically long, on the back two studs to the right of the
+back piece from the previous step.
+45.2. Place a black 1x1 cone in front of the previous piece.
+45.3. Place a black 1x1 pyramid tile in front of the previous piece.
+46. Place a white 2x2 brick with a large tow ball socket on one side, with the tow ball socket on the right,
+on the second and third studs from the back on the rightmost two columns of the leg.
+47.1. Place a tan 1x3 plate, vertically long, in front of the right stud of the previous piece.
+47.2. Place a black 1x2 curved slope tile, with the cutout at the right, on the back stud of the previous
+piece so it extends one stud to the left.
+47.3. Place a dark gray 1x2 plate with a tow ball on one short side, with the towball at the front, in front of
+the previous piece on the 1x3 plate.
+47.4. Place a tan 1x3 plate, vertically long, on the previous piece so it extends one stud behind the
+previous piece.
+48. Place a white 1x2 brick with a stud on one side, with the stud at the back, to the left of the center stud
+of the previous piece.
+49.1. Place a light gray 1x1 double slope tile on the side stud of a tan 1x1 brick with a stud on one side.
+The flat sides of the double slope tile should be at the top and bottom.
+49.2. Place this assembly, with the slope at the right, in front of the left stud of the 1x2 brick with a stud on
+one side from step 36.
+50.1. Place a white 3x3 right sloped wedge on the front three columns of the leg, to the right of the front
+quarter dome. The studs of this piece should be in a row at the back, and the widest part should be at the
 left.
-24.1. Locate 1 dark tan 2x2 slope brick. Vertically place it in front of the 1x3 slope brick you previously
-placed so it goes down left to right and the studs line up with the stud of the 1x3 slope brick.
-24.2. Locate 1 dark tan 1x2 slope tile and 1 dark grey 2x2 slope plate with 2 studs on it. Vertically place
-the slope tile to the left of the 2x2 slope brick so the slope goes down from right to left. Then to the left of
-this tile, vertically place your slope plate so the 2 studs are both on the right.
-25. Rotate your build 180 degrees so the overhanging 1x4 stud plate of the A-shaped plate is horizontal
-in front of you. Now locate 1 light brown 6x6 plate that has a corner missing. Orient it so the missing
-corner is in the front left. Then connect the back right to the bottom of the overhanging 1x4 studs. The 1x4
-studs should not be overhanging anymore.
-26. Locate 1 dark tan 1x2 slope tile and 1 brown 1x1 circular plate. Place the 1x1 circular plate in the
-back left corner of the light brown 6x6 plate missing a corner. Then vertically place the slope tile in the
-last column of the 6x6 plate so it is touching the 1x4 studs of the A-shaped plate and ensure the slope
-goes down from left to right.
-27.1. Locate 1 reddish brown 1x2 brick. Vertically place this brick to the left of the 1x2 slope tile you just
-placed.
-27.2. Locate 1 dark tan 1x3 slope brick. Horizontally place it in front of the 1x2 brick so the slope goes
-down to the left and so the stud lines up with the studs of the 1x2 brick.
-Group 8 — Terrain
-28. Locate 1 reddish brown 1x2 brick and 1 tall 2x2 dark tan slope brick. Vertically place the 1x2 brick on
-top of the previously placed reddish brown 1x2 brick. Then to the left of these 1x2 bricks, vertically place
-your tall 2x2 slope brick so the slope goes down to the left.
-29. Locate 1 light tan 2x2 plate. Place it on top of the tall 2x2 slope brick and the reddish brown 1x2 brick.
-30. Locate 1 reddish brown 2x2 brick. Place it on top of the 2x2 plate you just placed.
-31.1. Locate 1 bright green pointy plant and 1 dark blue scorpion. Place the plant in the 1x1 circular plate
-that is located in the back left of the light brown 6x6 plate missing a corner. Now in the front right of the
-6x6 plate missing a corner, place your scorpion so the tail part is away from you.
-31.2. Locate 1 light brown rabbit. Rotate your build so the long side of the 4x12 plate is facing you. The
-6x6 plate missing a corner should be in the back left now. In the 4th column, place your rabbit on top of
-the 2x2 slope brick and 1x3 slope brick so it is facing away from you.
-Building Instructions (Bag 2, Book 2):
-Group 9 — Car
-2. Locate 1 dark grey 2x6 plate with integrated 1x2 bricks on each side.
-3. Locate 2 black 2x14 plates. Horizontally place them down 1 behind the other so they are touching.
-Vertically place the 2x6 plate from step 2 on top of the left side of the 2x14 plates so it is centered.
-4. Locate 1 black 4x6 plate. Vertically place it to the right of the 2x6 plate with integrated bricks so that it
-is centered.
-5. Locate 1 light orange 2x4 plate. Vertically place it to the right of the 4x6 plate so it is centered.
-6. Locate 1 black 4x6 plate and vertically place it to the right of the 2x4 plate so it is centered.
-7. Locate 1 dark grey 2x6 plate with integrated 1x2 bricks on each side. Vertically place it to the right of
-the previous plate so it is centered.
-8. Locate 2 light blue 1x2 bricks with plus-shaped holes and 1 ridged light grey 2x2 circular brick. In
-between the integrated bricks of the right 2x6 plate, horizontally place 1 light blue 1x2 brick, 1 ridged 2x2
-circular brick, then 1 light blue 1x2 brick.
-Group 10 — Car
-9. Locate 2 light grey 1x2 bricks with plus-shaped holes. In between the integrated bricks of the 2x6 plate
-on the left, horizontally place your 1x2 bricks so there is a 2x2 stud gap in between them. 
-10. Locate 1 black ridged short 2x2 brick. Place this in the 2x2 stud gap you created in the last step.
-11. Locate 1 light orange 1x2 plate and 1 black 1x2 plate with 1x4 side studs. Vertically place the light
-orange 1x2 plate on the right column of studs on the ridged 2x2 brick. To the left, vertically place the 1x2
-plate with 4 side studs so the side studs are facing left.
-12. Locate 4 light grey 1x1 circular bricks. Place 2 on top of the left 4x6 plate so they sit in the front left
-and back left. Then repeat for the right black 4x6 plate but in the front right and back right.
-13. Locate 4 white 2x5 plates, this plate is a 2x2 plate connected to a raised 2x3 plate. Horizontally place
-2, 1 behind the other, in between the 2 light grey 1x1 circular bricks that are on the right. The raised part
-should be even with the right and left ends of the build. Repeat symmetrically for the left side.
-14. Locate 4 white 1x3 pegs that have a circular side and a longer plus-shaped side. Insert the plusshaped side of the pegs in the front left and right integrated 1x2 bricks of the 2x6 plates. Then
-symmetrically repeat for the remaining pegs in the back left and right integrated 1x2 bricks.
-15. Locate 1 white 4x6 plate. Vertically place it in between the 4 white 2x5 plates that have a lower and
-raised part. This plate should be centered.
-Group 11 — Car
-16. Locate 2 blue 2x5 plates, these plates are like the white 2x5 plates that have a lower and raised part
-but it is raised more. Horizontally place them, 1 behind the other on top of the white 2x5 plates on the
-right side of the build. The raised part is on the left and sits on the build while the lower part is on the right
-and sits on your surface.
-17. Locate 1 dark blue 1x6 plate. Vertically place it centered on the left column of the lower part of the
-blue 2x5 plates you just placed. This should overhang in the front and back.
-18. Locate 1 black 2x6 plate. Vertically place it centered to the right of the dark blue 1x6 plate you just
-placed. This should overhang in the front, back, and right.
-19. Locate 1 light orange 2x4 plate. Vertically place it on top of the 1x6 plate and 2x6 plate you just
-placed so it is centered.
-20. Locate 1 light grey 1x4 plate with 2 hinges. Vertically place it to the right of the 2x4 plate you just
-placed so the hinges are facing right.
-21. Locate 1 dark grey 2x4 tile. Vertically place it on top of the 1x4 plate with hinges and light orange 2x4
-plate.
-22. Locate 2 black 1x4 bricks that have a gap in the side of it. Horizontally place 1 in front and 1 behind
-the 2x4 tile you just placed. There should be no overhang on the right, and make sure the gap side is
-facing outwards of the build.
-23. Locate 1 dark grey 2x4 ridged tile that connects to a hinge. Attach it to the hinges on the right and
-orient it so it is upwards. Make sure the ridged tile side is facing right.
-24. Locate 1 dark grey 2x4 tile. Vertically place it on the top part of the blue 2x5 plates on the right two
-columns.
-25. Locate 2 light orange 1x2 plates. Vertically place them 1 behind the other to the left of the 2x4 tile you
-just placed.
-26. Locate 1 dark orange 1x4 plate. Vertically place it on top of the 2 light orange 1x2 plates you just
-placed.
-27. Locate 2 white 2x8 plates. Horizontally place them in the front and back on top of the white 4x6 and
-white 2x5 plates with a lower and raised part. They should sit in between the raised parts of the 2x5 plate
-and the 1x1 circular bricks.
-28. Locate 1 dark tan 1x4 brick and 1 light grey 2x2 circular tile. Vertically place the 1x4 brick to the left of
-the dark orange 1x4 plate placed in step 26. To the left of this brick, place the circular tile centered
-vertically.
-29. Locate 2 light orange 1x2 plates and 2 light orange 1x8 plates. Horizontally place 1x2 plates in front
-and behind the 2x2 circular tile you just placed. Then in front and behind these plates, horizontally place
-the 1x8 plates so they sit in between the 4 circular bricks.
-30. Locate 2 more light orange 1x8 plates and 4 orange 1x4 plates. Horizontally place 2 orange 1x4
-plates on top of each of the 1x8 plates so there is no overhang. Now place 1 stack in the front right and
-back right of the build so that there is no overhang.
-31. Locate 2 dark tan 1x3 slope bricks. Feel for the light grey 2x2 circular tile. This tile is where the
-middle gap is located. Now on the left side in front and behind the gap, horizontally place the 1x3 slope
-bricks so they go down towards the right. They should be against the raised part of the 2x5 plate on the
+50.2. Place a white 3x3 left sloped wedge symmetrically behind the previous piece.
+51. Place a white 2x4 tile with rounded ends, horizontally long, on the previous two pieces so that it
+extends one column to the left. Keeping the tow ball socket at the right, flip the leg over so the anti-stud is
+on top.
+52. Place a dark gray 2x2 circular plate with a rounded bottom, centered vertically and horizontally, onto
+the 6x6 circular plate on the bottom of the leg. Keeping the tow ball socket at the right, flip the leg over so
+the anti-stud is on the bottom again.
+53.1. Place a white 2x4 tile with rounded ends, horizontally long with the anti-stud on top, in front of you.
+53.2. Place a light gray 1x2 plate with a tow ball socket on one long side, with the tow ball socket at the
+right, on the right anti-stud column of the previous piece.
+53.3. Place a dark gray 2x2 plate on the anti-stud to the left of the previous piece.
+53.4. Place a white 2x2 plate with a clam shell on one side, with the clam shell on the left, onto the right
+two anti-stud columns. This is the rabbit’s other foot.
+53.5. Attach the tow ball socket of the foot onto the tow ball at the front right side of the leg. Rotate the
+foot so the clamshell is at the back on the left and is up against the rest of the leg.
+54. Now place the rabbit’s body back in front of you, with the tail at the right and the large tow ball socket
+at the right. Locate the large tow ball on the front right side of the rabbit. Attach the large tow ball socket
+of the leg to this tow ball. The leg should be able to rotate freely. Rotate the leg so the flat side of the
+large portion of the leg is against the front of the body, and the flat portion of the foot is at the bottom.
+Open group 8.
+55.1. Now we’ll start on the first front leg. Set the rest of the rabbit aside for now. Place a white 1x6 plate,
+horizontally long, in front of you.
+55.2. Place a white 1x4 plate, horizontally long, on the right four studs of the previous piece.
+56. Place a light gray 1x2 plate with a tow ball socket on one short side, with the socket on the left, to the
+left of the previous piece.
+57.1. Place a white 1x4 plate, horizontally long, on the previous piece so that it extends two studs to the
+right.
+57.2. Place a tan 1x2 brick with two studs on one long side, with the side studs at the front, to the right of
+the previous piece.
+58.1. Place a tan 1x1 plate on the right stud of the previous piece.
+58.2. Place a white 1x1 plate with a 1x1x1 curved slope on one side, with the slope on the left, to the left
+of the previous piece.
+59. Place a light gray 1x2 plate with a tow ball socket on one long side, with the socket at the back, on the
+previous piece so its right edge is even with the right edge of the leg.
+60.1. Place a tan 1x1 plate on the right stud of the previous piece.
+60.2. Place a white 1x3x3 half arch, with the arch on the left, to the left of the previous piece.
+61.1. Place a white 1x2 half circle tile, with the straight side at the back, on the previous piece so its right
+edge is even with the right edge of the leg.
+61.2. Place a white 2x2 circular tile on the two side studs on the front of the leg. Attach the two bottom
+studs of the circular tile so it extends upwards.
+62.1. Now we’ll make the rabbit’s paw. Place a white 2x4 tile with rounded ends, horizontally long with the
+anti-stud on top, in front of you.
+62.2. Place a dark gray 1x2 plate with a tow ball on one long side, with the tow ball at the right, on the
+right anti-stud column of the previous piece.
+62.3. Place a tan 2x2 plate on the anti-stud to the left of the previous piece.
+62.4. Place a white 2x2 plate with a clam shell on one side, with the clam shell on the left, onto the right
+two anti-stud columns. This is the rabbit’s paw.
+62.5. Keeping the tow ball on the right side and the 2x4 tile with rounded ends facing down, attach the
+tow ball onto the tow ball socket at the left side of the rabbit’s leg.
+63. Now place the rest of the rabbit in front of you, with the tail at the right. Keeping the paw at the left,
+attach the tow ball socket on the back side of the leg to the tow ball on the front left of the body. You can
+now rotate the leg down and rotate the paw so it is in line with the rear paw so the rabbit can stand up!
+Open group 9.
+For steps 64.1-72, you can mirror steps 55.1-63 to make the opposite leg. If you do this, skip ahead to
+step 73. Otherwise, the instructions are below
+64.1. Let’s build the second front leg! Set the rest of the rabbit aside for now. Place a white 1x6 plate,
+horizontally long, in front of you.
+64.2. Place a white 1x4 plate, horizontally long, on the left four studs of the previous piece.
+65. Place a light gray 1x2 plate with a tow ball socket on one short side, with the socket on the right, to
+the right of the previous piece.
+66.1. Place a white 1x4 plate, horizontally long, on the previous piece so that it extends two studs to the
 left.
-32. Locate 2 black 1x1 circular plates and 1 light grey oval-shaped 1x2 tile. Place the 1x1 circular plates
-to the right of each of the 1x3 slope bricks you just placed. In between these two circular plates, vertically
-place your oval-shaped tile.
-Group 12 — Car
-33. Locate 1 black steering wheel. Vertically place it in between the 1x3 slope bricks on the left side so
-the steering wheel is facing right.
-34. Locate 2 orange 2x2 corner bricks. Place them in front and behind the 2x2 circular tile located in the
-middle gap. There should be no overhang and fit perfectly.
-35. Locate 2 light grey 1x4 bricks with side studs and 2 black 1x2 bricks with side studs. In the front row
-to the left of the corner brick, horizontally place your 1x4 brick so the studs face you. Then to the left of
-this, horizontally place your 1x2 brick so the studs face you. Then symmetrically repeat for the back row.
-36. Locate 2 black 1x3 plates. Horizontally place them in the front and back row to the left of the black
-1x2 bricks with side studs.
-37. Locate two dark blue 1x6 plates and 2 red 1x2 plates with 1 stud. Attach the 2 dark blue 1x6 plates
-together so there is no overhang, then vertically place them to the left of the steering wheel. There should
-be no overhang in the front and back. Now to the left of these 1x6 plates, horizontally place the red 1x2
-plates in the front and back row.
-38. Locate 1 light grey ridged circular 2x2 brick and 2 red 1x1 circular plates. Place the red 1x1 circular
-plates on each of the studs of the red 1x2 plates previously placed. Place your ridged 2x2 circular brick in
-between these red 1x2 plates, centered vertically.
-Building Instructions (Bag 3, Book 2):
-Group 13 — Car
-40. Locate 2 dark blue 1x6 plates and 2 light grey 1x2 plates with hooks. Horizontally place the 1x6 plates
-in the front right and back right of the build so there is no overhang. Then to the left of each of these
-plates, horizontally place your 1x2 plates so the hooks face outwards.
-41. Locate 2 white 1x6 tiles, 2 white 1x10 plates and 1 white 1x4 plate. Horizontally place the white 1x6
-tiles in the front right and back right of the build. To the left of each of these tiles, horizontally place the
-1x10 plates. In between the 2 white 1x10 plates, to the left of the steering wheel, vertically place the 1x4
-plate.
-42. Locate 2 light orange 1x2 plates and 2 black 1x2 oval-shaped plates. Attach each oval-shaped plate
-to the top of each of the 1x2 plates. Behind the eighth and ninth studs on the front white 1x10 plate, there
-is a lower 1x2 stud area. Horizontally place the black plate attached to the orange plate in that space.
-Symmetrically repeat with the other attached plates.
-Group 14 — Car
-43. Locate 1 white 3x6 plate that has 2 missing corners and 1 transparent red 1x2 plate. Vertically place
-the 3x6 plate in the center of the build to the right of the black 1x2 oval-shaped plates you just placed so
-that the side with missing corners is facing right. On top of the 3x6 plate you just placed, vertically place
-the transparent red 1x2 plate on the right side.
-44. Locate 1 red 2x2 plate and 2 white 1x4 plates. Place the red 2x2 plate to the left of the transparent
-red 1x2 plate. Then in front and behind this 2x2 plate, horizontally place your 2 white 1x4 plates. They
-should sit on the black 1x2 oval plates as well and not overhang.
-45. Locate 2 black 1x1 circular plates and 2 light grey 1x2 plates with a 1 hook instead of a stud.
-Horizontally place the hook plates, 1 behind the other, on top of the red 2x2 plate and transparent red 1x2
-plate so the hooks are on the right. Then in front and behind the stud part of the 1x2 plates you just
-placed, place your circular 1x1 plates. These 1x1 circular plates should be on top of the 1x4 plates
-previously placed.
-46. Locate 2 dark grey 2x2 slope tiles. Vertically place them on the red 2x2 plate and 2 white 1x4 plates
-so the top part of it sits on the 1x1 circular plates and the stud part of the hook plates.
-47. Locate 2 black 1x1 circular bricks. Place them to the left of the slope tiles you just placed so they sit
-on the left side of the 1x4 plates.
-48. Locate 1 white 1x4 plate and 2 white 1x2 slope bricks. Vertically place the 1x4 plate on top of the
-black 1x1 circular bricks. In front and behind the white 1x4 plate, horizontally place the slope bricks so the
-slope goes down to the right and the studs of the slope bricks line up with the studs of the white plate.
-49. Locate 1 white 1x6 tile. Vertically place it on top of the white 1x2 slope bricks and white 1x4 plate you
-just placed.
-50. Locate 2 black 1x2 plates with hinges, 2 white 1x1 slope tiles, and 2 black 1x4 tiles with 2 studs.
-Horizontally place the 1x4 tiles with 2 studs in the front and back row to the left of the 1x6 tile you just
-placed. To the left of these tiles you placed, horizontally place your 1x2 plates with hinges so the hinges
-face outwards of the build. To the left of these plates, place your 1x1 slope tiles so the slope goes down
-to the right.
-51. Locate 2 white 2x2 bricks with an arch attached. To the left of the slope tiles you just placed,
-horizontally and symmetrically place the 2x2 bricks in front and behind the 2x2 ridged circular brick so the
-arches face outwards.
-52. Locate 2 orange 1x2 plates with a 2x2 side stud area below it. Vertically place 1 behind the other on
-the left side of the build so they are centered. The side studs should be facing left.
-Group 15 — Car
-53. Locate 2 black 2x3 angle plates. These plates are identical but flipped. Horizontally place them to the
-left of the plates with the side studs you previously placed so the 2-stud long sides of the angle plate are
-on the left and together they make a 2x3 stud area on top.
-54. Locate 4 black 1x3 tiles with 2 studs on top. Rotate your build counterclockwise 90 degrees so the left
-is now facing you. Now vertically place the black tiles next to one another so they all cover the 3x4 side
-stud area on the front.
-55.1. Locate 1 white 4x6 hood-shaped tile with 4 studs.
-55.2. Skip this step if you have already placed your sticker! Ask a helper to place sticker 1 on the white
-4x6 hood-shaped tile. This sticker has a picture of a mountain surrounded by a round light orange, then
-orange, then dark blue circle.
-55.3. Place this hood-shaped tile in front of the white 1x1 slope tiles. The 1x4 stud area should be in the
-back and this should overhang in the front by 2 studs.
-Note that this group will have 2 clear transparent 1x1 circular tiles that will be used in the following steps.
-Don’t get them mixed up with the other 1x1 circular tiles in the next group.
-Group 16 — Car
-56.1. Put aside your build while we make the headlights. Locate 1 white 2x6 plate that has a round side.
-Place it down horizontally in front of you with the round side facing you.
-56.2. Locate 1 dark blue 1x6 plate and 1 light grey 1x2 plate with a hook. Horizontally place the 1x6 plate
-on top of the 2x6 plate in the back. Now horizontally place the 1x2 plate with a hook in front of the 1x6
-plate so that it is centered and the hook is facing you.
-56.3. Now locate 1 black 1x2 slope tile and 2 light yellow 1x1 circular tile which represent the lights. Place
-the 1x2 slope tile on top of the 1x6 plate in the center so the slope goes down towards you. To the left
-and right of the slope tile, place your light yellow 1x1 circular tiles. Ask a helper if this is oriented correctly!
-56.4. Now locate 2 clear 1x1 circular tiles from group 15. Place it on the dark blue 1x6 plate to the left and
-right of the light yellow 1x1 circular tiles. You have finished the headlights!
-57. Bring back your build so it is oriented in the same way. The hood of the car should be facing you.
-Underneath the hood, place your headlight build on the side studs so it is centered and the hook part of
-the build is facing down.
-58. Locate 1 black bar. It should feel like two bars connected by 2 shorter bars. Horizontally connect the
-middle part of the longer bar onto the hook of the headlights. When connecting this bar to the hook,
-ensure that when it is parallel with the surface, the ends of the bar are facing upward. Also make sure that
-the bar is flipped upwards so it is in front of the 2 studs of the hook plate.
-59. Locate 1 black 1x4 tile with 2 studs. Horizontally place it behind the 4x6 hood-shaped tile so it is
-centered.
-60. Rotate your build 90 degrees clockwise so the hood is now facing left. Locate 1 orange 2x4 tile and 1
-orange 2x2 angle plate with 2 studs.
-60.1. Skip this step if you have already placed your sticker! Ask a helper to place sticker 3 on the orange
-2x4 tile. It is an orange sticker with a white stripe, an orange stripe, and a dark blue stripe.
-60.2. There are 6 side studs on the front side of the build. Horizontally attach the top part of the 2x4 tile to
-the right 4 studs. To the left of this, place your 2x2 angle plate so the studs are both on the right. Make
-sure the sticker is oriented correctly. The wider part of the angle should be at the top.
-Group 17
-61. Rotate your build 180 degrees so the hood is now on the right. Locate 1 orange 2x4 tile and 1 orange
-2x2 angle plate with 2 studs.
-61.1. Skip this step if you have already placed your sticker! Ask a helper to place sticker 2 on the orange
-2x4 tile. It is an orange sticker with a white stripe, an orange stripe, and a dark blue stripe.
-61.1. There are 6 side studs on the front side of the build. Horizontally attach the top part of the 2x4 tile to
-the left 4 studs. To the right of this, place your 2x2 angle plate so the studs are both on the left. Make
-sure the sticker is oriented correctly.
-62. Rotate your build so the hood of the car is facing you. Locate 1 clear windshield piece and 1 white 2x6
-tile. Horizontally place the 2x6 tile on top of the 4 studs of the windshield piece. Now horizontally place
-your windshield behind the 4x6 hood tile and 1x4 tile with 2 studs. Make sure it is centered and the front
-of the windshield is facing you.
-63.1. Locate 2 black 3x5 L-shaped technic plates and 2 red pegs with balls attached. Lay 1 L-shaped
-technic plate so it is oriented like the letter L in front of you. Insert each peg into the right hole of the Lshaped technic plate.
-63.2. Turn your build upside down so the hood of the car is facing left. Insert the corner hole of the
-technic plate into the front right peg of the car so the red ball is facing back. Now in the back left peg,
-insert the corner hole of the technic plate so the red ball is facing you.
-64.1. Locate 2 black 3x5 L-shaped technic plates and 2 red pegs with balls attached. Lay 1 L-shaped
-technic plate so the long side is facing right and the short side is facing you. It should be a flipped L
-shape. Insert each peg into the left hole of the L-shaped technic plate.
-64.2. Insert the corner hole of the technic plate into the front left peg of the build so the red ball is facing
-back. Then insert the corner hole of the other technic plate in the back right peg so the ball is facing you.
-65. Now locate your white square-shaped box and open it if it already hasn’t been opened. Locate the 2
-yellow rubber bands that are inside. Use 1 rubberband to connect the 2 red balls in the back. Then use
-the other to connect the 2 red balls in the front. These rubber bands will act as suspension for the car so it
-can go over rocks and terrain!
-66. Locate 4 big black tires and 4 black cylinders. Insert each cylinder into each tire. Make sure the
-cylinders are fitted correctly into the wheels. There are two sides to the cylinder, a ridged side and a side
-that isn’t.
-67. Locate 4 red 1x1 technic clips and 4 white 1x3 pegs with a short circular side and a longer plusshaped side. Insert each technic clip into each of the longer plus-shaped sides of the peg. Now insert
-each peg into the ridged side of each of the cylinders.
-68-69. Now insert the circular side of the peg that is connected to the wheel into the end holes of the
-longer side of the 3x5 technic plates.
-Congratulations you have completed the build!
-There are no ads at the end of the instructions.
+66.2. Place a tan 1x2 brick with two studs on one long side, with the side studs at the front, to the left of
+the previous piece.
+67.1. Place a tan 1x1 plate on the left stud of the previous piece.
+67.2. Place a white 1x1 plate with a 1x1x1 curved slope on one side, with the slope on the right, to the
+right of the previous piece.
+68. Place a light gray 1x2 plate with a tow ball socket on one long side, with the socket at the back, on the
+previous piece so its left edge is even with the left edge of the leg.
+69.1. Place a tan 1x1 plate on the left stud of the previous piece.
+69.2. Place a white 1x3x3 half arch, with the arch on the right, to the right of the previous piece.
+70.1. Place a white 1x2 half circle tile, with the straight side at the back, on the previous piece so its left
+edge is even with the left edge of the leg.
+70.2. Place a white 2x2 circular tile on the two side studs on the front of the leg. Attach the two bottom
+studs of the circular tile so it extends upwards.
+71.1. Now we’ll make the rabbit’s paw. Place a white 2x4 tile with rounded ends, horizontally long with the
+anti-stud on top, in front of you.
+71.2. Place a dark gray 1x2 plate with a tow ball on one long side, with the tow ball at the left, on the left
+anti-stud column of the previous piece.
+71.3. Place a tan 2x2 plate on the anti-stud to the right of the previous piece.
+71.4. Place a white 2x2 plate with a clam shell on one side, with the clam shell on the right, onto the left
+two anti-stud columns. This is the rabbit’s paw.
+71.5. Keeping the tow ball on the left side and the 2x4 tile with rounded ends facing down, attach the tow
+ball onto the tow ball socket at the right side of the rabbit’s leg.
+72. Now place the rest of the rabbit in front of you, with the tail at the left. Keeping the paw at the right,
+attach the tow ball socket on the back side of the leg to the tow ball on the front right of the body. You can
+now rotate the leg down and rotate the paw so it is in line with the rear paw so the rabbit can stand up.
+Now it should have all four legs!
+Open group 10. This group includes a tan 1x2 plate from step 79.2.
+73. Next up is the head. Go ahead and set the body aside for now. Place a dark gray 2x2 brick with a
+large tow ball, with the tow ball at the right, in front of you.
+74. Place a white 2x3 plate, horizontally long, on the previous piece so it overhangs one column to the
+left.
+75. Place a tan 1x2 brick with two studs on one side, with the studs on the front, on the front left anti-stud
+of the previous piece. Place another symmetrically behind the first.
+76. Place a pink 1x2 plate with rounded ends, vertically long, on the leftmost column of anti-stud.
+77. Place a white 1x2 plate with a 2x2 of studs hanging down from one side, with the side studs at the
+left, on the leftmost column of studs.
+78.1. Place a white 1x2 half circle tile, with the flat side at the front, on the front stud of the previous piece
+so that it extends one stud to the right of the previous piece. Place another symmetrically behind the first.
+78.2. Place a pink 1x2 plate with rounded ends, vertically long, to the right of the two pieces from the
+previous step.
+78.3. Place a white 1x2 plate with two studs extending up on one side, with the side studs at the right, to
+the right of the previous piece. You should have a tan 1x2 plate left over.
+Open group 11.
+79.1. Set the rest of the head aside for now. Place a white 2x2 plate with two studs on one side in front of
+you with the side studs at the left.
+79.2. Place a tan 1x2 plate, vertically long, on the right column of the previous piece.
+79.3. Place a dark gray 1x2 plate with a tow ball on one long side, with the tow ball at the front, on the
+front row. Place another symmetrically behind the first.
+79.4. Place a white 1x2 plate, vertically long, on the left column.
+79.5. Place a tan 1x2 plate with two side studs hanging down from one side, with the side studs on the
+right, to the right of the previous piece.
+79.6. Place a white 1x2 plate with two studs extending up on one side, with the side studs on top, on the
+side studs on the left side of the assembly.
+79.7. Place a white 1x1 tile with a clip on top, with the clip oriented vertically, on the front stud on the left
+side of the assembly. Make sure you place this so it points to the left! It doesn’t go on top of the
+assembly. Place another behind the first. We’ll attach the rabbit’s eyes to these clips.
+79.8. Now place the rest of the head in front of you, with the large tow ball at the right. Place the small
+assembly we just made, with the two clips on the left side, onto the right two columns of the head.
+80. Place a white 1x3x3 half arch, with the arch on the left, on the front stud of the left piece so that it
+overhangs two studs to the left. Place another behind the first.
+81.1. Attach a black 1x1 circular tile with an eye pattern onto a light gray 1x1 circular plate with an angled
+bar on it. Make two of these.
+81.2. Attach the bar of one eye onto the front clip under the arch on the left side of the head, and the
+other arch onto the clip on the back side. The circular tiles should be at the left side of the head.
+82.1. Place a white 2x3 plate, horizontally long, on the top of the head.
+82.2. Place a white 2x2 tile with a single stud on the right side studs of the head. You should have one
+pink 1x1 quarter circle tile left over when you’re done with this group.
+Open group 12.
+83.1. Set the main part of the head aside for now. Place a white 1x2 plate with a vertical clip on one long
+side in front of you with the clip on the left.
+83.2. Place a white 1x1 brick with a stud on one side, with the stud on the front, on the front anti-stud of
+the previous piece. Place another symmetrically behind the first.
+83.3. Place a white 1x2 plate with a 2x2 of side studs hanging down on one long side, with the studs on
+the right, on top of the assembly.
+83.4. Place a tan 1x2 plate, horizontally long, on the top row of side studs of the previous piece.
+83.5. Place a white 2x2 curved slope tile, with the cut out on top, on the previous piece, even with the top
+and bottom of the assembly.
+83.6. Attach the bar of a pink 1x1 rounded plate with a 1L bar on one side, with the stud facing down, to
+the clip on the left side of the assembly.
+83.7. Attach a white 1x1 tile with one rounded end, with the rounded end on the left, onto the previous
+piece. This is the rabbit’s lower jaw.
+83.8. Now place the head back in front of you, with the large tow ball on the right and the tiles at the
+bottom. Rotate the assembly we just made so the studs are down and the lower jaw is on the left. Attach
+it to the right two columns of anti-stud on the head.
+84.1. Place a white 4x4 circular plate onto the front two side studs on the head so it extends one stud
+below and two studs to the right of the side studs. Place another on the back side of the head.
+84.2. Place a brown 2x2 turntable base, centered vertically and horizontally, on the front piece from the
+previous step. Place another symmetrically on the back side of the head.
+85.1. Now we’ll build the rabbit’s nose. Place a white 2x2 circular plate in front of you.
+85.2. Place a white 1x2 half circle tile, with the flat side at the front, on the back row of the previous piece.
+85.3. Place a white 1x1 quarter circle tile, with the corner at the back right, in front of the left stud of the
+previous piece.
+85.4. Place a white 1x2 jumper plate, horizontally long, to the right of the previous piece. A jumper plate is
+a 1x2 plate with a single stud on top, or a 1x3 plate with only two studs on top.
+85.5. Place a white 2x2 circular plate on the right anti-stud of the previous piece, so it extends one row
+behind the previous piece.
+85.6. Place a white 1x2 half circle tile, with the flat side at the front, on the back column of the previous
+piece.
+85.7. Place a white 1x1 quarter circle tile, with the corner at the back left, in front of the right stud of the
+previous piece.
+85.8. Place a light pink 1x1 quarter circle tile, with the point centered and at the back, on the jumper plate
+on the front row. The pink piece is the rabbit’s nose, and the circular tiles are the chubby cheeks on either
+side of it!
+85.9. Now rotate the nose assembly so the anti-stud is at the right, the flat side is at the bottom, and the
+pink nose is at the left. Attach it to the side studs on the left side of the head.
+86. Place a white 4x4 dome onto the 4x4 circular plate on the front side of the head. Place another on the
+back side of the head.
+87. Now place the body in front of you, with the smaller legs at the left. Keeping the large tow ball at the
+right, rotate the head so the tiles are back on top. Attach the large tow ball on the head to the large socket
+on the left side of the body.
+Open group 13.
+88.1. Now we will build the rabbit’s ears! Set the body aside for now. Place a white 4x4 curved triple
+wedge in front of you, with the anti-stud on top and the narrow end at the right.
+88.2. Place a pink 2x3 plate, horizontally long, on the leftmost anti-stud column of the previous piece.
+88.3. Place a pink 2x2 inverted tile on the right column of anti-stud of the previous piece so it extends one
+column to the right.
+88.4. Place a pink 2x2 inverted flat dome on the leftmost column of anti-stud so it overhangs by one
+column.
+88.5. Rotate the ear so the wedge is on the right and the studs are on top. Place a white 1x1 tile with a
+1x1 slope on one end, with the slope at the front, on the front stud to the left of the triple wedge. Place
+another symmetrically behind the first.
+88.6. Place a white 4x4 curved triple wedge, with the narrow end at the left, to the left of the pieces from
+the previous step.
+88.7. Flip the ear back so it is horizontally long and the inverted dome side is at the left. Place a light gray
+1x2 plate with a tow ball socket on one long side, with the tow ball socket at the right, on the right column
+of the ear.
+88.8. Place a 1x2 inverted curved slope tile, with the cut out on the right, on the front anti-stud of the
+previous piece. Place another behind the first.
+88.9. Repeat steps 88.1-88.8 to make a second ear.
+88.10. Now place the rabbit back in front of you with the head at the left. Attach one ear, with the smooth
+side at the back, to the small tow ball on the front side of the head. Place another symmetrically on the
+back side of the head.
+Open group 14.
+Sub-build 1: Yellow flower
+1.1. Now we’ll build a yellow flower. Start by placing a light green 1x1 brick with a stud on every side in
+front of you.
+1.2. Place a brown 1x1 circular plate on the top stud of the previous piece. Place another on top.
+2. Place a gold 1x1 rounded plate with a 1L bar on one side, with the bar on top, on each of the four side
+studs of the previous piece.
+3. Place a yellow 1x2 curved slope tile, vertically long with the cutout at the front, on the right side stud so
+it extends one stud to the rear. Place another on the left side with the cutout at the back so it extends one
+stud to the front.
+4. Place a yellow 1x3x3 half arch, with the arch on the right, on the front side stud. Place another on the
+back, with the arch on the left.
+5. Place a yellow 1x1 plate with a ring on one side, with the ring on top, on the front stud on the front
+piece from the previous step. Place another symmetrically at the back.
+6. Flip the flower over so the rings from the previous pieces are at the bottom. Place a green 1x1 circular
+plate with three leaves, with the leaves at the front, onto the center anti-stud on the flower.
+7.1. Push a light green 5L bar, with the stop on top, down through the hollow stud of a 1x1 circular plate
+with three leaves.
+7.2. Push the bar from the previous step into the 1x1 circular plate with three leaves already on the
+flower. Now the flower is complete!
+Open group 15.
+Sub-build 2: Carrot.
+1.1. Now let’s give the rabbit a tasty snack! Start by placing a dark gray 1x1 plate in front of you.
+1.2. Place a light green 1x1 brick with a stud on every side on the previous piece.
+2. Push a light green 3L bar down through the hollow top stud of the previous piece.
+3. Push an orange 2x2 cone, with the wide part at the bottom, down over the previous piece until it
+attaches to the stud of the 1x1 brick with a stud on every side.
+4.1. Place an orange 1x1 cone on the previous piece.
+4.2. Place an orange claw, with the pointy end on top, into the hollow stud of the previous piece.
+Open group 16.
+5.1 Place a black 1x1 cone into the anti-stud at the bottom of the carrot. Place another into the anti-stud
+of the first.
+5.2. Place a light green 1x1 brick with a stud on every side into the anti-stud of the previous piece. Make
+sure the side studs of this piece are even with the side studs of the first one. Rotate the carrot so it is
+horizontally long, with the pointy end at the right.
+6.1. Now we’ll build the sides of the carrot. We’ll build four identical ones. Start by placing an orange 1x4
+plate, horizontally long, in front of you.
+6.2. Place an orange 1x2 plate, horizontally long and centered horizontally, on the previous piece.
+6.3. Place an orange 1x2 curved slope tile, with the cut out at the left, on the right stud of the 1x4 plate, so
+it overhangs one stud to the right. Place another symmetrically at the left.
+6.4. Place this assembly onto the front two side studs of the carrot.
+6.5. Repeat steps 6.1-6.3 three more times and place them on the other three sides of the carrot.
+7.1. Now we’ll finish the carrot by building the stem! Start by stacking two green 1x1 circular plates with
+three leaves together. Offset the leaves a bit so they look natural. Rotate them so the stud is at the left.
+7.2. Push a light green 5L bar, with the stop at the right, through the hollow studs of the previous piece
+from the right. Push just until the bar starts to pop out of the left side of the hollow stud.
+7.3. Now push the stem, with the leaves at the left, into the hollow left end of the carrot.
+Congratulations! Now the White Rabbit is complete! Next up are the instructions for the Cockatoo,
+followed by the instructions for the Seal.
+Bag 1 (9 groups of bricks)
+Main build:
+Group 1 contains the pieces for steps 1-6.
+Group 2 contains the pieces for steps 7-17. To help the builder differentiate between colors, stack all of
+the orange 1x2 plates together, but leave the tan 1x2 plate loose.
+Group 3 contains the pieces for steps 18-26. Stack all of the tan 1x2 plates together, but leave the white
+1x2 plate loose.
+Group 4 contains the pieces for steps 27-36.
+Group 5 contains the pieces for steps 37-39.
+Group 6 contains the pieces for steps 40-51. Stack all of the orange 1x4 plates together, but leave the
+white ones loose. Also stack the tan 2x2 plates together, but leave the dark gray ones loose.
+Group 7 contains the pieces for steps 52-60.
+Group 8 contains the pieces for steps 61-70.
+Group 9 contains the pieces for steps 71-74.
+Building Instructions:
+Open group 1.
+1.1. Let’s start by building the cockatoo’s body. Place a white 1x2 plate vertically long in front of you.
+1.2. Place a tan 2x2 plate on the previous piece so it extends one column to the left.
+2. Place a white 2x2 plate with two studs on one side, with the side studs at the left, on the left anti-stud
+column of the previous piece so it extends one column to the left. “Anti-stud” is a term for the portion of a
+LEGO piece which accepts studs, like the bottom of a plate.
+3.1. Place a dark gray 2x2 brick with two large tow balls on it, with the tow balls at the front and back, on
+the left two columns of the body.
+3.2. Place a white 1x2 brick with a log pattern, vertically long, to the right of the previous piece.
+4. Place a tan 1x3 plate, horizontally long, on the front row of the body. Place another behind the first.
+5. Place a white 2x3 plate, horizontally long, on the pieces from the previous step.
+6.1. Place a tan 1x2 brick with two studs on one side, with the side studs at the left, on the leftmost
+column of the previous piece.
+6.2. Place a dark gray 2x2 brick with a large tow ball, with the tow ball at the right, to the right of the
+previous piece.
+Open group 2. There are three 1x2 plates which are stuck together. These are the orange ones, the
+remaining 1x2 plate is tan.
+7. Place a pink 2x3 plate, horizontally long, on the top of the body.
+8.1. Place a tan 1x2 plate, vertically long, on the left column of the previous piece.
+8.2. Place a white 1x2 plate with a 2x2 of studs hanging down from one side, with the side studs at the
+front, to the right of the front stud of the previous piece. Place another symmetrically behind the first.
+9.1. Now take apart the stack of two 1x2 plates. Place one orange 1x2 plate, vertically long, on the right
+column of the two pieces from the previous step.
+9.2. Place a white 1x2 plate with two side studs on one long side, with the side studs at the front, to the
+left of the front stud of the previous piece. Place another symmetrically behind the first.
+10.1. Place a white 1x2 brick with a log pattern, vertically long, on the left column on the two pieces from
+the previous step.
+10.2. Place a white 2x4 brick, horizontally long, to the right of the previous piece.
+11.1. Place a tan 1x2 plate with two studs hanging down from one long side, with the side studs at the
+front, on the left two studs on the front row of the body. Place another symmetrically behind the first.
+11.2. Place an orange 1x2 plate, vertically long, to the right of the two pieces from the previous step.
+12. Place a white 1x2 plate with two side studs on one long side, with the side studs at the front, on the
+front stud of the previous piece so it extends one stud to the left. Place another symmetrically behind the
+first.
+13.1. Place an orange 1x2 plate, vertically long, on the left column of the two pieces from the previous
+step.
+13.2. Place a white 1x1 plate with a 1x1x1 curved slope on one side, with the curved slope on the right, to
+the right of the front stud of the previous piece. Place another behind the first.
+14.1. Place a tan 1x1 brick with a stud on one side, with the stud on the left, on the front left stud on the
+body. Place another behind the first.
+14.2. Place a tan 2x2 plate to the right of the two pieces from the previous step.
+15. Place a white 1x3x3 half arch, with the arch on the right, on the front row of the body, with the right
+end even with the right end of the body. Place another behind the first.
+16.1. Place a white 1x2 half circle tile, with the flat side on top, on the top two side studs on the front side
+of the body.
+16.2. Place a brown 2x2 turntable base on the middle two rows of side studs on the front side of the body.
+16.3. Place a white 2x2 circular tile on the bottom two rows of side studs on the front side of the body.
+Rotate the body 180 degrees so the large tow ball is on the left side now.
+17.1. Place a white 1x2 half circle tile, with the flat side on top, on the top two side studs on the front side
+of the body.
+17.2. Place a brown 2x2 turntable base on the middle two rows of side studs on the front side of the body.
+17.3. Place a white 2x2 circular tile on the bottom two rows of side studs on the front side of the body.
+Now, rotate the body 180 degrees so the large tow ball is on the left side now.
+Open group 3. There are two 1x2 plates stacked together, these are tan and the loose one is white.
+18.1. Now we’ll build the cockatoo’s chest. Set the rest of the body aside for now. Place a white 2x2 plate
+with two studs on one side, with the side studs at the right, in front of you.
+18.2. Take a tan 1x2 plate from the stack and place it, horizontally long, on the back stud in the left
+column of the previous piece so it overhangs one stud to the left.
+19.1. Place a white 2x6 plate, horizontally long, on the left anti-stud of the previous piece. Its front edge
+should be even with the 2x2 plate with two studs on one side.
+19.2. Place a tan 1x1 plate in front of the right stud of the tan 1x2 plate.
+20.1. Place a pink 1x1 heart tile on the fifth stud from the left on the front row of the chest. The point of
+the heart should be at the front left.
+20.2. Place a tan 2x2 plate to the left of the previous piece.
+21. Place a tan 1x2 brick with two studs on one long side, with the side studs on the right, on the
+rightmost column of the chest.
+22.1. Place a tan 1x4 brick with four studs on one long side, with the side studs at the front, to the left of
+the front stud of the previous piece. Place another symmetrically behind the first.
+22.2. Place a white 1x2 plate, vertically long, to the left of the previous piece.
+23.1. Place the other tan 1x2 plate, vertically long, on the previous piece.
+23.2. Place a white 1x2 quarter cylinder, with the thick side at the right, to the left of the previous piece.
+23.3. Place a white 1x2 half circle tile, with the flat side at the right, to the left of the previous piece.
+24. Place a white 2x4 tile with rounded ends, horizontally long, on the four side studs on the front of the
+chest. The top of this piece should be even with the top of the chest. Place another symmetrically on the
+back side of the chest.
+25.1. Place a white 2x4 tile with rounded ends, horizontally long, on the right four columns on top of the
+chest.
+25.2. Place a white 2x2 curved slope tile, with the cut out on the right, to the left of the previous piece.
+26. Now rotate the chest so the previous piece is at the left, and the 1x2 half circle tile is at the bottom.
+Place the body in front of you, with the tow ball and arches on the right. Attach the chest piece to the left
+side studs, so that the studs on top of the chest are even with the studs on top of the body.
+Open group 4.
+27. Place a tan 2x4 plate, horizontally long, on the left four columns.
+28.1. Place a white 1x2 half circle tile, with the flat side at the right, on the left column of the previous
+piece.
+28.2. Place a tan 2x4 plate, horizontally long, to the right of the previous piece.
+29. Place a brown 2x2 turntable base on the left two columns of the previous piece.
+30.1. Now we’ll start the tail. Set the body aside for now. Place a white 2x12 plate, horizontally long, in
+front of you.
+30.2. Place a light gray 1x2 plate with a tow ball socket on one short end, with the socket to the right, on
+the right two studs on the front row. Place another behind the first.
+31.1. Place a white 1x6 plate, horizontally long, to the left of the previous piece. Place another behind the
+first.
+31.2. Place a white 2x2 circular plate to the left of the two pieces from the previous step.
+32.1. Place a white 2x2 brick with a large tow ball socket on one side, with the socket on the left, to the
+left of the previous piece.
+32.2. Place a white 2x6 plate, horizontally long, to the right of the previous piece.
+32.3. Place a white 2x4 tile with rounded ends, horizontally long, to the right of the previous piece.
+33.1. Place a tan 1x2 plate, vertically long, on the leftmost column of the tail.
+33.2. Place a white 2x4 curved slope tile, with the cutout at the left, on the previous piece, with the left
+edge even with the left edge of the previous piece.
+34.1. Place a white 2x2 tile with a stud on top to the right of the previous piece.
+34.2. Place a white 2x4 tile with rounded ends, horizontally long, to the right of the previous piece.
+35.1. Attach a dark gray 1x2 plate with a small tow ball on one short side to the front socket on the right
+side of the tail, with the studs facing down. Place another behind it on the other small socket.
+35.2. Place a white 1x6x3 half arch, with the arch at the right and the studs down, onto the anti-stud of the
+front piece from the previous step. Place another behind the first. These two arches are the feathers on
+the end of the tail. They should curve up to the right. Rotate the tow balls so the feathers make a
+sideways V when viewed from above.
+36. Now place the body in front of you, with the large tow ball and arches at the right. Attach the large
+socket on the tail to the large tow ball on the right side of the body.
+Open group 5.
+37.1. Now we’ll build a couple of legs! Set the body aside for now. Place a white 2x2 brick with a large
+tow ball socket on one side, with the socket on the right, in front of you.
+37.2. Place a dark gray 2x2 inverted flat dome on the left column of anti-stud on the previous piece, so it
+overhangs one column to the left on the bottom of the previous piece.
+37.3. Place a dark gray 1x1 brick with a stud on one side, with the stud on the front, on the front left stud
+of the previous piece. Place another symmetrically behind the first.
+37.5. Place a black 1x1 cone on the front side stud on the leg. Place another symmetrically on the back.
+37.5. Place a dark gray 2x2 plate on the two left columns on the leg.
+37.6. Repeat steps 37.1-37.5 to make another leg.
+38. Place the body back in front of you, with the tail at the right. Attach one leg to the front large tow ball.
+Rotate it so the studs are at the front and the two black 1x1 cones are at the bottom. Place another
+symmetrically on the back side. There should be a flat face at the bottom so the bird can stand up!
+39. Place a black 1x1 circular plate on the bottom left stud of the front leg. Place another symmetrically on
+the back leg.
+Open group 6. There are four 1x4 plates stuck together and four loose. The four stuck together are
+orange and the loose ones are white. There are two 2x2 plates stuck together and two loose. The two
+stuck together are tan and the loose ones are dark gray.
+40.1. Now we’ll build the wings! There will be two identical ones. Set the body aside for now. Place a
+white 6x6 circular plate in front of you.
+40.2. Place a tan 1x2 plate, vertically long and centered vertically, on the left column of the previous
+piece.
+41.1. Place an orange 1x4 plate, horizontally long, to the right of the front stud of the previous piece.
+Place another behind the first.
+41.2. Place a dark gray 1x2 plate with a tow ball on one long side, with the tow ball at the right, to the right
+of the two pieces from the previous step.
+42. Place a white 1x4 plate, horizontally long and centered horizontally, on the second row from the front
+on the wing. Place another symmetrically at the back.
+43. Place a white 3x3 flat quarter dome, with the corner at the back right, on the front three rows of the
+wing, with its left edge even with the left edge of the wing. Place another symmetrically behind the first.
+44.1. Place a white 3x3 right sloped wedge, with the wide end on the left, to the right of the front piece
+from the previous step. The front of this piece should be even with the front of the wing, and there should
+be a row of studs at the back of the piece.
+44.2. Place a white 3x3 left sloped wedge symmetrically behind the previous piece.
+45. Keeping the tow ball at the right, flip the wing over so the studs are down. Place a pink 1x2 plate with
+rounded ends, vertically long and centered vertically, on the right anti-stud column of the wing.
+46.1. Now we’ll make the wing tip, set the main wing aside for now. Place a light gray 1x2 plate with a
+small tow ball socket on one long side, with the socket on the left, in front of you.
+46.2. Place a tan 2x2 plate on the previous piece so it overhangs one column to the right.
+47. Place a dark gray 2x2 plate on the right column of anti-stud of the previous piece so it extends one
+column to the right.
+48. Place a white 1x1 tile with a 1x1 slope on one end, with the slope at the front, on the front stud on the
+leftmost column of the wingtip. Place another symmetrically behind the first.
+49. Place a white 4x4 curved triple wedge, with the wide end at the left, to the right of the pieces from the
+previous step.
+50.1. Keeping the socket at the left, flip the wingtip over so the anti-stud is on top. Place a pink 2x2
+inverted flat dome on the left two anti-stud columns of the wingtip.
+50.2. Keeping the socket at the left, flip the wingtip over so the anti-stud is on the bottom again. Place the
+rest of the wing, with the tow ball at the right and the studs on top, in front of you. Attach the wing tip to
+the tow ball on the wing.
+50.3. Repeat steps 40.1-50.2 to make another identical wing.
+51. Place the body in front of you, with the tail at the right. Attach one wing to the front of the body by
+attaching the center anti-stud of the 6x6 circular plate on the wing to the 2x2 turntable base on the front of
+the body. Rotate the wing so the studs on the front are horizontally long, and use the ball joint on the
+wingtip to gently angle it up and to the back over the tail. Place the other wing on the back side of the
+body. The wings are made to look like they’re folded up over the bird’s body like it is resting on its perch.
+Open group 7.
+52. Now we’ll make the cockatoo’s head, complete with bright yellow plumage! Set the body aside for
+now. Place a white 4x4 circular plate in front of you.
+53. Place a tan 2x4 plate, horizontally long and centered vertically, on the previous piece.
+54. Place a white 1x2 half circular tile, with the flat side at the back and centered horizontally, in front of
+the previous piece. Place another symmetrically on the back side.
+55. Place a white 2x4 brick, horizontally long and centered vertically, on the head.
+56.1. Place a white 1x1 quarter circle tile, with the corner at the back left, on the right stud on the front
+row of the previous piece. Place another symmetrically behind the first.
+56.2. Place a white 2x3 plate, horizontally long, to the left of the two pieces from the previous step.
+57.1. Place a white 1x2 plate with two studs on one long side, with the side studs at the right, on the right
+column of the previous piece.
+57.2. Place an orange 1x2 plate, vertically long, on the previous piece.
+57.3. Place a pink 1x2 plate with round ends, vertically long, on the previous piece.
+58. Place a white 1x2 brick with a log pattern, vertically long, to the left of the previous piece.
+59. Place a tan 1x2 brick with two studs on one side, with the side studs at the front, on the previous
+piece so it extends one stud to the right. Place another symmetrically behind the first.
+60.1. Place a white 1x2 brick with a log pattern, vertically long, on the right column of the two pieces from
+the previous step.
+60.2. Place a white 1x1 brick with a stud on one side, with the side stud at the front, to the left of the front
+stud of the previous piece. Place another symmetrically behind the first.
+Open group 8.
+61.1. Place a white 1x2 plate, vertically long, on the two pieces from the previous step.
+61.2. Place a white 1x2 plate with a 2x2 of studs hanging down from one side, with the side studs at the
+right, to the right of the previous piece.
+62. Place a white 2x2 circular plate on the top of the head.
+63.1. Place a white 2x3 plate, horizontally long in front of you.
+63.2. Place a white 2x2 curved slope tile, with the cutout at the left, on the right column of the previous
+piece so it overhangs one column to the right.
+63.3. Place a white 2x2 tile with a stud on top to the left of the previous piece.
+63.4. Place a white 1x1 tile with a clip on top, with the clip oriented horizontally so it looks like a U when
+viewed from the front, on the previous piece.
+63.5. Attach this assembly, with the curved slope tile at the bottom, to the side studs on the right side of
+the head.
+64. Place a black 1x1 circular tile with an eye pattern onto the top side stud on the front of the build. Place
+another on the back side of the head.
+65.1. Place a white 1x2 brick with a log pattern, vertically long, on the leftmost column of the head.
+65.2. Place a white 1x2 brick with a stud on one long side, with the side stud on the left, on the previous
+piece. Place another on top of the first.
+65.3. Place a black 1x1 pyramid tile onto the side stud on the bottom piece from the previous step.
+66.1. Place a white 1x1 plate with a 1x1x1 curved slope on one side, with the slope on the left, on the left
+two studs on the front row of the head. Place another behind the first.
+66.2. Place a white 1x2 plate with a vertical clip on one long side, with the clip on the right, to the right of
+the two pieces from the previous step.
+67. Place a white 2x2 tile with a stud top on the previous piece, extending one column to the left.
+68. Place a white 1x1 tile with a clip on top, with the clip oriented horizontally so it looks like a U when
+viewed from the front, on the previous piece.
+69. Place a white 4x4 curved triple wedge, with the wide end at the bottom, on the front two side studs on
+the head. The bottom should rest on the 4x4 plate on the bottom of the head. Place another
+symmetrically on the back.
+70.1. Place a white 1x1 plate on the side stud on the left side of the head.
+70.2. Make the beak by placing a black 1x2 curved slope tile, with the cutout at the bottom, on the
+previous piece so it extends down by one stud over the 1x1 pyramid tile.
+Open group 9.
+71.1. Now we’ll start making the three big yellow feathers on the cockatoo’s head. Clip a gold 1x1
+rounded plate with a 1L bar on one side, with the stud on the right and pointing up, onto the 1x1 tile with a
+clip on the right side of the head. This piece should be able to hinge up and down. If not, you may need to
+rotate the tile with a clip 90 degrees.
+71.2. Place a yellow 1x2 curved slope tile, with the cut out at the left, on the previous piece so it
+overhangs one stud to the right.
+72.1. Clip a gold 1x1 rounded plate with a 1L bar on one side, with the stud on the right and pointing
+down, onto each of the two remaining clips on the head.
+72.2. Place a yellow 1x3x3 half arch, with the arch at the right and curving upwards, on the anti-stud of
+the right piece from the previous step. Place another on the left piece from the previous step.
+72.3. Now we can adjust the cockatoo’s feathers so he looks good! The small feather at the right should
+be angled slightly above the horizontal. The top feather should be angled slightly to the right of the
+vertical, and the remaining feather should be right in between!
+73. Now we’ll attach the head to the body. Place the body in front of you, with the tail at the right. Attach
+the head by placing the center anti-stud of the 4x4 circular plate at the bottom onto the 2x2 turntable back
+on top of the body.
+74. Now if you want, you can give you cockatoo treats in the form of the brown 1x1 circular plates!
+Congratulations! Now the Cockatoo is complete! Next up are the instructions for the Seal.
+Bag 1 (8 groups of bricks)
+Main build:
+Group 1 contains the pieces for steps 1-10.
+Group 2 contains the pieces for steps 11-14.
+Group 3 contains the pieces for steps 15-25. Stack the two orange 1x2 plates together, but leave the tan
+ones loose.
+Group 4 contains the pieces for steps 26-28.
+Group 5 contains the pieces for steps 29-30.
+Group 6 contains the pieces for steps 31-41.
+Group 7 contains the pieces for steps 42-52. Stack a white 1x2 plate on top of a tan 1x2 plate.
+Sub build: Fish
+Group 8 contains the pieces for steps 1-7 of the fish. Stack two brown 1x1 circular plates together, but
+leave the black one loose.
+Building Instructions:
+Main Build
+Open group 1.
+1.1. We’ll start with the seal’s body! Place a white 2x12 plate, horizontally long, in front of you.
+1.2. Place a light gray 1x2 plate with a tow ball socket on one short end, with the socket at the right, on
+the right two studs on the front row of the previous piece. Place another behind the first.
+2. Place a tan 2x4 plate, horizontally long, to the left of the previous pieces.
+3. Place a white 1x4 plate, horizontally long, on the front row to the left of the previous piece. Place
+another behind the first.
+4. Place a dark gray 1x2 plate with a tow ball on one long side, with the tow ball at the front, to the left of
+the front piece from the previous step. Place another symmetrically behind the first.
+5.1. Place a white 1x4 plate, horizontally long, on the left four studs on the front row of the body. Place
+another behind the first.
+5.2. Place a white 2x6 plate, horizontally long, on the right six columns of the body.
+6. Place a tan 2x2 plate on the right two columns of the previous piece.
+7. Place a white 2x4 brick, horizontally long, to the left of the previous piece.
+8.1. Place a tan 1x2 brick with two studs on one long side, with the side studs at the front, on the front row
+to the left of the previous piece. Place another symmetrically behind the first.
+8.2. Place a tan 2x4 plate, horizontally long, to the left of the previous piece.
+9.1. Place a white 1x2 plate, vertically long, on the left column of the previous piece.
+9.2. Place a white 2x4 tile with rounded ends, vertically long and centered vertically, to the right of the
+previous piece.
+9.3. Place a white 1x2 plate, vertically long, to the right of the previous piece.
+10.1. Place a pink heart, with the corner at the front right, on the front stud of the previous piece.
+10.2. Place a tan 2x2 plate to the right of the previous piece. Place another on the left column of the body,
+even with the left edge of the body.
+Open group 2.
+11. Place a white 1x1 plate with a 1x1x1 curved slope on one side, with the slope on the right, on the
+second and third studs from the right on the front row of the body. Place another behind the first.
+12.1. Place a pink 2x3 plate, horizontally long, to the left of the previous piece.
+12.2. Place a white 2x6 plate, horizontally long, to the left of the previous piece.
+13. Place an orange 1x2 plate, vertically long, on the white 1x1 plates with a 1x1x1 curved slope on one
+side from step 11.
+14. Place a white 1x3x3 half arch, with the arch at the right, on the front stud of the previous piece so it
+extends two studs to the right. Place another behind the first.
+Open group 3. There are two 1x2 plates stuck together and two loose. The two stuck together are orange
+and the loose ones are tan.
+15.1. Place a tan 1x2 plate, vertically long, on the two pieces from the previous step.
+15.2. Place a dark gray 1x1 brick with a stud on one side, with the side stud on the front, to the left of the
+front stud of the previous piece. Place another symmetrically behind the first.
+16. Place a tan 1x4 brick with four studs on one side, with the side studs on the front, to the left of the
+front piece from the previous step. Place another symmetrically behind the first.
+17. Place a tan 1x2 brick with two studs on one side, with the side studs on the front, to the left of the
+front piece from the previous step. Place another symmetrically behind the first.
+18.1. Place a dark gray 1x1 brick with a stud on one side, with the side stud on the front, to the left of the
+front stud of the previous piece. Place another symmetrically behind the first.
+18.2. Place a white 1x2 quarter cylinder, with the thick side on the right, to the left of the two pieces from
+the previous step.
+19.1. Place an orange 1x2 plate, horizontally long, on the third and fourth studs from the right on the front
+row. Place another behind the first.
+19.2. Place a tan 1x2 plate, vertically long, on the left column of the two pieces from the previous step.
+19.3. Place a white 2x4 curved slope tile, with the cutout at the left, on the previous three pieces, even
+with the left edge of the previous piece.
+20.1. Place a dark gray 2x2 plate in front of you.
+20.2. Place a pink 1x2 plate with rounded ends, vertically long, on the left column of the previous piece.
+20.3. Place a white 4x4 curved triple wedge, with the wide end at the left, on the previous two pieces,
+even with the left edge of the previous two pieces.
+20.4. Keeping the wide edge at the left, place this assembly on the right three side studs on the top row of
+side studs on the front of the body. The left side of the assembly should be even with the top of the body.
+20.5. Repeat steps 20.1-20.4 symmetrically on the back side of the body.
+21.1. Place a white 1x2 brick with a log pattern, horizontally long, on the top row of side studs to the left of
+the front assembly from step 20.4. Place another symmetrically on the back.
+21.2. Place a black 1x1 cone to the left of each of the pieces from the previous step.
+22.1. Place a white 3x3 right sloped wedge, with the thick side at the left and the row of studs on top, on
+the bottom row of side studs on the front of the body. Its right edge should touch a white 4x4 curved triple
+wedge.
+22.2. Place a white 3x3 left sloped wedge on the back side of the body, symmetrically to the previous
+piece.
+23.1. Place a tan 1x1 plate on the black 1x1 cone on the front side of the body. Place another on the back
+side of the body.
+23.2. Place a white 3x3 flat quarter dome, with the corner at the top left, on the previous piece so it
+extends two studs to the right and two studs down. Place another symmetrically on the back side of the
+body.
+24.1. Place a white 3x3 right sloped wedge, with the thick side at the left and the row of studs at the back,
+on the right three studs on the front row of the body.
+24.2. Place a white 3x3 left sloped wedge symmetrically behind the previous piece.
+25. Place a dark gray 2x2 brick with a large tow ball, with the tow ball on the left, to the left of the two
+previous pieces.
+Open group 4.
+26.1. Place a white 2x3 plate, horizontally long, on the left three columns on the body.
+26.2. Place a tan 2x2 plate on the left two columns of the previous piece.
+26.3. Place a white 1x2 half circle tile, with the flat side on the right, on the left column of the previous
+piece.
+26.4. Place a white 4x4 curved triple wedge, with the wide end at the left, to the right of the previous
+piece.
+27.1. Now we will make the first back flipper. Set the body aside for now. Place a white 2x4 tile with
+rounded ends, horizontally long with the anti-stud on top, in front of you. “Anti-stud” is a term for the
+portion of a LEGO piece which accepts studs, like the bottom of a plate.
+27.2. Place a tan 1x3 plate, horizontally long, on the left three anti-studs on the back row of the previous
+piece.
+27.3. Place a dark gray 1x2 plate with a tow ball on one short side, with the tow ball on the left, in front of
+the previous piece so the tow ball extends left past the end of the previous piece.
+27.4. Place a white 2x2 plate with a clam shell on one side, with the clam shell on the right, on the
+previous two pieces, so its left edge is even with the left edge of the previous two pieces.
+27.5. Now place the body back in front of you with the two small tow ball sockets at the right. Keeping the
+clamshell on top and on the right, attach the tow ball of the flipper to the back small tow ball socket.
+28.1. Next we’ll make the other flipper symmetrically to the first. Set the body aside for now. Place a white
+2x4 tile with rounded ends, horizontally long with the anti-stud on top, in front of you.
+28.2. Place a tan 1x3 plate, horizontally long, on the left three anti-studs on the front row of the previous
+piece.
+28.3. Place a dark gray 1x2 plate with a tow ball on one short side, with the tow ball on the left, behind the
+previous piece so the tow ball extends left past the end of the previous piece.
+28.4. Place a white 2x2 plate with a clam shell on one side, with the clam shell on the right, on the
+previous two pieces, so its left edge is even with the left edge of the previous two pieces.
+28.5. Now place the body back in front of you with the two small tow ball sockets at the right. Keeping the
+clamshell on top and on the right, attach the tow ball of the flipper to the front small tow ball socket.
+Open group 5.
+29.1. Now we’ll make the two front flippers, which are identical to each other. Set the body aside. Start by
+placing a white 2x4 tile with rounded ends, horizontally long with the anti-stud on top, in front of you.
+29.2. Place a dark gray 1x2 plate with a tow ball on one long side, with the tow ball on the right, on the
+rightmost anti-stud column of the previous piece.
+29.3. Place a dark gray 2x2 plate to the left of the previous piece.
+29.4. Place a white 2x2 plate with a clam shell on one side, with the clam shell on the left, on the previous
+piece.
+29.5. Now we’ll make the middle joint of the flipper. Place a dark gray 2x2 inverted flat dome in front of
+you.
+29.6. Place a light gray 1x2 plate with a tow ball socket on one long side, with the socket on the left, on
+the left column of the previous piece. Place another symmetrically to the right of the first.
+29.7. Place a white 2x2 tile with a single stud on the two pieces from the previous step.
+29.8. Attach the left tow ball socket to the tow ball on the right side of the flipper.
+29.9. Repeat steps 29.1-29.8 to make another flipper.
+29.10. Place the body in front of you, with the large tow ball at the left. Attach one flipper onto the small
+front tow ball. The flat side of the clamshell should be at the bottom. Rotate the flipper so it is at the left
+and angled about 45 degrees towards the front. Place the other flipper symmetrically on the back.
+30. Place a white 3x3x2 quarter dome, with the stud at the bottom right, on the front side studs so the left
+side is even with the left edge of the body and the top edge touches the 4x4 curved triple wedge at the
+top. Place another symmetrically on the back side.
+Open group 6.
+31. Now it’s time to build the head! Set the body aside for now. Place a white 2x3 plate, horizontally long,
+in front of you.
+32. Place a tan 2x4 plate, horizontally long, on the previous piece so it overhangs one stud to the left.
+33.1. Place a tan 1x2 plate, vertically long, on the right column of the previous piece.
+33.2. Place a white 1x2 plate with two studs on one long side, with the side studs on the front, to the left
+of the front stud of the previous piece. Place another symmetrically behind the first.
+33.3. Place a white 1x2 plate with a vertical clip on one long side, with the clip on the left, to the left of the
+two pieces from the previous step.
+34.1. Attach the bar of a pink 1x1 rounded plate with a 1L bar on one side, with the stud facing down, to
+the clip on the left side of the previous piece.
+34.2. Place a white 1x1 tile with one rounded end, with the rounded end on the left and the smooth side
+down, onto the stud of the previous piece. These two pieces are the lower jaw of the seal!
+35.1. Place a white 2x2 brick with a large tow ball socket on one side, with the socket at the right, on the
+right two columns of the head assembly.
+35.2. Place a white 1x2 brick with a log pattern, vertically long, to the left of the previous piece.
+Open group 7. There are two 1x2 plates stuck together and one loose. The two stuck together are tan
+and the loose one is orange.
+36.1. Place an orange 1x2 plate, vertically long, on the rightmost column of the head.
+36.2. Place a tan 1x2 plate with two studs hanging down from one long side, with the side studs at the
+front, to the left of the front stud of the previous piece. Place another symmetrically behind the first.
+37. Place a white 1x2 brick with a stud on one long side, with the side stud on the left, to the left of the
+two pieces from the previous step.
+38. Place a tan 1x2 plate with two studs hanging down from one long side, with the side studs at the front,
+on the front stud of the previous piece so it overhangs one stud to the left. Place another symmetrically
+behind the first.
+39.1. Now we’ll build the seal’s cheeks. We’ll make two identical cheeks. Place a white 1x6 plate,
+horizontally long, in front of you.
+39.2. Place a tan 1x2 plate, horizontally long and centered horizontally, on the previous piece.
+39.3. Place a white 3x3 flat quarter dome, with the corner at the back right, on the left three studs of the
+cheek. Place another symmetrically to the right of the first.
+39.4. Keeping the flat side of the cheek at the top, flip it over so the anti-stud is on top.
+39.5. Place a tan 2x2 plate, centered horizontally, on the front two anti-stud rows.
+39.6. Repeat steps 39.1-39.5 to create another cheek.
+39.7. Now place the rest of the head in front of you, with the jaw at the left. Place one cheek, with the flat
+side on top, onto the front side studs of the head, with the top of the cheek even with the top of the head.
+Place another symmetrically on the back of the head.
+40. Place a white 6x6 circular plate, centered vertically and horizontally, on the head.
+41. Place a white 3x3x2 quarter dome, with the stud at the back left, on the front three studs of the right
+three columns of the previous piece. Place another symmetrically behind the first.
+Open group 8. There are two 1x2 plates stuck together, the bottom one is tan and the top one is white.
+42.1. Place a tan 1x2 plate, vertically long and centered vertically, to the left of the two pieces from the
+previous step.
+42.2. Place a yellow 1x1 plate with a ring on one side, with the ring at the front, on the front stud of the
+previous piece. Place another symmetrically behind the first.
+42.3. Place a pink 1x1 plate with rounded ends, vertically long, on the two pieces from the previous step.
+42.4. Place a white 1x2 plate, vertically long, on the previous piece.
+43.1. Place a tan 1x1 plate, to the left of the front stud of the previous piece. Place another behind the
+first.
+43.2. Place a white 1x2 plate with a 2x2 of studs hanging down from one side, with the side studs at the
+left, to the left of the two pieces from the previous step.
+44. Place a white 2x2 circular plate on the front column of side studs so it overhangs one column to the
+front. Place another behind the first.
+45.1. Place a white 1x2 half circle tile, with the flat side on top, on the bottom row of the front piece from
+the previous step. Place another behind the first.
+45.2. Place a white 1x2 jumper plate, horizontally long and centered front to back, above the two pieces
+from the previous step.
+46.1. Place a black 1x1 circular plate on the stud of the previous piece.
+46.2. Place a white 1x1 quarter circle tile, with the corner at the bottom back, in front of the 1x2 jumper
+plate. Place another symmetrically behind the jumper plate.
+47. Place a white 2x3 slope brick, with the slope at the left and centered vertically, on the left three
+columns of the head.
+48. Place a black 1x1 cone, with the narrow side on the left, onto the ring on the front side of the head.
+Place another on the back ring.
+49.1. Attach a black 1x1 circular tile with an eye pattern onto a light gray 1x1 circular plate with an angled
+bar on it. Make two of these.
+49.2. Push the bar of one eye assembly into the front cone from step 48. Rotate it so the eye tile points
+up and to the left. Place another, in the same orientation on the rear cone.
+50. Place a white 1x3x3 half arch, with the arch at the front, on the front stud of the 2x3 slope brick from
+step 47 so it extends all the way to the front of the head. Place another to the right of the first. Repeat
+these two pieces symmetrically on the back side of the head.
+51. Place a white 2x2 tile with a stud on top of the four pieces from the previous step.
+52. Now place the body of the seal back in front of you, with the large tow ball at the left. Attach the tow
+ball socket on the head to the tow ball on the body.
+Sub build: fish
+Open group 9. There are two 1x1 circular plates stacked together and one loose. The two stacked
+together are brown and the loose one is black.
+1.1. Now we’ll build a snack for the seal! Set the seal aside for now. Place a tan 1x3 plate, horizontally
+long, in front of you.
+1.2. Place an orange 1x4 plate, horizontally long, on the previous piece so it overhangs one stud to the
+right.
+2. Place a tan 1x3 plate, horizontally long, on the left three studs of the previous piece.
+3.1. Place a pink 1x2 inverted curved slope tile, with the cut out at the right, on the left anti-stud of the fish
+so it overhangs one stud to the left.
+3.2. Place a black 1x1 circular plate on the left stud of the previous piece.
+4.1. Place an orange 1x2 curved slope tile, with the cut out at the right, on the previous piece so it
+extends one stud to the right.
+4.2. Place a brown 1x1 circular plate on the second stud from the right on the fish.
+5.1. Place a brown 1x1 circular plate on the second anti-stud from the right on the fish.
+5.2. Place a pink 1x2 inverted curved slope tile, with the cut out at the right, on the previous piece so it
+extends one stud to the left.
+6. Place an orange 1x2 curved slope tile, with the cut out on the right, on the top 1x1 circular plate so it
+extends one stud to the left.
+7.1. Place an orange 1x2 curved slope tile, with the cut out on the right, on the rightmost stud of the fish
+so it overhangs one stud to the right. This is the top of the fish’s tail!
+7.2. To make the bottom, place a pink 1x2 inverted curved slope tile, with the cutout on the right, on the
+rightmost anti-stud of the fish so it overhangs one stud to the right.
+Now, place the seal in front of you. You can pose him however you like, and let him play with the fish!
+Congratulations! Now the Seal is complete!
+Thank you so much for building this set!
+There are no ads after the instructions end.
 Visit bricksfortheblind.org for more accessible instructions and tell your friends about us!

@@ -1,1061 +1,374 @@
-31144 Exotic Pink Parrot
-Set adapted by Alex Charbonneau and tested by Natalie Charbonneau.
-This is a Creator 3in1 set, which means that you can build three different models using the pieces
-included in the set! There is a primary model, which will use almost all of the pieces in the set, and two
-alternate builds, which are a lot smaller. This kit includes the parts to build the exotic pink parrot perched
-on a tree branch, a pink fish swimming by a coral reef, and a pink tree frog!
-Little builders and passionate animal fans aged 7+ can travel deep into the rainforest for action-packed
-stories with this LEGO® Creator 3in1 Exotic Pink Parrot (31144) building set. It features a vivid pink and
-blue parrot that can fully rotate its body while sitting on a tree branch and move its wings and tail.
-3in1 toys kick-start creative fun:
-- Kids can build 3 different exotic animal toys with this fantastic LEGO 3in1 set. They can build a brightly
-colored parrot sitting on a tree branch, rebuild it into a playful fish swimming at the bottom of the sea or
-make a cheeky frog that can move its legs.
-Posable models:
-- The vivid pink and blue parrot can rotate on its perch and move its wings and tail; the fish can lift its fins
-and be moved up and down; and the frog has posable legs
-A simple build:
-- This 253-piece playset lets little builders aged 7+ enjoy a rewarding build-and-play experience and can
-be given as a reward to nature- and animal-lovers
-Display item:
-- Measuring over 8.5 in. (22 cm) high, 4 in. (11 cm) long and 4.5 in. (12 cm) wide, the parrot toy can be
-proudly displayed in kids’ bedrooms in between playtimes
-The front of the box shows a pink parrot, perched on a tree branch which has two flowers near the base.
-The parrot has a pink body, with wings that are yellow, green and blue, and a bright blue tail. A jungle
-coastline is behind the parrot, complete with an ocean, islands, and lots of trees! There is an inset
-showing a pink fish swimming past kelp, and a pink frog with green toes standing on a yellow
-background.
-The top of the box shows small pictures of each of the builds. The right side of the box shows a smaller
-version of the front of the box.
-The back of the box has three pictures. The first is a picture of the pink parrot from the back, with the
-jungle all around. The second is a picture of the pink frog in a jungle near a stream. The third picture is a
-pink fish swimming past seaweed with river rocks in the background.
-The parrot build is 253 pieces, and 108 building steps. The fish build is 122 pieces, and 61 building steps.
-The frog build is 84 pieces, and 52 building steps.
+40651 Australia Postcard
+Set adapted by Daniel Werner and tested by Natalie Charbonneau
+Bring the unique sights of the Australian outback to life with this impressive 3D buildable Australia
+Postcard (40651). This brilliant gift features some of the outback’s most famous sights, including a shed,
+windmill, eucalyptus tree, desert flowers and a cockatoo. LEGO® fans can also add a decorative plaque
+with ‘Australia’ written on it, and a kangaroo road sign.
+Take a trip to the outback – A 3D buildable postcard of the Australian outback, which kids aged 7+ can
+decorate with a plaque showing the country’s name and a kangaroo road sign
+Enjoy the sights – LEGO® Australia Postcard (40651) features some of the outback’s most famous
+sights: a shed, windmill, eucalyptus tree, desert flowers and a cockatoo.
+Perfect for display – Measuring over 4 in. (10 cm) high, 5.5 in (15cm) wide and 1.5 in. (5cm) long this
+LEGO® postcard makes a displayable gift for both tourists and Australians who love the outback
+The front of the box shows an upright standing 3D postcard of Australia. A wooden label at the bottom
+reads “AUSTRALIA”. From left to right the scene depicts a gray windmill, a tiny wooden outside toilet with
+a heart shaped hole in the door, a wooden shed with an aluminum roof as well as a large eucalyptus tree
+with a yellow-crested cockatoo on top and a yellow road sign warning about kangaroos. Although the
+scene stands on dark orange desert ground, there are signs of plant life with some purple blooming
+desert flowers and small trees spread throughout. At the foot of the eucalyptus tree, there is a small
+puddle of water. The background of the scene shows a blue sky with two large white clouds. At the upper
+left corner of the scene flies a white plane with a red rudder.
+The back of the box shows a large stylistic world map made out of dots with a location marker indicating
+Australia. In addition, there are four smaller inset images. The top left inset image shows the small
+airplane with a red rudder in front of the blue sky. The top center inset image shows the small wooden
+shed with its aluminum roof as well as the wooden board with the word “AUSTRALIA”. The top right inset
+image depicts the large eucalyptus tree with the yellow-crested cockatoo sitting on top and the yellow
+road sign warning about kangaroos. The bottom right inset image shows the gray windmill with some
+purple desert flowers next to it.
+The build is 191 pieces and 54 building steps.
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
-- In Front of/Front: towards you.
-- Behind/Back: away from you.
+- Front: towards you.
+- Back: away from you.
 - Up: towards the ceiling.
 - Down: towards the floor.
 - Stud: the bump on a LEGO brick. Example: A 2x1 brick has two studs on it.
-- Vertically: going from front to behind.
+- Vertically: going from front to back.
 - Horizontally: going from left to right.
-- Upright: pointing up towards the ceiling.
-- That one/ppp: previously placed piece.
-- Plate: piece with studs.
-- Tile: smooth piece without studs (unless otherwise specified)
+- Upright: pointing up towards the ceiling, and down towards the floor.
 - Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic connector on the front wall
 at the right, connector to the front, and then place another such piece symmetrically on the back wall, at
 the right, the technic connector of the second piece should point to the back, since it will be placed
 symmetrically.
-- Centered-vertically: even amount of space in front of and behind the piece
-- Centered-horizontally: even amount of space left and right of the piece.
-- Row: studs lined up from left to right.
-For builders with low vision, or a sighted building partner who may want to follow along with the printed
-visual instructions that come with each kit, PDF versions are always online at LEGO.com:
-(https://www.lego.com/en-us/service/buildinginstructions/31144) As low vision users may benefit
-from viewing the instructions on a personal device where they can zoom in on content and use assistive
+For builders with low vision, or a sighted building partner may want to follow along with the printed visual
+instructions that come with each kit or PDF versions are always online at LEGO.com for each set:
+(https://www.lego.com/en-us/service/buildinginstructions/40651) As low vision users may benefit from
+viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
-friend or family member do this in advance following the instructions below. You will see that the pieces
-should be sorted according to the building steps in the kit. Doing this in advance makes locating the
-pieces for each step easier. See below on how to sort the pieces to correspond to the steps in this set.
-Number the containers using letters A-Z, numbers or meaningful names. The parts will be sorted into one
-or a small number of steps in the instructions. Example: Steps 1-3 means collect all the parts used in
+sighted friend or family member do this in advance following the instructions below. You will see that the
+pieces should be sorted into groups according to the building steps in the kit. Doing this in advance
+makes locating the pieces easier. See below on how to sort the pieces to correspond to the steps in this
+set. Number the containers using letters A-Z, numbers or meaningful names. The parts will be collected
+into a small number of steps in the instructions. Example: Steps 1-3 means collect all the parts used in
 steps 1, 2 and 3, and put them in one container.
-This LEGO set comes with three large unlabeled bags and an instruction booklet. Sort the pieces into
-groups as described below. Note that where there are multiple colors of the same brick in a step, the
-colors will be split across two groups to make telling the difference easier for the builder! LEGO includes a
-few spare parts in case you lose something. Set these into their own group away from the rest, in case
-you need them later.
-Sorting Groups:
-Group 1 contains the pieces for steps 1-11.
-Group 2 contains the pieces for steps 12-17.
-Group 3 contains the pieces for steps 18-23
-Group 4 contains the pieces for steps 24.
-Group 5 contains the pieces for steps 25-36.
-Group 6 contains the pieces for steps 37-39.
-Group 7 contains the pieces for steps 40-50.
-Group 8 contains the pieces for steps 51-60.
-Group 9 contains the pieces for steps 61-72.
-Group 10 contains the pieces for steps 73-81.
-Group 11 contains the pieces for steps 82-93.
-Group 12 contains the pieces for steps 94-99.
-Group 13 contains the pieces for steps 100-108.
-A note on LEGO Technic™ part names. These parts are somewhat different from regular LEGO bricks.
-Here are some definitions in case the builder or helper is not familiar with LEGO Technic™.
-Axles - An axle is a connector which has an X shaped cross-section. Because their cross section is not
-round, anything connected to an axle using an axle-hole will rotate with that axle. Axles are longer than
-they are wide, and the length of an axle corresponds with how many bricks long it is. Aka a 3L axle is
-three bricks long. Axles come in a variety of lengths, with a 2L axle being the shortest available. They
-may be combined with pins, or have circular stops on them. A stop prevents the axle from sliding through
-an axle-hole at a specific point on the axle.
-Pins - A pin is a connector which has a circular cross section and a flanged notch out of one or both ends.
-This flanged notch allows them to click into bricks with a pin-hole. Pins come with and without friction
-ridges, which are small bumps on the pin which prevent them from rotating freely. For standard pins,
-black is a high friction pin, and gray is a low friction pin. A standard length pin is two brick lengths long,
-with a stop in the middle. This prevents a brick from being pushed from one side of the pin to the other. A
-1L pin is one brick long and still retains the stop, however it also includes a hollow stud at the other end.
-A 3L pin is three bricks long, and only contains a stop at one side, allowing two bricks to be pushed onto
-the other side of the pin. Pins may also have one side which is an axle.
-Lift-arms - A lift-arm is a basic structural element, similar to a brick or a plate, but usually without any
-studs. It is a beam with rounded ends and with holes in it, with the same spacing as the studs on a LEGO
-brick. lift-arms come in a variety of lengths, including a 1x1 lift-arm which looks like a cylinder. Thick liftarms are as wide as a LEGO brick, and thin lift-arms are half as wide as a LEGO brick, but not the same
-thickness as a LEGO plate! The holes in a lift-arm arm may accept axles or pins. They also come in a
-variety of shapes, including tees, ells and triangles.
-Gears - A gear is a functional element. They are typically discs with teeth on the outside, there are also
-worm gears which look like a spiraling cylinder! Gears connected by axles transmit or even transform
-rotational motion!
-Axle and Pin Connectors - These elements are typically smaller than lift-arms and are used to connect
-some combination of pins or axles. They might have pins or axles, as well as axle or pin-holes. They have
-a lot of different angle combinations! The simplest just connects two axles or pins together in a straight
-line.
-Bushes/Bushings - LEGO Technic™ uses bushes largely as spacers, but they also can reduce friction
-between rotating parts, or can form useful elements such as handles. Bushes are typically light gray,
-generally cylindrical, and have an axle-hole running through the middle. They have a flange at the front
-and back to make them easier to pull on and off
+Bag 1 (3 groups of bricks)
+Group 1 contains the pieces for steps 1-6 and the dark orange 1x2 tile from step 7. The two medium blue
+1x2 tiles from step 6 are in a separate sub-bag.
+Group 2 contains the pieces for steps 7-10, except for the dark orange 1x2 tile from step 7 which is in
+group 1.
+Group 3 contains the pieces for steps 11-13. The dark azure 1x1 plate from step 13.3 is in a separate
+sub-bag.
+Bag 2 (7 groups of bricks)
+Flower plate group 1 contains all 17 green 1x1 round plates with flower edges from steps 20, 26, 33, 34,
+and 35 to make it easier to distinguish them from other 1x1 round plates.
+Group 4 contains the pieces for steps 14-19.
+Group 5 contains the pieces for steps 20-24. The medium nougat 1x1 plate from step 21 is in a separate
+sub-bag.
+Group 6 contains the pieces for steps 25-29. The dark orange 1x1 round plates from steps 26 and 27, the
+reddish brown 1x1 brick from step 28, and the medium nougat 1x1 plate from step 29 are in a separate
+sub-bag.
+Group 7 contains the pieces for steps 30-35.
+Group 8 contains the pieces for steps 36-44.
+Group 9 contains the pieces for steps 45-54.
 Building Instructions:
-Note for helpers: I have broken some of LEGO’s original instructions into smaller steps, but I have kept
-the original base number. For example, step 5 is now steps 5.1 and 5.2.
-Side build - Tree branch with flowers.
-Open bag 1.
-Open group 1.
-1.1. We will start with the base of the branch. Place a green 4x6 half circular plate in front of you, with the
-flat side at the back.
-1.2. Place a dark brown 2x2 circular brick on the back row of the previous piece, centered horizontally,
-extending one stud to the back.
-2. Place a green 4x6 half circular plate behind the first half circular plate, with the flat side at the front so
-the two half-circles make an entire circle.
-3. Place a dark green 2x2 slope in front of the 2x2 circular brick, centered horizontally, sloping down to
-the front. Place another dark green 2x2 slope symmetrically behind the 2x2 circular brick. Place a dark
-green 2x2 slope to the left of the 2x2 circular brick, sloping down to the left. Place another dark green 2x2
-slope symmetrically to the right of the 2x2 circular brick.
-4. Place a light brown 4x4 circular plate on the previous pieces, centered vertically and horizontally.
-5.1. Place a dark brown 2x2 circular plate with four upward arms on the previous piece, centered
-vertically and horizontally.
-5.2. Place a dark brown 2x2 circular brick on the previous piece, centered vertically and horizontally.
-6. Now we’ll make the branch a bit taller by adding a trunk. Place a dark brown 2x2 circular brick in front
-of you and put a light brown 2x2 circular tile with a hole onto it. Rotate this assembly 90 degrees so the
-circular tile is sideways on the left.
-7. Place a dark brown straight axle connector onto one end of a light gray 9L axle. Push the axle through
-the assembly from step 6 from the left. Push it in until the axle connector touches the circular tile from the
-previous step.
-8.1. Slide the center axle hole of a dark brown 2x2 circular brick onto the right end of the axle until it
-attaches to the 2x2 circular brick from step 6.
-8.2. Slide the center axle hole of a dark brown 2x2 circular plate with four upward arms onto the right end
-of the axle, with the arms at the left. Push it to the left until it connects to the previous piece.
-9.1. Slide another dark brown 2x2 circular brick onto the axle like we did in step 8.1.
-9.2. Slide a dark brown 2x2 circular plate onto the axle from the right, until it attaches to the previous
-piece.
-10. Rotate the trunk 90 degrees so the trunk is pointing up and down and the axle connector is at the top.
-Push the axle through the center of the 2x2 circular brick from step 5, pushing down until it connects to
-the circular brick from step 5.
-11.1. Orient a green 6x5 plant leaves so that the end with only a single stud is at the left, and attach this
-stud onto the rightmost upward arm on the bottom 2x2 circular plate with four upwards arms. The rest of
-the plant leaves should extend to the right. A parallel column of two studs should be at the far right.
-11.2. Place a dark brown square robot arm onto the far left upward arm on the bottom 2x2 circular plate
-with four arms. Use the square part of the robot arm to attach it, not the clip. The clip should be up and to
-the left. Place another dark brown square robot onto the front upward arm on the top 2x2 circular plate
-with four arms. Use the square part of the arm again, and the clip should be up and to the front.
-Open group 2.
-12. Now we’ll start building a blue and yellow flower, so set the base of the branch aside for now. Place a
-white 2x2 circular plate with an octagonal bar farm around it in front of you.
-13. Place an orange 1x1 circular plate onto each stud of the previous piece so it makes a square of studs.
-14.1. Now we’ll make petals! Place a white 1x1 plate with a vertical clip on one side in front of you, with
-the clip on the right.
-14.2, Place a yellow 1x2 curved slope tile, horizontally long, on the previous piece, sloping down to the
-right, and extending one stud to the left. The cut out should be on the left.
-14.3. Attach a petal to each diagonal bar using the clip. The slope tile should be on top. If you draw a line
-through two opposite petals, it should go through two diagonal corners of the 2x2 square of studs
-described in step 12. Hinge all the petals down so they lay flat.
-15.1. Now we’ll make some larger petals. Place a light blue 1x2 half cylinder slope onto a white 1x2 plate
-with a vertical clip on one long side, with the clip on your left and the slope vertically long, sloping up to
-the left. Repeat this three more times to create a total of four larger petals.
-15.2. Keeping the clip at the left, flip a petal over so the slope is at the bottom. Attach it to the far right
-vertical bar on the flower. Hinge it 90 degrees counterclockwise so the plate with a clip is at the left and
-the slope is at the right. Repeat this for each larger petal, keeping the slope on the outside of the flower
-and the plate with a clip on the inside. Flip the flower over so its face is down.
-16.1. Place a tan 1x2 plate with a bar on one long side in front of you, horizontally long, with the bar at the
-front.
-16.2. Place a dark green 2x2 inverted curved slope tile on the bottom of the previous piece, so it slopes
-up in the back.
-16.3. Place a black 2x2 circular plate on the pieces from the previous step. Flip the assembly over and
-attach it to the flower, centered vertically and horizontally. Rotate the flower so its studs are sideways on
-the left, and the bar from step 16.1 is above the curved tile slope from step 16.2.
-17. Set the base of the branch in front of you with the leaf on the right. Attach the bar from step 16.1 to
-the left robot arm on the branch.The flower should hang down off the branch. Rotate the flower so its face
-is angled up at about 45 degrees.
-Open group 3.
-18. We’re going to build another flower now. It’s built the same way as the first, but using two shades of
-pink. Place a white 2x2 circular plate with an octagonal bar farm around it in front of you.
-19. Place a yellow 1x1 circular plate with a flower pattern onto each stud of the previous piece so it
-makes a square of studs.
-20.1. Now we’ll make petals! Place a light purple 1x2 curved slope tile onto a white 1x1 plate with a
-vertical clip, with the clip on your right, and the slope horizontally long, sloping up to the left. Repeat this
-three more times to create a total of four small petals.
-20.2. Attach a petal to each diagonal bar using the clip. The slope tile should be on top. If you draw a line
-through two opposite petals, it should go through two diagonal corners of the 2x2 square of studs
-described in step 12. Hinge all the petals down so they lay flat.
-21.1. Now we’ll make some larger petals. Place a pink 1x2 half cylinder slope onto a white 1x2 plate with
-a vertical clip on one long side, with the clip on your left and the slope vertically long, sloping up to the
-left. Repeat this three more times to create a total of four larger petals.
-21.2. Keeping the clip at the left, flip a petal over so the slope is at the bottom. Attach it to the far right
-vertical bar on the flower. Hinge it 90 degrees counterclockwise so the plate with a clip is at the left and
-the slope is at the right. Repeat this for each larger petal, keeping the slope on the outside of the flower
-and the plate with a clip on the inside. Flip the flower over so its face is down.
-22.1. Place a tan 1x2 plate with a bar on one long side in front of you, horizontally long, with the bar at the
-front.
-22.2. Place a dark green 2x2 inverted curved slope tile on the previous piece, so it slopes up in the back.
-22.3. Place a black 2x2 circular plate on the pieces from the previous step. Flip the assembly over and
-attach it to the flower, centered vertically and horizontally. Rotate the flower so its studs are sideways on
-the left, and the bar from step 16.1 is above the curved tile slope from step 16.2.
-23. Set the base of the branch in front of you with the leaf on the right. Attach the bar from step 16.1 to
-the front robot arm on the branch.The flower should hang down off the branch. Rotate the flower so its
-face is angled up at about 45 degrees.
-Open group 4.
-24.1. Place a light green 4x3 plant leaves in front of you, horizontally long. The leaves at the left end
-should come to a point like a sideways letter V.
-24.2. Place two purple 1x1 plates with three leaves on the far right stud, one on top of the other. Place
-these two pieces so the leaves face away from each other, so they form a flower with six petals.
-24.3. Place an orange 1x1 circular plate on the top piece from the previous step. Repeat steps 24.1-24.3
-to make another leaf with a flower.
-24.4. Attach one leaf with a small flower to the top right upwards bar on the branch, using the stud on the
-opposite end from the flower, above the 6x5 leaf piece. Attach the other leaf with a small flower to the top
-back upwards arm.
-Main build - Pink Parrot:
-Open group 5.
-25.1. Now we’ll start building the parrot! The parrot stands on the branch, and we’ll start with its feet.
-Push the axle of a blue axle/pin combo into the straight axle connector pointing up at the top of the
-branch.
-25.2. Place a black pin connector with two 2L thin lift-arms on one side down over the previous piece,
-with the lift-arms pointing up. This piece will spin freely.
-26.1. Place a dark gray 4L axle with a circular stop at one end in front of you with the stop down and the
-axle pointing up.
-26.2. Slide a black 3L axle with a hole in the middle over the previous piece. The axle will spin freely. This
-is the stick that the parrot is perched on.
-27. Place a dark gray thick bushing with a perpendicular bar on each side onto the axle, with the bar
-extending right and left. The parrot’s talons will attach to these bars.
-28. Slide two dark pink thin bushings over the upwards axle from step 25.1. Push them down until they
-touch the previous piece. This is one of the parrot’s feet! Repeat steps 26.1-28 to make another.
-29. Find the pin connector with two 2L lift-arms from step 25.2. Spin it so the lift-arms are at the front.
-Keeping the axle up, push the stick (3L axle with hole from step 26.2.) into the top axle hole on the left liftarm from the left. Repeat this symmetrically on the right. Now the parrots legs should stick upwards!
-30. We’re going to decorate the perch a little bit. Place a dark brown 3-way axle connector with a center
-pin hole in front of you, so one leg points to your left, and the other two legs angle to the right. Place a 1L
-pin in the center hole with the stud up.
-31. Place a light green bar with two leaves on top into the stud on the pin.
-32. Place a 2L axle into each of the two right legs of the axle connector.
-33. Place a brown 1x1 cone onto each of the pieces from the previous step.
-34. Attach a light green 4x3 plant leaves onto each cone so the leaves hang downwards. Attach using the
-stud where the leaves come to a point.
-35. Stick a light green bar with two leaves on top through the stud attached to the cone from the previous
-pieces.
-36. Attach this branch assembly to the right side of the perch using the empty leg of the 3-way axle
-connector, with one leg up and the other down. Once it is attached, adjust the angle of the leaves to your
-liking.
-Open group 6.
-37.1. Now the parrot will get some talons! Push a black bar with a claw into the bar hole of a dark gray
-bar connector with a clip at one end. Repeat this step 3 more times to make 3 more talons.
-37.2. Attach the clip of one talon to the left bar on the left bushing with a bar from step 27. Rotate it so it
-hangs down, with the claw pointing towards the back. You can spin the claw in the bar holder. Place
-another talon on the right bar of the same piece. Repeat this for the foot on the right.
-38. Place a brown cone onto the left axle of the perch.
-39.1. Now it’s time to start making the body of the parrot, working upwards from the legs. Set the branch
-aside for now. Place a dark pink 2x2 plate with an inverted slope at each end, and a cut out, in front of
-you, vertically long. Place a light blue 1x2 plate with two vertical clips on one long side on the back row of
-the previous piece, horizontally long with the clips at the back.
-39.2. Place a magenta 1x2 brick with an axle hole vertically long on the left column in front of the previous
-piece. Place another to the right of the first.
-39.3 Place a dark pink 1x2 plate horizontally long in front of the pieces from the previous step.
-39.4. Place a black 4L axle through the two bricks with axle holes so it extends one stud past on both
-sides.
-39.5. Place a dark pink T-shaped axle connector onto each side of the axle, using the axle hole that goes
-all the way through, so that it hangs down right next to the parrot’s body.
-39.6. Place the base in front of you, with one flower at the front and one at the left. Now, using the last
-two pieces, attach the body to the legs, keeping the two clips at the back of the body.
-Open group 7.
-40. Now we’ll start on the parrot’s chest. Set the branch and legs aside for now. Place a magenta 2x4
-plate horizontally long in front of you and put a white 1x2x2 tall brick with studs on three sides vertically
-long, on the right column of the previous piece, with side studs on the right.
-41. Place a dark pink 1x2x2 tall brick with four studs on one side to the left of the previous piece, on the
-back row, with the side studs at the back. Place another symmetrically on the front row.
-42. Place a white 1x2x2 tall brick with studs on three sides, vertically long, with studs on the left, on the
-leftmost column of the 2x4 plate.
-43.1. Place a red 2x2 circular plate on the previous piece, even with the left side of the build..
-43.2. Place a black 2x2 plate with two studs on one side to the right of the previous piece, with the side
-studs on the right.
-44. Place a dark pink 1x2 plate, horizontally long, on the right column of the previous piece. Place another
-dark pink 1x2 plate on the first.
-45.1. Place a yellow 2x3 brick vertically long to the left of the previous piece.
-45.2. Place a red 2x2 circular plate on the two leftmost columns of the previous piece.
-46.1. Place a light gray 1x2 plate with a tow-ball socket vertically long in front of you, with the tow-ball
-socket on your left. A tow-ball socket accepts a round ball, and the socket is shaped like a hollow square
-with cut outs on two sides.
-46.2. Place a dark pink 1x2 plate vertically long on the previous piece.
-46.3. Find a white 1x2 plate with a 2x2 of anti-stud on the side. “Anti-stud” is a term for the portion of a
-LEGO piece which accepts studs, like the bottom of a plate. This piece is shaped like a capital T when
-viewed from the side. Attach the 1x2 plate portion vertically long, on the previous piece, with the anti-stud
-on the right.
-46.4. Place a dark pink 1x2 plate vertically long on the upright studs of the previous piece.
-46.5. Place a light gray 1x2 plate with a tow-ball socket vertically long on the previous piece, with the towball socket at the left. Rotate the assembly so the 2x2 anti-stud is at the bottom, the tow-ball sockets are
-at the top, and the studs from the previous piece are at the front.
-46.6. Keeping this orientation, attach the assembly to the right of the 2x2 circular plate on top of the body.
-47.1. Place a magenta 1x2 tile horizontally long, on the bottom right two side studs on the front of the
-body.
-47.2. Place a pale yellow 1x4 tile vertically long, above the previous piece, on the rightmost side studs on
-the front of the body.
-48. Place a dark blue 1x2x2 tall brick with two studs on one side on the front right stud on the 2x2 circular
-plate on top of the body. Place another symmetrically behind it.
-49. Place white 1x2x2 tall brick with studs on three sides, vertically long, with studs on the left, to the left
-of the pieces from the previous step. Keeping this piece at the top, rotate the model 180 degrees so it is
-now on the right of the body. The side tiles from steps 47.1-47.2 should be on the back side of the body
-now.
-50.1. Place a magenta 1x2 tile horizontally long, on the bottom left two side studs on the front of the body.
-50.2. Place a pale yellow 1x4 tile vertically long, above the previous piece, on the leftmost side studs on
-the front of the body.
-Open group 8.
-51. Now we’ll make the parrot’s back. Set the parrot’s body aside for now. Place a dark pink 2x3 plate
-horizontally long in front of you.
-52. Place a magenta 2x4 plate horizontally long on the previous piece, extending one stud to the left.
-53. Place a black 2x2 plate with two studs on one side, under the previous piece, extending one stud to
-the left, with the side studs on the left.
-54. Place a dark pink 2x3 plate horizontally long, on the rightmost three columns on top of the back.
-55.1. Place a black 2x2 circular plate on the rightmost two columns of the previous piece. The two
-leftmost columns should be the lowest part of the build, the third column from the left should step up one
-plate height, and the two rightmost columns should step up another plate height.
-55.2. Place a magenta 2x4 curved slope tile, horizontally long, on the left four columns, sloping down to
-the left. The cutouts on the bottom of the pieces should align with the steps up on the body, and the
-rightmost column of studs should be exposed.
-56.1. Place a dark pink 2x2 curved slope tile on the rightmost column of exposed studs, sloping down to
-the right.
-56.2. Place a dark pink 1x2 brick vertically long under the right column of the previous piece. Rotate the
-back assembly so the previous piece is at the bottom, and the curved slope tiles are at the left. There
-should be two upwards studs at the top of the parrot’s back.
-57. Set the parrot’s body in front of you in the same orientation as step 50, with the tow-ball sockets at the
-top left. Keeping the same orientation, attach the back to the side studs on the left side of the body. The
-bottom of the back should be even with the sideways 1x2 tiles at the bottom of the front and back of the
-body.
-58.1. Now we’ll build the sides of the parrot. Place a light pink 1x4 plate horizontally long in front of you
-and attach a dark pink 2x2 curved slope tile onto the rightmost stud, extending one stud to the back and
-right, sloping down to the right.
-58.2. Place a magenta 2x4 plate, horizontally long, behind the 1x4 plate from the previous step, so it
-attaches under the curved slope from the previous step.
-58.3. Place a dark pink 2x2 tile to the left of the curved slope.
-58.4. Place a dark pink 2x2 curved slope plate to the left of the previous piece, sloping down to the left.
-58.5. Repeat steps 58.1.-58.4 to create another side of the parrot’s body. Rotate one side assembly so it
-is vertically tall, with the slope tiles at the front, and the 2x4 plate extending to the left. Keeping this
-orientation, attach it to the front of the parrot’s body so it is aligned with the bricks at the top of the body,
-and aligned with the right side of the body. The sides should be even with the front and top of the body,
-and there should be an upwards row of four studs underneath the tow-ball socket. Repeat this
-symmetrically with the other side assembly on the back side of the parrot.
-59.1. We’ll make the parrot’s chest now. Put a light blue 2x2 plate in front of you.
-59.2. Place a dark pink 4x3 curved wedge slope on the right column of studs, sloping down to the right.
-59.3. Place a dark pink 4x3 curved wedge slope to the left of the previous piece, sloping down to the left.
-60.1. Rotate the chest so the curved wedge slopes are on the right, and the chest is tall. Attach it to the
-side studs on the right of the parrot’s body.
-60.2. Place the base and legs in front of you, with the clips on the legs at the left side, and the talons on
-the right.. Attach the body of the parrot onto the legs, with the chest on the right.
-Open group 9.
-61. Now we’ll start on the right wing! Set the base with the parrot’s body aside for now. Place a magenta
-4x4 circular plate in front of you with the studs down.
-62.1. Place a dark pink 2x2 circular plate studs down on the previous piece, centered vertically and
-horizontally.
-62.2. Place a lavender 2x6 plate horizontally long, to the left of the previous piece, centered vertically, so
-it extends five studs to the left of the 4x4 circular plate.
-63.1. Keeping the 4x4 circular plate at the right and the 2x6 plate at the left, rotate the wing 180 degrees
-so the studs are now up. Place a pale yellow 2x4 plate, vertically long, to the left of the 4x4 circular plate.
-63.2. Place a medium blue 4x4 quarter circle plate to the left of the previous piece, with the corner at the
-front right.
-64.1. Now we’ll start making the wing colorful and adding the feathers! Place a medium blue 1x4 curved
-slope tile horizontally long, on the previous piece, sloping down to the left. Attach the rightmost anti-stud
-of the curved slope to the leftmost stud at the front of the quarter circular plate. This curved slope is one
-of the feathers at the tip of the parrot’s wing!
-64.2. Place a pale yellow 1x4 tile horizontally long, to the right of the previous piece.
-65.1. Place a lime green 2x4 plate horizontally long, behind the previous piece.
-65.2. Place a dark pink 2x3 plate horizontally long, to the right of the previous piece, offset one stud to the
-front so it is even with the front of the wing. There should be two columns of exposed studs to the right of
-the 2x3 plate.
-66.1. Place a dark pink 1x1 quarter circle tile to the right of the front row of the previous piece, with the
-corner at the back left.
-66.2. Place a light pink 1x2 curved slope tile, horizontally long, behind the previous piece, extending one
-stud to the left so it attaches to the 2x3 plate from step 65.2.
-67. Place a pale yellow 1x4 tile, horizontally long, behind the previous piece, extending two studs past it
-to the left. Place another pale yellow 1x4 tile, horizontally long, behind the first, extending one stud past it
-to the left.
-68. Place a dark pink 1x1 quarter circle tile to the right of the previous piece, with the corner at the front
-left. Place another dark pink 1x1 quarter circle to the right of the 1x4 tile in front of the previous piece, with
-the corner at the front left. Place a third dark pink 1x1 quarter circle tile in front of the previous piece, with
-the corner at the back left.
-69.1. Find the 2x4 plate at the left end of the wing. Put a light blue 1x2 angled curved slope tile,
-horizontally long, on the back left stud of the 2x4 plate, extending one stud to the left. The angle should
-go back to the right.
-69.2. Place a light blue 1x1 tile with one half circular end to the right of the previous piece, with the curved
-end at the right.
-70.1. Place a medium blue 1x4 curved slope tile, horizontally long, sloping down to the left, on the 2x4
-plate at the left end of the wing. Attach the rightmost anti-stud of the curved slope to the leftmost stud of
-the 2x4 plate. This is another feather on the tip of the parrot’s wing.
-70.2. Place a pale yellow 1x4 tile, horizontally long, to the right of the previous piece, skipping one stud so
-that it touches a 1x2 curved slope tile at the right of the wing. Keeping the 4x4 circular plate at the right,
-flip the wing over 180 degrees so the studs are down.
-71. Place a light gray axle with a tow ball through the 2x2 circular plate at the right of the wing, with the
-tow ball up. The axle should go all the way in.
-72. Place the base in front of you, with the chest of the bird at the front. Clip the tow ball into the right tow
-ball socket on the bird. Now the wing should be able to spin and move freely. Rotate it so the studs on the
-wing are at the right, and the feathers at the tip of the wing point down and towards the back.
-Open group 10.
-73. Now it’s time to build the tail, so set the bird aside for a bit. Place a light blue 2x8 plate, horizontally
-long, in front of you.
-74. Place a medium blue 2x2 curved slope tile on the rightmost column of the previous piece, sloping
-down to the right, extending to the right by one stud.
-75. Place a light blue 2x8 plate, horizontally long, to the left of the previous piece.
-76.1. Place a teal 2x3 right wedge plate under the front row of the previous piece, extending two studs to
-the left. The studs on the wedge should be in line with the front row of studs on the previous piece, and
-the triangular wedge should be at the front, with the widest part at the left. If this is not the case, you may
-have the left wedge plate.
-76.2. Place a teal 2x3 left wedge plate symmetrically behind the previous piece.
-77. Place a pale yellow 1x2 plate with a bar on one short side, horizontally long, on the left two studs of
-each of the previous two pieces, with the bar extending to the left.
-78.1. Place a dark pink 1x2 plate, vertically long, on the leftmost column of the previous two pieces so it
-connects them together.
-78.2. Place a magenta 4x4 wedge plate with a 2x2 cut out on the wide end, horizontally long, to the right
-of the previous piece, with the wide end at the left. The studs should be directly to the right of the previous
-piece, the cut out should extend past the 1x2 plate and should be aligned with the bars at the left end of
-the build.
-78.3. Place a pale yellow 2x4 plate, horizontally long, to the right of the previous piece.
-79.1. Place a dark pink 2x2 curved slope tile on the rightmost column of studs on the previous piece,
-sloping down to the right, extending one stud to the right. There should be two columns of exposed studs
-to the right of this piece.
-79.2. Place a dark pink 2x6 tile, horizontally long, to the left of the previous piece. Keeping the piece
-horizontally long, rotate it 180 degrees so the wedge plates are now at the right side, and the tiles are at
-the bottom.
-80. Place a medium blue 2x2 inverted circular dish on the leftmost two columns of anti-stud.
-81. Place the base with the parrot body back in front of you, with the wing on the left. Find the clip on the
-bottom of the body, at the front. Rotate the tail so the tiles are at the front, the wedges are at the top, and
-the rest of the tail points down. Clip the two bars at the top of the tail into the two clips into the tail.
-Open group 11.
-82. Now we’ll start on the left wing! Set the base with the parrot’s body aside for now. Place a magenta
-4x4 circular plate in front of you with the studs down.
-83.1. Place a dark pink 2x2 circular plate studs down on the previous piece, centered vertically and
-horizontally.
-83.2. Place a lavender 2x6 plate horizontally long, to the left of the previous piece so it extends five studs
-to the left of the 4x4 circular plate.
-84.1. Keeping the 4x4 circular plate at the right and the 2x6 plate at the left, rotate the wing 180 degrees
-so the studs are now up. Place a pale yellow 2x4 plate, vertically long, to the left of the 4x4 circular plate.
-84.2. Place a medium blue 4x4 quarter circle plate to the left of the previous piece, with the corner at the
-back right.
-85.1. Now we’ll start making this wing colorful and adding the feathers like we did with the right wing.
-Place a medium blue 1x4 curved slope tile horizontally long, on the previous piece, sloping down to the
-left. Attach the rightmost anti-stud of the curved slope to the leftmost stud at the back of the quarter
-circular plate. This curved slope is one of the feathers at the tip of the parrot’s wing!
-85.2. Place a pale yellow 1x4 tile horizontally long, to the right of the previous piece.
-86.1. Place a lime green 2x4 plate horizontally long, in front of the previous piece.
-86.2. Place a dark pink 2x3 plate horizontally long, to the right of the previous piece, offset one stud to the
-back so it is even with the back of the wing. There should be two columns of exposed studs to the right of
-the 2x3 plate.
-86.3. Place a dark pink 1x1 quarter circle tile to the right of the back row of the previous piece, with the
-corner at the front left of the piece.
-87.1. Place a light pink 1x2 curved slope tile, horizontally long, in front of the previous piece, extending
-one stud to the left so it attaches to the 2x3 plate from step 86.2.
-87.2. Place a pale yellow 1x4 tile, horizontally long, in front of the previous piece, extending two studs to
-the left.
-88. Place a dark pink 1x1 quarter circle tile to the right of the previous piece, with the corner at the back
-left. Place another dark pink 1x1 quarter circle behind the previous piece, with the corner at the front left.
-Place a third dark pink 1x1 quarter circle tile in front of the right stud of the 1x4 tile from the previous step
-with the corner at the back left.
-89. Place a pale yellow 1x4 tile, horizontally long, to the left of the previous piece. Place another pale
-yellow 1x4 tile, horizontally long, behind the first, skipping one stud behind and offset one stud left so it
-touches a 1x2 curved slope tile on the right.
-91.1. Place a medium blue 1x4 curved slope tile, horizontally long, sloping down to the left, on the 2x4
-plate at the left end of the wing. Attach the rightmost anti-stud of the curved slope to the leftmost stud at
-the back of the 2x4 plate. This is another feather on the tip of the parrot’s wing.
-91.1. Put a light blue 1x2 angled curved slope tile, horizontally long, in front of the previous piece, with the
-right edges aligned. The angle should go back to the left.
-91.2. Place a light blue 1x1 tile with one half circular end to the right of the previous piece, with the curved
-end at the right. Keeping the 4x4 circular plate at the right, flip the wing over 180 degrees so the studs are
-down.
-92. Place a light gray axle with a tow ball through the 2x2 circular plate at the right of the wing, with the
-tow ball up. The axle should go all the way in.
-93. Place the base in front of you, with the chest of the bird at the front. Clip the tow ball into the left tow
-ball socket on the bird. Now the wing should be able to spin and move freely. Rotate it so the studs on the
-wing are at the left, and the feathers at the tip of the wing point down and towards the back. It should be
-symmetrical to the wing on the right.
-Open group 12.
-94. Now we’ll build the bird’s head! Set the body aside for now. Place a dark pink 1x2 plate, vertically
-long, in front of you and put a magenta 2x2 plate on it, so it overhangs one column to the left.
-95. Place a magenta 2x4 plate, horizontally long, under the overhanging stud of the previous piece. It
-should extend three columns left past the 2x2 plate.
-96.1. Place a magenta 2x3 slope, horizontally long, on the three exposed columns, sloping up to the right.
-96.2. Place a magenta 2x2 plate to the right of the previous piece.
-97. Place a magenta 1x1 brick with a recessed stud on one side onto the front stud of the slope, with the
-side stud at the left. Place another on the back stud of the slope in the same orientation.
-98. Place a dark pink 1x2 plate, vertically long, on the side stud of the previous two pieces and another on
-the upwards facing studs of the two pieces from the previous step.
-99. Place a dark pink 1x2 brick, vertically long, to the right of the two 1x1 bricks with recessed side studs.
-Open group 13.
-100.1. Place a light pink 1x2 brick, vertically long, on the previous piece.
-100.2. Place a light pink 1x2 wide curved slope, vertically long, on the previous piece, sloping up to the
-right.
-101.1. Now we’ll make the parrot’s white and black face! Place a dark blue 1x2 plate with a rail on one
-side, vertically long, in front of you with the rail at the right.
-101.2. Place a black 2x2 circular plate on the previous piece, aligned with the left side so it overhangs the
-rail.
-101.3. Place a black 1x2 plate, vertically long, on the right column of the previous piece.
-101.4. Place a white 1x2 plate with rounded ends, vertically long, to the left of the previous piece.
-101.5. Place a white 1x2 brick with a notch out of one side, horizontally long, on the front row of the face,
-with the notch at the front. Place another symmetrically behind the first.
-101.6 Place a black 1x2 plate, vertically long, on the left column on the previous two pieces.
-101.7. Place a white 1x2 plate with rounded ends, vertically long, on the previous piece.
-101.8. Place a black 1x2 plate, vertically long, on the previous piece.
-101.9. Keeping the same orientation, attach the face to the column of studs at the bottom right of the
-head. The white 1x2 bricks with notches should extend past the head by one stud.
-102. There should be three columns of exposed studs on top of the head. Place a dark pink 1x3x2 curved
-slope with curved cut out, horizontally long, sloping down to the left, onto the front studs of the two
-leftmost columns on the head. The curved slope on the head already should fit smoothly into the cutout
-on the new curved slope, and it should connect the face to the head. Place another dark pink 1x3x2
-curved slope behind the first.
-103. Place a white 1x1 brick with studs on two adjacent sides, on the front, rightmost stud on the head,
-with a side stud at the front and one at the right. Place another white 1x1 brick with studs on two adjacent
-sides symmetrically behind the first.
-104. Place a black 1x1 circular tile with an eye pattern on both of the pieces from the previous step, on
-the front and back sides of the face, leaving the side studs at the right of the face exposed. These are the
-parrot’s eyes!
-105.1. Now we’ll build the parrot’s beak! Place a white 2x2 plate in front of you.
-105.2. Place a white 1x2 jumper plate, vertically long, on the right column of the previous piece. A jumper
-plate is a 1x2 plate with a single stud on top.
-105.3. Place a black 1x2 plate, vertically long, to the left of the previous piece.
-105.4. Place a white 1x2 plate with rounded ends, vertically long, on the previous piece.
-105.5. Place a black 1x3 curved slope tile, horizontally long, on the jumper plate, sloping down to the
-right, extending two studs to the right.
-105.6. Place a black 1x1 circular plate into the bottom of the previous piece, on the second anti-stud from
-the right.
-105.6. Rotate the beak so the black 1x3 curved slope hangs down, and the studs are on the right.
-Keeping this orientation, attach this to the right side studs on the parrot’s head.
-106.1. Place a dark pink 2x2 circular plate on the right column of upwards facing studs on the head, so it
-extends towards the beak.
-106.2. Place a magenta 2x2 tile onto the previous piece, extending one column to the left so it attaches to
-the curved slopes at the left of the head.
-107. Place a magenta 1x1 quarter circle tile to the right of the front stud of the previous piece, with the
-corner at the back left. Place another behind the first, with the corner at the front left. The curve of these
-pieces should align with the curve of the 2x2 circular plate below them.
-108. Place the base with the parrot’s body in front of you, with the tail at the left. With the beak at the
-right, attach the parrot’s head to its body. The right of the head should align with the right of the chest.
-Congratulations! Now the Exotic Pink Parrot is complete! The next build is the Exotic Pink Fish! Scroll
-down to find those instructions. Note you’ll need to disassemble everything to build the alternate builds.
-Alternate Build #1 - Exotic Pink Fish
-Exotic Pink Fish Sorting Groups:
-Group 1 contains the pieces for steps 1-3.
-Group 2 contains the pieces for steps 4-9.
-Group 3 contains the pieces for steps 10-16, and two magenta 1x1 quarter circle tiles, one from step 23
-and one from step 28.
-Group 4 contains the pieces for steps 17-26.
-Group 5 contains the pieces for steps 27-31.
-Group 6 contains the pieces for steps 32-34.
-Group 7 contains the pieces for steps 35-37.
-Group 8 contains the pieces for steps 38-44.
-Group 9 contains the pieces for steps 45-53.
-Group 10 contains the pieces for steps 54-61.
-Exotic Pink Fish Building Instructions:
-Note for helpers: I have broken some of LEGO’s original instructions into smaller steps, but I have kept
-the original base number. For example, step 5 is now steps 5.1 and 5.2.
-Main Build
-Open bag 1.
-Open group 1.
-1. Let’s start building the fish! We’re going to build it standing up straight. Start by placing a magenta 2x4
-plate horizontally long in front of you.
-2.1. Place a black 1x2 plate, vertically long, on the leftmost column of the previous piece.
-2.2. Place a dark pink 2x3 plate, horizontally long, to the right of the previous piece.
-3. Place a magenta 2x4 plate, horizontally long on top of the previous pieces.
-Open group 2.
-4.1. Place a black 2x2 plate with two side studs on one side on the previous piece, with the side studs on
-the left, even with the left edge of the build.
-4.2. Place a dark pink 1x2 plate, vertically long, to the right of the previous piece.
-5. Place a white 1x2x2 tall brick with side studs on three sides, vertically long, to the right of the previous
-piece, with side studs at the right.
-6.1. Place a brown 2x2 circular brick to the left of the previous piece.
-6.2. Place a black 2x2 circular plate on the previous piece.
-7. Place a dark pink 1x2 brick, vertically long, to the left of the previous pieces.
-8.1. Place a black 2x2 plate with two side studs on one side on the previous piece, with the side studs on
-the left, even with the left edge of the build.
-8.2. Place a magenta 2x2 plate to the right of the previous piece. Its right edge should be even with the
-right of the fish’s body.
-9. Place a dark pink 2x3 plate, horizontally long, on the previous piece, with its right side even with the
-right edge of the build.
-Open group 3.
-10. Place a white 1x1 brick with studs on two adjacent sides on the front rightmost stud of the previous
-piece, with side studs at the front and right. Place another symmetrically behind the first.
-11. Place a dark pink 1x2 brick, vertically long, to the left of the previous piece.
-12. Place a magenta 1x2 brick with an axle hole, horizontally long, to the left of the previous piece in the
-front row. Place another, horizontally long, behind the first.
-13. Place a magenta 2x2 tile on the top row of side studs on the left side of the fish. Place the bottom of
-the tile onto the side studs so it is even with the top.
-14.1. Place a black 2x2 circular plate on top of the fish, centered horizontally.
-14.2. Place a brown 2x2 circular brick on the previous piece.
-15.1. Place a white 2x2 plate on the previous piece.
-15.2. Place a white 1x2x2 tall brick with side studs on three sides, vertically long, to the right of the
-previous piece, with side studs at the right. Its top should be even with the top of the previous piece.
-16. Place a white 1x2x2 tall brick with side studs on three sides, vertically long, on the left side of the fish,
-symmetrically to the previous piece. When you are done with this group, you should have two magenta
-1x1 quarter circle tiles left over; one for step 23.1 and one for step 28.1.
-Open group 4.
-17.1. Place a dark green 2x2 slope on top of the fish, centered horizontally, sloping up to the left.
-17.2. Place a dark pink 1x2 plate, vertically long, on the previous piece.
-18. Place a dark pink 1x3x2 curved slope with a curved cut out, on the front stud of the previous piece,
-sloping down to the right, and extending to the right. The exposed stud on the curved slope should be
-above the 1x2 plate from the previous step. Place another dark pink 1x3x2 curved slope with a curved cut
-out behind the first.
-19. Place a dark blue 1x1x2 tall brick with two studs on one side to the left of each of the pieces from the
-previous step, with the side studs on the left.
-20.1. Place a dark pink 1x2 plate, vertically long, on the previous pieces.
-20.2. Place a magenta 1x2 tile, vertically long, to the right of the previous piece.
-21.1. Place a light blue 1x1 tile with one half circular end, on the front stud of the 1x2 plate at the top of
-the fish, with the curved side at the front. Place another symmetrically behind the first. This is the fish’s
-mouth!!
-21.2. Place a magenta 2x4 plate on the top four rows of side studs on the left side of the fish. Now lay the
-fish down so it is horizontally long, the mouth is at the left, and the previous piece is at the front.
-22.1. Now we’ll start building the side of the fish! Place a dark pink 1x2 plate, vertically long, on the third
-stud from the left on the back row, extending to the front by one stud so the back is even with the back of
-the fish.
-22.2. Place a medium blue 4x4 quarter circle plate to the right of the previous piece, with the corner at the
-back left. The back of the quarter circle plate should be even with the back of the fish, and the right side
-of the quarter circle should be even with the right side of the fish.
-23.1. Place a magenta 1x1 quarter circle tile on the back left corner of the previous piece, with the corner
-of the tile at the back left.
-23.2. Place a light blue 1x2 angled curved slope tile, horizontally long, to the left of the previous piece,
-with the point at the back left.
-24. Place a magenta 4x4 circular plate to the left of the previous piece, extending three studs past to the
-left. Its back edge should be even with the back of the fish.
-25.1. Place a black 1x1 circular tile with an eye pattern on the second stud from the back on the second
-column from the left on the previous piece.
-25.2. Place a pale yellow 1x4 tile, horizontally long, to the right of the previous piece.
-26. Place a dark pink 1x1 quarter circle tile in front of the left stud of the previous piece, with the corner at
-the front left. Place another in front of the first, with its corner at the back left. Place two more
-symmetrically to the left of the first two. This should make a dark pink circle in front of the fish’s eye.
-Open group 5.
-27.1. Keeping the mouth on the left and the fish horizontally long, flip the fish over so the side we just
-worked on is at the bottom. Place a dark pink 1x2 plate, vertically long, on the third stud from the left on
-the front row, extending to the back by one stud so the front is even with the front of the fish.
-27.2. Place a medium blue 4x4 quarter circle plate to the right of the previous piece, with the corner at the
-front left. The front of the quarter circle plate should be even with the front of the fish, and the right side of
-the quarter circle should be even with the right side of the fish.
-28.1. Place a magenta 1x1 quarter circle tile on the front left corner of the previous piece, with the corner
-of the tile at the front left.
-28.2. Place a light blue 1x2 angled curved slope tile, horizontally long, to the left of the previous piece,
-with the point at the front left.
-29. Place a magenta 4x4 circular plate to the left of the previous piece, extending three studs past to the
-left. Its front edge should be even with the front of the fish.
-30.1. Place a black 1x1 circular tile with an eye pattern on the second stud from the front on the second
-column from the left on the previous piece.
-30.2. Place a pale yellow 1x4 tile, horizontally long, to the right of the previous piece.
-31. Place a dark pink 1x1 quarter circle tile behind the left stud of the previous piece, with the corner at
-the back left. Place another behind the first, with its corner at the front left. Place two more symmetrically
-to the left of the first two. This should make a dark pink circle behind the fish’s eye.
-Open group 6.
-32.1. Now let’s make the bottom of the fish! Set the body of the fish aside for now. Place a magenta 4x4
-wedge plate with a 2x2 cut out on the wide end, horizontally long, in front of you, with the cut out at the
-right.
-32.2. Place a pale blue 1x2 plate with two vertical clips on one long side, vertically long, on the right
-column of the previous piece, with the clips at the right.
-32.3. Place a magenta 2x4 curved slope tile, horizontally long, on the previous piece, extending three
-studs to the left. The previous two pieces should fit into the cutout on the bottom of the 2x4 curved slope
-tile.
-32.4. Clip the bars of a dark gray thick bushing with a perpendicular bar on each side, into the clips on the
-right side of the bottom of the fish, with the bushing extending to the right. This should be able to hinge up
-and down. This will be used to mount the fish on its stand later on.
-32.5. Place the body of the fish horizontally long in front of you so it stands on its narrow edge and curved
-corner of the body at the bottom left. Place the bottom of the fish horizontally long, on the top of the body,
-with the curved slope at the left, even with the left side of the fish.
-33.1. Place a black 1x2 plate, horizontally long, on the front right stud on the top of the fish, extending one
-stud to the left. Place another behind the first.
-33.2. Place a magenta 1x2 tile, vertically long, on the left studs of the previous pieces.
-33.3. Place a dark pink 2x2 curved slope tile to the right of the previous piece, sloping up to the left. The
-cutout of the curved slope should attach to the two black 1x2 plates from step 33.1.
-34.1. Now we’ll start building fins! Push a light gray axle with a tow ball on one side into the axle hole on
-the front of the fish.
-34.2. Using the tow ball socket, attach a light gray 1x2 plate with a tow ball socket on one side, to the
-previous piece. Rotate it so the studs are horizontally long and point up.
-34.3. Place a teal 2x3 right wedge plate, horizontally long, on the previous piece, extending one stud to
-the left, with the wide end at the left. Rotate the fin so it is horizontally long with the studs pointing down.
-Keeping the mouth at the left, flip the fish over so the bottom is now down.
-Open group 7.
-35.1. Now we’ll build the top of the fish! Place a magenta 2x4 plate, horizontally long, in front of you.
-35.2. Place a dark pink 2x2 curved slope tile on the leftmost column of the previous piece, sloping up to
-the right, extending one stud to the left. The cutout of the curved slope should attach to the 2x4 plate.
-35.3. Place a white 1x2 jumper plate, vertically long, to the right of the previous piece. A jumper plate is a
-1x2 plate with a single stud on top.
-35.4. Place a dark pink 1x2 plate, vertically long, to the right of the previous piece.
-35.5. Place a medium blue 1x4 curved slope tile, horizontally long, on the front stud of the previous piece,
-extending three studs to the right so the cut outs attach to the existing plates. Place another medium blue
-curved slope tile behind the first.
-35.6. Place a black 1x3 curved slope tile, horizontally long, on the stud on top of the fish’s top, extending
-one stud to the right, sloping up to the right. This is the fish’s dorsal fin, the fin on top of a fish’s body!
-35.7. Attach this assembly, in the same orientation, on top of the fish, with the left end of the top
-assembly on the left stud on the top of the fish.
-36.1. Let’s build the other fin! Push a light gray axle with a tow ball on one side into the axle hole on the
-front of the fish.
-36.2. Using the tow ball socket, attach a light gray 1x2 plate with a tow ball socket on one side, to the
-previous piece. Rotate it so the studs are horizontally long and point up.
-36.3. Place a teal 2x3 left wedge plate, horizontally long, on the previous piece, extending one stud to the
-right, with the wide end at the right.
-37.1. Now we’ll build the fish’s tail! Set the fish aside for now. Place a magenta 2x2 plate in front of you,
-studs down.
-37.2. Place a dark pink 1x2x2 tall brick with four studs on one side, vertically long, into the left column of
-anti-stud of the previous piece, with the side studs at the left. “Anti-stud” is a term for the portion of a
-LEGO piece which accepts studs, like the bottom of a plate. Place another dark pink 1x2x2 tall brick with
-four studs on one side symmetrically to the right of the first.
-37.3. Place a medium blue 2x2 inverted circular dish on the previous pieces.
-37.4. Place a dark pink 4x3 curved wedge slope on the left side studs, extending one stud above the rest
-of the tail, with the wide part at the top. Place another symmetrically on the right side of the tail. Rotate
-the tail so the 2x2 plate is sideways on the left, and one curved wedge slope is on top and the other is on
-the bottom.
-37.5. Put the fish in front of you again, with the mouth at the left and the dorsal fin on top. Keeping the
-orientation from the previous step, attach the 2x2 plate on the tail to the 2x4 of anti-stud on the right side
-of the fish, centered top to bottom. Now the fish is complete!
-Open group 8.
-Side build - Coral reef.
-38. Now we’ll give the fish someplace nice to swim! Start the coral reef by placing a light brown 4x4
-circular plate in front of you.
-39. Place a light blue 2x8 plate, horizontally long, centered vertically, on the previous piece, extending
-four studs to the right. Flip the assembly over so the studs are down, keeping it horizontally long with the
-4x4 plate at the left.
-40. Place a light blue 2x2 plate to the right of the 4x4 circular plate.
-41. Place a light blue 2x8 plate, vertically long, to the right of the previous piece, extending 6 studs to the
-back so it’s even with the front. Flip the assembly over so the studs are up, keeping the 4x4 plate at the
-left, so the 2x8 we just placed is at the front.
-42.1. Place a yellow 2x3 brick, horizontally long, on the back two rows, skipping three studs from the left.
-There should be two exposed columns to the right of it.
-42.2. Place a dark green 2x2 slope to the right of the previous piece, sloping up to the left.
-43. Place a yellow 1x1 circular plate with a flower pattern in front of the previous piece, on the second
-column from the right. Skip two studs in front and place another. There should be two exposed studs in
-front of this piece.
-44.1. Place a lime green 2x4 plate, vertically long, in front of you.
-44.2. Place a light pink 1x4 plate, horizontally long, on the second row from the back on the previous
-piece, extending two studs to the left. Place another in front of the first.
-44.3. Attach this assembly to the main reef, placing the 1x4 plates between the two yellow circular plates
-with flower patterns, and extending two studs past the right 2x8 on the reef.
-Open group 9.
-45. Place a dark brown 2x2 circular plate with four upright arms, centered horizontally, on the two 1x4
-plates from step 44.2.
-46. Place a dark brown straight axle connector, pointing upwards, between the four studs on the previous
-piece. The straight connector has a cross shaped cross section with concave curves at the corner. These
-concave curves match the profile of studs so that this piece can be attached between four studs like we’re
-doing now!
-47. Place a dark brown 1x1 cone, upside down, onto the front, left, and back arms of the circular brick
-with upwards arms on the right side of the reef.
-48.1. Now we’re going to build some more coral! Place a dark brown 2x2 circular plate with four upright
-arms in front of you.
-48.2. Place a white 1x2 plate with rounded ends vertically long on the left column of the previous piece.
-Place another to the right of the first.
-48.3. Place a purple 1x1 plate with three leaves onto the front, left and back arms of the circular brick with
-upwards arms. Arrange the leaves so they point away from the center.
-48.4. Place another purple 1x1 plate with three leaves on the front left stud, with the leaves pointing back
-and to the right.
-48.5. Place this assembly on the left two columns of the reef.
-49.1. Place a green 4x8 half circle plate, vertically long, on the 2x4 of studs to the right of the previous
-pieces, centered vertically on the 2x4, with the flat side at the left.
-49.2. Place a light green 2x4 plate, horizontally long, centered vertically on the previous piece.
-49.3. Place an orange 1x1 circular plate behind the previous piece, on the second stud from the left.
-50. Place a green 4x8 half circle plate, horizontally long, on the 2x4 plate from step 49.2, with the flat side
-at the back, centered horizontally on the 2x4 plate, and extending two studs to the front.
-51.1. Place a brown 2x2 circular brick on the third and four columns from the left, on the back two rows of
-the previous piece.
-51.2. Place a dark green 2x2 slope to the right of the previous piece, sloping up to the left.
-52.1. Place an orange 1x1 circular plate on the back stud of the previous piece.
-52.2. Place a black 3L axle with a hole in the middle of the 2x2 circular brick, oriented up and down, with
-the pin-hole oriented front to back.
-53. Attach the fish to the previous piece, with its tail at the right. Attach the bushing underneath the fish
-onto the axle we just placed.
-Open group 10.
-54. Now we’re going to make a big piece of kelp! Set the reef with the fish aside for now. Place a black
-2x2 circular plate in front of you.
-55. Place a black 1x1 circular plate on the back left stud of the previous piece.
-56. Place a white 1x2 plate with a 2x2 of anti-stud on the side in front of the previous piece by placing the
-1x2 plate horizontally long on the front row of the 2x2 circular plate, with the square of anti-stud at the
-front.
-57. Place a green 6x5 plant leaves on the back right stud of the 2x2 circular plate. Attach it using the end
-that only has a single stud, so that the plant leaves are vertically long.
-58. Place a black 2x2 circular plate onto the previous three pieces.
-59.1. Attach a light green 4x3 plant leaves onto the back left stud of the 6x5 plant leaves from
-underneath. Attach it using the stud where the leaves come to a point. Point this set of leaves towards the
-back.
-59.2. Push a light green bar with two leaves through the back left stud of the 6x5 plant leaves, with the
-studs on top.
-60.1. Attach a light green 4x3 plant leaves onto the back right stud of the 6x5 plant leaves from above.
-Attach it using the stud where the leaves come to a point. Point these leaves towards the back.
-60.2. Attach another light green 4x3 plate leaves onto the previous piece from underneath. Attach it to the
-stud opposite where the leaves come to a point, using the stud where the leaves come to a point. Point
-these leaves towards the back.
-60.3. Push a light green bar with two leaves through the two studs used to attach the previous two pieces.
-Rotate the kelp so it’s tall, and horizontally long, with the leaves of the bars with leaves at the front.
-61. Place the reef and fish in front of you, with the fish’s nose at the left. Attach the kelp to the front two
-rows of studs.
-Congratulations! Now the exotic pink fish is complete! The next build is the Exotic Pink Frog! Scroll down
-to find those instructions. Note you’ll need to disassemble everything to build the alternate builds.
-Alternate Build #2 - Exotic Pink Frog
-Exotic Pink Frog Sorting Groups:
-Group 1 contains the pieces for steps 1-8.
-Group 2 contains the pieces for steps 9-10, and a black 1x2 plate from step 13.
-Group 3 contains the pieces for steps 11-16
-Group 4 contains the pieces for steps 17-23.
-Group 5 contains the pieces for steps 24-28.
-Group 6 contains the pieces for steps 29-36.
-Group 7 contains the pieces for steps 37-38.
-Group 8 contains the pieces for steps 39-43.
-Group 9 contains the pieces for steps 44-51.
-Group 10 contains the pieces for step 52.
-Exotic Pink Frog Building Instructions:
-Note for helpers: I have broken some of LEGO’s original instructions into smaller steps, but I have kept
-the original base number. For example, step 5 is now steps 5.1 and 5.2.
-Open bag 1.
-Open group 1.
-1.1. Let’s start building the lower part of the frog’s body! Find a light blue 2x8 plate and put it horizontally
-long in front of you.
-1.2. Place a magenta 1x1 brick with a recessed stud on one side onto the back left stud of the previous
-piece, with the side stud at the left.
-2.1. Place another magenta 1x1 brick with a recessed stud on one side in front of the previous piece, with
-the recessed side stud at the left.
-2.2. Place a magenta 1x2 brick with an axle hole, horizontally long, to the right of the previous piece.
-Place another behind the first.
-3. Place a light gray axle with a tow ball through the axle hole on the front previous piece, from the front,
-so the tow ball is at the front. Place another symmetrically through the back axle hole.
-4. Place a pale yellow 2x4 plate, horizontally long, to the right of the 1x2 bricks with axle holes. There
-should be one column of studs to the right of the 2x4 plate.
-5.1. Place a magenta 2x2 plate on the left two columns of the previous piece.
-5.2. Place two pale yellow 1x2 plates with a bar on one short side, horizontally long, to the right of the
-previous piece, one in the front row and one in the back row.
-6.1. Place a teal 2x3 left wedge plate, horizontally long, with its rightmost stud on the third column from
-the right, in the front row, and the triangular portion extending to the front, with the widest part at the right.
-If the widest part is at the left, you have the mirrored wedge plate and need to grab the other one. Its left
-edge should touch the 1x2 bricks with axle holes.
-6.2. Place a teal 2x3 right wedge plate symmetrically behind the previous piece. Keeping the 1x1 bricks
-with recessed studs at the left, flip the body over so the studs face down.
-7. Place a light blue 2x2 plate, studs down, on the anti-stud of the second and third columns from the
-right. “Anti-stud” is a term for the portion of a LEGO piece which accepts studs, like the bottom of a plate.
-Keeping the 1x1 bricks with recessed studs at the left, flip the body over so the studs face up again.
-8. Place a dark pink 1x3x2 curved slope with curved cut out, vertically long, on the front stud in the
-second column from the right, sloping down to the front, extending two studs to the front. It should be
-attached using the back stud. Place another dark pink 1x3x2 curved slope symmetrically behind it. These
-are the frog’s front legs! We’ll attach the feet here later on.
-Open group 2. This group will include a black 1x2 plate from step 13.
-9.1. Now we’ll build the frog’s lower jaw! Place a light blue 1x2 plate with two vertical clips on one long
-side, vertically long, in front of you with the clips at the left.
-9.2. Place a dark pink 4x3 curved wedge slope on the previous piece, sloping down to the right, extending
-two studs to the right. The light blue 1x2 plate should attach in the recess on the bottom of the curved
-slope. Keeping the clips at the left, flip the jaw over so the smooth side is down.
-9.3. Place a medium blue 2x2 inverted circular dish into the anti-stud of the left two columns of the jaw,
-centered vertically.
-9.4. Keeping the previous piece on top, attach the two clips on the jaw to the two bars at the right of the
-body. The jaw should be centered vertically on the body and should extend three columns to the right.
-10. Place a magenta 2x4 plate, horizontally long, on the leftmost four columns of the body. Place another,
-horizontally long, to the right of the first. When you are done with group 2, you should have a black 1x2
-plate leftover!
-Open group 3.
-11. Now we’re going to start on the top part of the frog’s body! Set the lower part aside for now. Place a
-light blue 2x8 plate, horizontally long, in front of you.
-12. Place a dark pink 1x2 plate, horizontally long, on the rightmost two studs of the front row on the
-previous piece. Place another behind the first.
-13. Place a black 1x2 plate, vertically long, on the second column from the right on the previous pieces.
-14. Place a dark blue 1x1x2 tall brick with two studs on one side to the left of the previous piece, with the
-side studs at the front. Place another symmetrically behind the first. There should be five exposed studs
-to the left of these pieces.
-15.1. Place a dark pink 2x2 curved slope tile to the right of the previous pieces, sloping down to the right.
-The stepped plates at the right of the body should fit into the cut-out on the bottom of the curved slope.
-15.2. Place a white 2x2 plate to the left of the tall bricks with side studs.
-16. Place a magenta 4x4 wedge plate with a 2x2 cut out on the wide end, horizontally long, with its studs
-directly to the left of the previous piece, and the previous piece sitting in the cut out. Its widest part should
-be at the right, and there should be one column of exposed studs to the left of it.
-Open group 4.
-17.1. Place a magenta 2x2 plate on the studs of the previous piece, offset one column to the right. There
-should be one column of exposed studs to the right between this piece and the tall bricks with side studs.
-17.2. Place a dark pink 1x2 brick, vertically long, to the right of the previous piece so it touches the tall
-bricks with side studs.
-18.1. Place a black 1x2 plate, vertically long, to the left of the previous piece.
-18.2. Place a dark pink 2x2 curved slope tile on the previous piece, extending to the right, sloping up to
-the right. The right anti-stud of the curved slope tile should attach to the 1x2 brick from step 17.2.
-19. Place a magenta 2x4 curved slope tile, horizontally long, to the left of the previous piece, sloping
-down to the left. It should extend one column past the end of the 2x8 plate at the bottom of the upper
-body.
-20. Place a black 1x2 plate, horizontally long, under the leftmost column of the previous piece, in the front
-row, so it extends past by one stud. Place another behind the first.
-21. Place a dark pink 2x2 curved slope tile on the previous piece, extending to the left, sloping up to the
-right.
-22. Place the lower body of the frog in front of you, horizontally long, with the jaw at the right. Attach the
-upper body to the lower body. Attach the leftmost column of the previous piece to the leftmost column of
-the lower body. The right part of the upper body should be even with the right part of the jaw.
-23. Place a light blue 1x1 tile with one half circular end on the front recessed side stud at the left end of
-the frog’s body, with the curved portion at the front. Place another symmetrically behind the first. They
-should make an oval shape at the left end of the frog.
-Open group 5.
-24. Now we’ll start making frog legs! Set the body aside for now and place a lime green 2x4 plate,
-horizontally long, in front of you.
-25.1. Place a dark pink 2x3 plate, horizontally long, on the previous piece, overhanging one column to the
-left of the previous piece.
-25.2. Place a dark pink 1x2 plate, horizontally long, to the right of the previous piece, in the front row. Its
-right edge should be even with the right edge of the leg.
-26. Place a pale yellow 1x4 plate, horizontally long, on the previous piece, so its right edge is even with
-the right edge of the leg.
-27. Place a light gray 1x2 plate with a tow ball socket on one long side, horizontally long, with the socket
-at the back, on the back row so its left edge is even with the left edge of the leg.
-28.1. Place a light blue 1x2 angled curved slope tile, vertically long, on the left stud of the previous piece,
-so its front edge is even with the front of the leg.
-28.2. Place a dark blue 1x4 curved slope tile, horizontally long, to the right of the back stud of the
-previous piece, sloping down to the right. This will be the upper part of the leg. Set it aside while we build
-the lower part.
-Open group 6.
-29. Place a black 2x2 plate with two studs on one side in front of you, with the side studs at the back.
-30. Place a light pink 1x4 plate, horizontally long, on the front row of the previous piece, centered
-horizontally.
-31. Place a dark pink 2x3 plate, vertically long, on the previous piece, centered horizontally on the
-previous piece, even with the front of the previous piece.
-32. Place a 1x2 plate, horizontally long, under the rightmost stud in the front row, extending one stud past
-the previous piece to the right.
-33. Place a 4x3 plant leaves, horizontally long, on the right stud of the previous piece, attaching it using
-the stud where the leaves come to a point, and the leaves extend to the right. This is the frog’s foot and
-toes!
-34.1. Place a dark pink 1x2 tile, horizontally long, on the left stud of the previous piece, extending to the
-left so it attaches to the rest of the leg.
-34.2. Place a dark pink 1x1 quarter circle tile on the leftmost stud, with the rounded edge at the front left.
-35. Now we’ll assemble the leg. Place the upper leg, with the tow ball socket at the back left, on the back
-two rows of the lower leg. The upper leg should extend one stud to the left of the lower leg.
-36. Now, put the body of the frog in front of you, with the jaw at the right. Attach the tow ball socket from
-the leg onto the front left tow ball on the frog. That’s one back leg down!
-Open group 7.
-37.1. Now we’ll build a front leg! Place the dark pink 2x2 circular plate in front of you.
-37.2. Place a white 1x2 plate with rounded corners, vertically long, on the leftmost column of the previous
-piece.
-37.3. Place a dark pink 1x2 plate, vertically long, on the previous piece.
-37.4. Place a 4x3 plant leaves, horizontally long, on the front right stud of the circular plate, attaching it
-using the stud where the leaves come to a point, and the leaves extend to the right.
-37.5. Place a light yellow 1x2 curved slope tile, horizontally long, on the previous piece, extending one
-stud to the left, sloping up to the left. The two studs on the back row should be exposed, with the left stud
-being two plates higher than the right.
-37.6. Find the curved slope on the front of the frog’s body, just to the left of the jaw. Attach the back left
-stud on the foot to the curved slope on the frog, so the toes extend to the right.
-38.1. Now we’ll give the frog some eyes! Find the two side studs on the front of the frog, just to the left of
-the jaw. Place a red 2x2 circular plate sideways onto these studs, extending one stud to the right.
-38.2. Attach an orange 1x1 circular plate to the bottom left stud of the previous piece.
-38.3. Attach a black 1x1 circular tile with an eye pattern on the previous piece.
-38.4. Repeat steps 38.1-38.4 symmetrically on the back of the frog.
-Open group 8.
-39. Now we’ll make more frog legs! Set the body aside for now and place a lime green 2x4 plate,
-horizontally long, in front of you.
-40.1. Place a dark pink 2x3 plate, horizontally long, on the previous piece, overhanging one column to the
-right of the previous piece.
-40.2. Place a dark pink 1x2 plate, horizontally long, to the left of the previous piece, in the front row. Its
-left edge should be even with the left edge of the leg.
-41. Place a pale yellow 1x4 plate, horizontally long, on the previous piece, so its left edge is even with the
-left edge of the leg.
-42. Place a light gray 1x2 plate with a tow ball socket on one long side, horizontally long, with the socket
-at the back, on the back row so its right edge is even with the right edge of the leg.
-43.1. Place a light blue 1x2 angled curved slope tile, vertically long, on the right stud of the previous
-piece, so its front edge is even with the front of the leg.
-43.2. Place a dark blue 1x4 curved slope tile, horizontally long, to the left of the back stud of the previous
-piece, sloping down to the left. This will be the upper part of the leg. Set it aside while we build the lower
-part.
-Open group 9.
-44. Place a black 2x2 plate with two studs on one side in front of you, with the side studs at the back.
-45. Place a light pink 1x4 plate, horizontally long, on the front row of the previous piece, centered
-horizontally.
-46. Place a dark pink 2x3 plate, vertically long, centered horizontally, on the previous piece, even with the
-front of the previous piece.
-47. Place a 1x2 plate, horizontally long, under the leftmost stud in the front row, extending one stud past
-the previous piece to the left.
-48. Place a 4x3 plant leaves, horizontally long, on the left stud of the previous piece, attaching it using the
-stud where the leaves come to a point, and the leaves extend to the left. This is the frog’s foot and toes!
-49.1. Place a dark pink 1x2 tile, horizontally long, on the right stud of the previous piece, extending to the
-right so it attaches to the rest of the leg.
-49.2. Place a dark pink 1x1 quarter circle tile on the rightmost stud, with the rounded edge at the front
-right.
-50. Now we’ll assemble the leg. Place the upper leg, with the tow ball socket at the back right, on the
-back two rows of the lower leg. The upper leg should extend one stud to the right of the lower leg.
-51. Now, put the body of the frog in front of you, with the jaw at the left. Attach the tow ball socket from
-the leg onto the front right tow ball on the frog. Now the frog has both back legs! Just one leg left to go!
-Open group 10.
-52.1. Place a dark pink 2x2 circular plate in front of you.
-52.2. Place a white 1x2 plate with rounded corners, vertically long, on the rightmost column of the
-previous piece.
-52.3. Place a dark pink 1x2 plate, vertically long, on the previous piece.
-52.4. Place a 4x3 plant leaves, horizontally long, on the front left stud of the circular plate, attaching it
-using the stud where the leaves come to a point, and the leaves extend to the left.
-52.5. Place a light pink 1x2 curved slope tile, horizontally long, on the previous piece, extending one stud
-to the right, sloping up to the right. The two studs on the back row should be exposed, with the right stud
-being two plates higher than the left.
-52.6. Find the curved slope on the front of the frog’s body, just to the right of the jaw. Attach the back right
-stud on the foot to the curved slope on the frog, so the toes extend to the left.
-Congratulations! Now the exotic pink frog is complete! The frog’s body is mostly dark pink and magenta,
-with a blue stripe running down his body, and a blue stomach. His feet are all light green, while his back
-legs have blue and yellow stripes! In nature, those bright colors are a good sign that this frog is
-poisonous! So don’t put him in your mouth!
+Open bag 1 and group 1 which contains the pieces for steps 1-6 and the dark orange 1x2 tile from step 7.
+The two medium blue 1x2 tiles from step 6 are in a separate sub-bag.
+In this bag, you’ll build the upright standing background of the scene which consists of some dark orange
+desert hills, the blue sky, two large white clouds and a flying plane.
+1. Locate a black 2x12 plate and place it in front of you vertically.
+2. Place a black 1x6 plate horizontally centered onto the back row of the previous piece.
+3. Locate two black 4x12 plates and orient them vertically. Place one below the previous piece left of the
+black 2x12 plate from step 1, flush at the front and back. The previous piece should then cover the
+rightmost two studs of the back row of the 4x12 plate. Repeat symmetrically at the right.
+4. Locate two black 1x6 plates. Place one of them horizontally in the back row to the left of the black 1x6
+plate from step 2. It should overhang by 4 studs to the left. Repeat symmetrically at the right.
+5. Locate two black 4x12 plates and orient them vertically. Place one below the previous piece at the
+right, flush at the front and back. The previous piece should then cover the back row of the current piece.
+Repeat symmetrically at the left.
+6. You will cover all of the second and third row from the back with tiles in this step. Place a dark orange
+1x2 tile vertically in the leftmost column in the second and third row from the back. Place another dark
+orange 1x2 tile horizontally to the right in the second row from the back. Place a medium blue 1x2 tile
+from a separate bag from group 1 horizontally in front of the previous piece. Place a dark orange 2x4 tile
+horizontally to the right and back, so in the second and third row from the back. Repeat to the right. Place
+a dark orange 2x2 tile to the right. Place a dark orange 1x2 tile horizontally to the right in the second row
+from the back. Place a medium blue 1x2 tile from a separate bag from group 1 horizontally in front of the
+previous piece. Place a dark orange 1x2 tile vertically to the right and back, so in the second and third
+row from the back. Place a dark orange 2x2 tile to the right. The second and third row from the back
+should now be fully covered by tiles. Note, that there is a single dark orange 1x2 tile remaining in this
+group. Keep it separate from the next group so you can identify it, because it’ll be used in the next step.
+Open group 2 which contains the pieces for steps 7-10, except for the dark orange 1x2 tile from step 7
+which is in group 1.
+7. You will cover all of the fourth and fifth row from the back with tiles in this step. Place a medium blue
+2x3 tile horizontally at the very left of the fourth and fifth row from the back, flush at the left. Repeat to the
+right three times. Place a medium blue 1x2 tile vertically to the right. Place a medium blue 2x3 tile
+horizontally to the right. Place the dark orange 1x2 tile from the previous bag horizontally to the right in
+the fourth row from the back. Place a medium blue 1x2 tile horizontally in front of the previous piece. The
+fourth and fifth row from the back should now be fully covered by tiles.
+8. You will cover almost all of the sixth and seventh row from the back with tiles in this step (except for the
+second and third column from the left). Place a medium blue 1x2 tile vertically at the very left of the sixth
+and seventh row from the back. Skip two columns to the right and place a medium blue 1x2 tile vertically
+in the fourth column from the left. Place a medium blue 2x3 tile horizontally to the right. Repeat to the
+right two times. Place a white 2x2 tile modified with two studs to the right, studs to the front. Place a
+medium blue 2x3 tile horizontally to the right. Almost all of the sixth and seventh row from the back should
+now be covered by tiles (except for the second and third column from the left).
+9. You will cover all of the fourth and fifth row from the front with tiles in this step. Place a medium blue
+2x3 tile horizontally at the very left of the fourth and fifth row from the front, flush at the left. Repeat to the
+right three times. Place a medium blue 1x2 tile vertically to the right. Place a medium blue 2x3 tile
+horizontally to the right. Place a medium blue 2x2 tile to the right. The fourth and fifth row from the front
+should now be fully covered by tiles.
+10. You will cover most parts of the second and third row from the front with tiles in this step (except for
+five studs). Place a medium blue 1x2 tile vertically at the very left of the second and third row from the
+front. Place a medium blue 2x3 tile horizontally to the right. Skip two columns to the right and place a
+medium blue 2x3 tile horizontally. Place a white 2x2 tile modified with two studs to the right, studs to the
+back. Place a medium blue 1x2 tile vertically to the right. Place a medium blue 2x3 tile horizontally to the
+right. Place a medium blue 1x1 tile to the right in the second row from the front. Place a medium blue 2x2
+tile to the right and back, so in the second and third row from the front. Most parts of the second and third
+row from the front should now be covered by tiles (except for five studs).
+Open group 3 which contains the pieces for steps 11-13. The dark azure 1x1 plate from step 13.3 is in a
+separate sub-bag.
+11. Locate three black 1x6 tiles and cover the front row with them horizontally.
+12. Locate two white cloud pieces with three studs on top. Place one of them horizontally onto the front
+white 2x2 tile modified with two studs so that it is mainly above the second and third row from the front
+(the two studs from the tile modified should go into the back row of the cloud). Place the other cloud
+horizontally onto the white 2x2 tile modified with two studs further back so that it is mainly above the sixth
+and seventh row from the back (the two studs from the tile modified should go into the front row of the
+cloud).
+13. In this step consisting of three sub-steps you are building the small plane with a red rudder which is
+flying across the scene.
+13.1 Locate a white 2x2 corner plate and orient it as if it were the braille letter H (so with the missing stud
+in the back right). Place a medium nougat (medium brown, mix of brown and orange) 1x1 plate onto the
+front right stud of the previous piece.
+13.2 Place a red 1x1 slope onto the previous piece, slope to the left. Locate a white 1x2 curved slope and
+orient it horizontally, slope to the left and place it to the left.
+13.3 Locate a dark azure (medium blue, mix of cyan and blue) 1x1 plate from a separate bag from group
+3. Place a trans-clear 1x1 brick modified with headlight onto the previous piece, headlight to the front.
+Rotate the piece you just built by 90° onto its back so that the headlight points to the top, top stud to the
+back and place it below the front left stud of the white 2x2 corner plate from step 13.1.
+You have finished building the small plane and will now attach it to the main scene. The plane will be
+attached at the un-tiled single stud in the third row from the front using the dark azure 1x1 plate of the
+plane. Orient the plane so that the headlight brick is upright again, headlight to the front, with the dark
+azure 1x1 plate at the bottom. Like this, place the plane onto the described single stud in the third row
+from the front. The plane will be on its side, flying to the left, its top pointing towards you. What is the front
+of the main piece now will later be the top of the postcard, so the plane will be flying rightwards in the
+upper left corner of the upright standing postcard. By the way, the aircraft is presumably one of the
+Australian airline Qantas, whose trademark is the red rudder.
+You have successfully finished building bag 1 creating the upright standing background of the scene
+which consists of some dark orange desert hills, the blue sky, two large white clouds and a flying plane.
+Set this piece aside for now.
+Open bag 2 and group 4 which contains the pieces for steps 14-19.
+In this bag, you’ll build the base of the upright standing postcard, including a gray windmill, a tiny wooden
+outside toilet, a wooden shed with an aluminum roof as well as a large eucalyptus tree.
+14. Locate a dark orange 4x6 plate and orient it horizontally.
+15. Locate two black 1x2 bricks and two black 1x2x2 brick modifieds with four side studs. Place a black
+1x2 brick horizontally onto a black 1x2x2 brick modified with side studs, side studs pointing to the back.
+Rotate the piece you just built by 90° onto its front so the 2x2 side studs point to the top and the 1x2 top
+studs point to the front. Place this piece below the dark orange 4x6 plate from the previous step so that
+the right column of side studs of the current piece attach to the backmost studs of the leftmost column of
+the plate. The left column of the current piece should protrude to the left of the plate and the current piece
+should be flush with the plate at the back. Repeat symmetrically at the right.
+16. Locate two black 1x6 plates and put them on top of each other horizontally. Rotate the plates by 90°
+onto their front so that their studs point to the front. Attach them from the front to the front of the main
+piece, centered horizontally. The plates should now be hidden below the dark orange 4x6 plate (when
+viewed from above).
+17. Locate two black 1x6 plates and two black 1x6 tiles. Put a black 1x6 tile onto a black 1x6 plate
+horizontally. Rotate the piece you just built by 90° onto its front so that the smooth part of the tile points to
+the front. Attach this piece to the front of the main piece similarly to and in line with the piece from the
+previous step, but to its left so it is connected to the main piece by the single exposed stud of the 1x2
+brick from step 15 and overhanging to the left. Repeat symmetrically to the right.
+18. Locate two black 1x2 bricks and two black 1x2x2 brick modifieds with side studs. Place a black 1x2
+brick horizontally onto a black 1x2x2 brick modified with side studs, side studs pointing to the back.
+Rotate the piece you just built by 90° onto its front so the 2x2 side studs point to the top and the 1x2 top
+studs point to the front. Attach the current piece to the left piece from the previous step from the back as
+far left as possible without overhanging. This piece should then be attached and oriented similarly to the
+two identically built pieces further in the center of the main piece (which are half-hidden by the dark
+orange 4x6 plate). Repeat symmetrically to the right.
+19. Locate two dark orange 4x6 plates. Orient them horizontally and place one of them to the left of the
+dark orange 4x6 plate from step 14. Repeat symmetrically to the right. With this you have finished the
+base of the standing postcard.
+Open group 5 which contains the pieces for steps 20-24. The medium nougat 1x1 plate from step 21 is in
+a separate sub-bag. For step 20 you will need the separate flower plate group 1 bag.
+20. Place a light bluish gray 1x1 round plate at the back right corner (pay attention that you are not using
+the round plate with a hole in its stud!). Locate three green 1x1 round plates with flower edges from the
+separate flower plate group 1 bag. Place a green flower plate to the left. Place a tan 1x1 slope to the left,
+slope to the right. Place a green flower plate to the front. Place a trans-light blue 1x2 tile horizontally to
+the right. Place a green flower plate to the front as far right as possible. Place a trans-light blue 1x2 tile
+horizontally to the left. The back right 3x3 studs of the base should be covered now.
+21. Place a medium nougat 1x1 plate from a separate bag from group 5 on top of a tan 1x1 plate. Place
+the piece you just made to the left of the slope in the back row. Place a tan 1x1 slope to the left, slope to
+the left. Place a tan 1x1 slope, slope to the front, skipping one row in front of the stacked 1x1 plates, so in
+the second row from the front, left of the trans-light blue 1x2 tile.
+22. In this step consisting of three sub-steps you are building part of the base of the eucalyptus tree.
+22.1 Locate a tan 1x3x3 arch and orient it horizontally, the base of the arch to the left. Place a tan 1x1
+plate onto the single leftmost stud of the previous piece.
+22.2 Locate a light bluish gray 2x2-1x2 centered bracket and put it onto the two rightmost studs of the
+arch, 2x2 anti-studs to the back.
+22.3 Place a sand green 1x3 plate horizontally onto the previous piece overhanging one stud to the right.
+Place the piece you just built onto the stacked 1x1 plates in the back row of the main piece, the arch
+extending to the right.
+23. Locate a tan 1x3x3 arch and orient it vertically, the base of the arch to the back. Place a tan 1x1 brick
+onto the single backmost stud of the previous piece. Place the piece you just built to the front of the base
+of the arch from the previous step, the arch extending to the front. If placed correctly, the top of the arch
+from this step should form a plane surface of size 1x4 with the leftmost stud of the arch of the previous
+step. The two arches are the base of the eucalyptus tree.
+24. Place a light bluish gray 1x4 plate vertically onto the aforementioned space on top of the two arches
+which is in the fourth column from the right. Place a dark bluish gray 1x1 round plate with a hole in its stud
+onto the front right stud of the main piece.
+Open group 6 which contains the pieces for steps 25-29. The dark orange 1x1 round plates from steps 26
+and 27, the reddish brown 1x1 brick from step 28, and the medium nougat 1x1 plate from step 29 are in a
+separate sub-bag. For step 26 you will need the separate flower plate group 1 bag.
+25. Make a piece. Locate a light bluish gray bar with 1x1 round plate and place a light bluish gray 1x1
+round plate on top of it. Extend the bar of the previous piece with a dark bluish gray candle by inserting
+the bar into the opening of the candle piece. Rotate the piece you just built upright so that the thin side of
+the candle piece is at the bottom and the stud of the 1x1 round plate points to the front. Insert the piece
+like this into the dark bluish gray 1x1 round plate in the front right from the previous step. This is the pole
+of the traffic sign warning about kangaroos.
+26. Place a light bluish gray 1x1 round plate to the left of the previous piece, skipping two columns, so in
+the fourth column from the right. Place a dark orange 1x1 round plate from a separate bag from group 6
+to the left of the previous piece, skipping two columns again, so in the seventh column from the right (Fun
+fact: Since this piece has the same color as the plate below, it is hard to distinguish visually, which is why
+LEGO deliberately draws attention to the piece using a callout - something that’s not necessary in these
+written instructions). Place a light bluish gray 1x1 round plate to the back and to the right of the previous
+piece. Locate two green 1x1 round plates with flower edges from the separate flower plate group 1 bag.
+Place a green flower plate to the right. Place a trans-light blue 1x2 tile horizontally to the back, extending
+to the left, so behind the last two pieces to the left of the arch piece from step 23. Place a green flower
+plate to the back of the left column of the previous piece.
+27. Place a dark bluish gray 1x1 round brick to the left of the previous piece. Place a dark bluish gray 1x1
+round tile on top of the previous piece. Place a medium nougat 1x4 plate horizontally to the left. Place a
+dark orange 1x1 round plate from a separate bag from group 6 to the left.
+28. Locate two medium nougat 1x1 bricks and place one of them onto the left and one of them onto the
+right end of the medium nougat 1x4 plate from the previous step, leaving two free studs in between.
+Locate a reddish brown 1x1 brick from a separate bag from group 6 and apply the sticker number 3 to its
+front side. The sticker shows a wooden texture. Place the brick onto the second stud from the right of the
+same just mentioned medium nougat 1x4 plate from the previous step, sticker pointing to the front.
+29. Locate a medium nougat 1x1 plate from a separate bag from group 6 and put two trans-brown 1x1
+plates on top of it. Place the piece you just built left of the previous piece. All four studs of the medium
+nougat 1x4 plate from step 27 should be covered now.
+Open group 7 which contains the pieces for steps 30-35. For steps 33, 34, and 35 you will need the
+separate flower plate group 1 bag.
+30. Place a medium nougat 1x4 plate horizontally onto the four level studs in the back row from the last
+two steps. The plate should be exactly above the similar plate from step 27. Place a reddish brown 1x2
+tile horizontally to the front, centered horizontally in relation to the previous piece.
+31. Locate two light bluish gray telescopes as well as two dark bluish gray 1x1 slopes. Orient a telescope
+upright with the stud pointing to the top and place one of the slopes onto it, slope to the front. Place the
+piece you just built to the right of the reddish brown 1x2 tile from the previous step. Repeat symmetrically
+to the left. These are the supporting pillars of the shed roof. Place a dark orange 1x1 round plate in front
+of the previous piece.
+32. Locate two dark bluish gray 1x2 hinge bricks as well as two light bluish gray 2x2 hinge plates. Make
+two similar pieces. Orient a hinge brick horizontally so that it is open to the front and clip one of the hinge
+plates onto it, hinge to the back. Place a metallic silver 1x2 grille tile vertically onto the left column of the
+hinge plate. Place another metallic silver 1x2 grille tile vertically to the right. Place the piece you just built
+onto the leftmost studs of the medium nougat 1x4 plate from step 30 in the back row, so that the hinge
+plate extends to the front. Repeat symmetrically to the right. Then, tilt the two pieces you just placed
+downwards, so that they slope forward and touch the two slopes located on the telescopes. You just built
+the aluminum roof of the shed.
+33. Locate four green 1x1 round plates with flower edges from the separate flower plate group 1 bag.
+Place a green flower plate at the back left corner of the main piece. Place a dark bluish gray 2x2 tile
+modified with two studs to the right, extending to the front, with the two studs at the back. Place a dark
+orange 1x1 round plate to the front of the left column of the previous piece. Place a green flower plate in
+the back row, fourth column from the left. Place another green flower plate to the right and to the front of
+the previous piece. Place another green flower plate to the right and to the back of the previous piece.
+The last three flower pieces should frame a free stud in the back row, fifth column from the left.
+34. Locate a light bluish gray 1x2 bracket with two side studs sticking up and place it horizontally onto the
+dark bluish gray 2x2 tile modified with two studs from the previous step, side studs to the front. Insert a
+tan bar with three prongs with the bar end into the flower plate to the right. Insert another tan bar with
+three prongs into the flower plate in the second row from the front, fifth column from the right (which you
+placed much earlier, in step 26). Locate four green 1x1 round plates with flower edges from the separate
+flower plate group 1 bag. Place three green flower plates in the front row, first, third, and sixth column
+from the left. Place another green flower plate in the second row from the front, leftmost column.
+35. Locate three magenta 1x1 round plates with flower edges (Note, that these are not in the separate
+flower plate group 1, but in the bag for group 7, instead!). Place one of each onto a green flower plate on
+the main piece, from the left and from the front: first column and second row, third column and first row,
+fifth column and third row. Locate four tan bars with three prongs as well as four green 1x1 round plates
+with flower edges from the separate flower plate group 1 bag. Make four similar pieces, each by sticking
+one of the green flower plates to the longest one of the prongs of the tan bars (NOT to the bar!). The
+pieces you just built will be inserted into green flower plates on the main piece as you did in the step
+before. Insert one of each into the flower plates in the back row, first column, sixth column, and thirteenth
+column from the left, as well as in the front row, sixth column from the left.
+Open group 8 which contains the pieces for steps 36-44.
+36. Build a sub-piece - the windmill. Locate a light bluish gray 1x1 technic brick with a hole, a light bluish
+gray 1x2 plate modified with long stud receptacle (looks like a 1x2 plate with an elongated triangle on one
+of its long sides, the tip of the triangle being an anti-stud), a light bluish gray bar with a 1x1 round plate,
+and a dark bluish gray engine with 10 blades. Place the technic brick onto the 1x1 round plate of the gray
+bar, bar to the left and brick hole to the front and back. Orient the 1x2 plate modified with long stud
+receptacle upright so that the stud receptacle points to the bottom and the two studs are at the top and
+point to the front. Place it like that onto the top stud of the technic brick. Insert the technic pin of the
+engine with 10 blades from the front into the hole of the technic brick. The windmill is upside down,
+currently, so rotate it right side up, the blades still pointing to the front.
+Connect the windmill to the main piece by placing its bottom from the front to the two side studs sticking
+up of the light bluish gray 1x2 bracket in the back left corner area.
+37. Place a dark bluish gray 1x1 slope on top of a reddish brown 1x1 brick, slope to the back. Apply
+sticker number 4 to the front of the brick. The sticker shows a wooden door with a heart shaped hole in it.
+You just built a small wooden outside toilet. Place it in front and right of the windmill, touching corners,
+and rotate it diagonally so the slope is to the back left and the door points to the front right.
+38. Locate a tan 1x3x3 arch and orient it horizontally, the base of the arch to the left. Place a sand green
+1x3 plate horizontally onto the right two studs of the arch overhanging one stud to the right. This part
+extends the eucalyptus tree in the back right corner. Place the base of the arch onto the leftmost stud of
+the horizontal sand green 1x3 plate that’s currently on top of the eucalyptus tree base, the arch extending
+to the right.
+39. Build another part of the eucalyptus tree in three substeps.
+39.1 Locate a tan 1x3x3 arch and orient it horizontally, the base of the arch to the right. Place a sand
+green 1x3 plate horizontally onto the left two studs of the arch overhanging one stud to the left.
+39.2 Locate a light bluish gray 2x2-1x2 centered bracket and put it onto the two rightmost studs of the
+previous piece, 2x2 anti-studs to the back.
+39.3 Do not place the piece you just built onto the main piece yet, but place the base of the arch onto the
+rightmost stud of a separate horizontal sand green 1x3 plate.
+Place the rightmost stud of the piece you just built to the left of the eucalyptus tree piece you placed in
+step 38, arch extending and plate overhanging to the left.
+40. Locate a tan 1x3x3 arch and orient it vertically, the base of the arch to the back. Place a tan 1x1 plate
+onto the single stud in the back of the arch. Place the piece you just built in front of the base of the arch
+you placed in the previous step, arch extending to the front.
+41. Locate a light bluish gray 1x2 plate and orient it vertically. Place a tan 1x1 plate onto its back stud.
+Place the piece you just built to connect the back stud of the arch from the previous step to the right stud
+of the arch from step 39 which is located behind.
+42. Place a light bluish gray 1x2 plate horizontally in the back row, connecting the 1x1 plate from the
+previous step to the arch to its right.
+43. In this step you’ll connect the base of the postcard (the piece you just built) to the background of the
+postcard that you built earlier. To do so, orient the background so that the row with studs is at the front
+and the plane is in the back left (so rotated by 180° in relation to when you built the background). The
+base of the postcard should be oriented as when you built it, the windmill to the left and the eucalyptus
+tree to the right. Flip the base of the postcard onto its back and place it like that onto the background of
+the postcard, flush at the left, bottom, and right. The two bracket pieces which were built into the
+eucalyptus tree should fit exactly into the two un-tiled 2x2 “holes” in the background of the postcard.
+44. Flip the combined piece right side up, so that the windmill is to the left and the eucalyptus tree is at
+the right. The small flying plane attached to the background of the postcard should be in the top left
+corner. Locate three sand green 1x1 round plant bricks with three leaves each. Place one of them on the
+leftmost stud of the plate that protrudes from the eucalyptus tree to the left at about mid-height. Place
+another one of them on the rightmost stud of the plate that protrudes from the tree to the right slightly
+further up. Place the third one on the right stud of the bracket piece at the top left of the tree.
+Open group 9 which contains the pieces for steps 45-54.
+45. Locate three sand green 1x1 round plant bricks with three leaves each as well as three tan bars with
+three prongs. Stick one of the bars, bar first into the top of each of the round plant bricks. The pieces you
+just built will also be added to the eucalyptus tree. Place one of them to the left of the previous piece,
+skipping one stud, at the very left of the top of the tree. Place another one on the second stud from the
+right at the top of the tree, so in the middle of the sand green 1x3 plate. Place the third one on the
+frontmost stud of the plate that protrudes from the eucalyptus tree to the front at about mid-height.
+Subbuild - Cockatoo (6 steps)
+46. Locate a dark bluish gray 1x1 plate modified with a clip (vertical grip) and orient it so the clip is at the
+left. Place a white 1x1 plate modified with a tooth, tooth to the right, on top of it.
+47. Locate a white 1x1 brick modified with studs on two opposite sides. Place it on top of the previous
+piece, side studs to the front and back.
+48. Locate two white 1x1 plate modifieds with a tooth. These will be the wings of the cockatoo. Place one
+of them from the front to the brick modified from the previous step, tooth pointing down. Place the other
+one from the back to the brick modified from the previous step, tooth pointing right.
+49. Locate a white 1x1-1x1 bracket and place it onto the brick modified from step 47, side stud to the left.
+50. Place a dark bluish gray 1x1 slope from the left to the bracket from the previous step, slope to the
+bottom. Place a white 1x1 plate on top of the bracket from the previous step.
+51. Locate a bright light yellow 1x2 curved slope and orient it so that the slope is left. Place it onto the 1x1
+plate from the previous step, overhanging to the right.
+52. You have finished the cockatoo and will move it onto the eucalyptus tree, next. Place it onto the
+frontmost stud of the arch protruding to the front almost at the top of the tree. The cockatoo should be
+oriented the same as when you built it, with the clip pointing to the left.
+53. Locate a yellow 2x2 tile and apply sticker number 2 to it. The sticker shows a jumping kangaroo and
+together this will be the street sign warning of kangaroos. Flip the tile upright, smooth side to the front and
+rotate it by 45°, so that the corners point to the left, top, right, and bottom. Place it from the front to the
+street sign post at the very front right corner of the base.
+54. Locate a white 2x6 tile and apply sticker number 1 to it. The sticker shows a wooden board with the
+word “AUSTRALIA” in capital letters and dark green eucalyptus leaves at its sides. Place the tile
+horizontally from the front to the six studs in the bottom center of the base of the postcard, overhanging to
+the top.
+Congrats, you have finished building the Australia Postcard.
 Thank you so much for building this set!
-There are three pages of ads after the instructions end.
-The first page has ads for seven Creator 3in1 sets. The first is set number 31137, Adorable Dogs. In the
-picture, three dogs sit in a park. There is a yellow lab, a white poodle, and a brown, black and white
-beagle. The dogs are all built from LEGO bricks and are poseable! There is also a dog bowl, a chew toy,
-a bone, and a ball!
-The second ad is for set number 31139, the Cozy House. The picture shows a white house, with blue
-trim, and a brown roofed sunroom. A family is busy enjoying the yard! A woman is checking the red
-mailbox, which has letters overflowing from the door! A boy is playing with a remote-controlled car, while
-a dog watches from the driveway. A man watches the activities, with his coffee cup in hand. Little details
-are everywhere! A snail climbs the roof. There is a small birdhouse attached to the house. A vine has
-escaped from the sunroom and is climbing up the side of the house!
-The third ad is for set number 31138, the Beach Camper Van. A white, and yellow van with a blue stripe
-on top is parked at a beach! A striped blue and red surfboard leans against the van. There is a luggage
-rack on top of the fan, with a large inflatable duck, and another surfboard. A man and a woman relax on
-reclining beach chairs, eating ice cream and listening to a boombox! Two small huts on the sand are
-shaded by a palm tree.
-The fourth ad is for set number 31136, the Exotic Parrot. The image shows a blue and yellow parrot,
-perched on a branch in the jungle! Pink, purple and white flowers bloom from the branch under the parrot.
-The fifth ad is for set number 31135, the Vintage Motorcycle. The image shows a motorcycle with a light
-blue fuel tank and headlight parked on a road in the desert. The frame of the motorcycle is gray and
-black, and the seat is brown, like old leather.
-The sixth ad is for set number 31134, the Space Shuttle. The image shows the earth from space! Stars
-are in the background. In the foreground, a shuttle floats near a satellite. The shuttle’s underside is black,
-while the upper surfaces are white. It has a rounded nose, a large payload bay, a triangular wing, and a
-vertical tail. Rocket engines can be seen peaking around the back of the shuttle. A red and blue flag is on
-each wing. The satellite is gold, with a silver thruster bank, and transparent blue solar panels.
-The seventh ad is for set number 31140, the Magical Unicorn! The image shows a rainbow floating
-through a starry purple and pink sky. Pink clouds float by. A white unicorn, with a flowing orange and red
-mane rears majestically on a circular, rainbow colored base. The unicorn has a golden horn and a tail in
-various shades of blue. Its front and rear legs are articulated so it can be posed easily!
-The second page has ads for three Creator 3in1 sets. The first is for set number 31142, the Space Roller
-Coaster. The image shows a space themed amusement park ride! A roller coaster wraps around various
-props, including a rocket blasting off, planets, a meteor, and a moon base! The cars for the roller coaster
-are colored like a space shuttle: white on top and black underneath. There is even a miniature space
-shuttle ride for kids too little to ride the roller coaster! There are five minifigures and a baby minifigure in
-an astronaut costume!
-The second ad is a repeat for set number 31136, the Exotic Parrot.
-The third ad is for set number 31141, Main Street! The image shows a busy block, with four building
-fronts. On the viewers left is the white, blue and gold corner building, complete with three stories, third
-story balconies, flags, a roof dome, and a light blue awning. A sign hanging from one wall announces this
-as a hotel! The next building to the right is a music store, with a purple and light blue lower story, a red
-brick second story, and a white and blue upper story. The next building is a single-story, orange and
-yellow record shop! A record logo hangs above the door, and a band is playing music on the roof! The
-next building is a cafe with a red brick lower story, and a light blue upper story. A solar panel sits atop the
-roof, next to a vine growing down the side of the building! There are four minifigures besides the band on
-the record store: the manager of the hotel, with a blue vest and a beard, a little girl with short hair and
-glasses, a man in a yellow wheelchair with a blue shirt, and a man drinking coffee wearing a leather
-apron.
-The third page has ads for three Creator 3in1 sets. The first is set number 31130, Sunken Treasure
-Mission. In the picture, a Giant Pacific Octopus watches as a submersible searches for treasure! The
-octopus has eight poseable legs and is dark red in color. The Submersible is light and dark gray, with
-yellow grappling arms and floats. A hemispherical window allows the submersible driver a great view of
-everything around it! Nearby, a green safe sits with its door cracked open. Gold bars and jewels have
-spilled out onto the seafloor! Danger awaits, however! A skeleton, complete with diving mask and flippers,
-shows that previous expeditions have not managed to recover the treasure unscathed!
-The second ad is for set number 31131, the Downtown Noodle Shop. The picture shows a corner shop
-selling, you guessed it, noodles! A black sign, with a red takeout container emblazoned with a dragon
-makes it clear that noodles are for sale here! The sign is complete with chopsticks! The noodle shop is on
-the first floor of the corner, and a set of stairs go to a second-floor apartment above the shop. A street
-sign indicates that we’re on Creator Street! The owner is walking out of the shop, bringing a bowl of
-noodles, with a pair of chopsticks, to a young female customer who waits outside with her dog. The
-customer has a tricycle ice-cream cart! No space is wasted on this busy street corner. A blue bird sits on
-the roof next to a TV antenna, and a small tree with pink flowers.
-The third ad is for set number 31132, the Viking Ship and the Midgard Serpent. The image shows the
-ocean, with mountains in the background. In the foreground sails a Viking ship! The ship is wooden and
-shaped like a dragon! Its sides are painted blue, with multi-colored shields arranged on the sides of the
-hull. The head and tail are both painted gold! The single, square sail has vertical red and white stripes.
-But this is not a peaceful voyage! There are ravens on the mast, maybe they’re portending doom for the
-ship, because a short distance away, a sea serpent is breaking out of the water! Its mouth is wide open,
-showing fangs and a red tongue! The serpent is enormous, and is teal, blue, and black. The Viking crew
-is not defenseless, as there is a large ballista on deck, firing rocks at the serpent!
+At the end of the instruction booklets there are no advertisements for other sets.
 Visit legofortheblind.com for more accessible instructions and tell your friends about us!

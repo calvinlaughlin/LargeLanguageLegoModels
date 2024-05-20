@@ -1,693 +1,451 @@
-60364 Street Skate Park
-Set adapted by John Le and tested by Natalie Charbonneau
-Kids and skate fans aged 6+ will love this LEGO® City Street Skate Park set (60364). It’s packed with
-inspiration for imaginative play and comes with combinable ramp modules for different park
-configurations. The set also includes a toy BMX bike, skateboard, scooter, in-line skates, 4 skater
-minifigures, and a LEGO Road Plate for connection to other sets from the LEGO City range.
-Skate park playset – Send kids’ imaginations soaring with this LEGO City Street Skate Park (60364), with
-combinable ramp modules for different park configurations.
-What’s in the box? – Everything kids need to build a toy skate park with modular ramps and equipment
-for all kinds of stunts, plus a BMX bike, skateboard, scooter, in-line skates, and 4 minifigures.
-Dimensions – In its standard configuration, the toy skatepark set measures over 7.5 in. (19 cm) high, 17.5
-in. (44 cm) wide and 10 in. (25 cm) deep.
-LEGO minifigure accessories – Includes a toy bike, skateboard, in-line skates, scooter, and a cell phone.
-The front of the box shows the skatepark underneath a highway. The skatepark is equipped with 5
-different sets of ramps, railings, platforms, and even a basketball hoop for your skaters to play! One of the
-skaters just flew off the ramp on his bicycle. Another is riding down a steep ramp with his rollerskates.
-One just went up the ramp with their scooter and looks like they are flying! One is at the top of the ramp
-about to dunk on the hoop with their skateboard in their other hand! Underneath one of the ramps, there
-is a room for skaters to relax. Lastly, there is also a boombox with a phone that is playing music for the
-skaters to jam to!
-The back of the box shows the entire skatepark and how each ramp, stair piece, platform, and railing, are
-all removable. You can change the skatepark to how you like! The next picture shows an alternate build
-for the skatepark that changes the position of all the pieces. The big picture on the bottom shows a skater
-on his roller-skates going down a huge ramp. Underneath him, there are 2 other skaters relaxing, drinking
-soda, and jamming to music. The last skater is on his bicycle ready to ride across the railing. Hope he can
-keep his balance! The back of the box also has 3 smaller pictures of the skaters showing them doing
-tricks on the ramps and railings.
-The top of the box shows all 4 skaters having a good time drinking soda, jamming to music, and dancing.
-The build is 454 pieces in total, 169 pages/steps long, and is for ages 6+.
+42147 Dump Truck
+Set adapted by Alex Charbonneau and tested by Natalie Charbonneau.
+Looking for a treat for construction site fans? Kids aged 7 and up will love building and playing with this
+LEGO® Technic™ Dump Truck (42147) toy set. It’s a great introduction to the world of LEGO Technic
+and helps young builders learn new engineering skills. And with the LEGO Builder app, kids gain
+confidence as they build.
+Construction role play
+- Kids will love steering the toy Dump Truck around their make-believe construction site before lifting the
+tipper to drop off their load. Then, when they’re ready for something new, they can rebuild the model to
+create an Excavator Toy for more role-play adventures.
+Measurements
+- This LEGO® Technic™ building set measures over 3 in. (8 cm) high, 5.5 in. (15 cm) long and 2 in. (5
+cm) wide
+An introduction to engineering
+- LEGO® Technic™ buildable model sets feature realistic movement and mechanisms that introduce
+young LEGO builders to the universe of engineering
+The front of the box shows a yellow and blue dump truck backed up to a sand dune. Its bed is fully tilted
+upwards, indicating it has just unloaded a bunch of sand. In the background is a blue sky with clouds. A
+treeline can be seen over the top of the sand dunes.
+The left and right sides of the box show a side view of the dump truck, with its bed fully tilted upwards.
+The top of the box shows a life-size picture of a wheel from the dump truck to give a sense of scale.
+The back of the box shows an excavator on a gray background. The excavator has a large boom which
+extends from its yellow body. It has four wheels mounted on a chassis. At the end of its boom is a large
+claw for digging in the dirt! The boom is hinged in multiple locations, and it can swivel on the wheeled
+base to allow the operator to dig almost anywhere! The excavator is the alternate build for the dump
+truck. An inset view shows the dump truck, with an arrow pointing to a small picture of the excavator,
+indicating the dump truck can be rebuilt into the excavator.
+The build is 177 pieces, and the main build is 90 building steps. The alternate build is 73 building steps.
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
-terms we may be using:
-- Front: towards you.
-- Back: away from you.
+terms we’ll be using:
+- In Front of/Front: towards you.
+- Behind/Back: away from you.
 - Up: towards the ceiling.
 - Down: towards the floor.
-- Stud: the bump on a Lego brick. Example: A 2x1 brick has 2 studs on it.
-- Gap: part lower than the surrounding area.
+- Stud: the bump on a LEGO brick. Example: A 2x1 brick has two studs on it.
 - Vertically: going from front to behind.
 - Horizontally: going from left to right.
 - Upright: pointing up towards the ceiling.
-- Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic connector on the front
-wall at the right, connector to the front, and then place another such piece symmetrically on the back wall,
-at the right, the technic connector of the second piece should point to the back, since it will be placed
+- That one/ppp: previously placed piece.
+- Plate: piece with studs.
+- Tile: smooth piece without studs (unless otherwise specified)
+- Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic connector on the front wall
+at the right, connector to the front, and then place another such piece symmetrically on the back wall, at
+the right, the technic connector of the second piece should point to the back, since it will be placed
 symmetrically.
-- Centered vertically: even amount of space in front of and back of the piece
-- Centered horizontally: even amount of space left and right of the piece.
-
+- Centered-vertically: even amount of space in front of and behind piece
+- Centered-horizontally: even amount of space to the left and right of piece. 
+- Row: studs lined up from left to right.
+- Column: studs lined up from top to bottom.
 For builders with low vision, or a sighted building partner may want to follow along with the printed visual
-instructions that come with each kit, or PDF versions are always online at LEGO.com for each set:
-(https://www.lego.com/en-us/service/buildinginstructions/60364) As low vision users may benefit from
-viewing the instructions on a personal device where they can zoom in on content and use assistive
+instructions that come with each kit or PDF versions are always online at LEGO.com:
+(https://www.lego.com/en-us/service/buildinginstructions/42147) As low vision users may benefit
+from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
 Sorting the pieces:
-
-To begin a successful build, it helps to sort the pieces into groups, bags, or small containers. Have a
+To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
 should be sorted according to the building steps in the kit. Doing this in advance makes locating the
 pieces for each step easier. See below on how to sort the pieces to correspond to the steps in this set.
-Number the containers using letters A-Z, numbers, or meaningful names. The parts will be sorted into one
+Number the containers using letters A-Z, numbers or meaningful names. The parts will be sorted into one
 or a small number of steps in the instructions. Example: Steps 1-3 means collect all the parts used in
-steps 1,2 and 3, and put them in one container.
-This LEGO set comes with 5 bags labeled 1 through 5, 3 sets of instructions, a sticker sheet, and an
-unlabeled bag with big/unique pieces. There are 5 instructions to place a sticker on page 57 of book 1,
-and then 28, 42, 50, and 61 of book 2 If you want to use the sticker for the build, it should be put on as
-you or your helper sort the pieces! Sort the pieces into groups or piles as described below. Note that
-where there are multiple colors of the same brick in a step, the colors will be split into 2 groups to make
-telling the difference easier for the builder! Lego includes a few spare parts in case you lose something.
-Set these into their own group away from the rest, in case you need them later.
-Note: I will identify steps by page numbers according to the instruction booklets.
-Pages for bags 1 and 2 correspond to book 1.
-Bag 1 of 5 (4 groups/piles):
-Group 1 has the pieces for pages 5-6. (Skater Minifigure and Scooter)
-Group 2 has the pieces for pages 7-29 and also a light grey 8x16 plate with 6 gaps on the sides from the
-unlabeled bag. (Skater Room)
-Group 3 has the pieces for pages 30-38 and a dark grey 8x16 smooth plate with 6 gaps on the sides and
-1 gap in the middle from the unlabeled bag. (Road and Platform)
-Group 4 has the pieces for pages 39-40. (Platform)
-Bag 2 of 5 (7 groups/piles):
-Group 5 has the pieces for pages 42-43. (Skater Minifigure and Skateboard)
-Group 6 has the pieces for pages 44-45 and 1 light grey 1x8 plate from page 47. (Ramp)
-Group 7 has the pieces for pages 46, 48-58, and 1 orange 1x8 plate from page 47. (Ramp)
-Group 8 has the pieces for pages 59-60 and 1 light grey 1x8 plate from page 61. (Second Ramp)
-Group 9 has the pieces for pages 62-66 and 2 orange 1x8 plates from page 61. (Second Ramp)
-Group 10 has the pieces for page 67. (Third Ramp)
-Group 11 has the pieces for pages 68-75 and a large orange ramp with a 1x6 plate overhang from the
-unlabeled bag. (Third Ramp)
-Pages for bags 3 and 4 correspond to book 2.
-Bag 3 of 5 (3 groups/piles):
-Group 12 has the pieces for page 3. (Skater Minifigure and Rollerskates)
-Group 13 has the pieces for pages 4-17 and a bright green 8x8 plate with 4 gaps on the sides from the
-unlabeled bag. (Platform with railing)
-Group 14 has the pieces for pages 18-32. (Down railing)
-Bag 4 of 5 ( groups/piles):
-Group 15 has the pieces for pages 34-35. (Biker Minifigure and Bicycle)
-Group 16 has the pieces for pages 36-44. (Staircase and Spray paint)
-Group 17 has the pieces for pages 45-46. (Ramp)
-Group 18 has the pieces for pages 47-54 and 1 large orange ramp with a 1x6 plate overhang from the
-unlabeled bag. (Ramp)
-Group 19 has the pieces for pages 55-58. (Steep Ramp)
-Group 20 has the pieces for pages 59-63. (Steep Ramp and Boombox)
-Pages for bag 5 correspond to book 3.
-Bag 5 of 5 (5 groups/piles):
-Group 20 has the pieces for pages 3-16 and 1 large bright green 8x16 plate with 6 gaps on the sides from
-the unlabeled bag. (Platform)
-Group 21 has the pieces for pages 17-18 and 1 light grey 2x2 triangular tile from page 19. (Grind Pipe)
-Group 22 has the pieces for the rest of page 19 and the pieces for page 20. (Grind Pipe)
-Group 23 has the pieces for pages 21-22 and 1 tall tan 1x3 slope brick from page 24. (Grind Pipe)
-Group 24 has the pieces for page 23, the rest of the pieces from page 24, page 25, and 1 dark grey 2x2
-triangular tile from page 26. (Ramp Platform)
-Group 25 has the pieces for the rest of page 26. (Ramp Platform)
-Let’s get to building!
-Building Instructions (Bag 1, Book 1):
-Group 1 — Skater Minifigure and Scooter
-5. Assemble the girl skater minifigure using the ripped jeans printed dark grey legs, pink hoodie printed
-torso, head, and brown hair. You also have a light blue helmet to put on her when she goes on her
-scooter! Safety first! 
-6. Locate the yellow scooter frame and 2 wheels. With the scooter vertical, snap in the wheels to the front
-and back ends. Then locate a dark grey dual clip piece and handlebars. Make the scooter frame
-horizontal so that the studded side is on the left. Then snap the dual clip piece into the right side so that
-the curve of the piece goes down from left to right. Then snap the bottom of the handlebars into the top of
-this piece.
-Group 2 — Skater Room
-7 Locate 1 light grey 8x16 plate and 1 dark grey 1x4 brick with holes in the side. Horizontally place the
-plate in front of you, then vertically place the 1x4 brick in the gap on the right side.
-8. Locate 1 dark grey 4x8 ramp with a 1x4 part sticking out, and 1 tan 1x4 plate. Horizontally place the tan
-plate in the back gap that is located to the right. Then horizontally place the 1x4 part of the ramp in the
-back gap that is on the left.
-9. Locate 1 light blue 2x2 brick and 1 light blue 1x4 plate with a curve overhang. Place the 2x2 brick in the
-back right corner. Then right in front of this, vertically place the 1x4 plate with a curve overhang so that
-the plate part sits on the 1x4 brick with holes and the curve is facing the left.
-10. Locate 2 dark grey 1x6 plates and 1 white 1x1 plate. Vertically place the 1x6 plate to the left of the
-previously placed piece in step 9. Both the front and back ends of this piece should align with the last 2
-pieces placed. To the left of this 1x6 plate, place the 1x1 plate immediately to the left of the 1x6 plate,
-even with its frontmost stud. Then to the left of this 1x1, vertically place your other 1x6 so the front of this
-piece aligns with the front of the 1x1 placed.
-11. Locate 3 red 2x3 plates. Horizontally place them, 1 in front of the other, so that it covers all studs from
-the pieces placed in step 10.
-12. Locate 3 red 1x2 curve bricks. Vertically place these on top of the right side of the 2x3s you placed in
-step 11 so that the curve goes down from right to left. You just made a couch!
-13. Locate 2 more 1x4 bricks with holes. Vertically place 1 in the gap on the left side. Horizontally place
-the other 1 in the front gap that is located on the right. Then locate 1 light blue 2x2 brick and place it in the
-front right corner of the build.
-14. Locate 1 light blue 1x4 plate with a curve overhang, and 1 light grey 1x2 grill tile. Horizontally place
-the 1x4 plate on top of the 1x4 brick with holes you just placed in the front gap so that the curve is facing
-back. Locate the stud that is to the left of the 1x4 brick with holes. Skip this stud and vertically place the
-1x2 grill tile behind it.
-15. Locate 1 dark tan 2x4 plate and 2 brown 1x2 bricks with log profiles. Make a table using these pieces
-by holding the 2x4 plate horizontally and vertically attaching both bricks to the left and right bottom side of
-the plate. Then vertically place this table behind the grill tile so that the right side of the table aligns with
-the tile.
-16. Locate 1 trans-yellow cylinder brick and 1 grey soda cap printed circular tile. Place this tile on top of
-the cylinder. Then place the soda on top of the table on the right side and on the second stud from the
-front.
-17. Locate 1 light blue 1x2 brick. Horizontally place this to the left of the 1x4 brick with holes in the front.
-18. Locate 2 more light blue 1x2 bricks and 1 light blue 1x4 plate with a curve overhang. Vertically place
-the 1x2 bricks in front and behind the 1x4 brick with holes that is in the left side gap. Then on top of this
-1x4 brick with holes, vertically place the 1x4 plate part of the curve overhang plate. The curve part should
-sit to the right of this brick.
-19. Locate 2 tall teal 1x1 bricks. Place these in the back left and right corners of the build.
-20. Locate 2 more tall teal 1x1 bricks and 2 tall teal 1x6 panels. Place the 2 tall 1x1 bricks in the front left
-and right corners of the build. Then symmetrically and vertically place the tall 1x6 panels in the left and
-right gaps made by the tall 1x1 bricks. Ensure that the inner space of the panel is facing inwards.
-21. Locate 1 teal 1x16 brick and 2 teal 1x6 bricks. Horizontally place the 1x16 brick in the back on top of
-the 2 tall 1x1 bricks. Then on top of the 2 panels, you placed in step 20, symmetrically and vertically place
-the 1x6 bricks. These bricks should only be on top of the panels.
-22. Locate 1 light green 1x6x5 frame with a cross and 1 tall teal 1x1 brick. To the left of the tall 1x1 brick
-located in the front right corner, horizontally place your frame. Make sure that the hollow sides of the
-frame are facing back. The sides facing you should be smooth. Then to the left of this frame, place your
-tall 1x1 brick.
-23. Locate another teal 1x16 brick. Horizontally place this in the front so that the ends of this brick sit on
-top of the 2 tall 1x1 bricks in the front left and right corners.
-24. Locate 4 light green 3x3 triangular plates. Symmetrically place each of the triangular plates in each
-corner on top of the previously placed bricks. Make sure that the right corners of these triangular plates
-align with the corners of the build.
-25 Locate 2 light green 1x10 plates and 2 light green 1x2 plates. Horizontally and symmetrically place the
-1x10 plates in the front and right gaps made by the triangular plates. Then vertically and symmetrically
-place the 1x2 plates in the left and right gaps made by the triangular plates.
-26. Locate 2 light grey 2x2 corner tiles and 1 light grey 1x4 tile with 2 studs, 1 on each end. Symmetrically
-place the corner tiles in the back right and front right corners so that the corner of each piece aligns with
-the corners of the build. Then vertically place your 1x4 tile in the gap created by both of the corner tiles.
-27. Locate 4 light grey grill tiles. Symmetrically and horizontally place 2 to the left of each of the corner
-tiles.
-28. Locate 2 more light grey 1x4 tiles with 2 studs. Horizontally and symmetrically place these to the left
-of the grill tiles. Locate 4 more light grey grill tiles. Symmetrically and horizontally place 2 to the left of
-each of the 1x4 tiles that were just placed.
-29. Repeat step 26 but now use the back left and front left corners.
-Group 3 — Road and Platform
-30. Put your build aside for now then locate 1 dark grey 8x16 smooth plate with 6 1x4 stud gaps on the
-sides and 1 2x4 stud gap in the middle. Locate 1 dark grey 2x4 tile. Horizontally place the 8x16 smooth
-plate in front of you, then vertically place the 2x4 tile in the left side gap so it overhangs.
-31. Locate 4 dark grey 1x4 tiles. Horizontally place these in the 4 gaps located in the front and back.
-32. Locate 2 dark grey 1x2 tiles and 1 light green 2x2 plate. Horizontally and symmetrically place the 1x2
-tiles in the front and back of the middle stud gap. Then between these tiles, place the 2x2 plate.
-33. This step shows how the pieces placed in the middle gap can be pushed out by inserting the ends of
-a handlebars piece into the bottom side of the smooth plate.
-34. Locate 1 dark grey 4x8 ramp with a 1x4 part that overhangs. Vertically place the part that overhangs
-into the right stud gap.
-35. Bring back your main build now. Ensure that it is still horizontal to you with the ramp part facing back.
-Then using the overhang of the 2x4 tile on the left side, attach it to your previous build in the front 1x4 gap
-that is to the left.
-36. Put your main build aside for now because it is time to make a platform for your skaters! Locate 1
-dark tan 2x4 plate and 1 light tan 4x4 plate. Place the 4x4 plate on top of the horizontal 2x4 plate so that
-there is a 1x4 overhang in the front and back.
-37. Locate 2 teal 4x6 slope pieces. Place the right side of the build you just made in step 36 into the gap
-of the 4x6 slope. Then insert the left side of this build into the gap of the 4x6 slope.
-38. Ensure that the sub-build is horizontal in front of you so that the longer slopes are located on the left
-and right. Locate 2 white 1x1 plates and 1 black 1x2 brick. Symmetrically place the white 1x1 plates in the
-back left and back right corners of the build. Then between these 1x1 plates, horizontally place your 1x2
-brick.
-Group 4 — Platform
-39. Locate 3 teal 1x4 tiles and 2 light green 1x2 slopes with a 1x1 overhang. Horizontally place the 1x4
-tiles, 1 in front of the other, in front of the previously placed pieces from the last step. Then symmetrically
-and horizontally place the flat overhang part of the slopes on top of the black 1x2 brick so that the angled
-parts overhang and snap into place with the white 1x1 plates. The slope on the left should go down from
-right to left, and the 1 on the right should go down from left to right.
-40. Bring back your main build now. Ensure that it is facing the correct way by making sure that the
-structure is horizontal and that the 8x16 smooth plate is in the front. Then in your hand, make the subbuild vertical so that the slopes you just placed in step 39 are on the left. Then place the middle of the
-bottom onto the 2x2 light green plate located in the middle of the 8x16 smooth plate.
-40.1 You can test that the platform is in the right place by lifting the entire 8x16 smooth plate up so the
-2x4 dark grey tile at the back snaps off. Keep the 8x16 smooth plate in front of you, then take the 2x4 tile
-in hand and vertically place it behind the slope of the platform you made. Ensure that the back of this tile
-aligns with the back of the 8x16 smooth plate. Also, make sure there's a 1x1 area free to the left and right
-of the slope. After you checked that it is correct, you can put the build back together by horizontally 
-placing the 2x4 tile to the back gap of the smooth plate. Then place the overhang part back into the main
-build in the same front gap to the left.
-Building Instructions (Bag 2, Book 1):
-Group 5 — Skater Minifigure and Skateboard
-42. Build the skater minifigure by attaching the legs with a prosthetic, teal jacket over purple shirt printed
-torso, female head, and black hair. Put the orange ball in her hand. You are also given an orange helmet
-for when she goes on her skateboard!
-43. Locate 1 purple skateboard frame and 2 black weights. These weights represent the wheels of the
-skateboard. Holding the skateboard so it is vertical to you, attach the wheels to the back and front
-underside of the skateboard. Make sure it snaps in. Then place your skater on top of the skateboard.
-Don’t forget her helmet!
-Group 6 — Ramp
-44. Now time to build the ramp! Locate 1 light grey 2x8 plate.
-45. Locate 2 light grey 1x2 bricks, 1 dark grey 1x4 brick with holes, and 1 light grey 1x8 plate. Place the
-2x8 plate from step 44 horizontally in front of you then horizontally place the 2 1x2 bricks in the back left
-and right corners. Then in the 4 stud gap created by the 2 bricks, horizontally place the 1x4 brick with
-holes. Then on top of all these bricks, horizontally place your 1x8 plate so there is no overhang.
-Note: There is an extra light grey 1x8 plate in this group that will be used in step 47.
-Group 7 — Ramp
-46. Locate 1 orange 1x8 plate. Horizontally place this on top of the 1x8 plate you just placed so there is
-no overhang.
-47. Locate 1 light grey 1x8 plate from group 6. Horizontally place this in front of all the previously placed
-pieces on top of the 2x8 plate.
-47.1 Locate 1 orange 1x8 plate. Horizontally place this on top of the previously placed plate so that there
-is no overhang.
-48. Locate 8 large orange slope pieces. Vertically place all of these next to each other from left to right so
-that the higher back part of these slopes aligns with the back of the build. The slopes should all go down
-from back to front and there should be no overhang in the back.
-49. Locate 2 orange 1x2 bricks and 1 orange 1x4 brick. On top of the slopes, horizontally place the 1x2
-bricks on the left and the right. Then in the 4 stud gap, horizontally place the orange 1x4 brick. There
-should be no overhang.
-49.1. Locate 1 black 1x4 plate and 1 black 1x4 half-circle-shaped tile. Then on top of the previously
-placed bricks, horizontally place the 1x4 plate on the left and the 1x4 half-circle-shaped tile on the right.
-There should be no overhang. 
-50. Locate 2 black 1x2 triangular bars. Horizontally place both of these on top of the previously placed
-1x4 plate from the last step so that the flat side is facing you.
-51. Locate 1 orange 2x8 plate and 1 orange 2x4 tile. Place the 2x8 plate horizontally in front of the build
-and align the left and right sides of it to the build. Then vertically place the 2x4 tile on the left side so that
-there is a 1x2 overhang in the front.
-52. Locate 1 orange 1x8 plate. Horizontally place this plate under the overhang so that the overhang sits
-on top of the left 2 studs of the plate.
-53. Locate 3 orange 2x4 tiles. Vertically place these next to each other from the left to the right so that
-they cover all the studs.
-54. Put your ramp build aside. Locate 1 light grey technic piece that has 2 pegs sticking out 1 side and 2
-holes on top. Place this piece horizontally in front of you so that the pegs are pointing back.
-54.1. Then locate 1 black technic piece with 2 pegs on the bottom and 1 middle hole on the top.
-Horizontally insert these pegs into the holes on the light grey technic piece.
-54.2. Then locate 1 short red peg and 1 light green 1x1 round plate. Insert the longer side of the red peg
-into the middle hole of the black technic piece. Then place the 1x1 circular plate on top of the short red
-peg.
-55. Bring your ramp build back and orient it so that the wall side is facing you. Insert the 2 side pegs of
-what you just made into the left and right holes from the 1x4 brick located in the bottom middle.
-56. We will be making a basketball hoop now! Locate a long pole with a 1x2 plate attached at one side
-and a 1x1 stud plate on the other side, 1 red 1x2 plate with a clip on top, and 1 light grey 2x3 plate with a
-1 stud gap. Horizontally set down your long pole so that the 1x2 plate is on the right. Then horizontally
-place your 1x2 plate on the left stud of the pole so that the clip side overhangs. Then vertically place your
-2x3 plate to the right of this plate so that it rests in the gap.
-57. Locate a black ring and a white 2x3 tile. Attach the ring to the clip from the red 1x2 plate. You just put
-the hoop on!
-57.1. (SKIP THIS STEP IF STICKERS WERE PRE-PLACED BY A HELPER BEFOREHAND) If you or
-someone else hasn’t already, locate the rectangular white 2x3 basketball backboard sticker (sticker #5)
-and place it onto the white 2x3 tile from step 57.
-57.2. Then vertically place your white 2x3 tile with a sticker onto the 2x3 stud area to the right of the hoop.
-To make sure it is placed correctly, ask someone if the small rectangle is to the left, or closest to the
-hoop.
-57.3. Now bring back your ramp build with the wall side facing you. Insert the left side of the pole into the
-green 1x1 stud plate located in front of the wall. Make sure the hoop is facing back and parallel to the
-table/floor. You just added a basketball hoop for your skaters to enjoy!
-58. Bring back your main build now and make sure the structure is horizontal so that the 8x16 smooth
-plate is in the front left. Place the ramp build on the right side of the skater room so that the ramp goes
-down from right to left. There should be no overhang when placed.
-Group 8 — Second Ramp
-59-60. Put your main build aside for now. It is time to build the other side of the ramp! Locate 1 light grey
-2x8 plate, 2 light grey 1x2 bricks, 1 dark grey 1x4 brick with holes, and 1 light grey 1x8 plate. Place the
-2x8 plate horizontally in front of you then horizontally place the 2 1x2 bricks in the back left and right
-corners. Then in the 4 stud gap created by the 2 bricks, horizontally place the 1x4 brick with holes. Then
-on top of all these bricks, horizontally place your 1x8 plate so there is no overhang. Note that you will
-have an extra light grey 1x8 plate that will be used later.
-Group 9 — Second Ramp
-61. Locate 1 orange 1x8 plate. Horizontally place this on top of the 1x8 plate you just placed so there is
-no overhang.
-61.1. Locate 1 light grey 1x8 plate from group 8. Horizontally place this in front of all the previously
-placed pieces on top of the 2x8 plate.
-61.2. Locate 1 orange 1x8 plate. Horizontally place this on top of the previously placed plate so that there
-is no overhang.
-62. Locate 8 large orange slope pieces. Vertically place all of these next to each other from left to right so
-that the higher back part of these slopes aligns with the back of the build. The slopes should all go down
-from back to front and there should be no overhang in the back.
-63. Locate 2 orange 1x2 bricks and 1 orange 1x4 brick. On top of the slopes, horizontally place the 1x2
-bricks on the left and the right. Then in the 4 stud gap, horizontally place the orange 1x4 brick. There
-should be no overhang.
-63.1 Locate 2 black 1x4 half-circle-shaped tiles. On top of the previously placed bricks, horizontally place
-them so they cover all the studs.
-64. Locate 1 orange 2x8 plate and 1 orange 2x4 tile. Place the 2x8 plate horizontally in front of the build
-and align the left and right sides of it to the build. Then vertically place the 2x4 tile on the left side so that
-there is a 1x2 overhang in the front.
-65. Locate 1 orange 1x8 plate. Horizontally place this plate under the overhang so that the overhang sits
-on top of the left 2 studs of the plate.
-65.1. Locate 3 orange 2x4 tiles. Vertically place these next to each other from the left to the right so that
-they cover all the studs.
-66. Bring back your main build now, ensuring that the structure is horizontal to you and that the ramp with
-the basketball hoop is still on the back right. Place this new ramp to the left of the other ramp so that it
-goes down from left to right. Then put your main build aside again.
-Group 10 — Third Ramp
-67. Locate 1 light grey 2x8 plate, 1 white 1x6 plate, and 2 dark grey tiles. Place down your 2x8 plate
-horizontally, then vertically place the 2 tiles on the left and right sides. Then horizontally place your 1x6
-plate in the back studs.
-Group 11 — Third Ramp
-68. Locate 1 light blue 1x6 plate. Horizontally place this on top of the white 1x6 plate so it doesn’t
-overhang and touch the tiles.
-69. Locate 1 large orange ramp piece with a 1x6 stud overhang in the back. With the 1x6 stud overhang
-of the ramp facing front, place it on top of the light blue 1x6 plate so the ramp is behind and goes down
-from front to back.
-69.1 Locate 2 red 1x2 bricks with 1 peg on the side and 2 white 1x1 bricks. Symmetrically place the 1x1
-bricks in the front on top of the light grey plate on the left and right. Then in the 4 stud gap created by the
-1x1 bricks, horizontally place your 2 red 1x2 bricks so that the pegs are pointing front.
-70. Locate 1 tan 2x6 brick. Horizontally place this on top of the 2x6 studded area so that there is no
-overhang.
-71. Locate 2 blue 1x2 bricks with 2 side studs and 1 white 2x4 brick. Vertically place the 2 blue 1x2 bricks
-on top of the tan 2x6 brick on the left and right so that the side studs are pointing outwards. Then in the
-2x4 gap created by the blue bricks, horizontally place your white 2x4 brick.
-72. Locate 2 red 2x3 plates and 2 light grey 2x3 tiles. Place each tile on top of each plate so that there is
-no overhang. Then symmetrically and vertically place these on the side studs located on the left and right,
-so that the short side of the 2x3 aligns with the top.
-73. Locate 1 light grey 2x8 plate. Horizontally place this on top of the 2x6 stud area so that there is a 1x2
-stud overhang on the left and right. Then locate 4 dark grey 1x4 tiles with 2 studs, 1 on each side.
-Horizontally place all of these on top of the previously placed 2x8 plate so that they cover all of its studs.
-74. Turn your build around 180 degrees so the ramp goes down towards you now. Locate a shorter
-orange ramp piece with a 2x6 stud plate. Lift up the front of the big ramp and horizontally place the 2x6
-stud plate of the smaller ramp under it and attach the studs. Ensure that the sides of the smaller ramp
-align with the sides of the bigger ramp.
-75. Congratulations you have finished the ramp for your skaters to ride on! Put aside your main build and
-ramp for now and continue building!
-Building Instructions (Bag 3, Book 2):
-Group 12 — Skater Minifigure and Rollerskates
-3. Assemble the skater using the black legs, white sweater with CITY logo printed torso, male head, and
-black hair. Put his 1x2 cellphone in his hand! Then put on his golden rollerskates and don’t forget his light
-blue helmet!
-Group 13 — Platform with railing
-4. Locate 1 bright green 8x8 plate with 4 gaps, 1 on each side.
-5. Locate 4 dark grey 1x4 bricks with holes in the side, and 4 light grey 2x2 corner bricks. Place each of
-the 1x4 bricks with holes in each of the gaps. Then in each corner, symmetrically place your 2x2 corner
-bricks so that the corners of the bricks align with the corners of the plate. The sides of each corner brick
-should align with the 1x4 bricks you previously placed.
-6. Locate 4 light grey 1x4 tiles with 2 studs, 1 on each side. Place these on top of each of the 1x4 bricks
-with holes so that they cover all of the bricks’ studs.
-7. Locate 4 light grey 1x4 bricks with masonry. On one long side, it has stonework that represents bricks,
-and the other long side just has a horizontal line through it. Vertically and symmetrically place these on
-the left and right sides so that there is no overhang and that the side with 1 line through it faces inwards.
-Then locate 2 light grey 1x6 bricks. Horizontally place these in the front and back gaps created by the
-previously placed bricks.
-8. Locate 4 light green 3x3 triangular plates. Symmetrically place these in each corner so that corner
-created by the 2 long sides of the triangular plate aligns with the corners on the build. Doing this should
-create 4 1x2 stud gaps on each side.
-9. Locate 4 light green 1x2 plates. Place these in each of the gaps created by the previously placed
-triangular plates.
-10. Locate 4 light grey 2x2 corner tiles and 2 light grey 1x4 tiles with 2 studs, 1 on each side.
-Symmetrically place each of the corner tiles in the corner so that the long sides of these tiles align with
-the sides of the build. Doing this should create 4 1x4 stud gaps, 1 on each side. Then vertically place the
-1x4 tiles in the left and right gaps.
-11. Locate 4 light grey 1x2 grill tiles. Horizontally place these in the front and back gaps so that they cover
-all the studs. Then put this sub-build aside for now while we build the platform with a curved railing!
-12. Locate 1 light grey 8x8 plate and place it down in front of you.
-13. Note: Rows are counted from front to back. Columns are counted from left to right. Locate 1 light
-green 2x2 plate, 6 dark grey 1x2 tiles, and 1 dark grey 2x4 tile. Place the light green 2x2 plate in the
-middle of the 8x8 plate. The front left corner of the light green 2x2 plate should be placed in the fourth
-column and fourth row of the 8x8 plate.
-13.1 Then on the left and right of the 2x2 plate, vertically place 2 of the 1x2 tiles. Then on the front and
-back of the 2x2 plate, horizontally place the remaining 4 dark grey 1x2 tiles so that together, they create a
-square around the 2x2 plate. Then to the left of this square, vertically place your 2x4 tile so that there is a
-2x2 studded area in the front and back of it.
-14. Locate 5 dark grey 2x4 tiles. Horizontally place 2 in the back and 2 in the front. Then vertically place 1
-on the right. Together they should cover the rest of the studs from the 8x8 plate. The only studded area
-left on this build should be the 2x2 area in the middle. 
-15. Bring back your sub-build now. Then place the build you just made on top of the sub-build so that all
-sides align and there is no overhang.
-16. Now we will build the curved railing for your skaters to grind on. Locate 2 large black curved plates.
-Place them on top of each other so there is no overhang. Then locate 1 large light green curved tile.
-Place this on top so there is no overhang and there is a stud free on both sides of the black curved plates.
-Then locate 2 light green 1x2 slope tiles. Orient your railing so that there is a stud facing the front and a
-stud facing the left. Then vertically place the flat part of your slope tile in the front stud so that the slope
-part overhangs. Then horizontally place the flat part of your slope tile in the left stud so that the slope part
-overhangs and goes down from right to left.
-17. Bring back your sub-build now oriented the same way. To check, feel the left and right sides for the
-brick masonry. Then hold your curved railing with the slopes facing front and left, and place the middle in
-the back right stud of the 2x2 plate. Make sure it doesn’t overhang and that the slopes align with the front
-and left sides. Congratulations, you finished the platform with a curved railing for your skaters to ride on!
-Group 14 — (Down railing)
-18. Put your curved railing platform aside for now. Locate 1 bright green 4x8 plate.
-19. Locate 1 light grey 1x2 brick with masonry. Place your 4x8 plate horizontally in front of you, then
-horizontally place your brick in the back left corner so that there is no overhang and that the side with 1
-line through it is facing back. Then locate 2 red 1x2 bricks with 1 peg on the side. Horizontally place these
-next to each other to the right of the brick you just placed. Make sure that the pegs are facing back.
-20. Locate 1 light grey 1x6 brick. Horizontally place this on top of all the previously placed bricks so that
-there is no overhang.
-21. Locate 1 tall light grey 2x2 slope brick. With the slope side facing front, place it on the left side making
-sure there is a 1x2 studded area free in front of it. Then locate 1 dark green 1x3 tile and 2 dark tan 1x2
-plates. Vertically place the 1x3 tile to the right of the slope brick you just placed. Then in the corner
-created by the bricks in the back and the tile you just placed, vertically place 1 of your dark tan 1x2 plates.
-Then to the right of this plate, horizontally place your other 1x2 plate so that it is touching the brick in the
-back.
-22. Locate 1 dark grey 2x2 triangular plate and 1 light green 1x1 circular plate. On top of the 1x6 light
-grey brick behind the slope brick, place the 1x1 circular plate on the third stud from the left. Then using
-the stud in the corner created by the 2 longer sides of the triangular plate, place it to the left of the 1x1
-circular plate. Make sure that this plate does not overhang and you should feel half a stud free under this
-triangular plate in the front left of this piece.
-23. Locate 1 light grey 1x2 brick with masonry. Vertically place it on top of the vertically placed tan 1x2
-plate placed in step 21 so that the side with 1 line is facing left. Then place this aside for now.
-24. We will be making the slope railing now! Locate 1 black 1x4 brick with holes in the side, 1 black peg, 2
-light green 1x2 slope tiles, and 1 light green 1x2 tile. Place down your 1x4 brick horizontally and insert the
-peg into the front middle hole. Then horizontally place the green 1x2 tile on top and in the middle of the
-brick. Then horizontally and symmetrically place your flat part of the slope tiles on the left and right studs
-so that the slope parts overhang on the left and right of the brick.
-25. Locate 1 light grey 1x2 plate with a hole on top, and 1 light green 1x1 circular plate. Place the 1x1
-circular plate on the singular stud on the 1x2 plate. Then orient your 1x2 plate with a hole so that it is
-horizontal and the hole part is on the left. Then insert the hole part into the peg that is on the 1x4 brick
-with holes.
-25.1. Bring back your sub-build and orient it so that the side with pegs is facing right. Then with the railing
-you just made, horizontally place the 1x2 plate with the hole on top of the masonry brick you placed in
-step 23. The railing should turn 45 degrees up when the plate is placed. The peg hole part of the plate
-should be in front on the left and the railing behind it should go down from right to left.
-26. Orient your sub-build horizontally so that the side with pegs is facing back. Then locate 1 tall light 2x2
-slope brick and 1 tall tan 1x2 brick with 4 side studs. Place your slope brick in the back right corner so
-that there is no overhang and the slope goes down from left to right. Then in the gap to the left of the
-slope, horizontally place your tan 1x2 brick so that the side studs are facing you.
-27. Locate 1 dark grey 2x4 tile. Horizontally place the right side of this tile on top of the previously placed
-slope brick so that it doesn’t overhang.
-28. Locate 1 light grey 2x3 tile with a sticker.
-28.1. (SKIP THIS STEP IF STICKERS WERE PRE-PLACED BY A HELPER BEFOREHAND) If you or
-someone else hasn’t already, locate the rectangular light grey 2x3 sticker with a fireball, palm tree, purple
-letter A, and the words “HEY!!!” printed on it (sticker #2). Then place it onto the light grey 2x3 tile from
-step 28.
-28.2 Horizontally place your light grey 2x3 tile with a sticker on to the 4 side studs from the tan 1x2 from
-step 26. Ask a helper if the sticker is facing the right way by making sure the letter A is oriented correctly.
-29. Bring back your platform with the curved railing. Orient it so that the slopes on top are facing the front
-and the right. Then using the 2 pegs in the back of the slope railing build you just made, insert it into the
-holes in the front of the platform. Then turn this structure around 180 degrees so that the slope railing is
-facing back. Locate 2 black pegs. Insert them into the front side in the left and right hole, skipping the 1 in
-the middle. Then turn this around 180 degrees again.
-30. Bring back your main build now and orient it so that the 8x16 smooth plate with a platform on top is
-vertically in front of you. Insert the back pegs of your platform with the curved railing into the holes located
-to the right of the 8x16 smooth plate.
-31. Bring back your ramp build and orient it so that the ramp goes down from left to right. Insert the left
-pegs of this ramp build into the right holes of the platform with the curved railing.
-32. This page contains no instructions! It just shows that you can put your skaters onto the build and have
-them grind on the curved railing!
-Building Instructions (Bag 4, Book 2):
-Group 15 — Biker Minifigure and Bicycle
-34. Assemble the skater minifigure by using the red legs, red sweater torso, male head, and red hood.
-You are also given a black helmet for when he rides his bicycle!
-35. Locate 2 black tires, 2 light green cylinders with small pegs, and 1 black bicycle frame. Insert each
-cylinder into each tire to make the wheels. Then attach the pegs of each wheel to the front and back clips
-of the bicycle! Then put your biker on top and orient his hands so he can hold the handlebars! Oh and
-don’t forget his helmet! Safety first!
-Group 16 — Staircase and Spray Paint
-36. Locate 1 bright green 4x8 plate and 1 teal 1x2 brick. Place your 4x8 plate horizontally in front of you
-and horizontally place the 1x2 brick in the back right corner so that it doesn’t overhang.
-37. Locate 2 red 1x2 bricks with a peg on one side. Horizontally place these next to each other to the left
-of the previously placed brick so that the pegs are facing back. Locate 1 teal 2x4 brick and 1 dark grey
-2x2 triangular plate. Horizontally place the 2x4 brick on the right side in front of the teal 1x2 brick and 1 of
-the red 1x2 bricks. Then to the left of the 2x4 brick, place the triangular plate so that the corner without a
-stud is in the front left.
-38. Locate 1 dark grey 2x2 plate. Place this in the back left corner so that it doesn’t overhang.
-39. Locate 1 dark grey 1x2 tile and 1 light grey 1x2 grill tile. Horizontally place the grill tile in the front right
-so that it doesn’t overhang. Then to the left of this grill tile, horizontally place your dark grey 1x2 tile. Next,
-locate 1 teal 2x4 brick and 1 teal 1x2 brick. Horizontally place the 2x4 brick in the back right corner so that
-there is no overhang. Then to the left of this brick, horizontally place your 1x2 brick on top of the 1x2 red
-brick with a peg.
-40. Locate 1 dark grey 1x6 plate and 2 dark grey 1x4 tiles with 2 studs, 1 on each side. On top of the
-previously placed bricks in the back right, horizontally place your 1x6 plate so it doesn’t overhang. Then
-on the right side, in front of this plate, horizontally place your 1x4 tiles with 2 studs. Make sure that each
-of them are placed entirely on the bricks and that there is no overhang with these tiles.
-41. Locate 1 tall light grey 1x2 brick and 1 teal 1x6 brick. Horizontally place your 1x6 brick in the back
-right so that it sits entirely on top of the 1x6 plate. Then to the left of this brick, horizontally place your tall
-1x2 brick.
-42. Locate 1 tall light grey 1x4 brick with a sticker.
-42.1. (SKIP THIS STEP IF STICKERS WERE PRE-PLACED BY A HELPER BEFOREHAND) If you or
-someone else hasn’t already, locate the rectangular light grey 3x4 sticker with the word “SKATE”, building
-background, and a skater that looks like he is flying over the buildings. Place this sticker on the tall 1x4
-brick from step 42.
-42.2 Then horizontally place this tall 1x4 brick on the left side in front of the tall 1x2 brick so that it doesn’t
-overhang. The left side of this should line up with the left side of the tall 1x2 brick. Make sure the sticker is
-facing the front. 
-43. Locate 1 dark grey 2x4 tile with 2 studs on top, and 1 dark grey 1x4 tile with 2 studs, 1 on each side.
-Horizontally place the 2x4 tile in the back left corner so it covers the 2x4 studded area. Then to the right
-of this tile, horizontally place your 1x4 tile so it covers the 4 studs in the back right.
-44. Locate 1 black 1x4 plate and 2 triangular bars. With your plate horizontally oriented, horizontally place
-your triangular bars on top so that they are oriented the same way. Make sure the straight side is facing
-back. Then place this structure on top of the 2 studs of the 2x4 tile in the back left. Make sure that the left
-and right sides of this piece don’t overhang. Then locate 1 purple 1x1 cylinder and 1 black L-shaped pipe.
-Attach the big circle of this L-shaped pipe to the stud on the cylinder. You just made a spray can! Place
-this piece in the front, on the fourth stud from the left. Then put this build aside for now while we build
-another ramp.
-Group 17 — Ramp
-45. Locate 1 light grey 2x8 plate. Place this horizontally in front of you.
-46. Locate 2 dark grey 1x2 tiles and 1 white 1x6 plate. Vertically place the tiles on top of the plate on the
-left and right sides. Then horizontally place the white 1x6 plate in the back gap made by the 2 tiles.
-Group 18 — Ramp
-47. Locate 1 light blue 1x6 plate. Place this on top of the white 1x6 plate so that it covers all of its studs.
-Locate 1 large orange ramp with a 1x6 plate overhang. Orient this ramp so the 1x6 stud overhang is in
-front. Then place the overhang on top of the light blue 1x6 plate so that the ramp sits behind it.
-48. Locate 2 white 1x1 bricks and 2 red 1x2 bricks with 1 peg on the side. In front of the previously placed
-1x6 plates, place your white 1x1 bricks on the left and right. Then in the 1x4 stud gap you created,
-horizontally place your 2 red 1x2 bricks so that the pegs are facing you.
-49. Locate 1 tan 2x6 brick. Horizontally place this on top of the 2x6 stud area. Locate 2 blue 1x2 bricks
-with 2 side studs and 1 white 2x4 brick. Vertically place your 1x2 bricks on top of the tan brick on the left
-and right sides with the studs facing outwards. Then in the gap you created, horizontally place your white
-2x4 brick.
-50. Locate 1 red 2x3 plate and 1 light grey 2x3 tile with a sticker.
-50.1. (SKIP THIS STEP IF STICKERS WERE PRE-PLACED BY A HELPER BEFOREHAND) If you or
-someone else hasn’t already, locate the rectangular light grey 2x3 sticker with the orange squirrel with
-headphones on top of a skateboard printed on it. (sticker #3). Then place it onto the light grey 2x3 tile
-from step 50.
-50.2. Place the light grey 2x3 tile with a sticker on top of the red 2x3 plate so that there is no overhang.
-Then vertically place it on the side studs on the left so that the top of the shorter side is aligned with the
-1x2 brick. Ensure the squirrel sticker is oriented the correct way by making sure it is upright.
-51. Locate 1 red 2x3 plate and 1 light grey 2x3 tile. Place the tile on top of the red plate so that there is no
-overhang. Now repeat what you did in step 50.2 but now using the side studs on the right side.
-52. Locate 1 light grey 2x8 plate. Horizontally place this on top of the 2x6 studded area so that the left
-and right sides of this plate align with the sides of the ramp.
-53. Locate 4 dark grey 1x4 tiles with 2 studs, 1 on each side. Horizontally place these on top of the 2x8
-plate so that they cover of its studs. Then locate 1 smaller orange ramp piece with a 2x6 stud plate. Turn
-around your ramp build 180 degrees so that the ramp goes down toward you now. Then horizontally
-insert the 2x6 stud plate of the smaller ramp underneath the bigger ramp and press down on the bigger
-ramp to secure it into place.
-54. Congratulations, you have finished another ramp for your skate park! Put these two smaller builds
-aside for now so we can build the steep ramp!
-Group 19 — Steep Ramp
-55. Locate 1 bright green 4x8 plate and 1 orange 2x2 brick. Horizontally place the 4x8 plate in front of
-you. Then place your 2x2 brick in the back right corner so there is no overhang.
-56. Locate 1 light grey 1x4 brick with masonry and 2 red 1x2 bricks with a peg on the side. Horizontally
-place 1 of the red 1x2 bricks in the back to the left of the 2x2 brick with the peg facing back. To the left of
-this 1x2 brick, horizontally place your other red 1x2 brick so that the peg is also facing back. Then in front
-of these 2 red bricks, horizontally place your 1x4 brick so that the side with 1 line is facing back.
-57. Locate 4 orange 2x2 slope bricks and 1 orange 1x4 brick. In the front right of your build, place 1 slope
-so that it goes down towards you. To the left of this, place another oriented the same way. Then in the
-front right again, place 1 slope oriented the same way so that the bottom of the slope rests on the two
-studs from the first slope placed. Then place another slope to the left of this piece with the same
-orientation. Then horizontally place the 1x4 brick behind these 2 slopes. Now there should be a 2x4 area
-in the back right that was created with the 1x4 brick and the slope bricks.
-58. Locate 2 more orange 2x2 slope bricks. With the slope facing down towards you, place them next to
-each other on top of the 2x4 studded area created from the last step.
-Group 20 — Steep Ramp and Boombox
-59. Locate 2 orange 1x2 slope tiles. Horizontally place them on top of the previously placed slopes from
-step 58 so that the slopes go down towards you. Then locate 1 light grey 2x2 brick. Place this brick in the
-back left corner so that it doesn’t overhang.
-60. Locate 1 light grey 2x4 plate. Horizontally place this in the back left so that the left side of this piece
-aligns with the left side of the previously placed brick. There should be no overhang. Now locate 1 dark
-grey 1x2 tile, 1 light grey 1x2 grill tile, and 1 dark grey 2x2 tile with a singular stud. On top of the 2x4
-plate, vertically place your 1x2 tile on the left side. To the right of this tile, vertically place your grill tile.
-Then to the right of this grill tile, place your 2x2 tile.
-61. Locate 1 black 1x3 brick with a sticker and 1 black 1x3 telephone-shaped piece.
-61.1 (SKIP THIS STEP IF STICKERS WERE PRE-PLACED BY A HELPER BEFOREHAND) If you or
-someone else hasn’t already, locate the black boombox printed sticker (sticker #4) and place it on the 1x3
-brick. 
-61.2 Place the 1x3 telephone piece on top of the 1x3 brick so that the ends of the telephone sit on the left
-and right studs of the brick. Then horizontally place the right side of the boombox on top of the singular
-stud. Make sure the boombox print is facing you. Congratulations you finished the steep ramp with the
-boombox! You can put these aside with the rest of your small builds.
-Building Instructions (Bag 5, Book 3):
-Group 20 — Platform
-3. Locate 1 bright green 8x16 plate with 6 gaps on the sides. Place it horizontally in front of you.
-4. Locate 3 dark grey 1x4 bricks with holes. Horizontally place 2 in the right gaps on the front and back.
-Then vertically place the other 1 in the gap on the right side.
-5. Locate 2 light grey 2x2 corner bricks. Symmetrically place these in the front right and back right corners
-so that the sides align with the 1x4 bricks.
-6. Locate 3 light grey 1x4 tiles with 2 studs, 1 on each side. Place these on top of each of the 1x4 bricks
-with holes. Make sure there is no overhang.
-7. Locate 2 tall light grey 1x4 panels. Horizontally and symmetrically place these in the front and back to
-the left of the 1x4 bricks with holes. Make sure that the outer wall of the panels is facing outwards. Locate
-2 more dark grey 1x4 bricks with holes. Horizontally place these in the gaps to the left of the panels.
-8. Locate 2 light grey 2x2 corner bricks and 1 dark grey 1x4 brick with holes. Vertically place the 1x4 brick
-in the gap on the left side. Then place the corner bricks in the front left and back left so that the sides of
-the corner bricks align with the 1x4 bricks.
-9. Locate 3 light grey 1x4 tiles with 2 studs, 1 on each side. Horizontally place 2 in the front and back on
-top of the previously placed 1x4 bricks with holes from step 7. Then vertically place the last 1x4 tile on the
-left side on top of the 1x4 brick.
-10. Locate 6 light grey 1x6 bricks. Horizontally place to the left and right of the panel in the front and back
-so there is no overhang. Then vertically place the remaining 2 bricks in the gaps created by the 1x6 bricks
-on the left and right sides.
-11. Locate 4 light green 3x3 triangular plates. Symmetrically place each of these plates in the corners of
-the build. The corners of each triangular plate made by the 2 longer sides should align with the corners of
-the build.
-12. Locate 2 light green 1x10 plates and 2 light green 1x2 plates. Symmetrically and horizontally place
-the 1x10 plates in the front and back gaps created by the triangular plates. Then vertically place the 2
-light green 1x2 plates in the left and right gaps made by the triangular plates.
-13. Locate 2 light grey 2x2 corner tiles, and 1 light grey 1x4 tile with 2 studs, 1 on each side.
-Symmetrically place the corner tiles in the front right and back right corners on top of the triangular plates
-so that the corners of these tiles align with the corners of the build. Then vertically place the 1x4 tile in the
-right gap created by the 2 corner tiles. 
-14. Locate 4 light grey 1x2 grill tiles and 2 more light grey 1x4 tiles with 2 studs. Symmetrically and
-horizontally place 2 grill tiles in the front and back to the left of the corner tiles. After placing all 4 grill tiles,
-horizontally place your 2 1x4 tiles in the front and back to the left of the grill tiles.
-15. Locate 4 more light grey grill tiles, 2 light grey 2x2 corner tiles, and 1 light grey 1x4 tile with 2 studs.
-Symmetrically and horizontally place 2 grill tiles in the front and back to the left of the previously placed
-1x4 tiles. Then place your 2x2 corner tiles in the front left and back left so that they are symmetric to the
-other 2 corner tiles. Then in the left gap created by the 2 corner tiles, vertically place your 1x4 tile.
-16. Locate 2 black pegs. On the left-facing side, place your 2 pegs in the 1x4 brick’s holes. There are 3
-holes, make sure to skip the 1 in the middle.
-Group 21 — Grind Pipe
-17. Locate 1 light grey 8x8 plate and 2 dark grey 2x4 tiles. Horizontally place your 2 tiles next to each
-other so that they cover the back of the plate with no overhang.
-18. Locate 2 white 2x4 plates. Horizontally place these next to each other in front of the 2 tiles. Make sure
-there is no overhang.
-Note: You will have an extra light grey 2x2 triangular tile. This will be used in the following step.
-Group 22 — Grind Pipe
-19. Locate 1 dark grey 2x2 tile. Place this in front of the white 2x4 plate on the left side. The left side
-should align with the left side of the 8x8 plate. Now locate 1 light grey 2x2 triangular tile from group 21.
-Orient it so that the right corner is on the front left. Then place it to the right of the 2x2 tile you just placed.
-Then locate 3 dark grey 2x4 tiles. Horizontally place 2 of these in the front so that there is no overhang.
-Then horizontally place 1 more behind the right tile you just placed. Then locate 1 dark grey 2x2 triangular
-plate. Orient it so the right angle is in the back right. Then place it so it fits perfectly in the triangular gap
-next to the other triangular tile.
-20. Locate 1 black 2x6 plate and 1 black 1x6 plate. Horizontally place your 2x6 plate in the middle of the 2
-white 2x4 plates. There should be an exposed 1x2 stud area of the white 2x4 plates on the left and right
-sides. Horizontally place your 1x6 plate on top of the 2x6 plate you just placed in the front 6 studs. Now
-locate 1 black 1x6 plate with a railing. Horizontally place this behind the plate you just placed with the
-railing facing back.
-Group 23 — Grind Pipe
-21. Locate 4 light green 1x2 slope tiles. Horizontally and symmetrically place 2 on the left side and 2 on
-the right side. The flat top parts of the slope tiles should sit on the black plates, and the slope parts should
-sit on top of the exposed studs on the white 2x4 plates. Now locate 1 light green 2x4 tile. Horizontally
-place this in the gap on top of the black plates created by the slope tiles.
-22. Bring back your previous build now and orient it so that the side with pegs is facing left. Turn your
-grind pipe build 180 degrees so that the railing is facing you now. Then place this build on top of the right
-side of the previous build so that the sides align and there is no overhang. Put this build aside for now
-while we build another ramp.
-Note that you will have an extra tall tan 1x3 slope brick. Save this for later.
-Group 24 — Ramp Platform
-23. Locate 1 light grey 8x8 plate and 1 dark grey 2x4 tile. Horizontally place this tile in the back left corner
-of the plate so that there is no overhang. Then locate 1 tall orange 1x3 slope brick. Horizontally place this
-in front of the tile on the left side so that the slope goes down from left to right.
-24. Locate 2 more tall orange 1x3 slope bricks. With the slopes horizontal and the slopes going down
-from left to right, place 1 in front of the previously placed slope brick. Then skip a row and place the other
-slope brick. Make sure that the left side of the slopes aligns with the left side of the plate. Now locate 1 tall
-tan 1x3 slope brick from group 23. Horizontally place this in the gap created by the 2 slope bricks. Make
-sure that the slopes are aligned with each other and that they create a ramp. Now locate 1 orange 1x4
-tile. Vertically place this to the right of all the slope bricks.
-25. Locate 1 orange 1x4 brick and 1 black 1x4 half-circle-shaped tile. Place this black circle-shaped tile
-on top of the brick so it doesn’t overhang. Then vertically place this structure on top of the slopes located
-on the left. Now locate 3 dark grey 2x4 tiles. Horizontally place them all, 1 in front of the other starting
-from the back right. Make sure there is no overhang.
-Note that you will have an extra dark grey 2x2 triangular tile. Save this piece for later.
-Group 25 — Ramp Platform
-26. Locate 1 dark grey 2x4 tile. Horizontally place your 2x4 tile in the front left of the 8x8 plate. Make sure
-there is no overhang. Locate 1 dark grey 2x2 tile. Place this in the front right of the 8x8 plate. Now locate
-1 light grey 2x2 triangular tile. This is the piece in your current group, not from group 24! Orient it so the
-right corner is in the front right. Then place it in the front right of the 2x2 gap on the 8x8 plate. Now grab
-the dark grey 2x2 triangular tile from group 24. With the right angle facing the back left, place it in the
-triangular gap to the left of the previously placed tile.
-27. Bring back your previous build now with the grind pipe. Orient it so the pegs on the side of the build
-are facing left. Then with your build that you just made, orient it so the tall part of the ramp is on the left.
-Then place it on top of the left side of the platform. Make sure the sides align with the rest of the build.
-28. Bring back your main build now and orient it so that the ramp above the room is horizontal and that
-the basketball hoop is on the right. Rotate your platform build with the grind pipe and ramp 180 degrees
-so that the pegs are facing right. Then insert the pegs into the holes on the left side of the main build
-under the ramp. Make sure it is flat on the surface.
-29. Locate your large ramp build and orient it so the pegs are facing right. Then insert it into the pegs on
-the left side of the platform with the grind pipe and ramp. Locate your build with the staircase and orient it
-so the pegs are facing back. Then insert the pegs into the right holes located on the front of the platform
-with the grind pipe and ramp. Now locate your build with the steep ramp and boombox. Orient it so the
-pegs are facing back. Then insert the pegs into the holes on the front of the platform and to the left of the
-staircase build. 
-Congratulations, you finished the skate park! Now grab your skaters and let them ride on the ramps and
-pipes!
-At the end of the instruction booklets are advertisements for the following 4 LEGO CITY Theme kits:
-60380 - Downtown
-60362 - Car Wash
-60366 - Ski and Climbing Center
-60364 - Street Skate Park
+steps 1, 2 and 3, and put them in one container.
+This LEGO set comes with three unlabeled bags, a sticker sheet, and two instruction booklets. Some
+larger pieces are loose in the box. There are stickers to put onto pieces in steps 53, 55, 57, 64, 70, 81,
+and 85. If you want to use the stickers, they should be put on as you or your friend sort the pieces! Sort
+the pieces into groups as described below. Note that where there are multiple colors of the same brick in
+a step, the colors will be split into two groups to make telling the difference easier for the builder! LEGO
+includes a few spare parts in case you lose something. Set these into their own group away from the rest,
+in case you need them later.
+Group 1 contains the pieces for steps 1-4.
+Group 2 contains the pieces for steps 5-12.
+Group 3 contains the pieces for steps 13-22.
+Group 4 contains the pieces for steps 23-26.
+Group 5 contains the pieces for steps 27-29.
+Group 6 contains the pieces for steps 30-37.
+Group 7 contains the pieces for steps 38-46.
+Group 8 contains the pieces for steps 47-51.
+Group 9 contains the pieces for steps 52-59.
+Group 10 contains the pieces for steps 60-66.
+Group 11 contains the pieces for steps 67-72.
+Group 12 contains the pieces for steps 73-80. Note, there will be two different colors of pins in this group,
+which are discernable to the builder by their friction!
+Group 13 contains the pieces for steps 81-90.
+Building Instructions:
+Main Build - Dump Truck
+A note on LEGO Technic™ part names. These parts are somewhat different from regular LEGO bricks. I’ll
+include some definitions in case the builder or helper is not familiar with LEGO Technic™.
+Axles - An axle is a connector which has an X shaped cross-section. Because their cross section is not
+round, anything connected to an axle using an axle-hole will rotate with that axle. Axles are longer than
+they are wide, and the length of an axle corresponds with how many bricks long it is. Aka a 3L axle is
+three bricks long. Axles come in a variety of lengths, with a 2L axle being the shortest available. They
+may be combined with pins, or have circular stops on them. A stop prevents the axle from sliding through
+an axle-hole at a specific point on the axle.
+Pins - A pin is a connector which has a circular cross section and a flanged notch out of one or both ends.
+This flanged notch allows them to click into bricks with a pin-hole. Pins come with and without friction
+ridges, which are small bumps on the pin which prevent them from rotating freely. For standard pins,
+black is a high friction pin, and gray is a low friction pin. A standard length pin is two brick lengths long,
+with a stop in the middle. This prevents a brick from being pushed from one side of the pin to the other. A
+1L pin is one brick long and still retains the stop, however it also includes a hollow stud at the other end.
+A 3L pin is three bricks long, and only contains a stop at one side, allowing two bricks to be pushed onto
+the other side of the pin. Pins may also have one side which is an axle.
+lift-arms - A lift-arm is a basic structural element, similar to a brick or a plate, but usually without any
+studs. It is a beam with rounded ends and with holes in it, with the same spacing as the studs on a LEGO
+brick. lift-arms come in a variety of lengths, including a 1x1 lift-arm which looks like a cylinder. Thick liftarms are as wide as a LEGO brick, and thin lift-arms are half as wide as a LEGO brick, but not the same
+thickness as a LEGO plate! The holes in a lift-arm arm may accept axles or pins. They also come in a
+variety of shapes, including tees, ells and triangles.
+Gears - A gear is a functional element. They are typically discs with teeth on the outside, there are also
+worm gears which look like a spiraling cylinder! Gears connected by axles transmit or even transform
+rotational motion!
+Axle and Pin Connectors - These elements are typically smaller than lift-arms, and are used to connect
+some combination of pins or axles. They might have pins or axles, as well as axle or pin-holes. They have
+a lot of different angle combinations! The simplest just connects two axles or pins together in a straight
+line.
+Bushes/Bushings - LEGO Technic™ uses bushes largely as spacers, but they also can reduce friction
+between rotating parts, or can form useful elements such as handles. Bushes are typically light gray,
+generally cylindrical, and have an axle-hole running through the middle. They have a flange at the front
+and back to make them easier to pull on and off.
+Open group 1
+We’ll start by building the chassis at the cab-end of the truck! It won’t look like much for a while, but be
+patient!
+1. Find a dark gray 3x3 L-shaped thin lift-arm, and two light gray 3L axles. Place the lift-arm flat, with the
+corner at the front right, one leg vertically long at the right and one horizontally long at the front. Place
+axles in the axle-holes at the corner and at the back, skipping over the pin-hole. Push the axles in only
+until they are flush with the bottom side.
+2. Place another dark gray 3x3 L-shaped thin lift-arm on the one from the previous step, oriented the
+same way. Do this by pushing it down over the two axles from the previous step until the lift-arms touch.
+3. Find a blue 3L pin and a light gray 3x2 T-shaped thick lift-arm, with an axle-hole parallel to its long axis.
+Place the pin with the stop downwards, into the pin-hole directly to the left of the corner of the lift-arms
+from step 1-2. Place the axle-hole of the lift-arm over the axle on the back, with the long portion of the liftarm on the right. Rotate the assembly 90 degrees so that the T-shaped lift-arm is on top and the L
+shaped lift-arm is at the back on the left.
+4. Find a dark gray 9L thick lift-arm and place it horizontally long, with the far left pin-hole over the blue
+pin from the previous step. The second hole from the left should slide over the axle in the corner from
+step 1. Push the lift-arm all the way down until it is against the L-shaped lift-arm from step 2. This 9L liftarm is at the bottom of the truck’s chassis, so the side that is currently down is the very bottom of the
+dump truck! It should be flat on the building surface. It forms the centerline of the truck, so most of the
+build will be symmetric about this lift-arm.
+Open group 2
+Set the truck aside for now. We’re going to start building the headlight assembly.
+5. Find two light gray 1L pins, and a dark gray 2x2 T-shaped thick lift-arm, with an axle-hole parallel to its
+long axis. Place the T-shaped lift-arm with the two pin-holes at the back and the axle-hole at the front.
+Place two 1L pins into the pin-holes with the studs up.
+6. Find two transparent clear 1x1 round tiles. Place these on top of the studs from the previous pieces.
+These will eventually be half the headlights of the truck!
+7. Find a black 6L axle and a light gray thin bush. Place the axle into the axle-hole in the lift-arm from the
+previous piece, extending to the right and flush with the left side of the axle-hole. Slide the bush on the
+axle all the way to the lift-arm. Place the original chassis assembly in front of you in its original orientation,
+horizontally long with the lift-arms from step 1-2 pointing upwards and at the back of the assembly.
+8. Slide the assembly from steps 5-7 towards you from the back, through the far left axle-hole, with the
+headlight assembly on top and at the back. The clear tiles should be on the left.
+9. Slide a dark gray pin with a perpendicular axle-hole over the 6L axle from the headlight assembly.
+10. Slide two dark gray 3x3 L-shaped thin lift-arm over the axles and pins from previous steps. Slide them
+over in the same orientation as the lift-arms from steps 1 and 2 so that they are mirrored about the 9L liftarm which is the center of the truck. The right six holes of the 9L lift-arm should be open at this point.
+11. Slide a light gray bush over the axle in front of the previous pieces.
+12. Find two transparent clear 1x1 round tiles, a dark gray 2x2 T-shaped thick lift-arm, with an axle-hole
+parallel to its long axis, and two light gray 1L pins. Place the lift-arm on the axle of the headlight
+assembly, with the pin-holes on top. Place the two 1L pins into the holes on the previous piece, with the
+studs at the left. Place the round tiles onto the studs on the previous piece. There should now be four
+headlights on the left of the truck!
+Open group 3
+Set the chassis aside. Now we’ll start building the steering mechanism for the front wheels!
+13. Find a light gray 3L axle and a light gray axle connector with a perpendicular pin-hole. The axle-hole
+in the connector should end at the pin, so that if the center lines were extended it would make the shape
+a capital T. Place the connector with the axle-hole horizontal and the pin-hole on the left, going up and
+down. Insert the axle into the axle-hole.
+14. Find a light gray 2L pin and a dark gray perpendicular axle and pin connector. The center lines are
+offset by a brick length so that if the center lines were extended it would make the shape of an X when
+viewed from above. Slide the axle-hole of the connector over the previous piece, with the pin-hole at the
+back pointing up and down. Slide it all the way until it touches the axle and pin connector from the
+previous step. Put the pin in the pin-hole of the previous piece, pointing up.
+15. Place a light gray axle connector with a perpendicular pin-hole symmetrically to the one from step 13.
+16. Find two light gray 3L lift-arms with pins perpendicular to its short axis. Viewed from the side, this
+piece has a pin extending up at the left and right ends, and a perpendicular pin-hole under each pin.A pinhole is in the middle, parallel to the pins. Place one into the bottom of the previous piece, extending
+towards the front, with the pins facing upwards. Place the other symmetrically on the left side.
+17. Find four light gray 2L pins. Place one in the front pinhole of each of the previous pieces, pointing
+outwards. The front wheels will mount on these pins later on! Place the other two with the middle pin-hole
+of both of the lift-arms from the previous step, with the pin extending upwards.
+18. Find two dark gray 5L thick lift-arms. Place one horizontally long on the previous pieces. It should only
+fit using the far left and right pin-holes on the lift-arm. Place the other lift-arm directly in front. This
+completes the steering mechanism! If you hold one of the previous pieces, the other should move freely
+in a roughly half-circular motion. Now we’ll attach it to the chassis!
+19. Place the chassis horizontally long in front of you with the headlights at the left, bottom of the truck
+down (as defined in step 4). Take the steering mechanism and place it vertically long on the right end of
+the chassis, with the upwards peg at the right, and slide the mechanism all the way to the left, centered
+vertically. It should slide smoothly. The lift-arm with the pegs for the front wheels should be even with the
+bottom of the chassis. The left 1x5 thick lift-arm from the steering mechanism should be lined up
+underneath a 1x3 thick lift-arm on top of the chassis.
+20. Place two blue 3L pins, with the stop upwards, and place them through the 1x3 thick lift-arm at the top
+of the truck. Push each one all the way down to the stop, through the left 1x5 thick lift-arm of the steering
+assembly.
+21. Find two blue 3L pins. Slide the first into the far right pin-hole of the build, from front to back with the
+stop at the front. It should extend one brick length to the front and back of the build. Skip a hole and place
+the other pin in the same way.
+22. Find a dark gray 5.5L axle with a stop 1L from one end. Slide it into the hole between the two previous
+pieces from back to front with the stop at the back. It should sit loosely in the hole.
+Now we are going to start building the back of the chassis!
+Open group 4
+23. Find a dark gray 9L lift-arm and a tan 3L pin. Place the lift-arm in front of you horizontally long,
+smooth side up. Place the short side of the pin in the far right hole, with the pin extending 2L to the front.
+24. Find a yellow 5L axle and a light gray 3L thin lift-arm with a pin at one end and a thick axle-hole at the
+other. Place the axle into the thick axle-hole of the lift-arm, centering it. It should extend 2L to either side
+of the lift-arm. Now attach this assembly to the 9L lift-arm from the previous step, with the axle next to the
+pin from the previous step, the pin two steps to the left and the thin side of the lift-arm at the back against
+the 9L lift-arm. The pin should click into place and the axle should extend 1L past the back edge of the liftarm from the previous step.
+25. Place two black 2L pins into the lift-arm from step 23, on the back side, next to each other to the left of
+the pin from the previous piece.
+26. Find a black 3L thick lift-arm, with the bottom hole a perpendicular axle-hole. Place the two pin-holes
+onto the previous pieces (the pins), with the axle-hole on the left. There should be three open holes at the
+far left of the 9L lift-arm, and the axle hole should go up and down.
+Open group 5
+27. Keeping this assembly in the same orientation, attach it to the chassis by placing the open holes in
+the 9L lift-arm onto the two pins from step 21, and the axle from step 22. The previous piece should be at
+the back of the build.
+28. Find two black 3x5 thin lift-arms shaped like a triangle, and two blue 3L pins. Place a lift-arm
+horizontally long in front of you with the point of the triangle at the back, and push two pins in from the
+back through the second and fourth holes from the left, with the stop at the back. Push the other lift-arm
+over the pins in the same orientation as the first lift-arm. The pins should extend 1L on either side of the
+lift-arms, there should be an exposed axle-hole at the horizontal ends, and a vertical row of 3 pin-holes
+between the pins. Find the pin hole at the back of this vertical row. It should be at the point of the triangle.
+Attach this pin-hole onto the pin at the far right of the chassis from the front and push it all the way back to
+the 9L lift-arm.. This assembly should be free to rotate! This is the hinge where the dump bucket will
+attach to the chassis of the truck!
+29. Find a dark gray 9L thick lift-arm. Attach this to the front right of the chassis with the far left pin-hole
+over the far left pin from step 21. The right hole should be attached to the same pin as the dump bucket
+hinge from the previous step. An axle should extend to the front from the second hole from the left on this
+lift-arm, and another should extend to the front and back from the second hole from the right.
+Open group 6
+30. Find two dark gray 1L thick lift-arm (this looks just like a cylinder) and two tan 3L pins. Place the 1L
+lift-arms onto the side of the pins without a stop and push them on so the pin extends on either side by
+1L. Attach these to the third hole from the right on both sides of the chassis. The back wheels will mount
+to these pegs later on!
+31. Find a dark gray 2L thick lift-arm with the bottom hole a perpendicular axle-hole, and a light gray thin
+bush. Place the axle-hole of the lift-arm onto the axle extending from the eighth hole from the right and
+slide it all the way up to the chassis. Slide the bush onto the same axle, all the way to the previous piece.
+32. Find two dark gray 2L thick lift-arms with the bottom hole a perpendicular axle-hole, two 1L pins, and
+two transparent red 1x1 round tiles. Place the round tiles onto the studs of the pins, and put these into the
+pin-holes of the lift-arms. Place these onto the axle extending front and back at the right side of the
+chassis. Place them so that the pin-holes are over the axles and the round tiles are at the right. These
+form the taillights for the truck!
+33. Find two 2L black pins and place these in the fifth and sixth holes from the right in the chassis,
+extending to the front.
+34. Find a black 3L thick lift-arm, with the bottom hole a perpendicular axle-hole. Place the two pin-holes
+on the previous pieces, with the axle-hole on the left. There should be a gap to the right between this
+piece and the wheel mount from step 30.
+35. Find a black 2L thick lift-arm with one pin-hole and one axle-hole, and one tan 4L axle with a stop.
+The 4L axle has a short and a long end. Place the short end into the axle-hole of the lift-arm. Find the
+three pins sticking upwards on the left side of the chassis. Place the pin-hole of the lift-arm over the right
+hand one of these, with the axle sticking upwards on the left.
+36. Find a black 3x3 T-shaped thick lift-arm. With the top of the tee vertically and the stem on the right,
+place the far right hole over the axle from the previous step. The two pins sticking up from the chassis
+should now fit into the front and back holes on the top of the tee.
+37. Find a dark gray straight axle connector and a dark gray straight axle connector with a pin-hole in the
+middle. Place the pin-hole of the connector with a pin-hole onto the axle from step 35 so that it extends
+front and back. Place the straight connector onto the end of the axle, extending upwards.
+Open group 7
+Now we’re going to start building the cab of the truck!
+38. Find a black 2L pin and a black 2L thick lift-arm with one pin-hole and one axle-hole. Place the pin
+through the pin-hole of the lift-arm. Place the lift-arm horizontally long in front of you with the pin at the
+back and the smooth side up.
+39. Place a light gray 3L axle through the axle-hole on the lift-arm, extending to the front, pushing it in
+only until it is flush with the back.
+40. Find a dark gray axle connector with a perpendicular axle-hole and a black 2L thick lift-arm with one
+pin-hole and one axle-hole. Place the axle connector over the previous piece, with the long part pointing
+downwards. It should slide all the way to the lift-arm from step 38 and make a tee with the axle. Place the
+axle-hole of the new lift-arm onto the same axle, with the pin-hole at the right (symmetrical to the lift-arm
+from step 38.
+41. Find a black 2L pin and a blue axle/pin combo. Place the 2L pin into the pin-hole of the previous
+piece, extending to the front. Place the axle of the axle/pin combo into the bottom of the axle connector
+from the previous step so that it extends downwards.
+42. Place this assembly, in the same orientation, onto the truck. Place the axle/pin combo into the middle
+hole of the T-shaped lift-arm from step 36. The two lift-arms of the new assembly should be to the front
+and back of the upwards facing straight connector from step 37.
+43. Find a yellow 4x2 L-shaped lift-arm, and a blue axle/pin combo. Place the lift-arm in front of you,
+running horizontally long, with the short leg upwards. Place the pin of the axle/pin combo into the far right,
+bottom hole, with the axle at the front.
+44. Find a dark gray straight axle connector with a pin-hole in the middle and a blue axle/pin combo.
+Place the axle connector on to the axle of the previous piece.
+Place the axle of the axle/pin combo into the axle-hole at the front of the previous piece.
+45. Find a black axle/pin combo with a 2L axle. Place the axle through the far left axle-hole of the lift-arm,
+slide it in from back to front so that the pin is at the back and the axle extends 1L past the front of the liftarm.
+Now let’s put this on the truck!
+46. Pick up the assembly using the axle connector from step 44. Hold it so the pin-hole on the connector
+is aligned up and down. Rotate the lift-arm downwards so that it’s shaped like an upside down L, with the
+long leg pointing down and the short leg horizontally at the top, extending to your left. Keep this
+orientation and attach this assembly to the back of the truck, putting the lowest pin-hole into the back pin
+of the assembly you finished in step 42. The pin-hole of the connector should align with an upwards
+pointing axle connector.
+Open group 8
+47. Find a light gray 3L axle and a black 12 tooth gear. This gear is about two studs in diameter, and
+looks kind of like a ribbed ball with an axle-hole in the middle. Put the axle through the pin-hole in the axle
+connector at the top of the build, with the axle extending upwards by 1L. Place the gear onto the axle so
+that it is on top of the truck. This will be how you steer the truck!
+48. Find two yellow 3L thick lift-arms, one dark gray 1L thick lift-arm, one blue 3L pin, and two black 2L
+pins. Place one of the 3L lift-arms in front of you, horizontally long with the smooth side on top. Place a
+black pin into the back of the first and third holes. Place the blue pin into the middle hole so that it extends
+1L to the front and 1L to the back. Attach the other lift-arm behind the first one, offset one hole to the left.
+There should be two exposed pins on the front lift-arm, one at the back right and one at the front middle.
+Attach the 1L lift-arm to the exposed pin at the front. Keeping the same orientation, place the back right
+pin into the front of the short leg of the L-shaped lift-arm from step 43, extending to the left. This should
+be the only pin-hole at the top of the truck.
+49. Find two light gray 3L axles, one dark gray straight axle connector, and two light gray bushes. Place
+one axle into each end of the connector, and one bush over each axle. Push the axles all the way in and
+slide the bushes up to the connector. Place this assembly into the front far left pin-hole of the previous
+assembly. It should float freely.
+50. Find two yellow 3L thick lift-arms, yellow 4x2 L-shaped lift-arm, and three black 2L pins. Place one 3L
+lift-arm in front of you, horizontally long, and place all three pins into the holes on the front. Place another
+3L lift-arm overhanging it to the left. Orient the L shaped lift-arm so that the long leg extends downward
+and the short leg extends to the left. Place the left pin-hole on the right pin of the first lift-arm. Keeping this
+orientation, place this entire assembly onto the truck. This will match the back side of the truck. The far
+left pin-hole goes over the axles from the previous step, the top right corner attaches to the top forward
+facing pin on the model, and the third pin-hole down goes over the pin below the top pin.
+51. Place a black axle/pin combo with a 2L axle into the bottom right axle-hole of the previous assembly,
+with the pin at the front.
+Open group 9
+Now we’ll build the front bumper of the truck!
+52. Find a yellow 3L thick lift-arm and two black 2L pins. If you are using stickers, the lift-arm should have
+the license plate number on it! That is KM42147, where the last part of the license number is the set
+number! Place the lift-arm horizontally long in front of you, with the stickered side at the front, your helper
+can help get the lettering oriented upright. If you’re not using stickers, either smooth side can be at the
+front! Place the pins pointing upwards in the first and third holes.
+53. This step tells you how to place the sticker and is skipped.
+54. Find a yellow 7L thick lift-arm and place this centered horizontally over the previous piece. If you are
+using stickers the sticker should be at the front. This sticker has the truck’s grill pattern on it! The lift-arm
+should extend 2L on either side of the previous piece.
+55. This step tells you how to place the sticker and is skipped.
+56. Find four black 2L pins and place these in the two leftmost and two rightmost pin-holes, pointing
+upwards.
+57. Find a yellow 5L thick lift-arm and place this centered horizontally on the two inner pins from the
+previous step. If you are using stickers, this has the truck’s hood emblem on it, and the sticker should
+face to the front. The truck’s emblem looks like a small gray diamond.
+58. Find two dark gray pins with a perpendicular pin-hole and place the pins into the second and fourth
+pin-holes of the previous piece, with the pin-holes aligned horizontally. Rotate the assembly 90 degrees
+so that the stickers are on the left.
+59. The chassis has a single pin on the far left which is not rigidly attached, and may have fallen over.
+Find this pin and point it upwards. Keeping the orientation from the previous step, place the bumper
+assembly onto the left of the truck by placing the center pin-hole over the pin. Its front and back ends
+should rest on the headlights, and the stickers should be at the left. It’s starting to look like a truck now!
+Open group 10
+Now we’ll build the first door!
+60. Find a yellow 5L thick lift-arm and place this in front of you horizontally long with the smooth side at
+the front.
+61. Find three red 1L pins. Place one into the far left hole with the stud up. Skip a hole, and place the
+other two next to each other in the next two holes. The second hole from the left and the far right hole
+should be open.
+62. Find a yellow 1x3 plate and two yellow 1x1 slope tiles. Place a slope tile over the far left stud sloping
+down to the right. Place the plate horizontally long to the right of this piece. Place the other slope tile on
+the far right stud of the plate, sloping down to the left.
+63. Keeping the left end at the left, flip the assembly so the slopes are at the bottom. Find a blue axle/pin
+combo and place the pin into the second hole from the left with the axle pointing up.
+64. Find a dark blue axle connector with a triangular fairing and a perpendicular axle-hole. Place this onto
+the axle from the previous piece. The smooth side of the fairing should be at the front and should slope
+up to the left. If you’re using stickers, this piece has a yellow stripe on it!
+65. Find a black axle with a perpendicular pin-hole at one end and place this into the perpendicular axlehole from the previous piece, so that the pin-hole is aligned front to back (not up and down) and hangs off
+the left of the build.
+66. Place the far right pin-hole onto the back left upwards pointing pin on the truck’s bumper (assembly
+from steps 52-59). This is the passenger side door (if you’re in the US! It might be different where you
+live!)! It is now all the way open, swing it clockwise until the door is closed. The pin-hole on the previous
+piece should connect to a pin on the back of the cab
+Open group 11
+Now to build the other door.
+For steps 67-69, repeat steps 61-63.
+70. Keeping the axle from the previous step pointing upwards, rotate the assembly so left is now right.
+Find a dark blue axle connector with a triangular fairing and a perpendicular axle-hole. Place this onto the
+axle from the previous piece. The smooth side of the fairing should be at the front and should slope up to
+the right. If you’re using stickers, this piece has a yellow stripe on it!
+71. Find a black axle with a perpendicular pin-hole at one end. Place this into the perpendicular axle-hole
+from the previous piece, so that the pin-hole is aligned vertically and hangs off the right of the build.
+72. Place the far left pin-hole onto the front left upwards pointing pin on the truck’s bumper (assembly
+from steps 52-59), the mirror of what we did for the previous door! Close it and attach it like we did
+previously.
+Open group 12
+Note! There are three black 2L pins and one gray 2L pin in this group of parts! You can tell the difference
+between these colors by placing them in an axle-hole and trying to spin the part while holding the pin. A
+gray pin will allow the part to spin easily, while a black pin will require significant force!
+73. Find a black 6L axle, a dark gray 4L thin lift-arm, a dark gray 1x1 thick lift-arm, and a light gray 1L
+bush. Place the lift-arm horizontally long in front of you, with the smooth side upwards. Place the axle into
+the left axle-hole from the front, extending to the front, and flush with the back of the lift-arm. Slide the
+bush over the axle from the front, with the circular end towards the back, and slide it all the way to the liftarm. Now, slide the axle from the back through the two pin-holes at the top of the far left of the build.
+When the axle is almost through the first pin-hole, place the 1L lift-arm in line with the pinholes and push
+the axle through it. The lift-arm should now be nearly upright, sloping down slightly to the left. Rotate the
+4L lift-arm until it is nearly straight up and down, but slopes slightly to the right. Connect the top axle-hole
+of the lift-arm to the axle at the back left of the top of the cab.
+74. Slide a light gray 1L bush over the axle from the previous step until it touches the front pin-hole.
+75. Connect a dark gray lift arm to the axle from step 73 to the top front of the cab, just like the lift-arm
+from step 73.
+Now we’ll start building the bed of the dump truck! Set the truck aside for now.
+76. Find a dark blue 11x3 curved panel and three blue 3L pins. Place the panel horizontally long in front
+of you, concave up, with the row of five pin-holes at the front. We’ll reference this row of pin-holes over
+the next few steps. Place pins with the stop at the back into the first three pin-holes on the left. Do not
+place these into the upwards facing pin-holes at the back.
+77. Find two black 2L pins and place these into the upward facing pin-holes at the back of the panel, one
+at the left and one at the right near the end of the panel.
+78. Find a blue axle/pin combo and a black 3L thick lift-arm, with the bottom hole a perpendicular axlehole. Place an axle/pin combo into the axle-hole at one end. With the pin from this assembly at the left
+and pointing upwards, place this onto the far left 3L pin from step 76 and slide it all the way up to the
+panel.
+79. Find a black 3x3 T-shaped thick lift-arm and a light gray 2L pin. Connect the flat part of the T-shaped
+lift-arm to the two remaining 3L pins from step 76, with the stem of the tee pointing downwards. Place the
+pin into the middle hole of the stem extending to the front.
+80. Place the truck in front of you, with the cab at the left and the dump bed hinge assembly at the right.
+Now connect the dump bed to the dump bed hinge assembly by connecting the two pins on the hinge
+assembly into the last two holes in the row of five pin-holes from step 76. There should now be a row of
+five pins extending to the front. The dump bed should hinge up and down. Rotate the truck 180 degrees
+so the cab is on the right and the dump bed is on the left.
+Open group 13
+81. Find a dark blue 11L thick lift-arm and a black 2L pin. If you are using stickers, this lift-arm will have a
+thin yellow stripe with the phrase “AP TRANSPORT'' on it. Place this on the two upward pointing studs on
+the dump bed. The sticker should be on the right if you are using it. Center it horizontally so there is one
+stud hole to the left and right of the pins in the dump bed. Place the black pin into the far right hole of the
+lift-arm, pointing upwards. Rotate the truck 180 degrees so the cab is on the left and the dump bed is on
+the right. The dump bed should be free to rotate now! Now we’re going to make a mechanism to raise
+and lower the bed.
+82. Find a dark gray 5L thick lift-arm, a black 2L pin, and a dark gray pin with a perpendicular pin-hole.
+With the lift-arm vertically long in front of you, place the black pin into the back pin-hole extending to the
+left. Place the pin-hole over the previous piece with the pin pointing down. Find the axle which extends to
+the front between the two wheel pins on the front of the build. Attached to this axle is an upwards facing
+pin-hole (if you spin the axle, this pin hole should be easier to find).. Place the pin from the previous piece
+into this pin-hole from the top. The lift-arm should be on the right facing forwards.
+83. Feel along the row of pins at the front of the dump bed and find the bottom one. Keeping the smooth
+side of the lift-arm on top, rotate the assembly from the previous step counterclockwise 90 degrees
+towards the right side of the truck and connect the far right pin-hole to the pin at the bottom of the dump
+bed. You can lift the dump bed slightly to find this pin, it is below the row of five forward facing pins
+described in step 80. Now, when the axle between the wheels is rotated, it will raise and lower the bed!
+84. Find a dark blue 11x3 curved panel and two black 2L pins. Place the panel horizontally long in front of
+you, concave up, with the row of five pin-holes at the back. Place the pins into the upward facing pinholes of the panel, one at the left and one at the right near the end of the panel. Connect this to the dump
+bed by connecting the row of five pin-holes on the panel to the five pins at the front of the dump bed on
+the truck. It should mirror the other 11x3 curved panel.
+85. Find a dark blue 11L thick lift-arm and a black 2L pin. If you are using stickers, this lift-arm will have a
+thin yellow stripe with the phrase “AP TRANSPORT'' on it. Place this on the two upward pointing studs on
+the dump bed. The sticker should be on the left if you are using it. Center it horizontally so there is one
+stud hole to the left and right of the pins in the dump bed. Place the black pin into the far left hole of the
+lift-arm, pointing upwards.
+Now we’ll close off the front of the dump bed of the truck.
+86. Find a dark blue 5L lift-arm and two 3L pins. place the lift-arm vertically long in front of you, and the
+holes pointing upwards. Place the pins, stop down, into the far front and back pin-holes.
+87. Connect another dark blue 5L thick lift-arm in the same orientation, onto the two pins and push it
+down until it touches the first lift-arm.
+88. Find a dark blue 7L thick lift-arm and place it centered vertically onto the pins from step 86. It should
+extend past the 5L lift-arms by 1L on either end. Return to the truck. Find the two upwards pointing studs
+at the left end of the dump bed. Keeping the same orientation, connect the previous piece and the
+assembly you just made to these two studs. It should be all the way at the left of the bed and extend all
+the way to the bottom of the bed.
+89. Find a black 12 tooth gear and place this over the axle between the two wheel pins that houses the
+dump bed mechanism.
+Almost there! Just some wheels and we’ll be ready to go!
+90. Make the four wheels by pressing the black rubber tires over the light gray wheel pieces. The wheels
+have a raised spoke pattern on one side, and a recessed pattern with bolts on the other. With the
+recessed pattern facing out, push one wheel over the wheel pin at each corner of the truck.
+Now the truck is done!! Turn the gear on the top of the truck to turn the wheels and steer the truck. When
+you’re ready to empty the truck bed, turn the gear between the driver’s side wheels to raise and lower the
+bed!
+Thank you so much for building this set!
+There are no ads after the instructions end.
+Visit legofortheblind.com for more accessible instructions and tell your friends about us!

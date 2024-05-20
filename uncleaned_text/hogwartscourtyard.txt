@@ -1,16 +1,55 @@
-30653 BatmanTM 1992
+76401 Hogwarts Courtyard: Sirius’s Rescue
 Set adapted by Alex Charbonneau and tested by Natalie Charbonneau.
-Build the iconic superhero Batman in this polybag! Polybags are great for a quick, relaxing build, or to add
-a new minifigure to your collection! This set includes the caped crusader, and a small portion of a building
-for him to pose on!
-This front of the polybag shows a Batman minifigure standing on the corner of a building at night. He has
-a black cape billowing out behind him, and he wears a mask which covers all of his face except his
-mouth. He has a yellow oval with a bat in the center on his chest, and he holds a batarang – a
-boomerang shaped like the wings of a bat. Gotham CityTM stretches out behind him. A searchlight
-projects a bat symbol on the low clouds over the city. The corner of the building Batman is standing on is
-also made out of LEGO. It is shaped like a gargoyle head with upwards pointing fangs.
-The build is 40 pieces, and 14 building steps.
-Welcome to text-based instructions from Bricks for the Blind. Before you start building, here are some
+Inspire witches, wizards and Muggles aged 8 and up to explore a magical world of imaginative play with
+LEGO® Harry Potter™ Hogwarts™ Courtyard: Sirius’s Rescue (76401).
+This versatile playset is based on memorable scenes from Harry Potter and the Prisoner of Azkaban™. It
+features 3 iconic minifigures – Harry Potter, Hermione Granger™ and Sirius Black™ – and popular
+Buckbeak™ the Hippogriff. Buckbeak has movable wings and room on his back for a minifigure
+passenger. A prison cell high in the Hogwarts tower is the scene for a daring rescue, and Harry’s famous
+Firebolt racing broomstick is there to speed kids to their next magical adventure! The free LEGO Building
+Instructions app lets kids view, zoom and rotate the model as they build, providing an amazing sense of
+immersion and interaction during the construction process. This modular set connects with others in the
+series to create an entire Hogwarts Castle.
+Magical adventures:
+- LEGO® Harry Potter™ Hogwarts™ Courtyard: Sirius’s Rescue (76401) is packed with role-play fun,
+from a daring prison rescue to a thrilling flight on Buckbeak™ the Hippogriff.
+Iconic characters:
+- The set includes Harry Potter™, Hermione Granger™ and Sirius Black™ minifigures and a Buckbeak™
+the Hippogriff figure with movable wings and room on his back for a passenger.
+Imaginative play possibilities:
+- Kids can recreate the iconic rescue scene from Harry Potter and the Prisoner of Azkaban™ and conjure
+up endless enchanting stories of their own.
+Enchanting gift:
+- This action-packed, feature-filled playset makes a magical birthday, holiday or any-day treat for Harry
+Potter™ fans aged 8 and up.
+Lots to explore:
+- This versatile set measures over 12.5 in. (31 cm) high, 8.5 in. (22 cm) wide and 4 in. (10 cm) deep,
+making it fun to build, play with and put on display.
+Magically modular:
+- This toy is one of a series of modular sets that combine to create a complete Hogwarts™ Castle. 2
+random wizard card tiles (of 16 in total) are also included for kids to collect.
+Immersive building experience:
+- The free LEGO® Building Instructions app lets users view, zoom and rotate the model as they build.
+Part of an extensive range:
+- LEGO® Harry Potter™ playsets put favorite characters, familiar locations and magical adventures into
+the hands of all young wizards, witches and muggles.
+The box is a deep blue. On the front right corner is an image of Harry, Hermione, and Ron from the film. A
+swish of magic curves around the border of the box. Inside of the curve is an image of the Hogwarts
+courtyard. Harry Potter rides on a flying Buckbeak, a white griffin, up to a window beneath a tall spire.
+Sirius Black waves at Harry from behind the spire. Hermione stands on a wall, one floor below, holding
+her wand at the ready!. Fines grow up the walls of the tan castle. A spiral staircase can be seen climbing
+up to the top of the spire. The front left of the box shows the included minifigures: Sirius Black, Harry
+Potter, and Hermione Granger.
+The top of the box shows a life sized image of the Sirius Black minifigure, as well as a scene with all three
+minifigures.
+The back of the box shows the detail of the rear of the courtyard, with Sirius Black escaping on Buckbeak.
+The courtyard has three stories, with a spiral staircase connecting the ground floor to the second story,
+where a broom sits propped up next to a writing desk. The top floor only has one room, a jail cell! There
+are three inset pictures: the first shows Sirius Black in the jail cell, The second shows Hermione and Harry
+feeding a drumstick to Buckbeak, the third shows Harry flying his broom in the courtyard while Hermione
+looks on nervously.
+The build is 345 pieces, and 121 building steps.
+Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 - In Front of/Front: towards you.
 - Behind/Back: away from you.
@@ -29,11 +68,10 @@ the right, the technic connector of the second piece should point to the back, s
 symmetrically.
 - Centered-vertically: even amount of space in front of and behind the piece
 - Centered-horizontally: even amount of space left and right of the piece.
-- Row: studs lined up horizontally (left to right/side to side).
-- Column: studs lined up upright or vertically (top to bottom/back to front).
+- Row: studs lined up from left to right.
 For builders with low vision, or a sighted building partner who may want to follow along with the printed
 visual instructions that come with each kit, PDF versions are always online at LEGO.com:
-(https://www.lego.com/en-us/service/buildinginstructions/30653) As low vision users may benefit
+(https://www.lego.com/en-us/service/buildinginstructions/76398) As low vision users may benefit
 from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
 Sorting the pieces:
@@ -44,91 +82,594 @@ pieces for each step easier. See below on how to sort the pieces to correspond t
 Number the containers using letters A-Z, numbers or meaningful names. The parts will be sorted into one
 or a small number of steps in the instructions. Example: Steps 1-3 means collect all the parts used in
 steps 1, 2 and 3, and put them in one container.
-This LEGO set comes with one unlabeled bag, and an instruction booklet. Sort the pieces into groups as
-described below. Note that where there are multiple colors of the same brick in a step, the colors will be
-split across two groups to make telling the difference easier for the builder! LEGO includes a few spare
-parts in case you lose something. Set these into their own group away from the rest, in case you need
-them later.
-Bag 1 (3 groups of bricks)
-Minifigure group 1 contains the pieces to build the Batman minifigure, and a batarang. Ask your builder if
-they’d like you to attach the head to the torso to get the alignment correct!
+This LEGO set comes with three bags labeled 1-3, a sticker sheet, and an instruction booklet. Sort the
+pieces into groups as described below. Note that where there are multiple colors of the same brick in a
+step, the colors will be split across two groups to make telling the difference easier for the builder! LEGO
+includes a few spare parts in case you lose something. Set these into their own group away from the rest,
+in case you need them later.
+Bag 1 (6 groups of bricks)
+Minifigure group 1 contains the pieces to build the Hermione Granger minifigure, her wand, and her time
+turner.
 Main build:
-Group 1 contains the pieces for steps 1-7.
-Group 2 contains the pieces for steps 8-14.
+Group 1 contains the pieces for steps 1-8.
+Group 2 contains the pieces for steps 9-13.
+Group 3 contains the pieces for steps 14-19.
+Group 4 contains the pieces for steps 20-27.
+Group 5 contains the pieces for steps 28-32.
+Group 6 contains the pieces for steps 33-39.
+Bag 2 (9 groups of bricks)
+Minifigure group 2 contains the pieces to build the Harry Potter minifigure, and his wand.
+Group 7 contains the pieces to complete the steps shown on pages 28-30. These are for completing the
+griffin Buckbeak, and a barrel of food.
+Group 8 contains the pieces for steps 40-41.
+Group 9 contains the pieces for steps 42-44.
+Group 10 contains the pieces for steps 45-52.
+Group 11 contains the pieces for steps 53-59.
+Group 12 contains the pieces for steps 60-61.
+Group 13 contains the pieces for steps 62-63.
+Group 14 contains the pieces for steps 64-67.
+Bag 3 (9 groups of bricks)
+Minifigure group 3 contains the pieces to build the Sirius Black minifigure.
+Group 15 contains the pieces for steps 68-75. Place stickers #1 and #3 for step 71.
+Group 16 contains the pieces for steps 76-81.
+Group 17 contains the pieces for steps 82-88.
+Group 18 contains the pieces for steps 89-91.
+Group 19 contains the pieces for steps 92-97. Place sticker #4 for step 97.
+Group 20 contains the pieces for steps 98-104. Place sticker #5 for step 98.
+Group 21 contains the pieces for steps 105-111. Place sticker #2 for step 109.
+Group 22 contains the pieces for steps 112-121.
 Building Instructions:
 Open bag 1.
 Open minifigure group 1.
-Assemble the Batman minifigure. Start by placing the torso onto the leg piece. The legs are black. The
-torso is black with a yellow oval with a bat on the front and an orange utility belt across the waist. This belt
-is where Batman keeps his many useful gadgets! The torso is printed on both the front and back. On the
-back, you can see a batarang clipped to the back of the utility belt. Place the head on the stud on top of
-the torso. The face has two sides; one side is a normal face and the other has a pair of white eyes above
-the normal eyes. These eyes are designed to show through the holes in the Batman mask! If you have a
-sighted friend helping you build, ask them to make sure the white eyes are at the front. Now place the
-Batman mask with a cape on the head. Place a black batarang in Batman’s hand to complete the
-minifigure!
-Main Build:
+Assemble the Hermione Granger minifigure by attaching the torso to the legs, putting the head on the
+torso, and putting the hair on top. Hermione is wearing a pink hoodie, a hot pink shirt, and blue jeans.
+Hermione holds her wand in her right hand, and the 1x1 tile with a time turner pattern in her left hand.
 Open group 1.
-1.1. We’ll build the corner of a Gotham City skyscraper for Batman to stand on! The corner of the building
-is decorated with a small gargoyle. Start by placing a light gray 3x3 plate in front of you.
-1.2. Place a black 2x2 brick on the previous piece, even with the back right corner.
-2.1. Place a light gray 1x2 inverted slope, with the slope at the front, in front of the right column of the 2x2
-brick from the previous step. Place another, with the slope at the left, to the left of the back row of the 2x2
-brick from the previous step.
-2.2. Place a dark gray 1x1 brick to the left of the front piece from the previous step. Place another in front
-of the left piece from the previous step. Now, only the front left stud of the 3x3 plate from step 1.1 should
-be exposed.
-3. Place a light gray 2x2 double inverted slope, with slopes at the front and the left, to the left of the front
-piece from the previous step. It should be on the last remaining stud of the 3x3 plate.
-4. Place a dark gray 4x4 plate on top of the build.
-5.1. Place a dark gray 1x2 plate with rounded ends, horizontally long, on the rightmost two studs on the
-back row of the previous piece.
-5.2. Place a black 1x2 plate with a horizontal clip on one short side, with the clip at the right, in front of the
-previous piece. The clip should overhang the 4x4 plate to the right.
-6.1. Place a light gray 2x2 tile with two studs, with the studs at the right, in front of the previous piece.
-Place another, with the studs at the back, on the left two rows of the 4x4 plate, even with the back.
-6.2. Place a light gray 1x1 circular plate in front of the right stud on the left piece from the previous step.
-7.1. Place a dark gray 1x1 slope tile, with the thick side at the right, in front of the 1x1 circular plate from
-the previous step. Place another, with the thick side at the back, to the left of the 1x1 circular plate from
-the previous step.
-7.2. Attach the center hand hold of a black batarang to the clip on the right side of the build.
+1.1. We’ll start by building the courtyard wall. This extends from the first floor of the spire. Place a dark tan
+8x8 angled corner plate in front of you, with the corner at the back right.
+1.2. Place a light gray 1x2 brick with two pin-holes on the side, vertically long, even with the back right
+corner of the previous piece.
+2.1. Place a tan 2x6 plate, horizontally long, to the left of the previous piece.
+2.2. Place a light gray 1x2 brick with two pin-holes on the side, vertically long, to the left of the previous
+piece. It should overhang the 8x8 angled corner plate slightly on the front.
+3. Place a tan 1x1 slope tile with a 1x1 plate on one side, to the right of the previous piece with the slope
+at the back. Place five more to the right of the first in a horizontal row.
+4.1. Place two light brown 1x1 circular plates on the row in front of the 2x6 plate, one on the leftmost stud,
+and one on the third stud from the right. Place another light brown 1x1 circular plate on the left one you
+just placed.
+4.2. Place a green 1x1 circular plate with three leaves on the right 1x1 circular plate from the previous
+step, with the leaves at the front.
+5. Place a brown 2x6 plate with two rounded corners, horizontally long with the round corners at the front,
+on the plates of the slope tiles. The front of this piece should attach to the pieces from the previous step.
+6. Place a tan 2x2 corner brick, oriented like a Braille letter H, on the back left stud of the previous piece,
+extending one stud to the left, and one stud behind. It should be on top of the 1x2 brick with two pinholes. Place another tan 2x2 corner brick symmetrically on the right side of the wall.
+7.1. Place a tan 1x2x3 tall slope on the left column of the left piece from the previous step, with the slope
+at the back. Place another symmetrically on the right side of the wall.
+7.2. Place a tan 1x1 brick with a stud on one side to the right of the left piece from the previous step, with
+the side stud at the front.
+7.3. Place a light brown 1x1 brick to the left of the right tall slope.
+8.1. Place a tan 1x1 brick with a stud on one side on the previous piece, with the side stud at the front.
+8.2. Place a light brown 1x1 brick on the left 1x1 brick with a stud on the side. This piece should be at the
+same height as the previous piece.
 Open group 2.
-8. Place a black 2x2 brick on the build, even with the back right corner.
-9.1. Place a dark gray 1x2 masonry brick, horizontally long, in front of the 2x2 brick from the previous
-step. A masonry brick has a brick wall pattern on one side, and horizontal grooves on the other side. The
-side with vertical and horizontal grooves should be at the front. Place another masonry brick, vertically
-long with the vertical and horizontal grooves at the left, to the left of the 2x2 brick from the previous step.
-9.2. Place a dark gray 1x1 brick to the left of the front piece from the previous step.
-10. Place a light gray 3x3 plate on the raised part of the build, even with the back right corner.
-11. Place a dark gray 2x2 tile with a stud, on the front two rows of the previous piece, even with the left
+9.1. Place a tan 1x3x3 half arch on the previous piece, with the arch on the right. Place another half arch
+symmetrically on the right side so they meet in the middle.
+9.2. Place a light gray 1x1 brick with a pin-hole on the side on the slope to the left of the left piece from
+the previous step, with the hole at the left. Place another symmetrically on the right side of the wall.
+10. Place a tan 1x6x7 arched door frame with round columns, vertically long, with the rounded side of the
+columns at the left, on the right column of the wall, even with the front edge.
+11.1. Place a tan 2x2 corner piece, oriented like a Braille letter D, on the back right corner of the wall. It
+should fit perfectly in a recess on the corner.
+11.2. Place a tan 1x1 brick with an upwards bar on one side on the front right of the wall, with the bar at
+the left. It should fit into the recess at the front of the 1x6x7 arched door frame.
+11.3. Place a tan 1x2 brick with two studs on one side, with the studs at the back, on the back left of the
+wall. It should fit perfectly into a recess at the left of the wall.
+12.1. Place a tan 1x2 inverted slope on the left top stud of the previous piece, with the slope at the back.
+Place another, in the same orientation, on the back right corner of the wall.
+12.2. Place a tan 1x6 brick, vertically long, in front of the previous piece. Its front end should be even with
+the front of the wall.
+12.3. Place a tan 2x2 inverted slope, with the slope at the back, centered horizontally between the two
+previous 1x2 inverted slopes.
+13.1. We’re going to assemble some wall decorations now. Place a tan 1x2 brick with two studs on one
+side in front of you, with the side studs at the front.
+13.2. Place a tan 1x2 jumper plate, horizontally long, on the side studs of the previous piece. A jumper
+plate is a 1x2 plate with a single stud on top, or a 1x3 plate with only two studs on top.
+13.3. Place a gold frog on the previous piece, with the head of the frog pointing up.
+13.4. Repeat steps 13.1-13.4 to create another wall decoration. Rotate both decorations so the frogs are
+at the back.
+13.5. Place one decoration to the left of the 2x2 inverted slope, and another to the right. The frogs should
+be at the back of the wall.
+Open group 3.
+14.1. Place a dark tan 2x2 corner tile, oriented like a Braille letter H, on the left end of the wall, aligned
+with the wall. Place another 2x2 corner tile, oriented like a Braille letter D, on the back right corner of the
+wall, aligned with the left and right walls. There should be one exposed stud behind the right column of
+this piece.
+14.2. Place a dark tan 1x1 tile on the wall in front of the previous piece.
+14.3. Place a dark tan 1x4 tile with a stud on each end, vertically long, on the wall in front of the previous
+piece. It should align with the front of the wall. Place another dark tan 1x4 tile with a stud on each end,
+horizontally long, on the wall between the two corner tiles. It should fit between them with no gaps.
+15.1. Place a dark tan 1x2 tile, horizontally long, on the inverted slope behind the previous piece.
+15.2. Place a dark tan 1x1 tile in the back right corner on the exposed stud behind the corner tile.
+16.1. Find the two side studs on the front of the left wall. Place a green 1x1 circular plate with three
+leaves on the right side stud, with the leaves pointing down to the left.
+16.2. Place a brown vine with thorns on the left side stud, with the vine climbing up the wall.
+17.1. Now we’ll make a lantern! Find the bar on the right wall, above the front column. Place a transparent
+yellow 1x1 cone, upside down, onto the bar, attaching it by pushing the stud on the cone down over the
+bar.
+17.2. Place a black 1x1 circular plate, with the stud down, onto the top of the previous piece. Rotate the
+wall 180 degrees, so the wall with the frogs is at the front.
+18.1. Find the two side studs on the front of the right wall, at the top right. Place a green 4x3 plant leaves
+on the left of these two side studs. Attach the plant with the stem on the side stud with the leaves hanging
+down and to the left.
+18.2. Place a light green 1x1 circular plate with a flower pattern on the one of the right two studs of the
+previous piece. It doesn’t matter which one, so pick whichever one you like!
+19. Place an olive green 1x2 curved slope tile, horizontally long, on the right side stud on the front wall,
+with the cut out at the left and attached to the leaf piece. The first portion of the wall is done! Set it aside
+from now.
+Open group 4.
+20.1. Now we’ll start the second portion of the wall, which is almost a mirror of the first. Place a dark tan
+8x8 angled corner plate in front of you, with the corner at the back left.
+20.2. Place a light gray 1x2 brick with two pin-holes on the side, vertically long, even with the back left
+corner of the previous piece.
+21.1. Place a tan 2x6 plate, horizontally long, to the right of the previous piece.
+21.2. Place a light gray 1x2 brick with two pin-holes on the side, vertically long, to the right of the previous
+piece. It should overhang the 8x8 angled corner plate slightly on the front.
+22. Place a tan 1x1 slope tile with a 1x1 plate on one side, to the left of the previous piece with the slope
+at the back. Place five more to the left of the first in a horizontal row.
+23.1. Place a green 1x1 circular plate with three leaves in front of the 2x6 plate, on the third column from
+the left, with the leaves at the front.
+23.2. Place a light brown 1x1 circular plate on the previous piece. Place another light brown 1x1 circular
+plate on the row in front of the 2x6 plate, on the rightmost stud. Stack another circular plate on the
+previous piece.
+24. Place a brown 2x6 plate with two rounded corners, horizontally long with the round corners at the
+front, on the plates of the slope tiles. The front of this piece should attach to the pieces from the previous
+step.
+25. Place a tan 2x2 corner brick, oriented like a Braille letter H, on the back left stud of the previous piece,
+extending one stud to the left, and one stud behind. It should be on top of the 1x2 brick with two pinholes. Place another tan 2x2 corner brick symmetrically on the right side of the wall.
+26.1. Place a tan 1x2x3 tall slope on the left column of the left piece from the previous step, with the slope
+at the back. Place another symmetrically on the right side of the wall.
+26.2. Place a tan 1x1 brick with a stud on one side to the right of the left piece from the previous step,
+with the side stud at the back.
+26.3. Place a light brown 1x1 brick to the left of the right tall slope.
+27.1. Place a tan 1x1 brick with a stud on one side on the previous piece, with the side stud at the back.
+27.2. Place a light brown 1x1 brick on the left 1x1 brick with a stud on the side. This piece should be at
+the same height as the previous piece.
+Open group 5.
+28.1. Place a tan 1x3x3 half arch on the previous piece, with the arch on the right. Place another half arch
+symmetrically on the right side so they meet in the middle.
+28.2. Place a light gray 1x1 brick with a pin-hole on the side on the slope to the left of the left piece from
+the previous step, with the hole at the left. Place another symmetrically on the right side of the wall.
+29. Place a tan 1x6x7 arched door frame with round columns, vertically long, with the rounded side of the
+columns at the right, on the left column of the wall, even with the front edge.
+30.1. Place a tan 2x2 corner piece, oriented like a Braille letter F, on the back left corner of the wall. It
+should fit perfectly in a recess on the corner.
+30.2. Place a tan 1x1 brick with an upwards bar on one side on the front left of the wall, with the bar at the
+right. It should fit into the recess at the front of the 1x6x7 arched door frame.
+30.3. Place a tan 1x2 brick with two studs on one side, with the studs at the front, on the back right of the
+wall. It should fit perfectly into a recess at the right of the wall.
+31.1. Place a tan 1x2 inverted slope on the right top stud of the previous piece, with the slope at the back.
+Place another, in the same orientation, on the back left corner of the wall.
+31.2. Place a tan 1x6 brick, vertically long, in front of the previous piece. Its front end should be even with
+the front of the wall.
+31.3. Place a tan 2x2 inverted slope, with the slope at the back, centered horizontally between the two
+previous 1x2 inverted slopes.
+32.1. We’re going to make some more of the frog decorations. Place a tan 1x2 brick with two studs on
+one side in front of you, with the side studs at the front.
+32.2. Place a tan 1x2 jumper plate, horizontally long, on the side studs of the previous piece.
+32.3. Place a gold frog on the previous piece, with the head of the frog pointing up.
+32.4. Repeat steps 13.1-13.4 to create another wall decoration. Rotate both decorations so the frogs are
+at the back.
+32.5. Place one decoration to the left of the 2x2 inverted slope, and another to the right. The frogs should
+be at the back of the wall.
+Open group 6.
+33.1. Place a dark tan 2x2 corner tile, oriented like a Braille letter J, on the right end of the wall, aligned
+with the wall. Place another 2x2 corner tile, oriented like a Braille letter F, on the back left corner of the
+wall, aligned with the left and right walls. There should be one exposed stud behind the left column of this
+piece.
+33.2. Place a dark tan 1x1 tile on the wall in front of the previous piece.
+33.3. Place a dark tan 1x4 tile with a stud on each end, vertically long, on the wall in front of the previous
+piece. It should align with the front of the wall. Place another dark tan 1x4 tile with a stud on each end,
+horizontally long, on the wall between the two corner tiles. It should fit between them with no gaps.
+34.1. Place a dark tan 1x2 tile, horizontally long, on the inverted slope behind the previous piece.
+34.2. Place a dark tan 1x1 tile in the back left corner on the exposed stud behind the corner tile.
+35.1. Find the two side studs on the front of the right wall. Place a green 4x3 plant leaves on the left of
+these two side studs. The plant leaves piece has one stud which forms the point of a letter V, use this
+stud to attach it to the side stud, and have the leaves hang down and to the left.
+35.2. Place a light green 1x1 circular plate with a flower pattern on the one of the right two studs of the
+previous piece. It doesn’t matter which one, so pick whichever one you like!
+36.1. We’re going to make a lantern now, just like we did on the other wall section. Find the bar on the
+right wall, above the front column. Place a transparent yellow 1x1 cone, upside down, onto the bar,
+attaching it by pushing the stud on the cone down over the bar.
+36.2. Place a black 1x1 circular plate, with the stud down, onto the top of the previous piece.
+37.1. Place an olive green 1x2 curved slope tile, horizontally long, on the right side stud on the front wall,
+with the cut out at the left and attached to the leaf piece.
+37.2. Find the pin-holes on the right edge of the right wall. There should be one to the right of the leaves,
+and two at the bottom. Place a light gray 2L pin into the top pin-hole, pushing it in from the right. Place
+another light gray 2L pin into the front pin-hole at the bottom, again pushing it in from the right. Rotate the
+wall 180 degrees so the frog decoration is at the front.
+38.1. Find the two side studs on the front of the left wall, on either side of the arch. Place a green 1x1
+circular plate with three leaves on the right side stud, with the leaves pointing down to the left.
+38.2. Place a brown vine with thorns on the left side stud, with the vine climbing up the wall. Rotate the
+wall so the frog decorations are at the back.
+39. Place the first wall portion, with the frogs at the back, to the right of the second wall portion. Align the
+pins on the second wall portion with the holes on the first wall portion. These holes are on the left end of
+the left wall. Connect these two sections together by pushing the pins from the second portion into the
+holes on the first.
+Open Bag 2.
+Open minifigure group 2.
+Assemble the Harry Potter minifigure by attaching the torso to the legs, putting the head on the torso, and
+putting the hair on top. Harry is wearing a dark blue hoodie, a torn light blue shirt, and khaki pants. Put his
+wand in his left hand.
+Open group 7.
+Sub-build 1: Buckbeak
+1. Place the white griffin body in front of you, with the head at the left.
+2.1. Place a white 2x2 plate on the studs on Buckbeak’s body.
+2.2. Place a white 1x2 plate with two vertical clips on one side, with the clips at the front, on the front row
+of the previous piece. Place another symmetrically behind the first.
+2.3. Place a white 2x2 tile with two studs, on the previous pieces, with the studs at the left.
+3. Attach Buckbeak’s wings by clipping the bar at the thickest part of the wing onto the clips on the sides
+of his body. The wings are not interchangeable, they should curve up at the very end, and the feathers
+should be at the right (away from Buckbeak’s head).
+Sub-build 2: Food barrel.
+1. Now we’ll make a snack for Buckbeak! Place a dark tan 4x4 circular plate in front of you.
+1.2. Place a brown barrel, centered horizontally, on the back two rows of the previous piece.
+2.1. Place a green 1x1 circular plate with three leaves in front of the left stud of the previous piece, with
+the leaves at the front.
+2.2. Place a light green 1x1 circular plate with a flower pattern on both sides of the barrel.
+3. Place a light brown drumstick in the barrel, or on the stud of the green circular plate with leaves.
+Open group 8.
+Main build: Continued
+40. With the wall in front of you with the frog decorations at the back, find the pin-holes on the left edge of
+the left wall. There should be one near the top, and two at the bottom. Place a light gray 2L pin into the
+top pin-hole, pushing it in from the left. Place another light gray 2L pin into the front pin-hole at the
+bottom, again pushing it in from the left.
+41.1. Now we’ll build the roof of the wall. This is flat, with a low wall on one side. Set the wall aside for
+now. Place a dark tan 8x8 angled corner plate in front of you, with the corner at the back right.
+41.2. Place a tan 1x1 brick on the back right corner of the previous piece.
+41.3. Place a green 4x3 plant leaves, horizontally long, in front of the previous piece. Place it so it is even
+with the right edge of the roof, the stud which forms the point of a letter V should be at the left.
+41.4. Place a sand green 1x4 plate, vertically long, in front of the right stud of the previous piece.
+41.5. Place a light green 1x1 circular plate with a flower pattern in front of the previous piece
+41.6. Place a tan 1x1 brick in front of the previous piece. It should be on the front right stud of the roof.
+41.7. Place a sand green 1x2 slope tile, vertically long, behind the previous piece, with the thick side at
+the left. Place two more in a row behind the first, in the same orientation so they span between the two
+1x1 bricks.
+41.8. Place a tan 1x1 pyramid tile on each of the 1x1 bricks. Rotate the roof so the low wall of slope tiles
+is at the back.
+Open group 9.
+42. Place the wall in front of you, with the frog decorations at the back. Place the roof we just made on the
+left half of the wall, with the back left corner of the roof even with the back left corner of the wall.
+43.1. Now we’ll make the roof for the right half of the wall. This assembly is essentially a mirror of the left
+side. Again, place the wall aside for now. Place a dark tan 8x8 angled corner plate in front of you, with the
+corner at the back left.
+43.2. Place a tan 1x1 brick on the back left corner of the previous piece.
+43.3. Place a green 4x3 plant leaves, horizontally long, in front of the previous piece. Place it so it is even
+with the left edge of the roof, the stud which forms the point of a letter V should be at the right. Place a
+brown flower base with three stems and a bar on the bottom into the hole on the right stud of the previous
+piece, with the three stems on top.
+43.4. Place a sand green 1x4 plate, vertically long, in front of the left stud of the previous piece.
+43.5. Place a light green 1x1 circular plate with a flower pattern in front of the previous piece
+43.6. Place a tan 1x1 brick in front of the previous piece. It should be on the front left stud of the roof.
+43.7. Place a sand green 1x2 slope tile, vertically long, behind the previous piece, with the thick side at
+the right. Place two more in a row behind the first, in the same orientation so they span between the two
+1x1 bricks.
+43.8. Place a tan 1x1 pyramid tile on each of the 1x1 bricks. Rotate the roof so the low wall of slope tiles
+is at the back.
+44. Now put the wall back in front of you with the frogs at the back. Put the right roof assembly on the
+right side of the wall, with the back right corner even with the back right of the wall.
+Open group 10.
+45.1. Now we will build the spiral staircase! This is the room next to the wall of the courtyard on the
+ground floor. Place a dark tan 8x8 lattice plate in front of you.
+45.2. Place a light brown 1x1 brick on the back right corner of the previous piece.
+46. Place a light gray 1x1 brick with a pin-hole on the side in front of the 1x1 from the previous step, with
+the hole at the side. Place another to the left of the 1x1 from the previous step, with the hole at the front.
+47. Place a tan 1x6x7 arched door frame with round columns, horizontally long, to the left of the previous
+piece, with the round side of the columns at the front.
+48. Place a tan 2x2 circular brick on the three 1x1 bricks to the right of the previous piece. Stack three
+more circular bricks on top of the first one.
+49.1. Place a light brown 1x1 brick on the back right corner of the previous piece.
+49.2. Place a light gray 1x1 brick with a pin-hole on the side in front of the 1x1 from the previous step,
+with the hole at the side. Place another to the left of the 1x1 from the previous step, with the hole at the
+front.
+50. Place a light brown 1x1 brick in front of the previous piece. The last four pieces should all be on top of
+a 2x2 circular brick.
+51. Place a tan 1x6x7 arched door frame with round columns, vertically long, on the right column of the
+8x8 lattice plate, with the round side of the columns at the left.
+52. Place a tan 3x3 angled corner brick with a cut out on the back right corner of the walls, with the angle
+at the front left. It should connect to both arched door frames, and there should be three exposed studs
+behind it, oriented like a Braille letter D.
+Open group 11.
+53.1.Place a light gray 1x1 brick with a pin-hole on the side, on the left column of the lattice plate, in front
+of the arched door frame, with the hole at the side.
+53.2. Place a light brown 1x1 brick on the previous piece.
+53.3. Place a tan 1x1x3 tall brick on the previous piece.
+53.4. Place a light gray 1x1 brick with a pin-hole on the side, on the previous piece, with the hole at the
 side.
-12.1. Now we’ll start the gargoyle. Place a light gray 1x1 circular plate in front of you.
-12.2. Place a light gray 1x1 brick with studs on all four sides on the previous piece.
-12.3. Place a light gray 1x1 circular plate on the front side stud of the previous piece.
-12.4. Place a light gray 1x1 plate with a short bar on one side, with the bar on top, on the right side stud
-of the 1x1 brick with studs on all four sides. Place another, symmetrically, on the left.
-12.5. Attach a light gray triangle with a clip on one side to each of the bars. Attach them so one point of
-the triangle is at the back, and one side of the triangle forms a vertical line at the front. Once they are
-attached, hinge them so they angle towards each other. These are the wings of the gargoyle, folded up in
-a resting position.
-12.6. Now, attach the gargoyle to the front left stud on the main build. It should be placed at a 45 degree
-angle, with the sideways 1x1 circular plate at the front left.
-13.1. Now we’ll build the gargoyle’s head! Place a light gray pair of minifigure binoculars in front of you.
-The binoculars are made up of two bars connected to each other. One end of each bar is thick and
-hollow. This hollow end can accept a bar. There is a cutout for a stud on one side of the binoculars. Put
-two silver claws, one in each hollow bar on the binoculars. These form the horns, and the binoculars form
-the face of the gargoyle. The horns should curve towards the stud cutout on the binoculars.
-13.2. Attach the head assembly to the main build, attaching the cutout on the binoculars to the sideways
-1x1 circular plate on the front left of the building, with the horns pointing up.
-14.1. Place a dark gray 1x1 slope tile, with the thick side at the left, on the front stud on the rightmost
-column on top of the build. Place another, with the thick side at the front, on the leftmost stud on the back
-row on top of the build.
-14.2. Place a dark gray 1x2 plate with rounded ends onto the 2x2 tile with a single stud on the top of the
-build. Attach it to this piece so it is centered on the piece, and is at a 45 degree angle to the rest of the
-build, with a stud at the front right and back left.
-15. Attach the Batman minifigure to the previous piece. He should be standing over the gargoyle and
-looking to the front left.
-Congratulations! Now the Batman 1992 polybag is complete!
+54.1. Place a light gray 1x1 brick with a pin-hole on the side, on the front row of the lattice plate, to the left
+of the arched door frame, with the hole at the front.
+54.2. Place a light brown 1x1 brick on the previous piece.
+54.3. Place a tan 1x1x3 tall brick on the previous piece.
+54.4. Place a light gray 1x1 brick with a pin-hole on the side, on the previous piece, with the hole at the
+front.
+55.1. Place a tan 1x2 brick, horizontally long, on the previous piece, extending right so it is even with the
+right edge of the room. Place another, vertically long, on the wall at the back left, even with the back left
+edge of the wall.
+55.2. Place a tan 2x2 corner brick, oriented like a Braille letter D, on the wall at the back right. It should fit
+into the recess of the 3x3 angled corner brick from step 52.
+56. Place a tan 1x4 brick, vertically long, on the right wall, even with the front of the room. Place another
+behind the first. Place a third, horizontally long, on the wall to the left of the back stud of the second 1x4
+brick.
+57.1. Place a light brown 1x1 brick to the left of the previous piece.
+57.2. Place a tan 1x2 inverted slope to the left of the previous piece, with the slope at the front.
+58.1. Place a tan 1x2 brick, vertically long, to the left of the previous piece, even with the back left of the
+wall.
+58.2. Place a tan 1x3 inverted slope on the wall to the left of the front stud of the front 1x4 brick, with the
+slope at the left.
+59.1. Place a dark tan 2x2 corner tile, oriented like a Braille letter J on the rightmost stud of the previous
+piece, aligned with the front right corner of the wall. Place another, oriented like a Braille letter D, on the
+back right corner of the wall.
+59.2. Place a dark tan 1x2 tile, horizontally long, on the wall to the left of the previous piece.
+59.3. Place a dark tan 1x4 tile with a stud at each end, horizontally long on the wall to the left of the
+previous piece. Place another, vertically long, on the wall between the two corner tiles.
+Open group 12.
+60.1. Place a dark gray 2x2 tile with a single stud in the center, on the front left corner of the room,
+aligned with the front and left corners.
+60.2. Place a dark gray 1x3 tile, vertically long, behind the previous piece on the leftmost column of the
+room.
+60.3. Place a dark gray 1x1 plate behind the previous piece.
+60.4. Place a light green 1x1 circular plate with a flower pattern on the stud of the 2x2 tile at the front left
+corner.
+61. Now we’ll start on the spiral staircase! Place a black 1x1 round brick on the previous piece. Stack six
+more on top of the first. This will be the central core of the staircase.
+Open group 13.
+62. Slide a light brown spiral stair step down over the stack of round bricks from the previous step, fitting
+the circular portion of the step over the round bricks and having the smooth face of the step on top. Slide
+it all the way to the bottom, placing the triangular portion over the 1x1 plate on the left column of the floor.
+The stud on the plate will prevent the bottom stair from spinning freely.
+63. Slide ten more spiral stair steps directly over the first, in the same orientation. The steps have small
+stops inside of them that stops their rotation at just the right angle to make the staircase spiral upwards
+without gaps! Stacking them on top of each other like this makes sure all of the stops are aligned
+properly.
+Open group 14.
+64. Place a tan 2x2 plate on the 1x1 round brick sticking out of the top of the spiral stairs. The round brick
+should attach to the anti-stud in the center of the brick, not one at the corners. “Anti-stud” is a term for the
+portion of a LEGO piece which accepts studs, like the bottom of a plate. You can feel this by finding the
+small circle on the bottom of the plate, this is the center one!
+65. Place a dark tan 1x6 tile, horizontally long, on the front row of the previous piece, even with the left
+edge. It should attach to a 1x3 inverted slope on the right side. Place another 1x6 tile, vertically long,
+behind the left stud of the previous piece. Place another, vertically long, to the right of the previous piece.
+These two should attach to two studs extending from the back wall.
+66. Now we’ll open the staircase! Take the top spiral step, and rotate it counterclockwise until it stops.
+The stops on the top step will lock with the step below it and pull it around with it, and so on down the
+staircase.
+67. Now place the wall in front of you, again with the frog decorations at the back. Find the two pins
+extending to the left on the wall. Align the front of the room with the staircase with the front of the wall,
+and connect the holes on the back right corner of the staircase room to the pins on the left side of the
+wall.
+Open bag 3.
+Open minifigure group 3.
+Assemble the Sirius Black minifigure by attaching the torso to the legs, putting the head on the torso, and
+putting the hair on top. Sirius is wearing a tattered gray and tan prison uniform. He has long brown hair
+and a brown beard.
+Open group 15. This group contains two stickers for step 71.
+68.1. Now we’ll start building the second story room, so set the first story aside for now. Place a dark tan
+2x6 plate vertically long in front of you.
+68.2. Place a light gray 1x2 brick with two pin-holes on the side, vertically long, on the back two studs on
+the left column of the previous piece.
+69. Find a light brown 1x2 masonry brick. A masonry brick has a brick wall pattern on one side, and
+horizontal grooves on the other side. Place this horizontally long, to the right of the back stud of the
+previous piece. The side with both horizontal and vertical grooves should be at the back.
+70.1. Place a dark tan 6x6 rounded corner plate under the previous piece, to the right of the 2x6 plate,
+with the corner at the front left.
+70.2. Place a light brown 1x1 brick to the right of the masonry brick.
+71. Place a tan 4x4x6 quarter cylinder with two stickers on it, to the right of the previous piece, aligned
+with the rounded corner plate. The sticker on the inside shows a tan and brown Hogwarts crest. The
+sticker on the outside shows a brick pattern with a brown and green vine growing up the side of the wall.
+72. Place a tan 1x3 brick, vertically long, in front of the previous piece, even with the right end of the floor.
+73. Place a dark tan 2x8 plate, horizontally long, under the previous piece, even with the left and right
+edges of the floor.
+74.1. Place a light gray 1x2 brick with two pin-holes on the side, horizontally long, on the front right corner
+of the floor.
+74.2. Place a dark tan 2x3 tile, vertically long, in front of the masonry brick on the back wall. Place
+another dark tan 2x3 tile, horizontally long, behind the front 1x2 brick with two pin-holes, and to the left of
+the 1x3 brick on the right wall.
+74.3. Place a brown 3x3 rounded corner plate to the left of the previous piece, with the corner at the back
+right, extending one stud behind the previous piece so it touches the first 2x3 tile.
+75. Place a brown 2x2 top half dome on the back right two studs of the previous piece. This will be the
+base of a writing table.
+Open group 16.
+76.1. Now we’ll build the table itself. Place a brown 2x6 plate horizontally long in front of you.
+76.2. Place a gold 1x1 circular plate on the front left stud of the previous piece.
+77.1. Place a black 1x1 tile with a clip on top on the back right stud of the 2x6 plate, with the clips oriented
+vertically. Place another on the third stud from the left on the back row of the 2x6 plate. Place this piece
+with the clips oriented vertically, then rotate it clockwise on the stud 45 degrees.
+77.2. Place a white feather into the first 1x1 tile with a clip from the previous step. To do this, lay the
+feather so it is horizontally long with the feathers at the left, with the feathers sticking up perpendicular to
+the plate. There is a tiny bar all the way at the right on the feather, and a thicker bar to the left of the tiny
+one. Attach the thicker bar to the clip.
+78.1. Find a white candle. A candle is a 2L cylinder with a short bar sticking out on one end, and a hole
+for a bar on the other end. Attach the candle to the 1x1 circular plate at the front left by pushing the bar of
+the candle down through the hole on the stud of the 1x1 circular plate.
+78.2. Place a transparent orange flame into the hole on the top of the candle.
+79. Place a brown 1x2 brick with a log pattern, vertically long, on the leftmost column of anti-stud on the
+bottom of the 2x6 plate. Rotate the table so it is at a 45 degree angle to you, with the candle at the back
+right.
+80. Now we’ll attach the plate to the half dome, which is one support for the table. On the bottom of the
+2x6 plate of the table, there are five circles of anti-stud like we saw under the 2x2 plate earlier. Attach the
+furthest left circle of anti-stud to the top of the half dome. The 1x2 log with a log pattern should sit on the
+smooth portion of the 4x4x6 quarter circle.
+81.1. Now we’ll make a broomstick, complete with kickstand. First place a light brown 4L antenna,
+horizontally long, in front of you, with the anti-stud at the left.
+81.2. Place a light gray 1x1 plate with a vertical clip on one side, sideways on the anti-stud on the
+previous piece, with the clip on top.
+81.3. Place a light gray pair of handcuffs into the clip, with the cuffs at the right and parallel to the ground.
+This represents the kickstand for the broom.
+81.4. Place a dark brown broom bristles piece into the anti-stud of the 1x1 plate with a clip to complete
+the broom! Rotate the broom so the bristles are at the left.
+81.5. Attach the broom to the angled clip on the table, with the bristles at the left and the clip attached
+about midway down the broom handle.
+Open group 17.
+82. Place a tan 1x4x5 wall panel, vertically long with the smooth side at the left, on the right wall in front of
+the 4x4x6 quarter cylinder. Place another, horizontally long with the smooth side at the front, on the back
+wall to the left of the quarter cylinder.
+83.1. Place a tan 1x1x3 tall brick in front of the left stud of the previous piece, on the 1x2 brick with two
+pin-holes.
+83.2. Place a light brown 1x1 brick on the previous piece.
+83.3. Place a light gray 1x1 brick with a pin-hole, on the previous piece, with the hole at the side.
+84.1. Place a light brown 1x1 brick to the left of the front stud of the right 1x4x5 wall panel, on the 1x2
+brick with two pin-holes.
+84.2. Place a tan 1x1x3 tall brick on the previous piece.
+84.3. Place a light gray 1x1 brick with a pin-hole, on the previous piece, with the hole at the front.
+85.1. Place a tan 1x2 brick, horizontally long, on the previous piece, extending right so it is even with the
+right wall.
+85.2. Place a tan 1x4 brick, vertically long, behind the right stud of the previous piece.
+85.3. Place a tan 1x2 brick, vertically long, on the back left edge of the wall.
+85.4. Place a tan 1x4 brick, horizontally long, to the right of the back stud of the previous piece.
+85.5. There should be one exposed stud on the top of the 4x4x6 quarter cylinder. Place a light brown 1x1
+brick on this stud, angled 45 degrees so it is roughly aligned with the curve of the piece below it.
+86.1. Place a tan 1x4 brick, horizontally long, on the back wall, even with the left edge.
+86.2. Place a tan 3x3 rounded corner brick with a rounded cut out, to the right of the previous piece,
+aligned with the 4x4x6 quarter cylinder.
+86.3. Place a tan 1x2 brick, vertically long, on the wall in front of the previous piece.
+86.4. Place a light brown 1x2 masonry brick, vertically long, in front of the previous piece. The side with
+both horizontal and vertical grooves should be at the right.
+87. Place a tan 1x1x6 rounded column on the front left stud of the room.
+88. Place a tan 2x2 double inverted slope on the previous piece, with the slopes at the back and right.
+Open group 18.
+89.1. Place a tan 1x6 arch, horizontally long, on the front right stud of the double slope from the previous
+step, extending to the right so it connects to the right wall of the room. Place another 1x6 arch, vertically
+long, on the back left stud of the double slope from the previous step, extending back so it connects to the
+back wall of the room.
+89.2. Place a light brown 1x1 brick on the front left corner of the 2x2 inverted double slope.
+90.1. Place a dark tan 2x2 corner tile, oriented like a Braille letter H, on the previous piece, even with the
+front and left walls.
+90.2. Place a dark tan 1x6 tile, horizontally long, on the wall to the right of the corner tile from the previous
+step. Place another 1x6 tile, vertically long, on the wall behind the corner tile from the previous step.
+90.3. Place a dark tan 1x4 tile with a stud at each end, horizontally long, on the wall to the right of the
+previous piece. Place another 1x4 tile with a stud at each end, vertically long, on the wall behind the front
+1x6 tile.
+90.4. Place a dark tan 1x1 tile on the exposed stud on the rounded corner brick at the back right part of
+the wall. Angle it 45 degrees so it is roughly aligned with the piece below it.
+91. Now place the first story in front of you, with the frogs at the back, and the spiral staircase at the left.
+Attach the second story room to the first story, even with the front left corner. It should attach to the left of
+the roof over the courtyard walls.
+Open group 19. Place a sticker on a piece for step 97.
+92.1. Now we’ll start building the jail cell on the third story. Set the rest of the build aside for now. Place a
+tan 2x6 plate with two rounded corners, horizontally long, in front of you with the rounded corners at the
+back.
+92.2. Place a tan 1x2 brick, horizontally long and centered horizontally, on the back row of the previous
+piece.
+93. Place a dark gray 2x4 plate, horizontally long and centered horizontally, in front of the previous piece.
+94. Place a tan 2x6 plate with two rounded corners, horizontally long and centered horizontally, under the
+previous piece, extending one stud to the front, with the rounded corners at the front. This is the floor of
+the room and it should be an oval. 
+95. Assemble a rectangular window by putting a black 1x2x2 lattice pane into a brown 1x2x2 window
+frame. Place this, horizontally long with the lattice at the back, on the 1x2 brick at the back of the room.
+96. Assemble an arched window by putting a black 1x2x3 arched lattice pane into a brown 1x2x3 arched
+window frame. Place this on the previous piece, with the lattice at the back.
+97. Place a tan 2x2x6 quarter cylinder on the back right two studs of the floor, with the curve portion at
+the back right. It should be aligned with the floor. It has a brick pattern sticker on the outside wall.
+Open group 20.
+98. Place a tan 2x2x6 quarter cylinder symmetrically to the previous piece on the left side of the build.
+This has a more elaborate brick pattern sticker on it.
+99.1. Place a tan 1x1x5 tall brick in front of the right quarter cylinder, on the far right stud of the floor.
+99.2. Place a tan 1x4 arch, horizontally long and centered horizontally, on the back row of studs so it
+goes over the arched window.
+100.1. Place a tan 1x1x3 tall brick in front of the left quarter cylinder, on the far left stud of the floor.
+100.2. Place a tan 1x1 brick with a horizontal clip on one side, on the previous piece with the clip at the
+front.
+100.3. Place a light brown 1x1 brick on the previous piece.
+101.1. Place a tan 1x2 plate, vertically long, on the previous piece, even with the front of the previous
+piece. Place another 1x2 plate on the first.
+101.2. Place a tan 1x1 plate on the front stud of the previous piece.
+101.3. Place a tan 1x1 plate with a stud hanging down from one side, behind the previous piece, with the
+side stud at the back.
+101.4. Place a tan 1x1 slope tile on the side stud on the previous piece, with the thick side at the right.
+102. Repeat steps 101.1-101.4 symmetrically on the right side of the room.
+103.1. Now we’ll assemble the dungeon door. Place a tan 1x4x6 door frame in front of you. The far left
+and right studs on top of the door frame aren’t perfectly circular: they have a small hole cut out of them at
+the front or the back. The cell door will attach into these holes. Rotate the frame so the holes in the studs
+are at the front.
+103.2. Attach the dark gray 1x4x6 cell door onto the previous piece. One side of the cell door has a
+handle centered top to bottom, the other side has a small bump at the top and another at the bottom.
+Attach the side with the bumps to the left side of the frame by pushing it in from the front until it clicks.
+The door should swing open and closed.
+103.3. With the door closed, attach a gold 1x1 circular tile to the stud at the right of the cell door to make
+the handle.
+103.4. Place the completed door, horizontally long with the door handle at the front, on the front four
+studs of the cell.
+104. Place a tan 2x6 plate with two rounded corners, horizontally long, with the rounded side at the front,
+on the previous piece, extending one stud behind the previous piece. Place another symmetrically behind
+it so the two pieces form an oval. This is the base for the roof of Sirius’s cell!
+Open group 21. This contains a sticker for step 109
+105.1. Place a sand green 2x2 double slope on the left two columns of the previous piece, with the slopes
+at the left and at the back. Place another symmetrically on the right side of the cell.
+105.2. Place two sand green 1x2 slopes between the previous two pieces, with the slopes at the back.
+106.1. Place a tan 2x2 brick in front of the two pieces from the previous step.
+106.2. Place a sand green 1x2 slope to the left of the back row of the previous piece, with the slope at the
+left. Place another symmetrically on the right side of the cell.
+107. Place a tan 1x1 slope tile to the left of the front row of the 2x2 brick, with the thick side at the right.
+Place another symmetrically on the right side of the cell.
+108. Place a sand green 4x2x3 half cone on the roof, with the open side at the front. It should be offset
+one stud behind the front of the cell. It should only be connected to slopes.
+109. Place a tan 1x2x3 wall panel with a sticker on the front row of the 2x2 brick, with the flat side at the
+back so the sticker is at the front. It should be directly in front of the half cone from the previous step. The
+sticker shows more brick pattern, as well as a big spider web in one corner.
+110.1. Place a sand green 2x2 jagged cone on the previous piece, extending one row behind so it
+connects to the half cone.
+110.2. Place a sand green unicorn horn into the stud of the previous piece, with the horn pointing up.
+111.1. Place a black 1x1 cone with a bar on top, with the bar pointing down, into the clip on the wall next
+to the cell door. The wide part of the cone should be on top.
+111.2. Place a transparent orange flame into the wide part of the cone to make a torch.
+Open group 22.
+112.1. Now we’ll make the second story roof that the cell stands on. Set the cell aside for now. Place a
+dark tan 2x8 plate, vertically long, in front of you.
+112.2. Place a tan 1x3 plate, horizontally long, on the back row of the previous piece, extending one stud
+to the right.
+113. Place a 6x6 rounded corner piece under the previous piece, with the corner at the front left. The
+back of the rounded corner piece should be even with the back of the 1x3 plate.
+114.1. Place a dark tan 2x3 tile, vertically long, in front of the right two studs of the 1x3 plate.
+114.2. Place a dark tan 4x4 circular plate, centered horizontally on the previous piece, in front of the
+previous piece. It should be even with the front of the roof.
+115. Place a dark tan 2x6 plate, horizontally long, under the right two columns of the previous piece, even
+with the front and the right of the roof.
+116. Place a dark tan 2x3 tile, horizontally long, to the right of the 4x4 circular plate, centered vertically on
+the circular plate.
+117.1. Place a tan 1x3 plate, vertically long, to the right of the previous piece, even with the front of the
+roof.
+117.2. Place a tan 1x2 tile with a wall on one long side, vertically long with the wall at the right, behind the
+previous piece. Place another 1x2 tile with a wall, horizontally long with the wall at the back, to the right of
+the 1x3 plate on the back left.
+118.1. Place a tan 1x1 tile with walls on two adjacent sides on the rightmost, rearmost stud on the 6x6
+rounded corner plate, with the walls at the back and the right.
+118.2. Place a tan 1x2 tile with a wall on one long side, horizontally long, with the wall at the front, on the
+back left 1x3 plate, even with the front of the roof. Place another 1x2 tile with a wall on one long side,
+vertically long with the wall at the left, on the front right 1x3 plate, even with the front of the roof.
+119.1. Assemble a turntable by attaching a light gray 2x2 turntable plate to a black 2x2 turntable base.
+The plate looks like a very thin 2x2 circular plate with a small pin extending from the bottom. The base
+looks like a 2x2 tile with a circular cutout on the top and four supports in the cutout holding a hole for the
+pin on the turntable plate.
+119.2. Place the turntable behind the left two columns of the right 2x3 tile, skipping one stud.
+120. Rotate the turntable so the studs are at a 45 degree angle to the rest of the studs. Place the cell in
+front of you, with the cell door at the front. Rotate it 45 degrees, so the cell door is now pointing to the
+front left. Attach the cell to the turntable, centering it horizontally and vertically relative to the turntable
+plate.
+121. Now place the rest of the courtyard in front of you, with the second story at the left. Attach the roof,
+with the third story on top of the second story. The cell should be at the back right and the roof should be
+even with the front and left edges.
+Congratulations! Now the Hogwarts Courtyard: Sirius’s Rescue is complete!
 Thank you so much for building this set!
-There are no ads after the instructions end.
-Visit bricksfortheblind.org for more accessible instructions and tell your friends about us!
+There are three pages of ads after the instructions end.
+The first page shows all sixteen wizard cards! The cards available are: a silver Albus Dumbledor, a gold
+Albus Dumbledor, Severus Snape, Godric Gryfindor, Minerva McGonagall, Gilderoy Lockhart, Zalazar
+Slytherin, Olympe Maxime, Helga Hufflepuff, Newt Scarmander, Seraphina Picquer, Nicholas Flamel,
+Bertie Bott, Jocunda Sykes, Rowena Ravenclaw and Garrick Ollivander.
+The last two pages of ads show how you can connect multiple sets together to make one giant Hogwarts
+castle! The main image stretches across both pages and it shows the castle against a backdrop of misty
+hills. The castle is tan, with sand green roofs. It has multiple spires, columns, and stained glass windows.
+Students walk around, while the giant snake Nagini attacks a student out front! Dumbledore stands in the
+tower. Voldemort and Harry fire magical spells at each other in the foreground.
+The sets which can be combined are 76402 Hogwarts Dumbledore’s Office, 76401 Hogwarts Courtyard
+Sirius’s Rescue, 76398 Hogwarts Hospital Wing, 76386 Hogwarts Polyjuice Potion Mistake, 76387
+Hogwarts Fluffy Encounter76389 Hogwarts Chamber of Secrets.
+Visit legofortheblind.com for more accessible instructions and tell your friends about us!

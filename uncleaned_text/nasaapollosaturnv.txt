@@ -1,0 +1,1919 @@
+92176 NASA Apollo Saturn V
+Set adapted by Daniel Werner and tested by Matthew Shifrin
+Note: This set is directed at advanced builders. It will be very difficult to build, since some pieces (such as
+1x4 quarter-cylinders, and 2x1 brackets) are only mounted by a single stud. To avoid pieces breaking,
+attach these pieces as lightly to your build as possible, applying just enough pressure for parts to
+connect, but not pressing too hard. You will be tempted to press hard to make sure everything’s
+connected, but this will cause parts to fall off. You will often need to press on parts more lightly than you
+think. If required, use a sighted person throughout the build to help you mount these pieces. You might
+need sighted help in steps 6, 7, 8, 29, 30, 142, 143, 168, and 171.
+Description by LEGO®:
+You were born to explore the universe! Build and inspire the next generation of astronauts with LEGO®
+Space rockets and vehicles – Let’s Go!
+Display and role-play with this majestic meter-high LEGO brick model of the NASA Apollo Saturn V.
+Packed with authentic details, it features 3 removable rocket stages, including the S-IVB third stage with
+the lunar lander and lunar orbiter. The set also includes 3 stands to display the model horizontally, 3 newfor-June-2017 astronaut microfigures for role-play recreations of the Moon landings, plus a booklet about
+the manned Apollo missions and the fan designers of this educational and inspirational LEGO Ideas set.
+Features a meter-high (approximately 1:110 scale) model of the NASA Apollo Saturn V with a removable
+S-IC first rocket stage with main rocket engine details, removable S-II second rocket stage with rocket
+engine details, removable S-IVB third rocket stage with the Apollo spacecraft and rescue rocket at top of
+the whole spacecraft, plus 3 stands to display the model horizontally.
+The Apollo spacecraft features the lunar lander and the lunar orbiter.
+Also includes 3 new-for-June-2017 astronaut microfigures.
+Great for display and role-playing the manned Apollo Moon missions.
+Includes a booklet about the manned Apollo Moon missions and the fan designers of this set.
+Measures over 39" (100cm) high and 6” (17cm) in diameter.
+Intro text by LEGO®:
+The Apollo Program
+On May 25, 1961, President John F. Kennedy challenged his country to safely send and return an
+American to the Moon before the end of the decade. NASA met that challenge with the Apollo program. It
+would be the first time human beings left Earth orbit and visited another world. The Apollo program played
+a crucial role in space exploration and made it possible to explore more distant worlds further in the
+future.
+The Apollo program consisted of 11 spaceflights. The first two missions, Apollo 7 and 9, were Earthorbiting missions used to test the Command and Lunar Modules. The next two, Apollo 8 and 10, tested
+various components while orbiting the Moon, also taking photographs of the lunar surface. While Apollo
+13 did not land on the moon due to a malfunction, a total of six other missions did and returned with a
+wealth of scientific data and almost 881.8 lbs (400 kilos) of lunar samples.
+The first manned mission to the moon was Apollo 8. It circled around the moon on Christmas Eve in
+1968. Just over six months later on July 20, 1969, the world witnessed one of the most astounding
+technological achievements of the 20th century when a NASA astronaut on Apollo 11 became the first
+human to set foot on the Moon.
+The Apollo 11 mission lasted 195 hours, 18 minutes and 35 seconds - about 36 minutes longer than
+planned. After lunar orbit insertion, the Command Module (CM) and Lunar Module (LM) separated. While
+one crewmember remained in the CM, which orbited the Moon, the other two astronauts made the
+historic journey to the lunar surface in the LM. After exploring the surface and setting up experiments for
+21 hours and 36 minutes, the astronauts returned safely to the CM and began the journey back to Earth.
+Saturn V
+Saturn V was the most powerful rocket that had ever flown successfully and was used in the Apollo
+program in the 1960s and 1970s. The rocket was 363 ft. (111 m) tall and weighed 6.2 million lbs (2.8
+million kilos) when fully fueled for liftoff. The Saturn V used for the later Apollo missions had three stages.
+Each stage would burn its engines until it was out of fuel and would then separate from the rocket. The
+engines on the next stage would fire, and the rocket would continue into space. The first stage had the
+most powerful engines, since it had the challenging task of lifting the fully fueled rocket off the ground.
+The first stage lifted the rocket to an altitude of about 42 miles (68 km). The second stage carried it from
+there almost into orbit. The third stage placed the Apollo spacecraft into Earth orbit and pushed it toward
+the moon.
+Transposition, docking, and extraction
+Shortly after the trans-lunar injection maneuver that placed the Apollo spacecraft on its trajectory towards
+the Moon, the transposition and docking maneuver would be performed. This involved an astronaut
+separating the Apollo Command/Service Module (CSM) spacecraft from the adapter which fastened it to
+its launch vehicle upper stage, turning it around, and docking its nose to the Apollo Lunar Module (LM),
+then pulling the combined spacecraft away from the upper stage.
+Fan designers
+With a shared passion for both space exploration and LEGO® building, Valérie Roche (aka
+Whatsuptoday) and Felix Stiessen (aka Saabfan) worked closely together to create their impressive
+Apollo 11 Mission model for LEGO Ideas.
+“The most challenging part was the Lunar Landing module. I (Felix) tried building it as small as possible (I
+wanted it to fit in the half-cone parts as seen in the model) while still looking good and accurate. After
+that, we began building the rocket around it. We also tried to make the rocket as sound as possible, so
+Valérie included pillars and beams inside for structural integrity.”
+“It actually took quite a long time to finish the whole model. There were often times when one of us just
+abandoned the project for a few weeks and came back to it later; however, thanks to the fact that it is a
+collaborative project, it was always the case that one of us continued making progress on the project and
+re-motivated the other. All in all, we would say it took us about a year to complete.”
+“We were surprised (and happy, of course) when we learned our model would be the latest one in the
+LEGO Ideas series. What we like about the LEGO Ideas platform is the feedback and support you get
+from the community. It’s great to reply to comments, read suggestions and improve your model in the
+updates. Of course, the chance of designing your own LEGO set is also really cool!”
+LEGO® designers
+Michael Psiaki, Carl Thomas Merriam and Austin William Carlson are all full-time LEGO® designers and
+avid space enthusiasts, so this was a project they very much wanted to be a part of. As Michael explains:
+“We were actually not asked. I was so excited when I heard that the project was potentially going to
+happen, and told Carl about it because I knew he was also a space fanatic. We decided it would be really
+cool to work together since it is such a big model, so we approached the Ideas team about helping to
+develop the product.”
+“We were amazed by how big the actual model was and how it was able to separate into all of the
+different stages and components. This was very difficult to implement in our final design, since we needed
+to make sure that the rocket was strong enough when connected together, but also easy to separate.”
+Box description:
+The front of the box shows the NASA Apollo Saturn V rocket flying in low earth orbit, flames coming out of
+the engines of the first stage. In the background you can see a part of the earth covered by clouds, a
+waxing gibbous moon, and a starry sky. There is a small inset image of the lunar lander on the moon’s
+surface with two astronaut microfigures and the American flag standing next to it. There also is the
+Project Apollo insignia printed onto the box which is a disk circumscribed by a band showing the words
+“Apollo” and “NASA”. At the center of the disk is a large letter “A” with the earth to its right and the moon
+to its left, connected by a double trajectory. The moon displays the face of the mythical god Apollo. At the
+bottom right, there is the LEGO Ideas batch, indicating that this is set #017. Above is a blueprint of the
+rocket, indicating the model’s height of 100 cm (39.37 in) and diameter of 17.9 cm (7.05 in), comparing it
+to the size of a LEGO microfigure which is about half the height of the first stage engines. The blueprint
+also shows the lunar lander model’s height of 5.3 cm (2.09 in) and diameter of 6.3 cm (2.48 in) as well as
+the lunar orbiter model’s height of 3.8 cm (1.5 in) and diameter of 6.4 cm (2.52 in).
+The right side of the back of the box shows the rocket divided into its individual components. From bottom
+to top those are: S-IC First Stage, S-II Second Stage, S-IVB Third Stage, Lunar Module, Service Module,
+Command Module, and Launch Escape System (LES).
+The left side of the back of the box shows a pictured timeline of the LEGO model from liftoff on earth until
+touchdown on the moon. Starting at liftoff, the rocket is complete. The next image shows the rocket
+without the first stage and without the launch escape system. Next, the second stage has fallen away,
+too. The fourth picture shows the Apollo command and service module (CSM) separated from the third
+stage and lunar module, starting to perform the transposition and docking maneuver. In the next picture,
+this maneuver is completed with the CSM having turned around fully and having docked its nose to the
+lunar module. Afterwards, the CSM pulls the combined spacecraft away from the third stage. The final two
+pictures show the lunar module on its own as well as landed on the moon.
+The timeline is enriched with real photos from the time. One photo shows the earth with the Americas in
+view and points out the location of the Kennedy Space Center at Cape Canaveral, Florida. Another photo
+shows the Apollo Saturn V on the verge of breaking the sound barrier in the background, with an
+American flag in focus. The next photo shows the lunar module in lunar orbit with the surface of the moon
+taking up most of the frame and the small earth rising in the background. There also is a photo of an
+astronaut's footprint on the surface of the moon. One photo shows the lunar module having landed on the
+moon with an American flag and other technical devices standing next to it. A photo of the moon indicates
+the landing sites of the different Apollo missions that landed on the moon, namely Apollo 11, 12, 14, 15,
+16, and 17. The final picture shows the lunar orbiter at splashdown, after having landed back on earth in
+the ocean, with an orange dinghy with four men in black diving suits next to it.
+The build is 1969 pieces and 337 building steps.
+Welcome to text-based instructions from Bricks for the Blind. Before you start building, here are some
+terms we’ll be using:
+- Front: towards you.
+- Back: away from you.
+- Up: towards the ceiling.
+- Down: towards the floor.
+- Stud: the bump on a LEGO brick. Example: A 2x1 brick has two studs on it.
+- Vertically: going from front to back.
+- Horizontally: going from left to right.
+- Upright: pointing up towards the ceiling, and down towards the floor.
+- Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic connector on the front wall
+at the right, connector to the front, and then place another such piece symmetrically on the back wall, at
+the right, the technic connector of the second piece should point to the back, since it will be placed
+symmetrically.
+A note on LEGO Technic™ part names. These parts are somewhat different from regular LEGO bricks.
+Here are some definitions in case the builder or helper is not familiar with LEGO Technic™.
+Axles - An axle is a connector which has an X shaped cross-section. Because their cross section is not
+round, anything connected to an axle using an axle-hole will rotate with that axle. Axles are longer than
+they are wide, and the length of an axle corresponds with how many bricks long it is. Aka a 3L axle is
+three bricks long. Axles come in a variety of lengths, with a 2L axle being the shortest available. They
+may be combined with pins, or have circular stops on them. A stop prevents the axle from sliding through
+an axle-hole at a specific point on the axle.
+Pins - A pin is a connector which has a circular cross section and a flanged notch out of one or both ends.
+This flanged notch allows them to click into bricks with a pin-hole. Pins come with and without friction
+ridges, which are small bumps on the pin which prevent them from rotating freely. For standard pins,
+black is a high friction pin, and gray is a low friction pin. A standard length pin is two brick lengths long,
+with a stop in the middle. This prevents a brick from being pushed from one side of the pin to the other. A
+1L pin is one brick long and still retains the stop, however it also includes a hollow stud at the other end.
+A 3L pin is three bricks long, and only contains a stop at one side, allowing two bricks to be pushed onto
+the other side of the pin. Pins may also have one side which is an axle.
+Lift-arms - A lift-arm is a basic structural element, similar to a brick or a plate, but usually without any
+studs. It is a beam with rounded ends and with holes in it, with the same spacing as the studs on a LEGO
+brick. lift-arms come in a variety of lengths, including a 1x1 lift-arm which looks like a cylinder. Thick liftarms are as wide as a LEGO brick, and thin lift-arms are half as wide as a LEGO brick, but not the same
+thickness as a LEGO plate! The holes in a lift-arm arm may accept axles or pins. They also come in a
+variety of shapes, including tees, ells and triangles.
+Gears - A gear is a functional element. They are typically discs with teeth on the outside, there are also
+worm gears which look like a spiraling cylinder! Gears connected by axles transmit or even transform
+rotational motion!
+Axle and Pin Connectors - These elements are typically smaller than lift-arms and are used to connect
+some combination of pins or axles. They might have pins or axles, as well as axle or pin-holes. They have
+a lot of different angle combinations! The simplest just connects two axles or pins together in a straight
+line.
+Bushes/Bushings - LEGO Technic™ uses bushes largely as spacers, but they also can reduce friction
+between rotating parts, or can form useful elements such as handles. Bushes are typically light gray,
+generally cylindrical, and have an axle-hole running through the middle. They have a flange at the front
+and back to make them easier to pull on and off
+For builders with low vision, or a sighted building partner may want to follow along with the printed visual
+instructions that come with each kit or PDF versions are always online at LEGO.com for each set:
+(https://www.lego.com/en-us/service/buildinginstructions/92176) As low vision users may benefit from
+viewing the instructions on a personal device where they can zoom in on content and use assistive
+technologies to enhance the visuals.
+Sorting the pieces:
+To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
+sighted friend or family member do this in advance following the instructions below. You will see that the
+pieces should be sorted into groups according to the building steps in the kit. Doing this in advance
+makes locating the pieces easier. See below on how to sort the pieces to correspond to the steps in this
+set. Number the containers using letters A-Z, numbers or meaningful names. The parts will be collected
+into a small number of steps in the instructions. Example: Steps 1-3 means collect all the parts used in
+steps 1, 2 and 3, and put them in one container.
+Large bag 1.
+Group 1 contains the pieces for steps 1-5.
+Group 2 contains the pieces for steps 6-10. The two dark bluish gray quarter cylinders from step 7 and 8
+are in a separate subgroup.
+Group 3 contains the pieces for steps 11-15. The two black 1x6 tiles from step 15 are in a separate
+subgroup.
+Group 4 contains the pieces for steps 16-24.
+Group 5 contains the pieces for steps 25-29.
+Group 6 contains the pieces for steps 30-33. The two dark bluish gray quarter cylinders from step 30 are
+in a separate subgroup.
+Group 7 contains the pieces for steps 34-37. The two dark bluish gray quarter cylinders from step 34 are
+in a separate subgroup.
+Large bag 2.
+Group A contains four white 2x3 curved slopes with the letter A used in step 41.
+Group U contains four white 2x3 curved slopes with the letter U used in step 44.
+Group S contains four white 2x3 curved slopes with the letter S used in step 44.
+Group 8 (4x) contains the pieces for steps 38-49, except for the curved slopes with letters on them (see
+previous groups). The black pieces from steps 40, 41, 42, and 44 are in a separate subgroup. Make four
+identical groups, one for each of the four identical pieces that will be built from the large bag 2.
+Large bag 3.
+Group F contains four white 2x3 curved slopes with the American flag used in step 54.
+Group 9 (4x) contains the pieces for steps 50-55, except for the curved slopes with the American flag on
+them (see group F). Make four identical groups, one for each of the four identical pieces.
+Group 10 contains the pieces for steps 56-57.
+Group 11 contains the pieces for steps 58-62. The four black 2x3 curved slopes from step 60 are in a
+separate subgroup.
+Large bag 4.
+Group 12 contains the pieces for steps 63-70.
+Group 13 contains the pieces for steps 71-78.
+Group 14 contains the pieces for steps 79-81.
+Group 15 contains the pieces for steps 82-91.
+Group 16 contains the pieces for steps 92-99.
+Group 17 contains the pieces for steps 100-102.
+Large bag 5.
+Group 18 contains the pieces for steps 103-105.
+Group 19 contains the pieces for steps 106-108.
+Group 20 contains the pieces for steps 109-111.
+Group 21 contains the pieces for steps 112-114.
+Group 22 contains the pieces for steps 115-119. The two black 1x4 tiles from step 117 are in a separate
+subgroup.
+Large bag 6.
+Group 23 contains the pieces for steps 120-123.
+Group 24 contains the pieces for steps 124-125.
+Group 25 contains the pieces for steps 126-128.
+Group 26 contains the pieces for steps 129-133. The black pieces from steps 129, 131, and 132 are in a
+separate subgroup.
+Group 27 contains the pieces for steps 134-135. The eight black 2x2 curved slopes from step 135 are in a
+separate subgroup.
+Large bag 7.
+Group 28 contains the pieces for steps 136-141.
+Group 29 contains the pieces for steps 142-147. The four dark bluish gray quarter cylinders from step 143
+and 147 are in a separate subgroup.
+Group 30 contains the pieces for steps 148-153.
+Group 31 contains the pieces for steps 154-156.
+Group 32 contains the pieces for steps 157-166.
+Group 33 contains the pieces for steps 167-172.
+Group 34 contains the pieces for steps 173-180.
+Large bag 8.
+Group N contains four white 1x6 tiles with red letters reading “UNITED” used in steps 198, 213, and 224.
+Group T contains four white 1x6 tiles with red letters reading “STATES” used in steps 203, 214, and 225.
+Group 35 contains the pieces for steps 181-193. The black 1x2 tile from step 191 is in a separate
+subgroup.
+Group 36 contains the pieces for steps 194-200, except for the white 1x6 tile with red letters reading
+“UNITED” used in step 198.
+Group 37 contains the pieces for steps 201-212, except for the white 1x6 tile with red letters reading
+“STATES” from step 203. The black pieces from steps 208 and 209 are in a separate subgroup.
+Group 38 contains the pieces for steps 213-222, except for the white 1x6 tile with red letters reading
+“UNITED” used in step 213 and the white 1x6 tile with red letters reading “STATES” from step 214. The
+two white 1x2 tiles from step 219 are in a separate subgroup.
+Group 39 contains the pieces for steps 223-225, except for the two white 1x6 tiles with red letters reading
+“UNITED” used in step 224 and the two white 1x6 tiles with red letters reading “STATES” from step 225.
+Large bag 9.
+Group 40 (4x) contains the pieces for steps 226-235. The black 1x2 plate from step 232 and the three
+black 2x3 curved slopes from step 233 are in a separate subgroup. Make four identical groups, one for
+each of the four identical pieces that will be built from the large bag 9.
+Large bag 10.
+Group 41 contains the pieces for step 236.
+Group 42 contains the pieces for step 237.
+Group 43 contains the pieces for steps 238-240.
+Group 44 contains the pieces for steps 241-243.
+Large bag 11.
+Group 45 contains the pieces for steps 244-250.
+Group 46 contains the pieces for steps 251-253.
+Group 47 contains the pieces for steps 254-261. The two red 2x2 plates with 1x2 side studs from steps
+254 and 256, and the two black 1x2 plates from step 259 are in a separate subgroup.
+Group 48 contains the pieces for steps 262-264. The four black 2x2 curved slopes from step 262 are in a
+separate subgroup.
+Group 49 contains the pieces for steps 265-271. The two black 1x3 plates from step 268 are in a
+separate subgroup.
+Group 50 contains the pieces for steps 272-278. The two black 1x3 plates from step 275 are in a
+separate subgroup.
+Group 51 contains the pieces for steps 279-286. The four black 2x2 curved slopes from step 279 are in a
+separate subgroup.
+Large bag 12.
+Group 52 contains the pieces for steps 287-295. The white 4x4 round plate from step 287 is in a separate
+subgroup.
+Group 53 contains the pieces for steps 296-303.
+Group 54 contains the pieces for steps 304-308.
+Group 55 contains the pieces for steps 309-313.
+Group 56 contains the pieces for steps 314-325.
+Group 57 contains the pieces for steps 326-329.
+Group 58 contains the pieces for steps 330-337. The two light bluish gray 1x6 plates from steps 330 and
+333 are in a separate subgroup.
+Building Instructions:
+The first six large bags deal with the first stage of the rocket.
+Start by using the parts from the first large bag to build the inner structure of the first stage.
+Open the large bag 1.
+Open group 1.
+1. Place two dark bluish gray 4x8 half round plates horizontally upside down in front of each other, so that
+they form a circle.
+2. Place a light bluish gray 4x4 round brick with pin holes upside down into the center connecting the
+previous two pieces.
+3. Make a piece four times. Place a light bluish gray 1x2 technic brick with a side hole horizontally on top
+of a light bluish gray 1x2 plate with one stud. Place a dark bluish gray 1x2 bracket with 2x2 side studs
+extending to the bottom horizontally on top of the previous piece so that the 1x2 studs cover the top and
+the 2x2 studs cover the front. Repeat to make four pieces. Flip one of the pieces you just built 90 degrees
+to the front so that the 2 studs point to the front and the hole points to the top. Place it onto the front
+center of the front half round plate, so that the former 2x2 side studs, which are now at the bottom, attach
+to the half round plate. Repeat symmetrically on the left, back, and right.
+4. Flip the piece right side up and rotate it by 45 degrees so that the side studs point diagonally. Place a
+white 1x1 round plate onto the single stud at the edge of the half round plate at the front. Repeat
+symmetrically on the left, back, and right.
+5. Place a tan 1x2x2 brick onto the two studs at the edge between the front and left previous pieces.
+Place a white 2x2 plate with 1x2 side studs on top of the previous piece, the two side studs pointing to the
+front left overhanging to the back right. Repeat symmetrically on the back left, back right and front right.
+Open group 2.
+6. Make a piece four times. Use a red 1x2 bracket with 2x2 side studs extending to the top horizontally so
+that the 2x2 studs point to the front. Place a light bluish gray 1x2 plate with one stud on top of the
+previous piece. Place a light bluish gray 1x2x2 brick with 2x2 side studs horizontally, side studs to the
+front, under! the red bracket. Repeat to make four pieces. Place one of the pieces you just built
+horizontally, side studs to the front, centered on top of the white 1x1 round plate in the front. Repeat
+symmetrically on the left, back, and right.
+7. Place a white quarter cylinder in the back connecting two 2x2 plates with 1x2 side studs as well as the
+1x2 plate with one stud in the back. Repeat symmetrically on the left with a dark bluish gray quarter
+cylinder from a separate subgroup of group 2.
+8. Repeat step 7 with a white quarter cylinder in the front and with a dark bluish gray quarter cylinder from
+a separate subgroup of group 2 in the right to complete the full cylinder.
+9. Make a piece. Locate a light bluish gray 2x6 plate and orient it horizontally. Place a white 2x2 plate with
+1x2 side studs, side studs to the left, with its right column under! the leftmost column of the previous
+piece. Repeat symmetrically on the right. The top side of the combined piece should have an area of 2x8
+studs. Place the piece you just built diagonally, side studs to the front left and back right, on top of the
+cylinder, connecting the front left with the back right (there should be two studs in the front left and two
+studs in the back right). Similarly to the previous piece but missing the connecting 2x6 plate, place two
+more white 2x2 plates with 1x2 side studs at the front right and back left of the cylinder, the side studs
+pointing to the outside.
+10. Make a piece four times. Locate a red 1x2 bracket with 2x2 side studs extending to the top and place
+a light bluish gray 1x2 plate with one stud on top. Repeat to make four pieces. Place the 4 pieces you just
+built centered onto the 4 free single studs of the quarter cylinders in the front, left, back, and right, the 2x2
+side studs pointing to the outside.
+Open group 3.
+11. Turn the piece so that the 2x6 plate from step 9 is oriented vertically from the front to the back. Locate
+two tan 4x8 half round plates and place them on top, to the front and back forming a circle and closing the
+cylinder.
+12. Locate a black 4x4 cone with 2x2 studs on top and place it centered onto the previous piece. Place a
+reddish brown 2x2 plate on top of the previous piece.
+13. On the front left side of the assembled piece, locate the red 1x2 bracket with 2x2 side studs extending
+to the top from step 6. The piece in question covers a small fraction of the bottom part of the front left
+quarter cylinder (it is the middle one of the three pieces with 2x2 side studs at the front left side). Place a
+blue 1x2 plate horizontally onto the lower two side studs of said piece. Repeat symmetrically on the back
+right.
+14. Make a piece two times. Locate a light bluish gray 2x10 plate and orient it horizontally. Place a blue
+1x8 plate horizontally onto the back row of the previous piece, flush at the left, leaving two free studs to
+the right. Repeat to make two pieces. Place one of the pieces you just built rotated upright, with the
+former left side being at the bottom and the former right side being at the top, above the 1x2 plate in the
+front left from the previous step connecting to the upper 1x2 bracket with 2x2 side studs, overhanging by
+1 row to the top. Repeat symmetrically on the back right.
+15. Make a piece two times. Locate a light bluish gray 2x10 plate and orient it horizontally. Place a tan
+2x8 plate horizontally onto the previous piece, flush at the left, leaving 2x2 free studs to the right. Place a
+white 1x6 tile onto the back row of the previous piece, flush at the left. Place a black 1x6 tile from a
+separate subgroup of group 3 in front of the previous piece. Repeat to make two pieces. Place one of the
+pieces you just built rotated upright, with the former left side being at the bottom and the former right side
+being at the top, in the front right connecting the lower 1x2 bracket with 2x2 side studs to the upper 1x2
+bracket with 2x2 side studs, this time not overhanging to the top, so flush at the top. Repeat symmetrically
+on the back left.
+Set the current piece aside. Steps 16-22 describe a separate piece.
+Open group 4.
+16. Locate two red 1x2 brackets with 2x2 side studs extending to the top and place them side by side with
+the side studs pointing to the left and right.
+17. Connect the two brackets by placing a tan 2x2 brick in the center.
+18. Place a dark bluish gray 1x2 bracket with 2x2 side studs extending to the bottom horizontally, side
+studs to the front, onto the front row of the previous piece. Repeat symmetrically on the back.
+19. Locate eight light bluish gray 1x2 plates with one stud on top and place them horizontally from the
+sides onto the piece you are building to cover all 16 side studs.
+20. Locate eight yellow 1x2 plates with a clip on top. Place one of them horizontally, clip to the right, from
+the front with its left column onto the single stud of the upper one of the previous pieces, overhanging by
+half a stud to the right. Repeat to the bottom, but with the clip to the left, and with its right column onto the
+single stud, overhanging by half a stud to the left. The two studs of the last two pieces you placed should
+be vertically aligned, one above the other. Repeat symmetrically on the left, back, and right.
+21. Place a light bluish gray 1x2 plate with one stud vertically from the front connecting the two previous
+pieces in the front, so in between the two front clips. Repeat symmetrically on the left, back and right.
+22. Place a tan 2x2 brick on top.
+23. Place the piece you built in steps 16-22 centered on top of the piece you set aside, so onto the
+reddish brown 2x2 plate.
+24. Place a pearl gold telescope from the front onto the light bluish gray 1x2 plate with one stud from step
+21 in the front using the thicker end of the telescope. Repeat symmetrically on the left, back and right.
+Set the current piece aside. Steps 25-36 describe a separate piece, the upper part of the inner structure
+of the first stage.
+Open group 5.
+25. Locate a tan 6x6 plate and place a pearl gold 1x1 round plate with a hollow stud into each of the
+corners.
+26. Place a blue 1x2 plate horizontally in the center of the front row. Place a green 1x2 slope tile behind it
+in the center of the second row, slope to the back. Repeat symmetrically on the left, back, and right.
+27. Locate a white 2x2 plate with 1x2 side studs, side studs to the front and place its back row with the
+lower studs on the front blue 1x2 plate from the previous step, overhanging to the front. Repeat
+symmetrically on the left, back, and right.
+28. Locate a light bluish gray 3x6 trapezoid plate and place the side with two studs on top of the back row
+(with the two lower studs) of the previous piece in the front, extending to the back. The leftmost stud
+should rest on the front right stud of the left previous piece and vice versa on the right. Repeat
+symmetrically on the back.
+29. Make a piece four times. Place a light bluish gray 1x2 plate with one stud onto the two top studs of a
+red 1x2 bracket with 2x2 side studs extending to the top. Repeat to make four pieces. Place one of the
+pieces you just built in the front left corner centered on top of the pearl gold 1x1 round plate with a hollow
+stud, with the 2x2 side studs pointing to the front left. Repeat symmetrically on the back left, back right,
+and front right.
+Open group 6.
+30. Place a white quarter cylinder in the front left connecting the two 2x2 plates with 1x2 side studs in the
+left and front as well as the 1x2 plate with one stud in the front left. Repeat symmetrically on the back
+right. Repeat symmetrically on the back left and front right with a dark bluish gray quarter cylinder from a
+separate subgroup of group 6. The white and dark bluish gray quarter cylinders should alternate.
+31. Place a blue 1x2 plate vertically at the left, connecting the two left quarter cylinders on top. Repeat
+symmetrically on the right. Place a tan 2x8 plate vertically from the front to the back, horizontally
+centered, connecting all four quarter cylinders on top.
+32. Place a tan 2x8 plate horizontally from the left to the right on top of the two blue 1x2 plates and the
+center of the tan 2x8 plate from the previous step. Place a blue 1x2 plate horizontally onto the front row of
+the vertical tan 2x8 plate from the previous step. Repeat symmetrically on the back.
+33. Make a piece four times. Place a light bluish gray 1x2 plate with one stud onto the two top studs of a
+red 1x2 bracket with 2x2 side studs extending to the top. Repeat to make four pieces. Place one of the
+pieces you just built in the front left corner centered on top of the one remaining stud of the front left
+quarter cylinder with the side studs pointing to the front left. Repeat symmetrically on the back left, back
+right, and front right. The 2x2 side studs should be vertically in line with the lower ones from step 29.
+Open group 7.
+34. Place a white quarter cylinder in the front left connecting the horizontal tan 2x8 plate in the left and the
+blue 1x2 plate in the front as well as the 1x2 plate with one stud in the front left. Repeat symmetrically on
+the back right. Repeat symmetrically on the back left and front right with a dark bluish gray quarter
+cylinder from a separate subgroup of group 7. The white and dark bluish gray quarter cylinders should
+alternate. Also, the white quarter cylinders should be vertically above the ones from step 30 and vice
+versa.
+35. This step is equal to step 31. Place a blue 1x2 plate vertically at the left, connecting the two left
+quarter cylinders on top. Repeat symmetrically on the right. Place a tan 2x8 plate vertically from the front
+to the back, horizontally centered, connecting all four quarter cylinders on top.
+36. Make a piece. Locate a green 4x4 plate. Put a tan 1x2 brick with two side studs horizontally, side
+studs to the front, onto the center of the front row. Repeat symmetrically on the left, back, and right. Place
+a red 4x4 round brick centered on top so that the studs on top are vertically and horizontally aligned.
+Place the piece you just built centered on top of the tan 2x8 plate from the previous step. There should be
+two free rows to the front and two to the back.
+37. In this step, you’ll connect the lower and upper inner structures of the first stage. The piece you set
+aside should be oriented so that the tiled upright plates point to the front left and to the back right. The
+piece you just built should be oriented so that the blue 1x2 plates connecting two quarter cylinders each
+are on the left and on the right. Put the piece you just built centered on top of the piece you set aside.
+You have successfully built the inner structure of the first stage and finished the first large bag.
+Continue by using the parts from the second large bag to build the exterior of the lower part of the first
+stage, prominently displaying the letters U, S, and A read from top to bottom in red on each side.
+Open the large bag 2 which contains the groups U, S, and A as well as four identical group 8s.
+Set the current piece aside. Steps 38-48 need to be repeated four times! Each piece is a quarter of the
+lower first stage’s exterior hull.
+Open group 8.
+38. Locate two dark bluish gray 2x14 plates, orient them horizontally and put one behind the other.
+39. Find two red 1x2 technic bricks with a cross-shaped axle hole. Put one vertically centered onto the
+very left column of the two previous pieces, connecting them, leaving one free row to the front and one to
+the back. Repeat to the right. Put a tan 2x2 brick to the right. Put a light bluish gray 2x6 plate horizontally
+to the right. There should be four uncovered columns to the right.
+40. Locate a white 1x2 hinge brick with the hinge protruding at the short side. Place it horizontally onto
+the second and third leftmost studs of the front row, to the front of the pieces from the previous step,
+hinge to the left covering the leftmost stud. Place a white 1x1 brick to the right. Repeat symmetrically on
+the back with the two black parts from a separate subgroup of group 8.
+41. Find three black 2x3 curved slopes from a separate subgroup of group 8. Put one to the right of the
+previous piece, slope to the back, covering the two back rows, protruding one row to the back. Repeat to
+the right, twice. Repeat symmetrically on the front, starting left with two white 2x3 curved slopes (not! from
+a separate subgroup) and then using a single white 2x3 curved slope with the letter A from the separate
+group A to the right.
+42. Locate a white 2x6 wedge and orient it horizontally so the slopes are to the right and to the front. Put
+this piece on top of the pieces from step 39 and 40, leaving free the two leftmost columns and putting it
+onto the front two rows. The piece should cover the front row of the tan 2x2 brick, the right stud of the
+white 1x2 hinge brick in the front and the white 1x1 brick. It also partly covers but doesn’t connect to the
+front left two slopes. Repeat symmetrically on the back with the black wedge from a separate subgroup of
+group 8.
+Set the current piece aside.
+43. Locate a dark bluish gray 2x14 plate and orient it horizontally.
+44. Find two black 2x3 curved slopes from a separate subgroup of group 8. Put one onto the very left of
+the previous piece, slope to the back, covering the back row, protruding two rows to the back. Repeat to
+the right. Repeat symmetrically on the front starting at the left with a white 2x3 curved slope with the letter
+S from the separate group S, continuing with another white 2x3 curved slope with the letter U from the
+separate group U to the right. Put a light bluish gray 2x6 plate horizontally to the right and to the back,
+onto the dark bluish gray plate. There should be four uncovered columns to the right.
+45. Place six white 1x2 grille tiles horizontally onto the previous piece.
+46. Locate a light bluish gray 4x6 plate and orient it horizontally. Put it under! the 4 rightmost columns of
+the piece you are currently building. The front and back row as well as the two rightmost columns of the
+4x6 plate should remain free, so 8 studs should be covered.
+47. Locate a white 1x3 curved slope, so only half the width of the slopes before. Put it to the right of the
+grille pieces from step 45, slope to the front, covering the front two rows, protruding one row to the front.
+Locate a white 2x3 curved slope and put it the same way to the right. Repeat symmetrically to the back.
+48. Connect the two pieces you built by putting the latter piece onto the rightmost 4 columns of the former
+piece so that the curved slopes are right next to each other. The letters in the front row now read USA
+read from right to left (which will be top to bottom later).
+Make sure that you repeated steps 38-48 four times. Next you will connect these four exterior hull pieces
+to the inner first stage you built before.
+49. Orient one of the hull pieces you just built vertically upright with the former left side (the wedges) at
+the bottom and the former top pointing to the outside. Like this, connect it to the inner first stage by
+putting it in one of the four vertical gaps between the upright tiles and plates (where at about mid-height,
+the telescopes are sticking out from the inside). The center of the bottommost row of the hull piece should
+connect to the two side studs at the very bottom of the vertical gap. It should also connect to the
+additional side studs further up (all in all, it should connect to 4-times 1x2 side studs) as well as the
+telescope. Repeat three times to cover all sides of the first stage.
+You have successfully built the exterior of the lower part of the first stage, prominently displaying the
+letters U, S, and A read from top to bottom in red on each side and finished the second large bag.
+Continue by using the parts from the third large bag to build the exterior of the upper part of the first
+stage, displaying an American flag on each side.
+Open the large bag 3 which contains the group F as well as four identical group 9s, group 10, and 11.
+Set the current piece aside. Steps 50-54 need to be repeated four times! Each piece is a quarter of the
+exterior hull of the upper part of the first stage.
+Open group 9.
+50. Locate a dark bluish gray 4x10 plate and orient it horizontally. Place a tan 2x8 plate horizontally,
+centered vertically and horizontally, on top.
+51. Place a blue 2x4 plate horizontally to the left of the previous piece, protruding three rows to the left.
+52. Place a tan 1x4 plate vertically under! the previous piece as far to the right as possible, so that the
+blue 2x4 plate only protrudes two rows to the left now.
+53. Locate two white 1x3 curved slopes. Skip one column from the right and place one of them, slope to
+the front, covering the front two rows, protruding one row to the front. Repeat symmetrically on the back.
+54. Locate nine white 2x3 curved slopes. Place one of them to the left of the previous piece, slope to the
+back, covering the back two rows, protruding one row to the back. Repeat to the left four times. Repeat
+symmetrically on the front, with the second slope from the left being a white 2x3 curved slope with an
+American flag from the separate group F. In the end there should be an uncovered two stud column in the
+left and an uncovered four stud column in the right.
+Make sure that you repeated steps 50-54 four times. Next you will connect these four exterior hull pieces
+to the inner first stage you built before.
+55. Orient one of the hull pieces you just built vertically upright with the former right side pointing up and
+the former top pointing to the outside. Like this, connect it to the inner first stage by putting it above one of
+the hull pieces you connected before. The bottom two rows of the piece you just built should be put onto
+the top two rows of the previously connected hull piece so that the center two stud-wide plates of the two
+pieces touch each other. Repeat three times to cover all sides.
+Open group 10.
+56. Make a piece four times. Locate a red 1x2 bracket with 2x2 side studs extending to the top, side studs
+to the back. Place a light bluish gray 1x2 plate with one stud on top of the previous piece. Put a white 1x1
+round brick on top of the previous piece. Locate another red 1x2 bracket with 2x2 side studs extending to
+the top, side studs to the back and place it centered on top of the previous piece, oriented the same way
+as the earlier piece. Place a light bluish gray 1x2 plate with one stud on top of the previous piece. Place a
+white 1x1 round plate with a solid stud on top of the previous piece. Repeat to make four pieces.
+Orient the first stage you built before in a way that one of the four vertical gaps between the recently
+attached side panels is at the front. Orient one of the pieces you just built so that the side studs point to
+the front and place it centered onto the one stud of the quarter cylinder on top of the front vertical gap.
+Repeat symmetrically on the left, back, and right.
+57. Make a piece four times. Locate a tan 2x2 brick. Locate a dark bluish gray 2x3 bracket, like a step,
+with 1x2 studs at the lower step and 2x2 studs at the upper step. Orient the lower step to the front and put
+it on top of the previous piece. Locate a light bluish gray 1x2 bracket with 1x2 side studs extending to the
+bottom and put it onto the lower step of the previous piece, side studs pointing to the front. Repeat to
+make four pieces.
+Rotate the first stage so that one of the recently attached side panels points to the front. Orient one of the
+pieces you just built upright, so that the 1x2 side studs of the previous piece point to the top and the 2x2
+studs of the upper step point to the front. Place the piece above the front side panel of the first stage by
+attaching it from the front. The middle row of the oriented piece should attach to 1x2 side studs at the
+core of the first stage and the bottom row should attach to the middle 2 side studs of the 1x4 side studs
+above the front side panel. Repeat symmetrically on the left, back, and right.
+Open group 11.
+58. Locate two tan 4x8 half round plates and place them centered on top, one at the front and one at the
+back, forming a circle and closing the cylinder.
+59. Locate eight white 2x3 curved slopes and use them to close the two row high gaps in the upper side
+panels on each side (slightly above mid-height of the first stage).
+60. Locate a white 2x3 curved slope and place it horizontally upright, slide to the right, above the right
+side of the front side panel, so onto the right column of the upper step of the dark bluish gray 2x3 bracket
+from step 57, flush with and in the same way the other slopes of the side panel are set. Repeat
+symmetrically to the left of the previous piece with a black 2x3 curved slope from a separate subgroup of
+group 11. Repeat symmetrically on the left, back, and right.
+61. Locate a pearl gold 1x1 round plate with a hollow stud and place it on top of the first stage at the front
+left corner, so centered behind a piece with 2x2 side studs. Repeat symmetrically on the back left, back
+right, and front right.
+62. Locate a light bluish gray 2x2 / 2x2 bracket without side studs and orient it so that the 2x2 studs on
+top point to the front and the other half of the bracket is at the bottom. Place it to the right and front of the
+front left 1x1 round plate, covering three studs, one in the front row and two in the second row. Repeat to
+the right. Repeat symmetrically on the left, back, and right. Afterwards, in the middle of all the bracket
+pieces a 4x4 square of studs should remain uncovered.
+You have successfully built the exterior of the upper part of the first stage, displaying an American flag on
+each side and finished the third large bag.
+Continue by using the parts from the fourth large bag to build more of the exterior of the first stage,
+closing the long vertical gaps, among other things.
+Open the large bag 4.
+Open group 12.
+63. Rotate the rocket so that one of the large vertical gaps in between the smooth hull pieces points to the
+front. Use a red 1x2 bracket with 2x2 side studs extending to the top horizontally so that the 2x2 studs
+point to the front and place it centered on top of the pearl gold 1x1 round plate with a hollow stud in the
+front. The bracket should be aligned with the two similar brackets underneath. Repeat symmetrically on
+the left, back, and right.
+Set the current piece aside. Steps 64-69 need to be repeated two times!
+64. Locate a tan 2x8 plate and orient it horizontally, upside down. Put a red 1x2 plate with a clip on one
+end horizontally upside down, clip to the right, onto the rightmost two studs of the front row. Repeat to the
+back.
+65. Place a dark bluish gray 2x4 plate horizontally upside down to the left of the previous two pieces.
+Place a tan 2x8 plate horizontally upside down to the left of the previous piece. It should be overhanging
+to the left by 6 columns.
+66. Place a light bluish gray 2x10 plate horizontally upside down from the bottom!, immediately left of the
+2x8 plate at the right from step 64, overhanging to the left by 4 columns. Place a blue 1x2 plate vertically
+upside down from the top to the left of the 2x8 plate at the left from step 65.
+67. Place a tan 2x8 plate horizontally upside down to the left of the previous piece. It should be
+overhanging to the left by 5 columns. Turn the whole piece right-side-up. Place a yellow 2x3 plate
+horizontally skipping two columns from the left, so that it is left of the light bluish gray 2x10 plate from step
+66.
+68. Place a black 1x8 tile horizontally in the front row overhanging one column at the right, covering the
+front clip. Place a white 1x6 tile horizontally to the back, also overhanging one column at the right,
+covering the back clip. Place a white 1x2 tile horizontally to the left of the previous piece.
+69. Place a white 2x4 tile horizontally to the left of the previous two pieces. Repeat to the left two! times.
+To the left should be two uncovered steps, each 2x2 in size.
+Make sure that you repeated steps 64-69 two times. Next you will connect these two exterior hull pieces
+to the first stage you built before.
+70. The rocket has four large vertical gaps in between the smooth hull pieces. Two opposing gaps have
+tiles at the bottom whereas the other two opposing gaps have plates. Make sure you identify the two
+types of gaps and rotate the rocket so that one of the gaps with tiles at the bottom points to the front.
+Locate the large horizontal gap in the rocket’s hull separating the upper smooth hull from the lower one.
+Rotate one of the pieces you just built upright so that its former right side (with the clips) is at the top and
+the left side is at the bottom. Place it to close the vertical gap in the upper hull so that its bottom is flush
+with the bottom of the upper hull. At the top the piece should overhang by two rows above the top bracket
+piece (one stud and the clip of the red 1x2 plates with a clip). Make sure that the hull piece attaches to all
+side studs it is covering and is flush with the adjacent hull pieces (the side studs rotate a bit, so you might
+need to adjust them). Repeat symmetrically on the back.
+Set the current piece aside. Steps 71-77 need to be repeated two times!
+Open group 13.
+71. Locate a red 1x2 plate with a clip on one end and orient it horizontally, clip to the right. Place a white
+1x8 plate horizontally on top of the previous piece, covering its two studs and overhanging to the left.
+72. Place a dark bluish gray 2x4 plate horizontally centered under! the previous piece protruding to the
+front so that its back row is covered. The previous piece should now be overhanging to the left by two
+studs.
+73. Place a tan 2x8 plate horizontally to the left of the previous piece. This piece’s rightmost two studs of
+the back row should be underneath the left two studs of the white 1x8 plate. Place a black 1x1 tile with a
+clip on top, clip vertical, onto the second stud from the right in the front row. The arms of the clip should
+be at the front and back.
+74. Place a blue 1x2 plate horizontally onto the back row skipping four columns from the left, so to the left
+of the white 1x8 plate from step 71. Place a white 1x8 plate horizontally to the left of the previous piece.
+75. Place a light bluish gray 2x10 plate horizontally under the previous piece so that the rightmost four
+studs of its back row are covered by the leftmost four studs of the previous piece. Place a green 1x3 plate
+horizontally onto the back row skipping three columns from the left, so to the left of the white 1x8 plate
+from the previous step.
+76. Locate two white 1x2 plates with a pin hole on top. Orient them vertically with the pin hole to the front
+and connect them using a black technic pin. Place them to the left and front of the previous piece. Left of
+it there should be one uncovered column.
+77. Place a white 1x6 tile horizontally onto the back row skipping one column from the left. Repeat to the
+right three times. The rightmost piece should overhang to the right by one column, covering the clip.
+Make sure that you repeated steps 71-77 two times. Next you will connect these two exterior hull pieces
+to the first stage you built before.
+78. Rotate the rocket so that one of the two remaining large vertical gaps points to the front. Locate the
+large horizontal gap in the rocket’s hull separating the upper smooth hull from the lower one. Rotate one
+of the pieces you just built upright so that its former right side (with the clip) is at the top and the left side
+at the bottom. Place it to close the vertical gap in the upper hull so that its bottom is one row further down
+than the bottom of the upper hull. At the top, the piece should overhang by two rows above the top
+bracket piece (one stud and the clip of the red 1x2 plate with a clip). Make sure that the hull piece
+attaches to all side studs it is covering and is flush with the adjacent hull pieces (the side studs rotate a
+bit, so you might need to adjust them). Repeat symmetrically on the back.
+Open group 14.
+79. Make a piece two times. Orient a red 1x2 plate with a clip on one end horizontally, clip to the right.
+Place a green 1x3 plate horizontally on top of the previous piece, overhanging one column to the left.
+Place a black 1x4 tile horizontally on top of the previous piece, overhanging one column to the right,
+covering the clip. Repeat to make two pieces. Rotate one of the pieces you just built upright so that its
+former right side (with the clip) is at the top and the left side is at the bottom. Place it right next to the clip
+at the top of the large vertical piece you attached in the last step so that the two clips are side by side. Its
+bottom should touch the black 1x1 plate with a clip on top. Repeat symmetrically on the back.
+Set the current piece aside. Steps 80-85 need to be repeated two times!
+80. Locate a black 1x1 cone with a bar, bar to the bottom and place a black 1x1 round brick on top.
+81. Place a black 1x1 round plate on top of the previous piece. Repeat one more time.
+Open group 15.
+82. Place a white 1x1 round brick on top of the previous piece. Repeat four more times.
+83. Place a white 1x1 round plate on top of the previous piece.
+84. Place a white 1x1 round brick on top of the previous piece. Repeat five more times.
+85. Place a white 1x1 round tile with a bar, bar to the top, on top of the previous piece.
+Make sure that you repeated steps 80-85 two times. Next you will attach these two pieces to the rocket.
+86. Locate the gap under the piece you last attached to the front of the hull. At the top of this gap should
+be a horizontal clip, at the bottom there is a small upright hole from a technic connector. Take one of the
+pieces you just built and turn it upside down so that the cone is at the top. Insert the bar of the white 1x1
+round tile with a bar into the technic connector at the bottom of the gap and clip the bar of the cone into
+the horizontal clip at the top of the gap. Repeat symmetrically on the back.
+Set the current piece aside. Steps 87-90 need to be repeated two times!
+87. Stack four white 1x1 round bricks on top of each other.
+88. Place a white 1x1 round plate on top of the previous piece. Repeat one more time.
+89. Place a white 1x1 round tile with a bar, bar to the top, on top of the previous piece.
+90. Make a piece. Locate a black 1x2 plate with a pin hole on top, orient it horizontally, pin hole to the
+right and tip it over to the front so that the pin hole points to the bottom and top. Locate a blue 1/2 technic
+pin and insert its long end from the top into the pin hole of the previous piece. Place the piece you just
+built under the piece you built before so that the 1x1 round brick is placed on top of the short side of the
+blue 1/2 technic pin.
+Make sure that you repeated steps 87-90 two times. Next you will attach these two pieces to the rocket.
+91. Place one of the pieces you just built under the piece you last attached to the front of the hull by
+inserting the bar of the white 1x1 round tile with a bar into the bottom of the technic connector at the
+bottom of the column of round bricks. Attach the bottom of the piece you built, the black 1x2 plate with a
+pin hole on top, to the hull as well. It should turn out to attach to the second row from the top of a vertical
+plate further down the rocket hull. Repeat symmetrically on the back.
+Set the current piece aside. Steps 92-94 need to be repeated two times!
+Open group 16.
+92. Stack six black 1x1 round bricks on top of each other.
+93. Place a black 1x1 round plate on top of the previous piece. Place a black 1x1 round tile with a bar, bar
+to the top, on top of the previous piece.
+94. Make a piece. Locate a black 1x2 plate with a pin hole on top, orient it horizontally, pin hole to the
+right and tip it over to the front so that the pin hole points to the bottom and top. Locate a blue 1/2 technic
+pin and insert its long end from the top into the pin hole of the previous piece. Place the piece you just
+built under the piece you built before so that the 1x1 round brick is placed on top of the short side of the
+blue 1/2 technic pin.
+Make sure that you repeated steps 92-94 two times. Next you will attach these two pieces to the rocket.
+95. Place one of the pieces you just built under the piece you last attached to the front of the hull by
+inserting the bar of the black 1x1 round tile with a bar into the bottom of the technic connector at the
+bottom of the column of round bricks. Attach the bottom of the piece you built, the black 1x2 plate with a
+pin hole on top, to the hull as well. It should turn out to attach to the bottom row of a vertical plate further
+down the rocket hull. Repeat symmetrically on the back.
+96. Place a white 1x6 tile vertically to the left of the previous piece you attached to the front of the hull,
+flush at the bottom. Place a white 1x4 tile vertically above the previous piece. At the top the tile should be
+flush with the hull to the left. Repeat symmetrically on the back.
+Set the current piece aside. Steps 97-100 need to be repeated four times!
+97. Locate a light bluish gray 2x6 plate and orient it horizontally.
+98. Place a tan 1x4 plate vertically under! the leftmost column of the previous piece, centered vertically.
+Place another tan 1x4 plate vertically under! the second column from the right (not the rightmost!),
+centered vertically as well.
+99. Locate a black 2x3 curved slope and place it vertically, slope to the back onto the back row of the two
+leftmost columns of the light bluish gray 2x6 plate. Repeat to the right two times.
+Open group 17.
+100. Locate a white 2x3 curved slope and place it vertically, slope to the front in front of the previous
+piece. Skip two columns to the left and repeat. Place a white 1x2x1 panel (bench) horizontally in between
+the last two pieces, backrest to the back.
+Make sure that you repeated steps 97-100 four times. Next you will attach these four pieces to the rocket.
+101. Take one of the pieces you just built and orient it upright, the former upper side to the front, so that
+the three black 2x3 curved slopes are to the left above one another and the two white 2x3 curved slopes
+and the bench are to the right. Attach the piece to any of the large gaps at the very top of the upper hull.
+The piece should fit right in, closing the gap in the hull, flush at the top. Repeat symmetrically on the other
+three gaps at the top of the upper hull.
+102. Make a piece four times. Orient a blue 1x2 plate vertically. Orient a white 2x2 curved slope, slope to
+the right and place its left column on top of the previous piece. Repeat to make four pieces. Next you will
+attach these four pieces to the rocket. Orient one of the pieces you just built upright, the former upper
+side to the front and slope to the right and place it right of one of the four benches you attached in the last
+step. Repeat symmetrically on the other three benches to fill the last small gaps in the upper hull.
+You have successfully completed the upper hull of the first stage and finished the fourth large bag.
+Continue by using the parts from the fifth large bag to complete all of the hull of the first stage.
+Open the large bag 5.
+Set the current piece aside. Steps 103-107 need to be repeated four times!
+Open group 18.
+103. Locate a blue 2x4 plate and orient it horizontally.
+104. Place a white 1x1 round plate in the back left corner. Place a white 1x2 plate with a bar handle
+horizontally to the right, handle to the back. Place a white 1x1 round plate to the right. The back row of
+the blue 2x4 plate from the previous step should be covered now.
+105. Make a piece three times. Locate a dark bluish gray 1x2 bracket with 1x2 side studs extending to the
+top as well as a light bluish gray 1x2 bracket with 1x2 side studs extending to the bottom and orient both
+of them horizontally, side studs to the front. Place the bracket with side studs extending to the top on top
+of the bracket with side studs extending to the bottom. The side studs should have a combined size of
+2x2, now. Repeat to make three pieces. Place one of the pieces you just built onto the front left stud of
+the blue 2x4 plate from step 103, overhanging one column to the left, side studs to the front. Repeat to
+the right. Repeat to the right, this piece should overhang one column to the right.
+Open group 19.
+106. Locate two red 2x2 curved slopes. Place one of them onto the leftmost two studs of the back row as
+well as the studs in front of those, slope to the back. Repeat to the right. All top studs except for the
+leftmost and rightmost studs of the front row should be covered by the slopes, now.
+107. Locate four white 1x2 grille tiles as well as a white 2x2 tile. Place a grille tile horizontally onto the two
+leftmost studs of the top row of the side studs. Repeat to the bottom. Repeat on the very right with the
+remaining two grille tiles. Place the 2x2 tile in between the grille tiles onto the two center columns of the
+side studs.
+Make sure that you repeated steps 103-107 four times. Next you will attach these four pieces to the
+rocket.
+108. Note the larger holes in the lower hull of the rocket. Each of the four sides of the rocket has an area
+of size 2x6 which is covered with vertical white 1x2 grille tiles and holes to its left and right. In this step
+you will close the areas to the right! of each of them. Orient one of the pieces you just built so that its
+former bottom points to the right and the handle points to the back. Close one of the right areas by
+clipping the handle to a yellow 1x2 plate with a clip that’s inside the rocket. The front of the piece you
+clipped in should be reasonably flush with the rest of the hull. Repeat to close the other right areas.
+Set the current piece aside. Steps 109-113 need to be repeated four times! Note that you’ll build almost
+exactly the same piece as in steps 103-107, except that the center of the side studs is not covered by a
+2x2 tile but also by horizontal white 1x2 grille tiles, instead.
+Open group 20.
+109. Locate a blue 2x4 plate and orient it horizontally.
+110. Place a white 1x1 round plate in the back left corner. Place a white 1x2 plate with a bar handle
+horizontally to the right, handle to the back. Place a white 1x1 round plate to the right. The back row of
+the blue 2x4 plate from the previous step should be covered now.
+111. Make a piece three times. Locate a dark bluish gray 1x2 bracket with 1x2 side studs extending to the
+top as well as a light bluish gray 1x2 bracket with 1x2 side studs extending to the bottom and orient both
+of them horizontally, side studs to the front. Place the bracket with side studs extending to the top on top
+of the bracket with side studs extending to the bottom. The side studs should have a combined size of
+2x2, now. Repeat to make three pieces. Place one of the pieces you just built onto the front left stud of
+the blue 2x4 plate from step 109, overhanging one column to the left, side studs to the front. Repeat to
+the right. Repeat to the right, this piece should overhang one column to the right.
+Open group 21.
+112. Locate two red 2x2 curved slopes. Place one of them onto the leftmost two studs of the back row as
+well as the studs in front of those, slope to the back. Repeat to the right. All top studs except for the
+leftmost and rightmost studs of the front row should be covered by the slopes, now.
+113. This is where the piece differs from the pieces you built in steps 103-107. Locate six white 1x2 grille
+tiles. Cover all of the side studs horizontally with the grille tiles.
+Make sure that you repeated steps 109-113 four times. Next you will attach these four pieces to the
+rocket.
+114. Remember the areas of size 2x6 which are covered with vertical white 1x2 grille tiles as described in
+step 108 where you closed the areas to the right of them. In this step you will close the areas to the left! of
+each of them. Orient one of the pieces you just built so that its former bottom points to the left and the
+handle points to the back. Close one of the left areas by clipping the handle to a yellow 1x2 plate with a
+clip that’s inside the rocket. The front of the piece you clipped in should be reasonably flush with the rest
+of the hull. Repeat to close the other left areas. Note that some holes in the hull will persist which will be
+closed in the next steps.
+Set the current piece aside. Steps 115-117 need to be repeated two times!
+Open group 22.
+115. Locate a light bluish gray 2x10 plate and orient it horizontally.
+116. Locate six white 1x2 grille tiles. Cover the center 2x6 area of the plate from the previous step
+horizontally with the six grille tiles. The studs in the leftmost and rightmost two columns should remain
+uncovered.
+117. Place a black 1x4 tile from a separate subgroup of group 22 horizontally onto the leftmost two studs
+of the front row overhanging two columns to the left. Similarly, place a white 1x4 tile horizontally to the
+back. Place a white 2x4 tile horizontally onto the rightmost two columns overhanging two columns to the
+right.
+Make sure that you repeated steps 115-117 two times. Next you will attach these two pieces to the
+rocket.
+118. Note the remaining four holes in the lower hull of the rocket. Two of them (on opposing sides) are
+larger and two studs wide (2x14 vertically to be exact), whereas the other two of them are rather small
+and only one stud wide (1x6 vertically to be exact). In this step you will close the larger two holes. Orient
+one of the pieces you just built upright, so that the tiled area points to the front and the 2x4 tile is at the
+top. Like this, the piece should fit exactly into one of the larger holes, closing it, flush with the remainder of
+the hull. Repeat to close the other larger hole.
+119. Make a piece two times. Locate a light bluish gray 1x6 plate and orient it horizontally. Locate three
+white 1x2 grille tiles and completely cover the plate with them. Repeat to make two pieces. In this step
+you will close the two last small holes in the lower hull of the rocket. Orient one of the pieces you just built
+vertically upright, so that the tiled area points to the front. Like this, the piece should fit exactly into one of
+the smaller holes, closing it, flush with the remainder of the hull. Repeat to close the other small hole.
+You have successfully completed all of the hull of the first stage and finished the fifth large bag.
+Continue by using the parts from the sixth large bag to build the engines of the first stage.
+Open the large bag 6.
+Open group 23.
+120. Locate four black 8l axles (the length of a 1x8 plate) and one yellow 7l axle. Tilt the main rocket onto
+its side so that the top of the rocket points to the back and its underside points to the front. The pairs of
+2x6 wedges which are attached to each of the four sides of the rocket at the bottom should be at the top,
+right, bottom, and left. In this and the next steps you’ll work on the underside of the rocket. Insert the
+yellow 7l axle from the front into the center hole of the underside of the rocket which is in the center of a
+light bluish gray 4x4 round brick. Insert a black 8l axle into the axle hole of the red 1x2 brick at the top
+(with the cross-shaped - not the round hole!). Repeat on the right, bottom, and left. These are the axles to
+which the 5 engines of the first stage will be attached.
+121. Locate a dark bluish gray 2x2 round brick with an axle hole and put it onto the yellow axle in the
+center, studs to the back. Move it back as far as possible so that its studs attach to the 4x4 round brick
+behind. Locate four light bluish gray technic cranks (they have length 3 and an axle hole on one side as
+well as a 1l technic connector on the other side). Orient one of the cranks so that the axle hole is at the
+top, aligned to the back and front, and the technic connector is at the bottom, pointing to the back. Like
+this, put the top axle hole onto the black 8l axle at the top and move it as far back as possible - the
+technic connector should fit right into the hole of a light bluish gray 1x2 brick. Repeat symmetrically on the
+right, bottom, and left.
+122. Make a piece by placing two light bluish gray 2x2 round plates on top of each other and place these
+onto a dark bluish gray 3x3x2 cone with 2x2 studs on top. Put the piece you just built onto the yellow axle
+in the center, studs to the back. Move it back as far as possible so that its studs attach to the 2x2 round
+brick behind, from the previous step.
+123. Make a piece four times. Locate a dark bluish gray 3x3x2 cone with 2x2 studs on top. Place a black
+2x2 brick with an axle hole from top to bottom and a 1-finger hinge connector at one side on top of it,
+hinge to the left. Connect a pearl dark gray bull bar with a 2-finger hinge connector (LEGO refers to it as a
+train pantograph) horizontally from the left to the hinge connector of the previous piece by clipping the 1-
+finger hinge in between the 2-finger hinge. Repeat to make four pieces. Orient one of the pieces you just
+built so that the top studs point to the back and the bull bar is at the bottom. Like this, put the piece onto
+the black 8l axle at the top and move it as far back as possible - the axle should go through the axle hole
+of the 2x2 brick as well as the axle hole of the 3x3x2 cone. Repeat symmetrically on the right, bottom,
+and left.
+Open group 24.
+124. Make a piece five times. Locate a pearl dark gray 2x2 plate with an octagonal bar frame around it.
+Clip a pearl dark gray mechanical arm piece from the top to the diagonal bar at the front right of the
+previous piece, arm extending to the front right and slightly up. Locate a black 1x1 round tile with a thin
+bar on top. Insert the thin bar into the hole of the previous piece that’s furthest away from the clip, so
+where a theoretical elbow joint of the mechanical arm would be. Locate a dark bluish gray megaphone
+and place the stud that’s opposite of its cone-shaped opening onto the previous piece. The opening of the
+megaphone should point away from the mechanical arm, the handle should point to the front left. Repeat
+to make five pieces. Take one of the pieces you just built and change the orientation of the mechanical
+arm and everything that’s attached to it by rotating it at the clip, so that the studs of the 2x2 plate with the
+bar frame point to the front, the megaphone opening points to the back, and the clip is at the bottom right.
+Like this, put the piece onto the black 8l axle at the top and move it as far back as possible - the axle
+should go through the axle hole in the center of the 2x2 plate with the bar frame. If the plate doesn’t fit
+onto the axle in the desired orientation, switch the clip to an adjacent bar of the octagonal bar frame and
+repeat. The megaphone should then be partially framed by the bull bar. Repeat symmetrically on the
+right, bottom, and left. Also repeat in the center with the yellow 7l axle, the orientation being the same as
+for the piece at the top, clip at the bottom right.
+125. Make a piece five times. Place a white 2x2 round tile with one stud on top on top of a white 2x2
+round plate. Place a trans-orange (transparent orange) 3x3 dish with one stud on top onto the previous
+piece. Place the piece you just built into a pearl dark gray half-high barrel with 2x2 studs and an axle hole
+inside. Repeat to make five pieces. These are the tail ends of the engines of the first stage. Orient one of
+the pieces you just built so that the top stud points to the front. Like this, put the piece onto the black 8l
+axle at the top and move it as far back as possible - the axle should go through the axle hole of the barrel
+and the barrel should attach to the pearl dark gray 2x2 plate with an octagonal bar frame from the
+previous step. Repeat on the right, bottom, left, and center.
+Open group 25.
+126. Make a piece four times. Locate a dark bluish gray 1x2 plate with a 2-finger hinge connector on one
+end and orient it horizontally, hinge to the left. Place the upper end of a light bluish gray 1x3x2 curved
+arch vertically onto the left stud of the previous piece, the base of the arch overhanging to the front.
+Repeat to the right. Place a light bluish gray 1x2 tile horizontally onto the top studs of the two arches.
+Repeat to make four pieces. Before attaching the pieces you just built to the rocket, identify the
+attachment point. The attachment point for the top engine is the 1-finger hinge connector right of the red
+1x2 brick with the cross-shaped axle hole into which you inserted the black 8l axle in step 120. Orient one
+of the pieces you just built so that the hinge points to the left and the former top of the piece points to the
+back. Like this, attach the 2-finger hinge connector to the 1-finger hinge connector you identified, before,
+by clipping the 1-finger hinge in between the 2-finger hinge. Repeat symmetrically on the right, bottom,
+and left.
+127. In this step you’ll build the same pieces as in the step before, but mirrored horizontally. Make a piece
+four times. Locate a dark bluish gray 1x2 plate with a 2-finger hinge connector on one end and orient it
+horizontally, hinge to the right! Place the upper end of a light bluish gray 1x3x2 curved arch vertically onto
+the left stud of the previous piece, the base of the arch overhanging to the front. Repeat to the right. Place
+a light bluish gray 1x2 tile horizontally onto the top studs of the two arches. Repeat to make four pieces.
+This time, the attachment point for the top engine is the 1-finger hinge connector left! of the red 1x2 brick
+with the cross-shaped axle hole into which you inserted the black 8l axle in step 120, so also left of the
+attachment point from the previous step. Orient one of the pieces you just built so that the hinge points to
+the right and the former top of the piece points to the back. Like this, attach the 2-finger hinge connector
+to the 1-finger hinge connector you identified, before, by clipping the 1-finger hinge in between the 2-
+finger hinge. Repeat symmetrically on the right, bottom, and left.
+128. In this step you will rotate the pieces you attached in the last two steps to form the shell for the outer
+engines. Start with the top engine and rotate the left and right piece at the respective hinge towards the
+engine (so towards the front and towards each other) until the two meet in the middle (the bases of the
+arches should touch, flush with each other). Repeat on the right, bottom, and left.
+Set the current piece aside. Steps 129-132 need to be repeated four times!
+Open group 26.
+129. Locate a black 1x2 slope plate (1x1 slope with a 1x1 plate next to it) from a separate subgroup of
+group 26 and orient it horizontally, slope to the left. Place a blue 1x2 plate horizontally onto the stud of the
+previous piece, overhanging to the right.
+130. Locate a white 1x2 slope plate (1x1 slope with a 1x1 plate next to it) and orient it horizontally, slope
+to the right. Place its stud under! the right stud of the blue 1x2 plate from the previous step, so that it
+protrudes to the right.
+131. Locate a black 2x2 plate from a separate subgroup of group 26 and place its back row under! the
+black 1x2 slope plate from step 129, flush at the left. Locate a white 2x2 plate and place it to the right of
+the previous piece, so with its back row under! the white 1x2 slope plate from the previous step, flush at
+the right.
+132. Locate a black 1x2 slope brick! from a separate subgroup of group 26 and place it horizontally, slope
+to the left, onto the leftmost two studs of the front row. Locate a white 1x2 slope brick! and place it
+horizontally, slope to the right, to the right, so onto the rightmost two studs of the front row.
+Make sure that you repeated steps 129-132 four times. Next you will attach these four pieces to the
+rocket.
+Stand the rocket upright, so that the engines are at the bottom and one of the outer engines is at the
+front.
+133. Orient one of the pieces you just built so that its top studs point to the front, the black pieces (former
+left) are at the left and the white pieces (former right) are at the right. Like this, attach the piece above the
+engine shell of the front engine that you rotated into place in step 128. The piece will overlay the two
+hinges you attached the engine shell to in steps 126 and 127, the two studs in between as well as the row
+of four studs above. Repeat symmetrically on the left, back, and right.
+Open group 27.
+134. Locate a white tail fin and orient it so that its underside points to the back and the fin extends to the
+front and bottom. The upper row of 1x2 studs of the piece you attached in the front in the previous step
+forms a 2x3 plane surface with the 2x2 studs above. Attach the tail fin to this 2x3 surface, oriented as
+described before. Repeat symmetrically on the left, back, and right.
+135. Make a piece four times. Orient a light bluish gray 2x4 brick horizontally. Locate a white 2x2 curved
+slope and place it onto the leftmost two studs of the back row, slope to the back, overhanging to the back.
+Repeat to the right. Repeat symmetrically in the front row using two black 2x2 curved slopes from a
+separate subgroup of group 27. Repeat to make four pieces. Orient one of the pieces you just built so that
+its underside points to the back, the white pieces (former back) are at the left and the black pieces (former
+front) are at the right. Like this, attach the piece in the front right in the open space between the front and
+right tail fins you attached in the previous step. The top two rows of anti-studs of the piece should attach
+to a light bluish gray bracket piece further inside the rocket - there should not be a gap between the top of
+the piece and the hull of the first stage above. Repeat symmetrically on the front left, back left, and back
+right.
+You have successfully built the engines of the first stage and finished the sixth large bag.
+Continue by using the parts from the seventh large bag to build the inner structure of the second stage.
+Open the large bag 7.
+Open group 28.
+Set the current piece aside.
+136. Locate a light bluish gray 2x6 plate and orient it horizontally. Place a tan 4x8 half round plate
+horizontally, flat side to the front, centered onto the back row of the previous piece, overhanging three
+studs to the back and one stud to the left and right, respectively.
+137. Place a tan 4x8 half round plate horizontally, flat side to the back, in front of the previous piece,
+forming a circle.
+138. Flip the piece upside down, vertically, so that the 2x6 plate from step 136 is still oriented horizontally.
+Place a reddish brown 2x2 plate upside down and horizontally centered to the back of the 2x6 plate from
+step 136. Repeat symmetrically on the front. The two 2x2 plates should form a symmetrical plus sign
+together with the 2x6 plate.
+139. Locate eight white 2x2 plates with 1x2 side studs. Orient one of them upside down, side studs to the
+front and place it so its back right stud is on the front left stud of the previous piece. The front row of the
+plate should connect to the 4x8 half round plate underneath and the back left stud should be
+unconnected. Repeat to the right. Repeat what you did with the previous two pieces symmetrically at the
+left, back, and right using up all eight plates.
+140. Flip the piece right side up again. Locate four pearl gold 1x1 round plates with a hollow stud and
+place one in the front right, so onto the rightmost stud of the second row from the front. Repeat
+symmetrically on the front left, back left, and back right. Locate four dark bluish gray 2x2 curved slopes
+with two studs on top and place one centered horizontally in the frontmost two rows, studs at the front.
+Repeat symmetrically on the left, back, and right.
+141. Locate four white 2x2 plates with 1x2 side studs and place one onto the 2x2 curved slope in the front
+from the previous step, studs to the front. Repeat symmetrically on the left, back, and right.
+Open group 29.
+142. Make a piece four times. Place a red 1x2 bracket with 2x2 side studs extending to the top on top of a
+tan 1x2 bracket with 2x2 side studs extending to the bottom, the side studs of both pieces pointing to the
+front. Place a light bluish gray 1x2 plate with one stud on top on top of the upper bracket. Repeat to make
+four pieces. Place one of the pieces you just built centered onto the 1x1 round plate in the front right, side
+studs pointing to the front right. Repeat symmetrically on the front left, back left, and back right.
+143. Place a dark bluish gray quarter cylinder from a separate subgroup of group 29 in the front left
+connecting the outer rows of the two 2x2 plates with side studs in the left and front as well as the 1x2
+plate with one stud in the front left. Repeat symmetrically on the back right. Repeat symmetrically with a
+white quarter cylinder (not from a separate subgroup!) in the back left, and front right.
+144. Make a piece. Locate a tan 2x8 plate and orient it horizontally. Place a blue 1x2 plate vertically onto
+the leftmost column of the previous piece. Repeat on the rightmost column. Place the piece you just built
+vertically from front to back, horizontally centered, connecting all four quarter cylinders from the previous
+step on top.
+145. Make a piece. Locate a white 2x2 plate with 1x2 side studs and orient it side studs to the left. Place
+a light bluish gray 2x6 plate horizontally onto the right column of the previous piece, overhanging to the
+right. Place a white 2x2 plate with 1x2 side studs, side studs to the right, with its left column under! the
+rightmost column of the previous piece, symmetrically to the 2x2 plate with 1x2 side studs in the left.
+Place the piece you just built horizontally from left to right, vertically centered, connecting all four quarter
+cylinders from step 143 as well as the tan 2x8 plate from the previous step on top.
+146. Make a piece four times. Place a light bluish gray 1x2 plate with one stud on top horizontally on top
+of a red 1x2 bracket with 2x2 side studs extending to the top, side studs to the front. Repeat to make four
+pieces. Place one of the pieces you just built centered onto the single stud in the front right, side studs to
+the front right. Repeat symmetrically on the front left, back left, and back right.
+147. Place a dark bluish gray quarter cylinder from a separate subgroup of group 29 in the front left
+connecting the outer row of the 2x2 plate with side studs in the left, the 1x2 plate in the front as well as
+the 1x2 plate with one stud in the front left. Repeat symmetrically on the back right. Repeat symmetrically
+with a white quarter cylinder (not from a separate subgroup!) in the back left, and front right. The quarter
+cylinders are placed similarly to the ones in step 143, just higher up.
+Open group 30.
+148. Place a tan 2x8 plate horizontally from left to right, vertically centered, connecting all four quarter
+cylinders from the previous step on top.
+149. Make a piece. Locate a white 2x2 plate with 1x2 side studs and orient it side studs to the left. Place
+a light bluish gray 2x6 plate horizontally onto the right column of the previous piece, overhanging to the
+right. Place a white 2x2 plate with 1x2 side studs, side studs to the right, with its left column under! the
+rightmost column of the previous piece, symmetrically to the 2x2 plate with 1x2 side studs in the left.
+Place a green 1x2 plate with an upwards bar arm, bar arm to the left, vertically onto the second column
+from the left, so the leftmost column of the 2x6 plate. Repeat symmetrically in the second column from the
+right, so the rightmost column of the 2x6 plate. Place a dark bluish gray 2x4 plate horizontally in the gap
+between the two previous pieces. Place the piece you just built vertically from front to back, horizontally
+centered, connecting all four quarter cylinders from step 147 as well as the 2x8 plate from the previous
+step on top.
+150. Make a piece two times. Place a green 1x2 plate with an upwards bar arm, bar arm to the left on top
+of a blue 1x2 plate vertically. Repeat to make two pieces. Place one of the pieces you just built, bar arm
+to the left, vertically onto the second column from the left of the horizontal tan 2x8 plate from step 148.
+Repeat symmetrically in the second column from the right.
+151. Make a piece four times. Locate a dark bluish gray 1x2 bracket with 1x2 side studs extending to the
+top and orient it horizontally, side studs to the front. Place a light bluish gray 1x2 plate with one stud on
+top, horizontally on top of the previous piece. Place a white 1x1 round plate on top. Repeat to make four
+pieces. Place one of the pieces you just built centered onto the single stud in the front right, side studs to
+the front right. Repeat symmetrically on the front left, back left, and back right.
+152. Locate three light bluish gray 2x6 plates. Place one horizontally with its back left stud on the white
+1x1 round plate in the back left from the previous step and its back right stud on the white 1x1 round plate
+in the back right from the previous step. Repeat to the front. Repeat to the front. The front left stud of the
+last piece should be connected to the white 1x1 round plate in the front left from the previous step and
+likewise in the front right.
+153. Place a tan 2x2 brick in the center. Place a white 1x2x1 panel (bench) horizontally to the front,
+backrest to the back. Place a white 1x2 tile horizontally to the front. Repeat what you did with the previous
+two pieces symmetrically at the left, back, and right.
+Open group 31.
+154. Place a reddish brown 2x2 plate in the center onto the tan 2x2 brick from the previous step.
+155. Make a piece four times. Locate a blue 1x2 plate and orient it horizontally. Place a red 1x1 tile with a
+clip on top, clip horizontal, onto the left stud of the previous piece. Place a yellow 1x2 plate with a clip on
+top, horizontally, clip to the right, to the right, overhanging to the right. Place a white 1x1 round plate onto
+the center stud, so the left column of the previous piece. Place another white 1x1 round plate on top of
+the previous piece. Place a red 1x1 brick with a side stud onto the previous piece, side stud to the front.
+Repeat to make four pieces. Flip one of the pieces you just built face-down, so that the side stud is flat on
+the table and the 1x1 brick with a side stud is at the front. Like this, insert the upwards bar arm of the
+green 1x2 plate in the front into the side stud of the piece you just built. The back of the piece should
+touch the front of the front bench piece from step 153. Repeat symmetrically on the left, back, and right.
+156. Make a piece four times. Place a black 1x1 round brick onto a white 1x1 round plate. Repeat to
+make four pieces. Place one of the pieces you just built in the gap between the frontmost and leftmost
+2x2 studs. Another way to describe these 2x2 studs would be the two leftmost columns of the front light
+bluish gray 2x6 plate from step 152. The piece you built should be put into the gap in the center between
+these four studs (not onto the front left stud!). Repeat symmetrically on the back left, back right, and front
+right.
+Open group 32.
+157. Make a piece. Locate a tan 6x6 plate. Place a blue 1x2 plate vertically and vertically centered in the
+leftmost column of the previous piece. Repeat symmetrically in the rightmost column. Place a pearl gold
+1x1 round plate with a hollow stud in the front left corner of the 6x6 plate. Repeat on the back left, back
+right, and front right. Place the piece you just built centered onto the main piece, the blue 1x2 plate being
+at the left and right. It should be aligned with the 6x6 plate the three 2x6 plates from step 152 form.
+Set the current piece aside. Steps 158-165 need to be repeated two times!
+158. Locate a dark bluish gray 2x4 plate and orient it horizontally, upside down!
+159. Locate two red 1x2 plates with a clip on one end. Place one horizontally, upside down, clip to the left
+onto the leftmost two anti-studs of the back row of the previous piece, clip overhanging to the left. Repeat
+to the front.
+160. Locate a light bluish gray 2x2 bracket with a 2x2 tile with a hole extending to the bottom. Place it
+upside down, the 2x2 tile with the hole to the right extending to the top onto the rightmost two columns, so
+right of the two previous pieces.
+161. Place a blue 1x2 plate vertically, upside down, onto the rightmost column. Locate two light bluish
+gray 1x2 plates with 1x2 side studs extending to the bottom. Place one horizontally, upside down, side
+studs to the front to the left of the previous piece onto the front row. Repeat symmetrically to the back.
+162. Rotate the piece right side up, clips to the right. Place a green 1x2 slope tile vertically, slope to the
+right, onto the rightmost column. Place a yellow 2x3 plate horizontally to the left.
+163. Make a piece. Locate a dark bluish gray 2x4 plate and orient it horizontally. Place a dark bluish gray
+1x2 plate with 1x2 side studs extending to the top vertically, side studs to the right, onto the rightmost
+column of the previous piece. Place a blue 1x2 plate vertically onto the leftmost column of the 2x4 plate.
+Place another blue 1x2 plate vertically onto the previous piece. Place the piece you just built horizontally,
+side studs to the right, onto the yellow 2x3 plate from the previous step, flush at the right, overhanging
+one column to the left.
+164. Locate two tan 1x2 plates with 2x2 side studs extending to the bottom. Place one horizontally, side
+studs to the front in the front row, between the stacked blue 1x2 plates and the dark bluish gray 1x2 plate
+with 1x2 side studs extending to the top from the previous step. Repeat symmetrically to the back.
+165. Locate two light bluish gray 1x2 plates with one stud on top. Place one vertically upright onto the
+side studs in the front, connecting the light bluish gray 1x2 plate with 1x2 side studs extending to the
+bottom from step 161 and the tan 1x2 plate with 2x2 side studs extending to the bottom from the previous
+step. Afterwards, in the bottom row of the side studs, there should be a free stud at the right, in the middle
+row, there should be a free stud at the left, and in the top row there should be two free studs. Repeat
+symmetrically on the back.
+Make sure that you repeated steps 158-165 two times. Next you will attach these two pieces to the
+second stage.
+166. Make sure the rocket is still oriented as before, with the vertical blue 1x2 plates from step 157 at the
+very top being to the left and right. Orient one of the pieces you just built so that the clips point to the top
+and the former top points towards the front. Like this, place the piece onto the center of the second and
+third row from the front. Repeat symmetrically to the back. The 2x2 tiles with the hole from step 160
+should touch each other in the center of the tan 6x6 plate.
+Open group 33.
+167. Locate two white 1x6 tiles. Place one horizontally from the left, connecting the two pieces you
+attached in the previous step, by attaching it to the two light bluish gray 1x2 plates with one stud at the left
+sides of the pieces. Repeat symmetrically on the right.
+168. Make a piece four times. Locate a red 1x2 bracket with 2x2 side studs extending to the top and
+orient it horizontally, side studs to the back. Place a light bluish gray 1x2 plate with one stud on top
+horizontally on top. Place a white 1x1 round plate on top. Repeat to make four pieces. Place one of the
+pieces you just built vertically, side studs to the left, vertically centered onto the 1x1 round plate in the
+front left corner. Repeat on the back left. Repeat symmetrically on the front right and back right.
+Set the current piece aside. Step 169 needs to be repeated two times!
+169. Locate a light bluish gray 1x2 concave brick and orient it horizontally. Locate two tan 1x1 plates with
+a clip on one side. Place one, clip to the left, onto the left stud of the previous piece. Repeat
+symmetrically to the right. Place a tan 1x2 plate with 2x2 side studs extending to the bottom horizontally,
+side studs to the front, on top. Make a piece two times. Place a trans-orange 1x1 round tile onto a black
+1x1 rounded plate with a bar handle. Repeat to make two pieces. Clip the bar handle of one of the pieces
+you just built into the clip in the left, 1x1 round tile to the top. Repeat symmetrically on the right.
+Make sure that you repeated step 169 two times. Next you will attach these two pieces to the second
+stage.
+170. Orient one of the pieces you just built vertically, side studs to the left. Place it onto the vertical blue
+1x2 plate in the leftmost column, in between the two red 1x2 brackets from step 168. Repeat
+symmetrically on the right.
+171. Make sure that the four black 1x1 round plates with a bar handle from the pieces you attached in the
+previous step attach to the white 1x1 round plates underneath each of them by pressing down on them
+until they are connected.
+172. Now that the red 1x2 brackets with 2x2 side studs extending to the top from step 168 in the four
+corners are attached from the top as well (see last step), rotate each of them so the side studs point
+diagonally outwards, i.e. the side studs of the bracket in the front left should point to the front left and so
+on (in line with the side studs further down the sides of the stage). Make a piece two times. Locate a dark
+bluish gray 2x4 plate and orient it horizontally. Place a yellow 2x3 plate horizontally on top, flush at the
+left. Place a dark bluish gray 1x2 plate with 1x2 side studs extending to the top vertically, side studs to the
+right, to the right. Repeat to make two pieces. Orient one of the pieces you just built vertically upright, side
+studs to the top, its former top to the left and place it vertically centered onto the tan 2x2 side studs from
+step 169 in the left center, so it should overhang one row to the top and one row to the bottom. Repeat
+symmetrically on the right.
+Set the current piece aside. In steps 173-179 you’ll build the base of the second stage.
+Open group 34.
+173. Place a light bluish gray 2x2 round tile with one stud on top centered onto a light bluish gray 4x4
+round plate. Orient the 4x4 round plate so the studs are aligned vertically and horizontally.
+174. Locate two blue 1x2 plates. Place one horizontally onto the front row. Repeat on the back. Locate
+two light bluish gray 1x4 plates. Place one vertically onto the left column of the 4x4 round plate,
+overhanging one stud to the front and one to the back. Repeat on the right.
+175. Place a black 1x1 round brick onto the center stud.
+176. Locate four tan 1x2 bricks with 1x2 side studs. Place one horizontally, side studs to the front
+centered into the front row. Repeat symmetrically on the left, back, and right. The four pieces should
+touch corners.
+177. Place a green 4x4 plate centered on top.
+178. Make a piece two times. Connect two light bluish gray 1x2 bricks with a hole using a black technic
+pin by inserting the technic pin into the holes of the two bricks. The two bricks should be oriented
+horizontally. Place a light bluish gray 2x4 slope horizontally, slope to the front, centered on top,
+overhanging one column to the left and one to the right. Locate two light bluish gray 1x2 concave bricks.
+Place one vertically under! the leftmost column of the previous piece so that it’s no longer overhanging to
+the left. Repeat on the right. Repeat to make two pieces. Orient one of the pieces you just built vertically,
+slope to the bottom, its former top to the left. Like this, attach its two center studs of the top row from the
+left to the tan 1x2 side studs at the left from step 176. Repeat symmetrically on the right.
+179. The pieces you build in this step are almost identical to those in the previous step, but differ at two
+spots! Make a piece two times. Connect two light bluish gray 1x2 bricks with a hole using a black technic
+pin by inserting the technic pin into the holes of the two bricks. The two bricks should be oriented
+horizontally. Place a light bluish gray 2x4 slope horizontally, slope to the front, centered on top,
+overhanging one column to the left and one to the right. Next is where the piece differs to the one in the
+previous step. Locate two light bluish gray 2x2 slopes. Place one, slope to the left, under! the leftmost
+column of the previous piece so that it’s no longer overhanging to the left. Repeat symmetrically on the
+right. Repeat to make two pieces. Orient one of the pieces you just built horizontally, 2x4 slope to the
+bottom, its former top to the front. Like this, attach its two center studs of the top row from the front to the
+tan 1x2 side studs at the front from step 176. Repeat symmetrically on the back.
+Next you will attach the base of the second stage you just built to the bottom of the second stage.
+180. With the second stage still rotated as before and the base you just built also rotated as when you
+built it, place the base centered under! the second stage and attach it. The 4x4 plate at the top of the
+base should fit right into a gap of the same size at the bottom of the second stage.
+You have successfully built the inner structure of the second stage and finished the seventh large bag.
+Continue by using the parts from the eighth large bag to build parts of the hull of the second stage.
+Open the large bag 8 which contains the groups N, and T as well as groups 35-39.
+Open group 35.
+181. Make a piece. Locate a light bluish gray 2x2 plate with pin holes underneath and orient it so that the
+pin holes point to the left and right. Place a white 2x5 bracket (staircase) horizontally, upper stair to the
+right, on top, flush at the left, the upper stair overhanging to the right. Place a yellow 2x3 plate horizontally
+under! the upper stair of the previous piece, protruding one column to the right. Orient the piece you just
+built vertically upright, the pin hole at the top pointing to the top and its former top pointing to the front left.
+Attach the upper two rows of the yellow 2x3 plate from the front left to the red 2x2 side studs of the
+bracket from step 168 in the front left (the one you rotated in step 172).
+Set the current piece aside. In steps 182-192 you’ll build a part of the hull of the second stage.
+182. Locate a white 1x2 plate with a pin hole on top and orient it vertically, pin hole in the back. Insert the
+short side of a blue 3l technic pin from the right into the pin hole.
+183. Make a piece. Locate a white 1x2 plate with a pin hole on top and orient it vertically, pin hole in the
+back. Place a black 1x1 round plate under! the back row of the previous piece, so underneath the pin
+hole. Slide the pin hole of the piece you just built from the right onto the blue technic pin until it touches
+the similar plate with a pin hole from the previous step.
+184. Slide a white 2l round pin connector (feels like a smooth tube with a small slot in the middle)
+horizontally from the right onto the blue technic pin. Insert a black technic pin from the right into the
+previous piece.
+185. Slide a white 2l round pin connector horizontally from the right onto the black technic pin. Insert a
+black technic pin from the right into the previous piece.
+186. Same as the step before. Slide a white 2l round pin connector horizontally from the right onto the
+black technic pin. Insert a black technic pin from the right into the previous piece.
+187. Same as the step before. Slide a white 2l round pin connector horizontally from the right onto the
+black technic pin. Insert a black technic pin from the right into the previous piece. There should be four
+white 2l round pin connectors in a row now.
+188. Make a piece. Locate a blue 1x2 plate and orient it horizontally. Place a white 1x2 plate with a pin
+hole on top vertically, pin hole in the back, with its back anti-stud onto the left stud of the previous piece,
+overhanging to the front. Slide the piece you just built from the right onto the black technic pin.
+189. Make a piece. Place a light bluish gray 1x8 plate horizontally centered onto a tan 1x10 plate
+horizontally, leaving one free stud to the left and to the right. Attach the piece you just built from the
+bottom! with its leftmost stud attaching to the front row of the middle one of the three white 1x2 plates with
+a pin hole and its rightmost stud attaching to the front row of the right one of the three. The light bluish
+gray 1x8 plate should fit right in between the two mentioned plates.
+190. Make a piece. Locate two dark bluish gray 1x2 plates with a bar handle on one end and orient them
+horizontally, bar handle to the left, one behind the other. Connect the two pieces by placing a blue 1x2
+plate vertically onto their left column. Place the rightmost column of the piece you just built under! the
+leftmost column of the bigger piece you built before (so underneath the left of the three white 1x2 plates
+with a pin hole on top), bar handles still to the left.
+191. Place a white 1x1 slope onto the leftmost stud of the back row, slope to the left. Place a black 1x1
+tile with a clip on top, clip vertical, in front. Place a black 1x2 tile from a separate subgroup of group 35
+horizontally to the right. Place a black 1x1 tile with a clip on top, clip vertical, to the right. Place a white
+1x1 slope, slope to the right, to the right. Place a white 1x2 tile horizontally to the right. There should be
+five uncovered studs to the right.
+192. Clip a white 4l bar horizontally into the two black clips from the previous step.
+Next you will attach the part of the hull you just built to the lower left front of the second stage.
+193. First, identify the attachment points by checking the front left side of the rocket. At the top of the front
+left side, there is the white 2x5 bracket you attached, before building the last piece (step 181). Below at
+about mid-height, there are red 2x2 side studs which are the upper attachment point. Further down,
+almost at the bottom, there are 2x4 side studs (red and tan) which are the lower attachment point. Orient
+the piece you just built vertically upright, with the white bar from the previous step being vertical in the
+lower right, bar handles at the bottom and the former top of the piece pointing to the front left. At the top
+left, a plate of size 1x1 should protrude to the top. The respective anti-stud will attach to the top left stud
+of the upper attachment point and the remainder of the piece you just built will attach to the side studs
+below, naturally (the side studs rotate a bit, so you might need to adjust them). Afterwards, the mentioned
+attachment points should be fully covered, except for the top right stud of the upper attachment point.
+Set the current piece aside. In steps 194-201 you’ll build another part of the hull of the second stage.
+Open group 36.
+194. Locate a white 1x2 plate with a pin hole on top and orient it vertically, pin hole in the back.
+195. Insert a black technic pin from the right into the hole of the previous piece. Slide a white 2l round pin
+connector horizontally from the right onto the black technic pin.
+196. Insert a black technic pin from the right into the hole of the previous piece. Slide a white 2l round pin
+connector horizontally from the right onto the black technic pin.
+197. Same as the step before. Insert a black technic pin from the right into the hole of the previous piece.
+Slide a white 2l round pin connector horizontally from the right onto the black technic pin. There should be
+three white 2l round pin connectors in a row now.
+198. Make a piece. Place a blue 1x6 plate horizontally centered onto a light bluish gray 1x8 plate
+horizontally, leaving one free stud to the left and to the right. Place a white 1x6 tile horizontally with red
+letters reading “UNITED” from right to left (later it will be top to bottom) from the separate group N onto
+the previous piece. Place the leftmost stud of the piece you just built under! the front stud of the white 1x2
+plate with a pin hole on top at the very left, extending to the right.
+199. Make a piece. Locate a white 1x2 plate with a pin hole on top and orient it vertically, pin hole in the
+back. Place a black 1x1 round plate under! the back row of the previous piece, so underneath the pin
+hole. Place the front stud of the piece you just built onto the rightmost stud of the light bluish gray 1x8
+plate you attached in the previous step. The pin hole of the piece you just built should be in line with the
+hole of the white 2l round pin connector from step 197.
+200. Insert a red 1/2 technic pin with a 2l bar extension horizontally, bar extension to the left, from the
+right into the pin hole of the previous piece as far as possible until only the stud of the technic pin sticks
+out to the right.
+Open group 37.
+201. Make a piece. Place a white 1x1 round plate on top of a white 1x1 round brick. Place a white 1x1
+cone on top. Orient the piece you just built horizontally, cone to the right and attach it from the right to the
+previous piece.
+Next you will attach the part of the hull you just built to the upper left front of the second stage.
+202. Orient the piece you just built vertically upright, the cone pointing to the top and its former top to the
+front left. Attach it to the second stage immediately above where you attached the last hull piece and in
+line with it. The cone should be underneath the left column of the white 2x5 bracket at the top front left.
+203. Identify the white 2x5 bracket at the top of the front left side, above the cone that you attached in the
+previous step. Place a white 1x2 tile vertically upright onto the bottommost studs of the left column of the
+bracket, so immediately above the cone. Place a white 1x6 tile vertically upright to the right, flush at the
+top with the previous piece, extending to the bottom, so that it touches the 1x6 tile with the letters
+“UNITED” to the bottom. Place a white 1x6 tile with red letters reading “STATES” from top to bottom from
+the separate group T vertically, underneath the 1x6 tile reading “UNITED”. The tile should fit exactly into a
+6-stud gap to the right of the white 2l round pin connectors, under the 1x6 tile and above a 1x2 tile.
+Set the current piece aside. In steps 204-210 you’ll build another part of the hull of the second stage.
+204. Locate a tan 2x8 plate and orient it horizontally. Place a dark bluish gray 2x4 plate horizontally onto
+its rightmost four columns, flush at the right.
+205. Place a reddish brown 2x2 plate to the left of the tan 2x8 plate from the previous step, so without
+attaching it.
+206. Place a tan 2x8 plate horizontally to the left of the dark bluish gray 2x4 plate from step 204, thereby
+connecting the reddish brown 2x2 plate from the previous step, and overhanging 2 columns to the left.
+207. Locate two dark bluish gray 1x2 plates with a bar handle on one end. Place one horizontally, bar
+handle to the left, under! the leftmost two studs of the front column, the bar protruding to the left. Repeat
+to the back.
+208. Place a white 1x1 tile with a clip on top, clip vertical, onto the leftmost stud of the back row. Place a
+white 1x1 tile to the right. Place a black 1x2 tile from a separate subgroup of group 37 horizontally to the
+right. Place a white 1x1 tile with a clip on top, clip vertical, to the right. Place a white 1x6 tile horizontally
+to the right. All of the back row, except for the rightmost stud should be covered now.
+209. Place a black 1x1 tile with a clip on top from a separate subgroup of group 37, clip vertical, onto the
+leftmost stud of the front row. Place a black 1x2 tile from a separate subgroup of group 37 horizontally to
+the right. Place a black 1x1 tile with a clip on top from a separate subgroup of group 37, clip vertical, to
+the right. Place a white 1x1 slope, slope to the right, to the right. Place a white 1x2 tile horizontally to the
+right. There should be five uncovered studs to the right.
+210. Clip a white 4l bar horizontally into the two black clips in the front row. Clip a white 6l bar with a stop
+ring horizontally into the two white clips in the back row, stop ring to the right and stop ring immediately
+right of the right clip.
+Next you will attach the part of the hull you just built to the lower right front of the second stage.
+211. Remember the attachment points described in step 193 at the front left. The same attachment points
+exist at the front right side of the hull. The piece you just built will attach to the upper red 2x2 attachment
+point (slightly below mid-height of the second stage) as well as the lower 2x8 (red + tan) attachment point.
+Orient the piece you just built vertically upright, the bars vertical at the lower end and its former top
+pointing to the front right. The very top of the piece will be attached to the lower row of the upper
+attachment point and the remainder of the piece will attach to the side studs below, naturally. Afterwards,
+the mentioned attachment points should be fully covered, except for the top row of the upper attachment
+point and the bar handles at the bottom should be at the same height as those in the front left.
+212. Follow the front right side straight up from where you attached the piece in the previous step. Almost
+at the top, there are another red 2x2 side studs (the equivalent to the ones at the front left, to which you
+attached the 2x5 bracket in step 181). This will be the attachment point of the next piece you are building.
+Make a piece. Locate a light bluish gray 2x2 plate with pin holes underneath and orient it so that the pin
+holes point to the left and right. Place a white 2x5 bracket (staircase) horizontally, upper stair to the right,
+on top, flush at the left, the upper stair overhanging to the right. Place a yellow 2x3 plate horizontally
+under! the upper stair of the previous piece, protruding one column to the right. Place a white 2x2 tile onto
+the upper stair, flush at the right. Orient the piece you just built vertically upright, the pin hole at the top
+pointing to the top and its former top pointing to the front right. Attach the upper two rows of the yellow
+2x3 plate from the front right to the previously identified attachment point (the red 2x2 side studs at the
+top front right side). The staircase should be attached similarly to the one at the top front left side.
+Open group 38. 
+213. Make a piece. Locate a tan 2x8 plate and orient it horizontally. Place a dark bluish gray 2x4 plate
+horizontally on top, flush at the left. Place a blue 1x2 plate vertically to the right. Place a light bluish gray
+2x6 plate horizontally to the right, overhanging to the right by three columns. Locate two white 1x2 grille
+tiles. Place one horizontally onto the two rightmost studs of the back row. Repeat to the front. Place a
+white 2x2 tile to the left of the previous two pieces. Place a white 1x6 tile horizontally with red letters
+reading “UNITED” from right to left (later it will be top to bottom) from the separate group N to the left in
+the front row. Orient the piece you just built vertically upright, its former top pointing to the front right and
+the grille tiles at the upper end. Like that, attach the piece from the front right with its top row to the
+bottom row of the yellow 2x3 plate from the previous step and its bottom row to the uncovered top row of
+the side studs of the upper attachment point from step 211.
+214. In the right column of the hull pieces attached in the last steps, there is an un-tiled vertical gap of 1x6
+studs. Place a white 1x6 tile with red letters reading “STATES” from top to bottom from the separate
+group T vertically upright in this gap, which is underneath the tile that reads “UNITED”. In the left column
+of the hull pieces attached in the last steps, there is an un-tiled vertical gap of 1x8 studs. Place a white
+1x8 tile with black dashes vertically upright in this gap.
+Set the current piece aside. Steps 215-221 need to be repeated two times!
+215. Locate a tan 2x8 plate and orient it horizontally. Place a dark bluish gray 2x4 plate horizontally onto
+its rightmost four columns, flush at the right.
+216. Place a reddish brown 2x2 plate to the left of the tan 2x8 plate from the previous step, so without
+attaching it.
+217. Place a tan 2x8 plate horizontally to the left of the dark bluish gray 2x4 plate from step 215, thereby
+connecting the reddish brown 2x2 plate from the previous step, and overhanging 2 columns to the left.
+218. Locate two dark bluish gray 1x2 plates with a bar handle on one end. Place one horizontally, bar
+handle to the left, under! the leftmost two studs of the front column, the bar protruding to the left. Repeat
+to the back.
+219. Place a white 1x2 tile from a separate subgroup of group 38 horizontally onto the leftmost two studs
+of the back row. Place a black 1x2 tile horizontally to the right. Place a white 1x1 tile to the right. There
+should be seven uncovered studs to the right.
+220. Place a black 1x1 tile with a clip on top, clip vertical, onto the leftmost stud of the front row. Place a
+black 1x2 tile horizontally to the right. Place a black 1x1 tile with a clip on top, clip vertical, to the right.
+Place a white 1x1 slope, slope to the right, to the right. There should be seven uncovered studs to the
+right.
+221. Place a white 2x2 tile to the right of the previous piece and the piece behind. Clip a white 4l bar
+horizontally into the two clips in the front row.
+Make sure that you repeated steps 215-221 two times. Next you will attach these two pieces to the
+second stage.
+222. Rotate the second stage by 180° so that its former back is now at the front and vice versa.
+Remember the attachment points described in step 193 at the front left (which is now at the back right).
+The same attachment points exist at the front left, again, now that you rotated the second stage. The
+pieces you just built will attach to the red 2x2 attachment point at about mid-height (henceforth called the
+upper attachment point) as well as the lower 2x8 (red + tan) attachment point. Orient one of the pieces
+you just built vertically upright, the bar vertical at the lower right and its former top pointing to the front left.
+The very top of the piece will be attached to the lower row of the upper attachment point and the
+remainder of the piece will attach to the side studs below, naturally. Afterwards, the mentioned
+attachment points should be fully covered, except for the top row of the upper attachment point and the
+bar handles at the bottom should be at the same height as those in the back left and back right.. Repeat
+symmetrically on the front right.
+Open group 39.
+223. The pieces you are building in this step are the same as the piece you built in step 212. Follow the
+front left and right sides straight up from where you attached the pieces in the previous step. Almost at
+the top, there are red 2x2 side studs on each of the two sides (the equivalent to the ones at the back left,
+to which you attached the 2x5 bracket in step 212). These will be the attachment points of the next pieces
+you are building. Make a piece two times. Locate a light bluish gray 2x2 plate with pin holes underneath
+and orient it so that the pin holes point to the left and right. Place a white 2x5 bracket (staircase)
+horizontally, upper stair to the right, on top, flush at the left, the upper stair overhanging to the right. Place
+a yellow 2x3 plate horizontally under! the upper stair of the previous piece, protruding one column to the
+right. Place a white 2x2 tile onto the upper stair, flush at the right. Repeat to make two pieces. Orient one
+of the pieces you just built vertically upright, the pin hole at the top pointing to the top and its former top
+pointing to the front left. Attach the upper two rows of the yellow 2x3 plate from the front left to the
+previously identified attachment point (the red 2x2 side studs at the top front left side). The staircase
+should be attached similarly to the one at the top back left side. Repeat symmetrically on the front right.
+224. Make a piece two times. Locate a tan 2x8 plate and orient it horizontally. Place a dark bluish gray
+2x4 plate horizontally on top, flush at the left. Place a blue 1x2 plate vertically to the right. Place a light
+bluish gray 2x6 plate horizontally to the right, overhanging to the right by three columns. Locate two white
+1x2 grille tiles. Place one horizontally onto the two rightmost studs of the back row. Repeat to the front.
+Place a white 2x2 tile to the left of the previous two pieces. Place a white 1x6 tile horizontally with red
+letters reading “UNITED” from right to left (later it will be top to bottom) from the separate group N to the
+left in the front row. Place a white 1x6 tile horizontally to the back. Repeat to make two pieces. Orient one
+of the pieces you just built vertically upright, its former top pointing to the front left and the grille tiles at the
+upper end. Like that, attach the piece from the front left with its top row to the bottom row of the yellow
+2x3 plate at the top left front side from the previous step and its bottom row to the uncovered top row of
+the side studs of the upper attachment point from step 222. Repeat symmetrically on the front right.
+225. In the right columns of the hull pieces attached in the last step, there are un-tiled vertical gaps of 1x6
+studs. Locate two white 1x6 tiles with red letters reading “STATES” from top to bottom from the separate
+group T and place them vertically upright in the two gaps, which are underneath the tiles that read
+“UNITED”. In the left columns of the hull pieces attached in the last step, there also are un-tiled vertical
+gaps of 1x6 studs. Place two white 1x6 tiles vertically upright in these two gaps.
+You have successfully built parts of the hull of the second stage and finished the eighth large bag.
+Continue by using the parts from the ninth large bag to mostly finish the hull of the second stage.
+Open the large bag 9 which contains four identical group 40s.
+Set the current piece aside. Steps 226-234 need to be repeated four times!
+Open group 40.
+226. Locate a tan 2x8 plate and orient it horizontally.
+227. Place a dark bluish gray 2x4 plate vertically under! the second and third column from the left of the
+previous piece, vertically centered, so protruding one row to the front and one to the back. Place a light
+bluish gray 4x6 plate horizontally under! the tan 2x8 plate from the previous step, to the right of the
+previous piece, so protruding one row to the front, one to the back, and one column to the right.
+228. Place a reddish brown 2x2 plate to the right of the tan 2x8 plate from step 226, overhanging one
+column to the right.
+229. Place a light bluish gray 4x6 plate horizontally under! the right column of the previous piece, to the
+right of the light bluish gray 4x6 plate from step 227, so protruding one row to the front, one to the back,
+and five columns to the right.
+230. Place a tan 2x8 plate horizontally to the right of the reddish brown 2x2 plate from step 228,
+overhanging three columns to the right.
+231. Place a light bluish gray 4x6 plate horizontally under! the three rightmost columns of the previous
+piece, to the right of the light bluish gray 4x6 plate from step 229, so protruding one row to the front, one
+to the back, and three columns to the right.
+232. Make a piece. Locate a blue 1x2 plate and orient it vertically. Place the rightmost column of a tan
+2x8 plate horizontally onto the previous piece, overhanging seven columns to the left. Place a dark bluish
+gray 2x4 plate vertically under! the second and third column from the right of the previous piece (so left of
+the blue 1x2 plate), vertically centered, so protruding one row to the front and one to the back. Place a
+black 1x2 plate from a separate subgroup of group 40 vertically onto the rightmost column of the tan 2x8
+plate. Place a black 1x4 double curved slope vertically onto the previous piece, vertically centered, so
+overhanging one row to the front and one to the back. Locate two white 2x3 curved slopes. Place one
+vertically, slope to the front, with its back row onto the two rightmost uncovered studs in the front row of
+the tan 2x8 plate, so its middle row should attach to the front row of the vertical dark bluish gray 2x4 plate
+and its front row should be overhanging to the front. Repeat symmetrically to the back. Orient the piece
+you just built horizontally with the slopes at the right end of the piece. Like this, attach it to the right of the
+tan 2x8 plate from step 230.
+233. Place a white 2x3 curved slope vertically, slope to the front, with its back row onto two leftmost studs
+of the front row of the leftmost tan 2x8 plate, similarly to how you attached the front 2x3 curved slope in
+the previous step (only the right stud of the middle row will be attached to the front row of the vertical dark
+bluish gray 2x4 plate). Repeat symmetrically to the back with a black 2x3 curved slope from a separate
+subgroup of group 40. Repeat to the right with a black 2x3 curved slope from a separate subgroup of
+group 40. Repeat symmetrically to the front with a black 2x3 curved slope from a separate subgroup of
+group 40. Repeat to the right with a white 1x3! curved slope (again, note that this piece should be only
+one column wide in contrast to the previous pieces). Repeat symmetrically to the back with a white 1x3!
+curved slope.
+234. Locate sixteen white 2x3 curved slopes. Place eight of them to the right of the previous piece,
+similarly to the back slopes in the previous step. Repeat symmetrically to the front. There should be a gap
+of 2x2 studs to the right of the just attached slopes, with the slopes from step 232 to the right of the gap.
+Make sure that you repeated steps 226-234 four times. Next you will attach these four pieces to the
+second stage.
+235. Inspecting the second stage you should be able to identify four large vertical gaps at the front, left,
+back, and right. The pieces you just built will fit perfectly into each of these gaps. Orient one of the pieces
+you just built vertically upright, the black 1x4 double curved slope at the upper end (former right) and its
+former top pointing to the front. Like this, attach the piece from the front to the second stage, its upper
+end attaching to the 1x2 side studs at the upper end of the front side, and its lower end attaching to the
+1x4 side studs at the lower end of the front side. The tiled areas of the piece you just attached should
+align with the tiled areas that were already attached to the front left and front right of the second stage,
+flush at the bottom and top. The horizontal gap in the piece you just attached (near the upper end) should
+be aligned with the grille tiles at the front left and front right. Repeat symmetrically on the left, back, and
+right.
+You have mostly finished the hull of the second stage and finished the ninth large bag.
+Continue by using the parts from the tenth large bag to finish the second stage and to combine the first
+and second stage.
+Open the large bag 10.
+Open group 41.
+236. Make a piece four times. Locate a blue 1x2 plate and orient it horizontally. Place a black 1x1
+rounded plate with a bar handle horizontally, bar handle to the left, onto the left stud of the previous piece,
+bar handle overhanging to the left. Place a light bluish gray 1x2 bracket with 1x2 side studs extending to
+the bottom vertically, side studs to the right, with its front anti-stud onto the right stud of the blue 1x2
+plate, overhanging to the back. Place a dark bluish gray 1x2 bracket with 1x2 side studs extending to the
+top vertically, side studs to the right, on top. Place a yellow 1x2 curved slope horizontally, slope to the left,
+onto the front row. Locate two white 1x2 grille tiles and place one horizontally, grille to the right, from the
+right onto the bottom row of side studs. Repeat to the top. Repeat to make four pieces. Re-identify the
+remaining horizontal gaps in the hull of the second stage (almost at the top). There are four gaps, one at
+the front, left, back, and right, each of them separated by two vertical upright white 1x2 grille tiles. In the
+center of each gap there is a tan 2x2 plate of studs pointing outwards. In this step, you’re going to fill in
+the gaps to the right of the mentioned 2x2 plate. In these gaps, towards the inside and left, there is a
+horizontal clip further inside the rocket which is what the bar handle of the pieces you just built will be
+attached to (you won’t be able to feel the clip unless you have very small fingers, but it is there). Orient
+one of the pieces you just built, so that the bar handle is at the back and the curved slope is at the left.
+Like this, insert the piece into the mentioned right side of the front horizontal gap and clip the bar handle
+to the mentioned clip further inside the rocket. Repeat symmetrically on the left, back, and right (only the
+right! gaps).
+Open group 42.
+237. In this step, you’ll build almost the same pieces as in the previous step, but horizontally mirrored and
+with a red curved slope instead of a yellow one. Make a piece four times. Locate a blue 1x2 plate and
+orient it horizontally. Place a black 1x1 rounded plate with a bar handle horizontally, bar handle to the
+right, onto the right stud of the previous piece, bar handle overhanging to the right. Place a light bluish
+gray 1x2 bracket with 1x2 side studs extending to the bottom vertically, side studs to the left, with its front
+anti-stud onto the left stud of the blue 1x2 plate, overhanging to the back. Place a dark bluish gray 1x2
+bracket with 1x2 side studs extending to the top vertically, side studs to the left, on top. Place a red 1x2
+curved slope horizontally, slope to the right, onto the front row. Locate two white 1x2 grille tiles and place
+one horizontally, grille to the left, from the left onto the bottom row of side studs. Repeat to the top.
+Repeat to make four pieces. In this step, you’re going to fill in the gaps to the left! of the tan 2x2 plates
+mentioned in the previous step. In these gaps, towards the inside and right, there is a horizontal clip
+further inside the rocket which is what the bar handle of the pieces you just built will be attached to. Orient
+one of the pieces you just built, so that the bar handle is at the back and the curved slope is at the right.
+Like this, insert the piece into the mentioned left side of the front horizontal gap and clip the bar handle to
+the mentioned clip further inside the rocket. Repeat symmetrically on the left, back, and right.
+Open group 43.
+238. Make a piece four times. Locate a light bluish gray 2x2 plate. Locate two white 1x2 grille tiles and
+place one horizontal onto the front row. Repeat to the back. Repeat to make four pieces. The pieces you
+just built will fill the remaining small gaps in the upper hull of the second stage, the tan 2x2 plates
+mentioned in the previous two steps. Orient one of the pieces you just built upright, grill tiles to the front
+and bars vertical. Like this, attach the piece onto the tan 2x2 plate in the upper front. Repeat on the left,
+back, and right. There should be a horizontal ring exclusively consisting of vertical upright white 1x2 grille
+tiles spanning the second stage, now. Locate four white 4x4 tapered wedges (like a race car hood).
+Identify the remaining three rows of the vertical upright white 2x5 bracket (staircase) at the top front left,
+above a white 2x2 tile (the piece that has the light bluish gray 2x2 plate with pin holes attached to its
+underside). Orient the wedge upright with the former top to the front left and the flattened tip pointing to
+the top. Like this, attach the piece from the front left to the front left staircase, horizontally centered, the
+upper stair fitting into the gap in the bottom row of the piece, and overhanging one row to the top. The top
+row of the upper stair (the only row of the upper stair that was and is still visible at this point) together with
+the two studs of the wedge should form a horizontal area of 1x4 studs, now. Repeat symmetrically on the
+back left, back right, and front right.
+239. Make a piece four times. Locate a blue 1x2 plate and orient it horizontally. Place a red 1x2 hinge
+brick base horizontally on top, open side to the front. Repeat to make four pieces. In the gaps between
+the race car hoods attached in the previous step, there are 1x2 studs to which you will attach the pieces
+you just built. Place one of the pieces you just built horizontally, open side of the hinge to the front, onto
+the two horizontal studs in the front gap between the front left and front right race car hoods. Repeat
+symmetrically on the left, back, and right.
+240. Make a piece four times. Locate a light bluish gray 2x2 hinge brick top plate and orient it so that the
+hinge is horizontal in the bottom back. Place a black 1x4 double curved slope horizontally centered onto
+the front row. Repeat to make four pieces. Clip the hinge of one of the pieces you just built from the top
+into the front hinge brick base you attached in the previous step, hinge plate overhanging to the front.
+Then, angle the hinge brick top plate downwards as far as possible, by pushing it down from the top at
+the front, which should move the hull piece attached to it in line with the race car hoods. Repeat
+symmetrically on the left, back, and right.
+Open group 44.
+241. Make a piece four times. Locate a blue 1x2 plate and orient it horizontally. Locate two black 2x2
+curved slopes and place one, slope to the left, with its front right anti-stud onto the left stud of the 1x2
+plate, so overhanging to the left and back. Repeat symmetrically to the right. Repeat to make four pieces.
+Orient one of the pieces you just built horizontally with the blue 1x2 plate being at the bottom back and
+the slopes to the left and right. Like this, place the piece with its front row onto the back row of the front
+hinge brick top plate you attached in the previous step, overhanging to the back. Repeat symmetrically on
+the left, back, and right.
+242. Make a piece five! times. Locate a flat silver wheel with an axle hole on one side and a stud on the
+other and orient it so the stud points to the top. Place a trans-orange 1x1 round plate on top. Turn the
+piece upside down. Insert a white 4l bar vertically upright from the top into the axle hole. Slide a flat silver
+2x2 round brick with a hole (dome), dome top to the top, from the top onto the previous piece as far as
+possible. Repeat to make five pieces. Turn the second stage onto its back side, bottom to the front. You
+need to identify five holes into which you will insert the bars of the pieces you just built. The first hole is at
+the very center of the underside. Roughly halfway between the center of the underside and the hull, there
+are light bluish gray 1x2 bricks with a hole, one at the top, right, bottom, and left. These are the remaining
+four holes. Insert the bar of one of the pieces you built into each of the mentioned holes until the dome
+top touches the underside of the rocket. These are the engines of the second stage.
+Awesome, you finished building the second stage.
+243. In this step, you will combine the first and second stage by clipping bars at the underside of the
+second stage into clips at the top of the first stage. Make sure to identify the four double bars at the
+outside of the bottom of the second stage, two bars right next to each other at each of the four sides.
+Also, make sure to identify the four double clips at the outside of the top of the first stage, two clips right
+next to each other at each of the four sides. In between the clips there is space for the engines of the
+second stage. Now attach the bottom of the second stage from the top to the top of the first stage,
+clipping the double bars into the double clips at each of the four sides. Afterwards, there shouldn’t be any
+gaps between the first and second stage.
+You have successfully built the second stage as well as combined it with the first stage and finished the
+tenth large bag.
+Continue by using the parts from the eleventh large bag to build the third stage and attach it to the other
+two stages.
+Open the large bag 11.
+Set the current piece aside to build the third stage.
+Open group 45.
+244. Locate a light bluish gray 4x4 round plate and orient it so that the studs are left-right (and back-front)
+aligned. Place a green 2x2 round tile with a hole centered on top.
+245. Locate four light bluish gray 1x2x2 bricks with 2x2 side studs. Place one horizontally, side studs to
+the front, with its right anti-stud onto the left stud of the front row of the 4x4 round plate, overhanging to
+the left. Repeat to the right. Repeat symmetrically on the back with the remaining two pieces.
+246. Make a piece two times. Locate a light bluish gray 1x2x2 brick with 2x2 side studs and flip it onto its
+back, side studs facing up and its former top pointing to the right. Place a tan 2x3 plate horizontally onto
+the 2x2 side studs, flush at the left, overhanging one column to the right. Place a light bluish gray 1x4
+double curved slope vertically and centered onto the leftmost column. Repeat to make two pieces. Orient
+one of the pieces you just built vertically, right side up, side studs and slope to the left. Like this, place it
+onto the leftmost column of the 4x4 round plate in between the left studs of the back and front left bricks
+with 2x2 side studs. Repeat symmetrically on the right.
+247. Make a piece. Locate a dark bluish gray 2x2 round brick and place two blue 1x2 plates vertically on
+top. The piece you just built should fit right into the center in between all the 1x2x2 bricks with 2x2 side
+studs. Note that it won’t attach to the green 2x2 round tile underneath since the tile doesn’t have any
+studs, but its top studs should be level with the top studs of the surrounding pieces forming an area of 4x4
+studs.
+248. Locate four white 2x2 plates with 1x2 side studs. Place one of them, side studs to the front onto the
+front left, flush at the left and front. Repeat to the right. Repeat symmetrically on the back with the
+remaining two pieces.
+249. Make a piece. Stack three dark bluish gray 2x2 round bricks. Place a reddish brown 2x2 plate on
+top. Place the piece you just built onto the center of the third stage, attaching to one stud each of all of the
+four previous pieces.
+250. Make a piece. Locate a white 2x6 brick and orient it horizontally. Locate four tan 1x2 brackets with
+2x2 side studs extending to the bottom. Place one vertically, side studs to the left, onto the leftmost
+column of the previous piece. Repeat symmetrically on the right. Place the third bracket horizontally, side
+studs to the front, onto the center of the front row of the 2x6 brick. Repeat symmetrically to the back.
+Orient the piece you just built vertically and place it centered onto the reddish brown 2x2 plate from the
+previous step, at the top of the “center tower”.
+Open group 46.
+251. Make a piece two times. Locate a blue 2x4 plate and orient it horizontally, upside down. Locate four
+dark bluish gray 1x2 plates with a tow ball on their long side. Place one horizontally, upside down, tow
+ball to the front, onto the two leftmost anti-studs of the front row of the 2x4 plate. Repeat to the right.
+Repeat symmetrically on the back with the remaining two pieces. Place a reddish brown 2x2 plate upside
+down onto the two center columns. Repeat to make two pieces. Orient one of the pieces you just built
+vertically upright, its top side to the left. Like this, attach the piece from the left, vertically centered, to the
+left 2x2 side studs at the top of the center tower, overhanging one row to the top and one to the bottom.
+Repeat symmetrically on the right.
+252. Make a piece two times. Locate a white 2x6 brick and orient it horizontally. Locate six white 2x2
+curved slopes. Place one of them, slope to the back, with its front row onto the two leftmost studs of the
+back row of the 2x6 brick, overhanging one row to the back. Repeat to the right, twice. Repeat
+symmetrically on the front with the remaining three pieces. Repeat to make two pieces. Orient one of the
+pieces you just built vertically upright, its top side to the left. Like this, attach the piece from the left to the
+two bottom rows of the blue 2x4 plate from the previous step and downwards to the tan 2x2 studs almost
+at the bottom of the left side. The top two rows of the blue 2x4 plate from the previous step should remain
+uncovered. Repeat symmetrically on the right.
+253. Make a piece. Stack three dark bluish gray 2x2 round bricks. Place a blue 2x4 plate horizontally and
+centered on top. Place the piece you just built horizontally onto the center of the third stage, extending the
+“center tower” upwards.
+Set the current piece aside. In steps 254-260 you will build the top section of the third stage.
+Open group 47.
+254. Locate a white 2x2 plate with 1x2 side studs and orient it side studs to the back. Place a red 2x2
+plate with 1x2 side studs from a separate subgroup of group 47, side studs to the right!, to the right of the
+previous piece, so without attaching it.
+255. Place a reddish brown 2x2 plate with its back row onto the front right stud of the left 2x2 plate (the
+white one) and the front left stud of the right 2x2 plate (the red one), overhanging one row to the front.
+256. Place a red 2x2 plate with 1x2 side studs from a separate subgroup of group 47, side studs to the
+left!, with its back right stud under! the front left stud of the previous piece, so in front of the white 2x2
+plate from step 254. Place a white 2x2 plate with 1x2 side studs, side studs to the front!, with its back left
+stud under! the front right stud of the reddish brown 2x2 plate from the previous step, so to the right of the
+previous piece. The four 2x2 plates should be placed in a square now, the side studs of each of the
+pieces facing a different direction, with the reddish brown 2x2 plate connecting all of them in the center.
+257. Place a green 4x4 plate centered on top.
+258. Locate two blue 2x4 plates and place them vertically on top, next to each other.
+259. Make a piece two times. Locate a black 1x2 bracket with 2x2 side studs extending to the top and
+orient it horizontally, side studs to the front. Place a blue 1x2 plate horizontally on top. Place a black 1x2
+plate from a separate subgroup of group 47 horizontally on top. Locate two white 1x1 round plates and
+place them next to each other onto the bottom row of side studs. Locate two black 1x1 round plates with a
+bar handle. Place one horizontally, bar handle to the left, onto the top left side stud. Repeat symmetrically
+to the right. Repeat to make two pieces. Orient one of the pieces you just built with the side studs pointing
+to the top, bar handles to the left and right and the white 1x1 round plates in the back row at the top. Like
+this, attach the piece with its right anti-stud of the back side to the left side stud at the front. If attached
+correctly, the piece should be horizontally centered. Repeat symmetrically on the back.
+260. Place a black 2x8 plate vertically on top, horizontally centered. The piece should cover the white 1x1
+round plates and the black 1x1 round plates with the bar handles from the previous step (except for the
+bar handles) as well as the center two columns of the main piece.
+Next you will attach the piece you built in steps 254-260 to the top of the third stage.
+261. Place the piece you just built, oriented as before with the black 2x8 plate vertical, centered on top of
+the third stage.
+Open group 48.
+262. Make a piece two times. Locate a black 1x2 bracket with 2x2 side studs extending to the top and
+orient it horizontally, side studs to the front. Locate two white 1x1 round plates and place them next to
+each other onto the bottom row of side studs. Locate two black 1x1 round plates with a bar handle. Place
+one horizontally, bar handle to the left, onto the top left side stud. Repeat symmetrically to the right. Place
+a white 2x6 brick vertically on top (not! onto the side studs), overhanging 5 rows to the back. Place a
+black 2x2 curved slope from a separate subgroup of group 48, slope to the left, with its right column onto
+the frontmost two studs of the left column of the previous piece, overhanging one column to the left.
+Repeat symmetrically to the right, also with a black 2x2 curved slope from a separate subgroup of group
+48. Repeat to the back, twice!, using white! 2x2 curved slopes. Repeat symmetrically on the left, also
+using two white 2x2 curved slopes. The white 2x6 brick should be fully covered with curved slopes, now.
+Repeat to make two pieces. Orient one of the pieces you just built vertically upright, side studs at the top,
+its former top to the left. Like this, attach the piece from the left immediately above and flush with the
+bottom side panel at the left from step 252. Repeat symmetrically on the right.
+263. Locate two black 2x3 plates. Place one horizontally, vertically centered, to the left of the vertical
+black 2x8 plate at the top, covering the left white 1x1 round plates and the left black 1x1 round plates with
+the bar handles from the previous step (except for the bar handles) as well as the two studs to the right of
+them. Repeat on the right side of the top. The two horizontal 2x3 plates should form an 8x8 plus sign
+together with the vertical 2x8 plate.
+264. Make a piece two times. Stack two white 2x4 plates on top of each other horizontally. Flip the piece
+upside down. Locate two yellow 2x2 corner plates and flip them upside down. Orient one of them as if it
+were the braille letter F (so with the missing stud in the front right) and place it onto the previous piece
+flush at the left, front, and back. Repeat symmetrically to the right. The center two anti-studs of the front
+row should not be covered by the corner plates, now. Locate two dark bluish gray 1x2 plates with a bar
+handle on one end and flip them upside down. Place one of them vertically, bar handle to the front, with
+its back stud onto the left of the uncovered anti-studs that were mentioned before (front row, second antistud from the left), overhanging one column and the bar handle to the front. Repeat to the right. Flip the
+piece right side up again, bar handles to the front. Place a light bluish gray 1x4 double curved slope
+horizontally and horizontally centered onto the protruding studs of the 1x2 plates with the bar handle, so
+in front of the white 2x4 plate. Repeat to make two pieces. Flip the third stage upside down, the covered
+sides remaining at the left and right. Orient one of the pieces you just built horizontally upright, bar
+handles at the top and its former top to the front. Like this, place the piece from the front to the 3x4 side
+studs at the top of the front side, bar handles protruding to the top. Repeat symmetrically on the back.
+There should be a ring of four light bluish gray 1x4 double curved slopes around the third stage at the top
+of the sides, now.
+Set the current piece aside. Steps 265-270 need to be repeated two times!
+Open group 49.
+265. Locate a white 1x10 plate and orient it horizontally. Place a white 1x2x1 panel (bench) horizontally,
+backrest to the back, onto the rightmost two studs.
+266. Place a white 1x1 plate to the left of the previous piece. Place a white 1x2 plate with bar handles on
+each end vertically, bar handles protruding to the right, with its back stud to the left of the previous piece,
+overhanging to the front.
+267. Locate two light bluish gray 1x2 plates with a tow ball socket on their long side. Place one
+horizontally, tow ball socket to the front, to the left of the previous piece. Repeat to the left. Place a white
+1x3 plate horizontally to the left, overhanging one stud to the left.
+268. Make a piece. Locate a black 1x3 plate from a separate subgroup of group 49 and orient it
+horizontally. Place a black 1x2 plate horizontally onto the two leftmost studs of the previous piece. Place
+a black 1x1 slope, slope to the front, onto the leftmost stud of the previous piece. Place the piece you just
+built with its rightmost stud under! the overhanging leftmost stud of the piece you were building before.
+269. Place a white 1x10 plate horizontally to the left of the white bench. At the left side, the plate should
+touch the black 1x1 slope from the previous step.
+270. Place a white 1x8 tile horizontally to the left of the white bench. Place a black 1x2 tile horizontally to
+the left.
+Make sure that you repeated steps 265-270 two times. Next you will attach these two pieces to the third
+stage.
+271. First, identify the attachment points for the piece you just built. At the front and the back of the third
+stage which should still be turned upside down, the hull is not complete yet and there is a large gap in the
+hull. At about mid-height at each of the left and right sides of the gaps, there are two tow balls one above
+the other. The pieces you just built will be attached to the left tow balls, respectively. Orient one of the
+pieces you just built vertically upright, bench at the top and tow ball sockets pointing to the back right.
+Like this, attach the two tow ball sockets from the front left to the two tow balls at the left side of the front
+gap of the third stage. Repeat symmetrically on the back right.
+Set the current piece aside. Steps 272-277 need to be repeated two times!
+Open group 50.
+272. Locate a white 1x10 plate and orient it horizontally. Place a white 1x2x1 panel (bench) horizontally,
+backrest to the back, onto the leftmost two studs.
+273. Make a piece. Locate two dark bluish gray 1x1 bricks with a side stud and place them next to each
+other, side studs to the front. Place a light bluish gray ingot on top, connecting the two previous pieces.
+Tilt the piece you just built onto its back, side studs to the top, ingot at the back. Like this, place the piece
+to the right of the white bench.
+274. Locate two light bluish gray 1x2 plates with a tow ball socket on one side. Place one horizontally, tow
+ball socket to the front, to the right of the previous piece. Repeat to the right. Place a white 1x3 plate
+horizontally to the right, overhanging one stud to the right.
+275. Make a piece. Locate a black 1x3 plate from a separate subgroup of group 50 and orient it
+horizontally. Place a black 1x2 plate horizontally onto the two rightmost studs of the previous piece. Place
+the piece you just built with its leftmost stud under! the overhanging rightmost stud of the piece you were
+building before.
+276. Place a white 1x1 slope, slope to the front, onto the rightmost stud. Place a black 1x2 plate
+horizontally to the left. Place a white 1x3 plate horizontally to the left. Repeat to the left. The previous
+piece should touch the right 1x1 brick with the side stud from step 273.
+277. Place a white 1x8 tile horizontally to the right of the white bench. Place a black 1x2 tile horizontally to
+the right.
+Make sure that you repeated steps 272-277 two times. Next you will attach these two pieces to the third
+stage.
+278. Remember the attachment points described in step 271. The pieces you just built will be attached to
+the right! tow balls, respectively. Orient one of the pieces you just built vertically upright, bench at the top
+and tow ball sockets pointing to the back left. Like this, attach the two tow ball sockets from the front right
+to the two tow balls at the right side of the front gap of the third stage. Repeat symmetrically on the back
+left.
+Open group 51.
+279. Make a piece two times. Locate a light bluish gray 2x12 plate and orient it horizontally. Locate two
+black 2x2 curved slopes from a separate subgroup of group 51. Place one, slope to the front, with its back
+row onto the two leftmost studs of the front row of the previous piece, overhanging one row to the front.
+Repeat symmetrically to the back. Locate ten white 2x2 curved slopes. Attach them similarly to the last
+two pieces, to their right, covering all of the studs of the 2x12 plate. Repeat to make two pieces. Orient
+one of the pieces you just built vertically upright, with the black curved slopes (former left) at the bottom of
+the front and its former top pointing to the front. Like this, attach the piece from the front to the front of the
+third stage, closing the hull at the front. The bottom row of the piece you just built should attach to the 1x2
+side studs at the bottom front and the top two rows should attach to the 2x4 plate at the top front. Repeat
+symmetrically on the back. The hull of the third stage should no longer have any holes, now.
+280. Flip the third stage right side up again. Place a reddish brown 2x2 plate centered on top.
+281. Place a light bluish gray 6x6 dish with 2x2 studs on top centered on top. Place a light bluish gray 2x2
+round tile with one stud on top centered on top.
+282. Flip the third stage onto its back side, so the bottom points to the front. Insert a white 6l bar with a
+stop ring vertically, stop ring to the back, into the center of the bottom of the third stage. Slide a light
+bluish gray 3x3 dish with one stud on top upright, stud to the front, from the front onto the white bar as far
+as possible.
+283. Make a piece. Locate a dark bluish gray 1x1 brick with a side stud and orient it with the side stud to
+the front. Place a light bluish gray 1x1 half circle round tile on top, flat side to the back. Like this, slide the
+piece you just built from the front onto the white bar from the previous step as far as possible, the bar
+exiting out of the side stud.
+284. Slide a flat silver 2x2 round brick with a hole (dome), dome top to the back, from the front onto the
+white bar from step 282 as far as possible, attaching to the side stud of the previous piece.
+285. Make a piece. Locate a flat silver wheel with an axle hole on one side and a stud on the other and
+orient it so the stud points to the top. Place a trans-orange 1x1 round tile on top. Orient the piece you just
+built upright, round tile to the front. Like this, slide the piece from the front onto the white bar from step
+282 as far as possible, attaching to the previous piece. This is the engine of the third stage.
+286. In this step, you will combine the first two stages and the third stage by clipping bars at the
+underside of the third stage into clips at the top of the second stage. Make sure to identify the two double
+bars at the outside of the bottom of the third stage, two bars right next to each other at two opposing
+sides. Also, make sure to identify the two double clips at the outside of the top of the second stage, two
+clips right next to each other at two opposing sides. In between the clips there is space for the engine of
+the third stage. Now attach the bottom of the third stage from the top to the top of the second stage,
+clipping the double bars into the double clips at the two opposing sides. Afterwards, there shouldn’t be
+any gaps between the first two stages and the third stage.
+You have successfully built the third stage as well as combined it with the first two stages and finished the
+eleventh large bag.
+Continue by using the parts from the twelfth large bag to build the tip of the rocket, including the lunar
+module, the service module, the command module and the launch escape system. Also you will build the
+lunar lander, the lunar orbiter as well as three stands to display the rocket sideways.
+Open the large bag 12.
+Set the current piece aside. Next, you will build the ascent stage and the tip of the rocket.
+Open group 52.
+287. Locate a light bluish gray 4x4 round plate and orient it so that the studs are left-right (and back-front)
+aligned. Place a white 4x4 round plate from a separate subgroup of group 52 on top.
+288. Place a dark bluish gray 2x2 round brick centered on top.
+289. Locate two light bluish gray 1x2 concave bricks. Place one of them vertically onto the left column of
+the previous piece. Repeat to the right.
+290. Locate two light bluish gray 2x4x2 half cylinders. Place one of them horizontally, open half to the
+back, onto the front half of the white 4x4 round plate from step 287. The curvature should match the
+underlying round plates. Repeat symmetrically to the back.
+291. Place a light bluish gray 4x4 round brick with four side pin holes on top. Place a light bluish gray 4x4
+round plate with a 2x2 round open center on top of the previous piece.
+292. Locate four light bluish gray 1x1 round plates with flower edges. Turn one upright, stud to the back,
+and place it into the front pin hole of the 4x4 round brick from the previous step. Repeat symmetrically on
+the left, back, and right.
+293. Place a white 4x4x2 cone on top.
+294. Make a piece four times. Locate three white 1x1 water faucets and stack them on top of each other,
+spouts of the faucets facing in the same direction. Repeat to make four pieces. Orient one of the pieces
+you built so that the water spouts point to the left and place it onto the front left stud of the previous piece.
+Repeat symmetrically on the back left, back right, and front right with the water spouts pointing to the
+back, right, and front, respectively.
+295. Place a white 2x2 round plate on top.
+Open group 53.
+296. Make a piece. Locate a black 8l axle and stick the center of the underside of a white 2x2 truncated
+cone with one stud onto one end. Orient the piece you just built vertically upright, cone at the top and
+insert it from the top into the axle hole of the 2x2 round plate from the previous step, going through the
+center of all the water faucets and also into the axle hole of the 4x4x2 cone from step 293, as far as
+possible until the cone attaches to the 2x2 round plate from the previous step.
+297. Rotate each of the water faucets from step 294 by 90° clockwise, so until the spout touches the next
+water faucet. Afterwards, none of the spouts should stick out any longer. Place a white 1x1x6 support
+pillar onto the top of the cone from the previous step. Place a white 1x1 cone on top. This is the very tip of
+the rocket.
+298. Flip the piece you are building onto its back side, so with the tip of the rocket pointing to the back.
+Locate a tan 4l axle with a center stop. The center stop is a part of the axle that is not cross-shaped but
+round instead. Orient the piece vertically with the center stop more to the front and insert it from the front
+into the center axle hole as far as possible, so until the center stop touches the 4x4 round plate.
+299. Locate a black 3x3x2 cone and orient it upright, tip to the back. Like this, slide it onto the tan axle
+from the previous step until it touches the center stop.
+Set the current piece aside. Steps 300-301 need to be repeated two times!
+300. Locate a white 4x8x6 cone half and orient it horizontally, open half to the back.
+301. Make a piece two times. Locate three white 4x4 round corners with three studs on top and stack
+them on top of each other, oriented similarly. Repeat to make two pieces. Orient one of the pieces as if it
+were the front left quarter of a circle and place it under! the left half of the cone from the previous step.
+The curvature of the round corners should match the one of the cone. Repeat symmetrically to the right.
+Make sure that you repeated steps 300-301 two times. Next you will attach these two pieces to the ascent
+stage.
+302. Flip the ascent stage (the piece you were building before, including the tip of the rocket) right side up
+again, the tip of the rocket pointing to the top. Notice that if you place the two half cone pieces you just
+built next to each other to form a full cone, there is a small hole in the center of the top. This is the hole,
+the center stop of the tan 4l axle from step 298 will go through. The top side of the half cones will attach
+to the underside of the light bluish gray 4x4 round plate almost at the bottom of the ascent stage and the
+black 3x3x2 cone at the very bottom of the ascent stage (from step 299) will become hidden inside the
+half cones. Attach the two pieces you just built as described, one from the left and one from the right.
+303. In this step you will attach the ascent stage and the tip of the rocket you just built to the first three
+stages you built before. To do so, simply attach the ascent stage from the top to the top of the third stage,
+rotating the ascent stage until the studs attach. The exact rotation is not important.
+Congratulations, you have finished building the actual rocket and will continue to build the lunar lander,
+the lunar orbiter as well as three stands to display the rocket sideways.
+Set the current piece aside. Next you will build a small display base for the lunar lander.
+Open group 54.
+304. Locate a light bluish gray 10x10 octagonal plate and orient it so that the studs are left-right (and
+back-front) aligned, so one of the sides with 1x4 studs next to each other should be at the front.
+305. Locate two light bluish gray 2x2 round tiles with one stud on top. Place one in the third and fourth
+row from the front, second and third column from the left. Place the other one centered in the middle onto
+the 10x10 octagonal plate. Place a black 1x1 cone (fez) onto the previous piece.
+Set the current piece aside. Next you will build the bottom of the lunar lander.
+306. Locate a dark bluish gray 2x4 technic plate with 3 holes and orient it horizontally.
+307. Make a piece four times. Place a pearl gold 1x1 plate onto the side stud of a dark bluish gray 1x1
+brick with a side stud. Repeat to make four pieces. Place one of the pieces you just built onto the front left
+stud, plate to the front. Repeat on the front right stud. Repeat symmetrically on the back with the
+remaining two pieces.
+308. Make a piece two times. Locate a pearl gold 2x2 curved slope with two studs on top and orient it so
+the studs are at the right. Place a pearl gold 1x1 plate onto the front stud. Repeat to the back. Place a
+pearl gold 1x2 plate with a bar handle on one side vertically, bar handle to the right, onto the previous two
+pieces. Repeat to make two pieces. Orient one of the pieces you built with the bar handle to the front and
+place its back row onto the center of the front row of the piece you built before, so onto the 2x4 technic
+plate, overhanging one row to the front. Repeat symmetrically on the back.
+Open group 55.
+309. Locate two pearl gold 1x2 plates with a bar handle on one side. Place one vertically, bar handle to
+the left onto the leftmost column, so onto the two dark bluish gray 1x1 bricks with a side stud. Repeat
+symmetrically on the right.
+310. Make a piece. Locate a light bluish gray 4x4 round plate and flip it upside down. Locate two black
+2x2 round plates, stack them on top of each other and also flip them upside down. Place them upside
+down onto the center of the 4x4 round plate. Flip the piece you just built right side up again, so the black
+2x2 round plates are at the bottom and place it centered onto the piece you built before, the 2x2 round
+plates fitting into the gap in the center.
+311. Locate four metallic gold 1x1 slopes. Place one from the front onto the sideways pearl gold 1x1 plate
+at the left of the front side, slope to the left. Repeat symmetrically on the back left, back right, and front
+right.
+312. Locate a yellow 3l axle and insert it vertically upright from the top into the center axle hole as far as
+possible.
+313. Make a piece four times. Locate a pearl gold 1x1 round plate with a hollow stud. Place a pearl gold
+telescope vertically upright, thick part at the bottom, on top of the previous piece. Insert a dark bluish gray
+1l bar with a clip on one end (wrench), bar first from the bottom into the 1x1 round plate and telescope
+until only the clip sticks out. Repeat to make four pieces. Clip one of the pieces you just built from the
+front to the bar handle at the front, telescope pointing to the front. Repeat symmetrically on the left, back,
+and right. These are the legs of the lunar lander and will be rotated into place, later.
+Set the current piece aside. Next you will build the top of the lunar lander.
+Open group 56.
+314. Locate a dark bluish gray 1x2 plate and orient it horizontally. Place a light bluish gray 1x2 plate with
+a 1-finger hinge connector at one side horizontally, hinge to the front, in front of the previous piece, so
+without attaching it.
+315. Locate two light bluish gray 2x2 round plates, stack them on top of each other and place them on the
+previous two pieces, connecting both.
+316. Locate two light bluish gray 1x2 technic bricks with an axle hole. Place one horizontally onto the front
+row. Repeat to the back.
+317. Locate two light bluish gray 1x2 brackets with 2x2 side studs extending to the bottom. Place one
+vertically, side studs to the left, onto the left column. Repeat symmetrically on the right.
+318. Locate two light bluish gray 1x2 plates with one stud on top. Place one vertically onto the left
+column. Repeat to the right.
+319. Place a dark bluish gray 1x2 plate horizontally onto the two top studs of the previous two pieces.
+Place a light bluish gray ingot horizontally on top of the previous piece.
+320. Make a piece. Locate a light bluish gray 1x2 plate with a bar handle on each end and orient it
+horizontally. Place a dark bluish gray 1x2 plate horizontally on top. Place a light bluish gray ingot
+horizontally on top. Rotate the piece you just built vertically upright, its former underside pointing to the
+left and attach it from the right to the back column of the 2x2 side studs at the right.
+321. Make a piece. Locate a light bluish gray 1x2 plate with a bar handle on each end and orient it
+horizontally. Place a light bluish gray 1x1 half circle round tile onto the left stud, flat side to the right. Place
+a dark bluish gray 1x1 plate with a ring with a stud on each side on one side, ring to the front, to the right.
+Orient the piece you just built vertically upright, its former underside pointing to the right, ring to the front,
+and attach it from the left to the back column of the 2x2 side studs at the left.
+322. Flip the piece you are building onto its back, so that the 1-finger connector points to the top. Place a
+light bluish gray 2x2 round plate with rounded bottom and space hatch pattern, rounded bottom to the
+front, from the front to the former underside of the piece you are building.
+323. In this step, you’ll connect the top of the lunar lander (the piece you just built) and the bottom of the
+lunar lander (the piece you built before). The top of the lunar lander should still be rotated as when you
+built it, so with the space hatch round plate pointing to the front, and the 1-finger hinge connector pointing
+to the top. The bottom of the lunar lander should be oriented with the telescopes pointing in the four
+cardinal directions. Slide the top of the lunar lander with the axle holes of the 1x2 technic bricks from the
+top onto the yellow 3l axle sticking out of the top of the bottom of the lunar lander.
+324. In this step, you’ll connect the lunar lander and the small display base you built before the lunar
+lander. At the bottom of the lunar lander is a horizontal dark bluish gray 2x4 plate. Place it centered onto
+the black 1x1 cone (fez) in the center of the display base.
+325. Rotate the telescopes at the sides of the lunar lander (the legs) towards the bottom until they touch
+the light bluish gray 10x10 octagonal plate. Locate three white microfigures with a NASA astronaut
+pattern. Place one onto the light bluish gray 2x2 round tile with one stud on top at the front left of the
+octagonal plate. Place another one onto the rightmost stud of the front row of the octagonal plate. Place
+the third one anywhere you’d like or place it next to the octagonal plate as LEGO does in the instructions.
+Locate a transparent 1x2 tile with an American flag on it and place it vertically upright, its former top
+pointing to the front in between the rightmost stud of the second row from the front and the second stud
+from the right of the third row from the front.
+You have successfully built the lunar lander. Next you’ll build the lunar orbiter.
+Open group 57.
+326. Locate a dark blue 8x8 round tile with 2x2 studs on top and rotate it so that there is a front and back
+row of studs. Place a light bluish gray 4x4 round plate with a 2x2 round open center, rotated so that there
+are two studs horizontally next to each other at the front, and place the underside of these two studs onto
+the front row of studs of the previous piece.
+327. Make a piece. Locate a dark bluish gray 4x4x2 cone with an axle hole and hatches and handles
+patterns. Slide it from the top onto a dark bluish gray 4l axle with a stop on one end, vertically upright,
+stop at the bottom, as far as possible. Place the piece you just built centered onto the light bluish gray 4x4
+round plate from the previous step.
+328. Make a piece. Locate a dark bluish gray axle connector hub with 4 bars, one at each side, and rotate
+it so that the bars point in the four cardinal directions and the hole with the larger opening is at the top.
+Slide a pearl gold 1x1 round plate with a hollow stud from the front, stud to the back, onto the front bar of
+the previous piece. Locate three bright light orange balls with a hole. Slide one of them onto each of the
+left, back, and right bars. Keeping the orientation, slide the piece you just built from the top onto the dark
+bluish gray 4l axle sticking out of the top of the 4x4x2 cone.
+329. Make a piece. Locate eight orange 3l hinge cylinders with a 1-finger hinge connector on one end and
+a 2-finger hinge connector on the other end. Connect all of them into a ring by connecting a 1-finger
+connector to a 2-finger connector eight times, the last connection closing the circle. Place the piece you
+just built around the 4x4x2 cone, representing the inflatable ring keeping the lunar orbiter afloat in the
+ocean after landing back on earth.
+You have successfully built the lunar orbiter. Next you’ll build the three stands to display the rocket
+sideways.
+Open group 58.
+330. Place a blue 1x6 plate vertically on top of a light bluish gray 1x6 plate from a separate subgroup of
+group 58 vertically.
+331. Place a blue 1x6x5 rectangular girder vertically on top.
+332. Make a piece two times. Locate a dark bluish gray 1x4 thin lift-arm and orient it horizontally. Locate
+two yellow 3l axles. Place one vertically upright from the top into the left axle hole of the lift-arm. Repeat
+symmetrically on the right axle hole. Slide a dark bluish gray 1x4 thin lift-arm horizontally from the top
+onto the two previous pieces, similar to the lift-arm at the bottom, as far as possible. Locate two light
+bluish gray bushes (see the note on LEGO Technic™ part names in the beginning). Slide one from the
+top onto the left yellow 3l axle, as far as possible. Repeat on the right yellow 3l axle. Repeat to make two
+pieces. Rotate one of the pieces you just built horizontally upside down, with the yellow axles pointing to
+the bottom. Like this, insert the right yellow axle from the top into the back axle hole at the top of the
+rectangular girder, overhanging to the left. Repeat on the front axle hole.
+333. Make a piece. Place a blue 1x6 plate vertically on top of a light bluish gray 1x6 plate from a separate
+subgroup of group 58 vertically. Place a blue 1x6x5 rectangular girder vertically on top. Slide the piece
+you just built from the bottom onto the yellow axles at the left, so that the girder attaches similar to the
+one at the right.
+You have successfully built the first, slightly taller stand. Next you’ll build the two slightly smaller stands.
+Steps 334-336 need to be repeated two times.
+334. Locate a blue 1x6x5 rectangular girder and orient it vertically. Locate two red 2l axles. Insert one
+vertically upright from the top into the front axle hole at the top of the previous piece. Repeat on the back
+axle hole.
+335. Locate four dark bluish gray 1x4 thin lift-arms. Slide one horizontally from the top with its right axle
+hole onto the front red 2l axle, as far as possible, overhanging to the left. Repeat to the top. Repeat with
+the remaining two lift-arms at the back.
+336. Make a piece. Locate a blue 1x6x5 rectangular girder and orient it vertically. Locate two red 2l axles.
+Insert one vertically upright from the top into the front axle hole at the top of the previous piece. Repeat
+on the back axle hole. Slide the piece you just built from the bottom into the left axle holes of the lift-arms,
+so that the girder attaches similar to the one at the right.
+Make sure that you repeated steps 334-336 two times.
+337. To display the rocket sideways, place it onto the three stands, the rocket resting in between the thin
+lift-arms (so the thin lift-arms should be oriented horizontally). The taller stand should be placed under the
+third stage. The two smaller stands should be placed under the first and second stage.
+Congratulations! You have successfully built the NASA Apollo Saturn V!
+The three stages can be separated by doing the opposite of what you did during construction (so by
+pulling apart the stages, separating the clips from the bars). Also, the lunar lander can be placed within
+the ascent stage. To do so, separate the ascent stage from the third stage, separate the lunar lander from
+the display base, fold its legs all the way down, and place the lunar lander centered onto the single stud
+at the top of the third stage. Afterwards, you can combine the third stage and the ascent stage again,
+hiding the lunar lander within the ascent stage.
+Thank you so much for building this set!
+At the end of the instruction booklets are advertisements for three LEGO Ideas sets. The first set is 21322
+Pirates of Barracuda Bay, a shipwreck island model which can be split in half. The second set is 21323
+Grand Piano which features a removable 25-key keyboard, authentic hammer action, moving dampers
+and pedal, and motor. Combined with the LEGO Powered Up app, you can play a tune yourself or
+automatically. The third set is 21321 International Space Station, featuring 2 rotating joints with 8
+adjustable solar panels and a posable Canadarm2 among other details. LEGO Ideas sets are all created
+by LEGO fans and voted for by LEGO fans. Find more information at ideas.lego.com.
+Visit bricksfortheblind.com for more accessible instructions and tell your friends about us!

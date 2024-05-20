@@ -1,28 +1,32 @@
-60387 4x4 Off-Roader Adventures
+60370 Police Station Chase
 Adapted by John Le and tested by Natalie Charbonneau.
-Kids can head out on camping vacations every day with this LEGO® City 4x4 Off-Roader Adventures
-(60387) playset. The 4x4 vehicle features huge tires and high suspension for a cool off-roader look. Kids
-also get 2 toy mountain bikes, a LEGO tent, and cool accessories including a campfire. Just add the 2
-minifigures and animal figure and let the adventures begin!
-What’s in the box? – Everything kids need to build a toy 4x4, 2 mountain bikes, tent, campfire, and offroad-terrain setting, plus 2 minifigures and an animal figure.
-Packed with features for imaginative play – The 4x4 features large tires, high suspension, and a flatbed
-for transporting the toy mountain bikes.
-Dimensions – The toy 4x4 off-roader measures over 3.5 in. (8 cm) high, 7.5 in. (19 cm) long, and 4.5 in.
-(12 cm) wide.
-Minifigure accessories – The LEGO accessories in this set include a toy camera, shovel, pan, and
-backpack.
-The front of the box shows a male minifigure riding a huge white and orange truck equipped with massive
-wheels. He rides over terrain like it is nothing because of the truck’s suspension! He has a bike in the
-back of the truck to go mountain biking. In the back, there is a girl on a mountain bike looking over at his
-massive truck. Behind her, there is an orange tent, a fireplace, and a rabbit hiding behind the tent.
-The back of the box shows the huge truck parked in the back next to the orange tent and fireplace. The 2
-minifigures are both on their mountain bikes riding over the rocks and terrain! They have to be careful
-though because a scorpion is hiding behind one of the rocks!
-The top of the box shows both the minifigures riding their mountain bikes while a rabbit follows them and
-a scorpion sits in the background on a hill.
-The build is 252 pieces in total, 94 steps long, and is for ages 6+.
-Bag 1 includes the pieces to make the minifigures, tent, and terrain. Bags 2 and 3 includes the pieces to
-make the truck.
+Introduce kids to a world of imaginative play with this LEGO® City Police Station Chase (60370) toy
+playset for kids aged 4+. The station building features a raisable barrier and houses an office and a jail
+with a breakout function. This set also includes a police car and a crook’s getaway motorcycle, plus 2
+police officers and 2 crook minifigures.
+What’s in the box? – Everything kids need to build a toy police station, police car and crook’s motorcycle,
+plus 2 police officer and 2 crook minifigures and a police dog figure.
+Features and functions – Kids attach the chain from the toy motorbike to activate the jailbreak function.
+Dimensions – When built, the police station measures over 4.5 in. (12 cm) high, 10 in. (26 cm) wide and
+4.5 in. (12 cm) deep.
+Includes LEGO® minifigure accessories – This toy police playset comes with lots of fun accessories for
+imaginative play, including a toy gem, police radio, jail key, 2 cups and a megaphone.
+The front of the box shows the police station in the back equipped with a gate, jail and monitor room. The
+jail is not so secure because the robber is using the chain from her motorcycle to pull down the jail door!
+The prisoner is escaping with a diamond in his hand! Where are the officers, we have to catch them! Not
+to worry, there is an officer in her car chasing down the motorcyclist! And another officer in the back
+letting his dog loose to catch the prisoner!
+The back of the box shows all the accessories the set comes with. It comes with 3 removable parts of the
+police station, the jail, gate, and monitor room. It shows the police vehicle, and motorcycle along with all
+the minifigures and accessories they have. 2 police officers equipped with 1 dog, 2 megaphones, walkie
+talkie, camera, key, mugs, a bone, and a croissant. There is a prisoner that has a diamond he wants to
+steal. It also shows the robber who has her helmet.
+The top of the box shows all 4 minifigures together. The police officer has a camera in their hand and is
+taking a picture of the robber and prisoner. Say cheese!
+The build is 172 pieces in total, 143 steps long, and is for ages 4+.
+Bag 1 includes the pieces for the robber, motorcycle, and jail. Bag 2 includes the pieces for the prisoner,
+dog, and gate. Bag 3 includes the pieces for a police officer and monitor room. Bag 4 includes the pieces
+for another police officer and a police car.
 Welcome to text-based instructions from Bricks for the Blind. Before you start building, here are some
 terms we may be using:
 - In Front of/Front: towards you.
@@ -39,373 +43,239 @@ terms we may be using:
 - Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic
 connector on the front wall at the right, connector to the front, and then place another
 such piece symmetrically on the back wall, at the right, the technic connector of the
-second piece should point to the back since it will be placed symmetrically.
+second piece should point to the back, since it will be placed symmetrically.
 - Centered-vertically: even amount of space in front of and behind piece
 - Centered-horizontally: even amount of space left and right of piece.
 - Row: studs lined up from left to right.
 - Column: studs lined up from top to bottom or front to back
 For builders with low vision, or a sighted building partner may want to follow along with the printed visual
 instructions that come with each kit, or PDF versions are always online at LEGO.com for each set:
-(https://www.lego.com/en-us/service/buildinginstructions/60387) As low vision users may benefit from
+(https://www.lego.com/en-us/service/buildinginstructions/60370) As low vision users may benefit from
 viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
 Sorting the pieces:
-
-To begin a successful build, it helps to sort the pieces into groups, bags, or small containers. Have a
-friend or family member do this in advance following the instructions below. You will see that the pieces
-should be sorted according to the building steps in the kit. Doing this in advance makes locating the
-pieces for each step easier. See below on how to sort the pieces to correspond to the steps in this set.
-Number the containers using letters A-Z, numbers, or meaningful names. The parts will be sorted into one
-or a small number of steps in the instructions. Example: Steps 1-3 means collect all the parts used in
-steps 1,2 and 3, and put them in one container.
-This LEGO set comes with 3 bags labeled 1, 2, and 3, 2 sets of instructions, and some loose pieces. Sort
-the pieces into groups or piles as described below. Note that where there are multiple colors of the same
-brick in a step, the colors will be split into 2 groups to make telling the difference easier for the builder!
-LEGO includes a few spare parts in case you lose something. Set these into their own group away from
-the rest, in case you need them later.
-Bag 1
-Group 1 - Pages 5-7 (Female minifigure and Bike).
-Group 2 - Pages 8-10 (Male minifigure and Bike).
-Group 3 - Pages 11-15 (Tent).
-Group 4 - Page 16.1. This group has 1 white 2x4 tile (Tent).
-Group 5 - Page 16.2. This group has 1 white 2x4 tile (Tent).
-Group 6 - Pages 17-18 (Tent).
-Group 7 - Pages 19-27 (Terrain).
-Group 8 - Pages 28-32 (Terrain).
-Bag 2
-Group 9 - Pages 2-8 (Car).
-Group 10 - Pages 9-15 (Car).
-Group 11 - Pages 16-32 (Car).
-Group 12 - Pages 33-38 (Car).
-Bag 3
-Group 13 - Pages 40-42 (Car).
-Group 14 - Pages 43-52 (Car).
-Group 15 - Pages 53-55 and 2 clear transparent 1x1 circular tiles from step 56 (Car).
-Group 16 - Pages 56-60 (Car).
-Group 17 - Pages 61-69 and 4 large tires that were not in a bag (Car).
+Bag 1:
+Group 1 - Pages 6-7 (Robber Minifigure).
+Group 2 - Pages 8-21 (Motorcycle).
+Group 3 - Pages 22-47 (Jail).
+Bag 2:
+Group 4 - Pages 4-5 (Prisoner and Dog).
+Group 5 - Pages 6-35 (Gate).
+Group 6 - Pages 36-47, and 1 white 1x12 plate and 3 white 1x2 tiles from page 48 (Gate).
+Group 7 - Pages 48-49 (Gate).
+Group 8 - Pages 50-57 (Gate).
+Bag 3:
+Group 9 - Pages 4-5 (Police officer).
+Group 10 - Pages 6-15 (Monitor Room).
+Group 11 - Pages 16-27 (Monitor Room).
+Bag 4:
+Group 12 - Pages 4-5 (Police officer).
+Group 13 - 6-11 (Car).
+Group 14 - 12-19 (Car).
+Group 15 - 20-29 (Car).
 Let’s get to building!
-Note that building instructions will be using page numbers instead of steps.
 Building Instructions (Bag 1, Book 1):
-Group 1 — Female Minifigure and Bicycle
-5. Assemble the female minifigure using the dark blue short legs, brown jacket over a pink sweatshirt
-printed torso, female head, and white cap. Then assemble her camera using the clear 1x1 circular tile and
-camera. Attach the circular tile to the stud on the camera. This is the camera flash! Then put it in her hand
-so she can take pictures!
-6. You are also given a white helmet so she is safe when riding her mountain bike!
-7. Locate 1 orange bicycle frame, 2 tires, and 2 white cylinders with small pegs. Insert the cylinders into
-the tires. Then attach the small pegs of the wheels to the front and back of the bicycle. Then put your
-minifigure on to ride the bike!
-Group 2 — Male Minifigure and Bicycle
-8. Assemble the male minifigure using the dark tan legs, light blue and dark blue sweatshirt torso with a
-mountain logo in the middle, red sack bag, male head, and dark blue cap. When assembling your
-minifigure, make sure the sack bag sits on his back.
-9. You are also given a dark blue helmet so he is safe when riding!
-10. Locate 1 dark blue bike frame, 2 tires, and 2 orange cylinders with small pegs. Insert the cylinders into
-the tires. Then attach the small pegs of the wheels to the front and back of the bicycle. Then put your
-minifigure on to ride the bike!
-Group 3 — Tent and Camp Fire
-11. Locate 1 black 6x10 plate and horizontally place it in front of you.
-12. Locate 2 black 1x6 tiles. Vertically place them on the first and last columns of this plate so that there
-is no overhang.
-13. Locate 4 black 1x2 plates with a clip. Vertically place 2 in the second column on the front and back
-sides so that the clips are overhanging off the plate. Then vertically place 2 more in the second to last 
-column in the front and back so the clips overhang off the plate. Then locate 2 dark grey 2x4 tiles.
-Horizontally place them in the middle 2 rows so they sit between the previously placed pieces.
-14. Locate 2 light orange 1x2 plates. Horizontally and symmetrically place them in the middle on the front
-and back rows. Then locate 4 more black 1x2 plates with clips. Vertically and symmetrically place them to
-the left and right of the light orange plates so the clips overhang in the front and back.
-15. Locate 2 white 1x4 plates and 4 orange 1x2 ingot tiles. Horizontally place 2 on top of each of the
-white plates so they cover all the studs. Then horizontally and symmetrically place them on top of the
-previously placed pieces on the front and back sides. Make sure they sit on the light orange plates and
-black plates with clips.
-Group 4 — Tent
-16.1. Locate 1 white 2x4 tile.
-16.2. Skip this step if you have already placed your sticker! Ask a helper to place sticker 4 on the white
-2x4 tile. This sticker is a dark red sleeping bag that is slightly open.
-16.3. Horizontally place this to the left of the black 1x6 tile located on the right side so that it sits in the
-fourth and fifth rows. Half of the sleeping bag should be in front of the orange 1x2 tile shaped like a gold
-bar located at the back. Make sure the opening of the sleeping bag is on the left!
-Group 5 — Tent
-16.4. Locate 1 white 2x4 tile.
-16.5. Skip this step if you have already placed your sticker! Ask a helper to place sticker 5 on the white
-2x4 tile. This sticker is a dark blue sleeping bag that is slightly open.
-16.6. Horizontally place this to the right of the black 1x6 tile located on the left side so that it sits in the
-second and third rows. Half of the sleeping bag should be behind the orange 1x2 tile shaped like a gold
-bar located at the front. Make sure the opening of the sleeping bag is on the right!
-Group 6 — Tent
-17. Locate 4 light orange 5x6 double-sided tiles with 2 clips on the side, and 4 black 1x4 bars. Attach
-each bar to the 2 clips on each double-sided tile so the clips attach to the ends of the bars. Horizontally
-and symmetrically attach 1 bar to the front left 2 clips and 1 to the back left 2 clips. Horizontally and
-symmetrically attach 1 bar to the front right 2 clips and 1 to the back right 2 clips. Flip all the double-sided
-tiles up to create a tent!
-18. Rotate your tent 90 degrees clockwise so the right side is now the front. Locate 1 brown 3x3 crossshaped plate, 1 brown 1x1 circular plate, and 1 small candle fire. Insert the candle fire into the circular
-plate, then attach the plate to the middle of the cross-shaped plate to make a campfire! Place this in front
-of the tent. Don’t get it too close or your tent will catch fire! Then locate 1 light grey shovel and 1 light grey
-frying pan. Place these in front of the tent!
-Congratulations on finishing your tent and campfire!
-Group 7 — Terrain
-19. Locate 1 dark tan 4x12 plate and horizontally place it in front of you. Then locate 1 dark tan 1x3 slope
-brick. Horizontally place this in the back right corner so the slope goes down from left to right. Make sure
-there is no overhang!
-20. Locate 1 dark grey 2x2 slope plate that has 2 studs on it. Vertically place this plate in the back right
-corner in front of the previously placed slope brick so that the studs of this plate are both on the left.
-21. Locate 1 dark tan 1x3 slope brick. Vertically place this to the left of the previously placed piece so that
-the slope goes down towards you. There should be a 1x2 stud area created by the two slope bricks now.
-Locate 1 dark tan 2x2 slope brick. Vertically place this to the left of the two 1x3 slope bricks so the slope
-goes down from right to left. There should now be a 2x2 stud area created by all 3 bricks. Now locate 1
-more 2x2 dark grey 2x2 slope plate. Horizontally place this in front of the 2x2 slope brick so that the 2
-studs of the plate are in the back.
-22. Locate 1 brown 1x1 circular plate and 1 dark grey 2x2 slope plate that has 2 studs on it. Place the 1x1
-circular plate in the back row to the left of the 2x2 slope brick. Then to the left of this circular plate, place
-your 2x2 slope plate so that the 2 studs are on the left side and the slope part is on the right.
-23. Locate 1 dark grey plate that is shaped like an A and has 8 studs on it, 2 sets of 4 studs. Horizontally
-place it in the back row to the left of the 2x2 slope plate you just placed so that 1 set of studs is attached
-to the 4x12 plate and the other set of studs is overhanging in the back. Make sure the back set of studs of
-the A is going back from left to right. Now locate 1 brown 1x1 circular plate and 1 dark tan 1x3 slope brick.
-Place the 1x1 circular plate directly in front of the A-shaped plate in the first column of the 4x12 plate.
-Then to the right of this circular plate, horizontally place the 1x3 slope brick so it goes down from right to
-left.
-24.1. Locate 1 dark tan 2x2 slope brick. Vertically place it in front of the 1x3 slope brick you previously
-placed so it goes down left to right and the studs line up with the stud of the 1x3 slope brick.
-24.2. Locate 1 dark tan 1x2 slope tile and 1 dark grey 2x2 slope plate with 2 studs on it. Vertically place
-the slope tile to the left of the 2x2 slope brick so the slope goes down from right to left. Then to the left of
-this tile, vertically place your slope plate so the 2 studs are both on the right.
-25. Rotate your build 180 degrees so the overhanging 1x4 stud plate of the A-shaped plate is horizontal
-in front of you. Now locate 1 light brown 6x6 plate that has a corner missing. Orient it so the missing
-corner is in the front left. Then connect the back right to the bottom of the overhanging 1x4 studs. The 1x4
-studs should not be overhanging anymore.
-26. Locate 1 dark tan 1x2 slope tile and 1 brown 1x1 circular plate. Place the 1x1 circular plate in the
-back left corner of the light brown 6x6 plate missing a corner. Then vertically place the slope tile in the
-last column of the 6x6 plate so it is touching the 1x4 studs of the A-shaped plate and ensure the slope
-goes down from left to right.
-27.1. Locate 1 reddish brown 1x2 brick. Vertically place this brick to the left of the 1x2 slope tile you just
-placed.
-27.2. Locate 1 dark tan 1x3 slope brick. Horizontally place it in front of the 1x2 brick so the slope goes
-down to the left and so the stud lines up with the studs of the 1x2 brick.
-Group 8 — Terrain
-28. Locate 1 reddish brown 1x2 brick and 1 tall 2x2 dark tan slope brick. Vertically place the 1x2 brick on
-top of the previously placed reddish brown 1x2 brick. Then to the left of these 1x2 bricks, vertically place
-your tall 2x2 slope brick so the slope goes down to the left.
-29. Locate 1 light tan 2x2 plate. Place it on top of the tall 2x2 slope brick and the reddish brown 1x2 brick.
-30. Locate 1 reddish brown 2x2 brick. Place it on top of the 2x2 plate you just placed.
-31.1. Locate 1 bright green pointy plant and 1 dark blue scorpion. Place the plant in the 1x1 circular plate
-that is located in the back left of the light brown 6x6 plate missing a corner. Now in the front right of the
-6x6 plate missing a corner, place your scorpion so the tail part is away from you.
-31.2. Locate 1 light brown rabbit. Rotate your build so the long side of the 4x12 plate is facing you. The
-6x6 plate missing a corner should be in the back left now. In the 4th column, place your rabbit on top of
-the 2x2 slope brick and 1x3 slope brick so it is facing away from you.
+Group 1 - Robber Minifigure
+6. Assemble the female robber using the black pants, orange jacket over a striped white and grey shirt
+torso, yellow head, and blond hair.
+7. You are also given a white helmet for when she is on the motorcycle!
+Group 2 - Motorcycle
+8. Locate 1 black motorcycle part with hooks in the front and back and locate 1 red bike frame with
+smooth sides and 2 studs in the back.
+9. Place the red frame over the top of the black part so that the curve of the red frame is on top of the
+motorcycle part’s top hook. Then press down on the frame so it is put together.
+10. Next locate 2 tires and 2 cylinders with pegs. Insert each cylinder into each tire to make the wheels.
+11-13. Then connect the wheels to the front and back of the motorcycle so that the pegs are connected
+with the hooks of the motorcycle part.
+14-15. Locate 1 light grey handlebar. Insert it under the front curve of the red frame so that the hook
+connects to the bottom of the handlebar.
+16-18. Now we will make the hook and chain to add to the back of the motorcycle. Locate 1 dark grey
+hook and 1 light grey chain. Connect 1 end of the chain to the stud on the side of the hook. Then make
+sure the chain extends over the ball part of the hook.
+19. Connect the other end of the chain to the back stud on top of the motorcycle. Make sure the chain
+extends behind the motorcycle.
+20-21. Next, locate 1 black 1x2 curved tile. Place it onto the top of the hook and frame so that it covers
+both studs. Make sure the curve goes down towards the driver's seat.
+Group 3 - Jail
+22. Locate 1 light grey 8x8 plate with 4 gaps, 1 on each side. Also, locate 1 bright yellow 1x4 plate.
+23. Place your 8x8 plate down in front of you and insert the 1x4 plate horizontally so that it sits in the back
+gap.
+24-25. Now locate 1 tall blue 2x2 brick and place it in the back right corner so that there is no overhang.
+26-28. Locate 1 white 2x4x6 door frame and 1 light grey 1x4x6 prison bar. Insert the prison bars into the
+frame so that it clicks into place.
+29. Place the white door frame horizontally to the left of the tall blue 2x2 brick so that the prison bars are
+in the back.
+30-31. Now locate 3 more tall blue 2x2 bricks. Place 1 on top of the previously placed tall blue brick. Then
+place the other 2 on top of each other to the left of the white door frame.
+32. Locate 1 blue 2x8 brick and 2 bright yellow 2x4 plates.
+33. Horizontally place the 2 bright yellow plates on top of the blue bricks and door frame so it covers all
+the studs. Then on top of this, horizontally place your 2x8 brick. There should be no overhang.
+34. Locate 2 white 1x4 bricks with holes and 2 bright yellow 1x4 plates. Place each plate on top of each of
+the bricks so you end up with 2 identical pieces.
+35. Vertically place each of them into the left and right gaps of the 8x8 plate.
+36-37. Now locate 4 blue 1x2 bricks. Vertically place 2 in front of the previously placed white bricks with
+holes. Then with the other 2, vertically place them to the left and right of the white bricks with holes so
+that they are touching the tall blue 2x2 bricks in the back.
+38-39. Locate 2 blue 1x6 plates. Vertically place them on the white bricks and blue bricks on the left and
+right sides.
+40. Locate 1 white 2x4x6 door frame and 1 light grey 1x4x6 prison bar. Insert the bars into the frame so
+that they snap on.
+41. Locate 1 red 1x2 plate with a horizontal bar and 1 light grey 1x4 curve. With the frame horizontal and
+the prison bars facing you, horizontally place the red plate on top and centered on the frame so that the
+bar overhangs towards you. Then horizontally place the 1x4 curve on top of the red plate.
+42-43. Then place the build in front of the other frame on the main build to complete the jail. Press it down
+to lock the studs in place. Ensure the red plate with the bar faces you so the robber can attach the hook
+and break open the jail.
+44-45. Locate 2 white 3x4 slope bricks. Horizontally place them on top of the 2x8 brick so that the curve is
+facing you and there is an overhang in the front.
+46-47. Now locate 1 pink mug and 1 gold stud with a spiral on top. It looks like a pastry to me! Place the
+mug on the left side on top of the vertically placed 1x6 plate so that there are 2 free studs in front. Then
+place the stud with the spiral on top of the right 1x6 plate so that there is 1 free stud in the front.
+You finished the police jail and motorcycle robber!
 Building Instructions (Bag 2, Book 2):
-Group 9 — Car
-2. Locate 1 dark grey 2x6 plate with integrated 1x2 bricks on each side.
-3. Locate 2 black 2x14 plates. Horizontally place them down 1 behind the other so they are touching.
-Vertically place the 2x6 plate from step 2 on top of the left side of the 2x14 plates so it is centered.
-4. Locate 1 black 4x6 plate. Vertically place it to the right of the 2x6 plate with integrated bricks so that it
-is centered.
-5. Locate 1 light orange 2x4 plate. Vertically place it to the right of the 4x6 plate so it is centered.
-6. Locate 1 black 4x6 plate and vertically place it to the right of the 2x4 plate so it is centered.
-7. Locate 1 dark grey 2x6 plate with integrated 1x2 bricks on each side. Vertically place it to the right of
-the previous plate so it is centered.
-8. Locate 2 light blue 1x2 bricks with plus-shaped holes and 1 ridged light grey 2x2 circular brick. In
-between the integrated bricks of the right 2x6 plate, horizontally place 1 light blue 1x2 brick, 1 ridged 2x2
-circular brick, then 1 light blue 1x2 brick.
-Group 10 — Car
-9. Locate 2 light grey 1x2 bricks with plus-shaped holes. In between the integrated bricks of the 2x6 plate
-on the left, horizontally place your 1x2 bricks so there is a 2x2 stud gap in between them. 
-10. Locate 1 black ridged short 2x2 brick. Place this in the 2x2 stud gap you created in the last step.
-11. Locate 1 light orange 1x2 plate and 1 black 1x2 plate with 1x4 side studs. Vertically place the light
-orange 1x2 plate on the right column of studs on the ridged 2x2 brick. To the left, vertically place the 1x2
-plate with 4 side studs so the side studs are facing left.
-12. Locate 4 light grey 1x1 circular bricks. Place 2 on top of the left 4x6 plate so they sit in the front left
-and back left. Then repeat for the right black 4x6 plate but in the front right and back right.
-13. Locate 4 white 2x5 plates, this plate is a 2x2 plate connected to a raised 2x3 plate. Horizontally place
-2, 1 behind the other, in between the 2 light grey 1x1 circular bricks that are on the right. The raised part
-should be even with the right and left ends of the build. Repeat symmetrically for the left side.
-14. Locate 4 white 1x3 pegs that have a circular side and a longer plus-shaped side. Insert the plusshaped side of the pegs in the front left and right integrated 1x2 bricks of the 2x6 plates. Then
-symmetrically repeat for the remaining pegs in the back left and right integrated 1x2 bricks.
-15. Locate 1 white 4x6 plate. Vertically place it in between the 4 white 2x5 plates that have a lower and
-raised part. This plate should be centered.
-Group 11 — Car
-16. Locate 2 blue 2x5 plates, these plates are like the white 2x5 plates that have a lower and raised part
-but it is raised more. Horizontally place them, 1 behind the other on top of the white 2x5 plates on the
-right side of the build. The raised part is on the left and sits on the build while the lower part is on the right
-and sits on your surface.
-17. Locate 1 dark blue 1x6 plate. Vertically place it centered on the left column of the lower part of the
-blue 2x5 plates you just placed. This should overhang in the front and back.
-18. Locate 1 black 2x6 plate. Vertically place it centered to the right of the dark blue 1x6 plate you just
-placed. This should overhang in the front, back, and right.
-19. Locate 1 light orange 2x4 plate. Vertically place it on top of the 1x6 plate and 2x6 plate you just
-placed so it is centered.
-20. Locate 1 light grey 1x4 plate with 2 hinges. Vertically place it to the right of the 2x4 plate you just
-placed so the hinges are facing right.
-21. Locate 1 dark grey 2x4 tile. Vertically place it on top of the 1x4 plate with hinges and light orange 2x4
-plate.
-22. Locate 2 black 1x4 bricks that have a gap in the side of it. Horizontally place 1 in front and 1 behind
-the 2x4 tile you just placed. There should be no overhang on the right, and make sure the gap side is
-facing outwards of the build.
-23. Locate 1 dark grey 2x4 ridged tile that connects to a hinge. Attach it to the hinges on the right and
-orient it so it is upwards. Make sure the ridged tile side is facing right.
-24. Locate 1 dark grey 2x4 tile. Vertically place it on the top part of the blue 2x5 plates on the right two
-columns.
-25. Locate 2 light orange 1x2 plates. Vertically place them 1 behind the other to the left of the 2x4 tile you
-just placed.
-26. Locate 1 dark orange 1x4 plate. Vertically place it on top of the 2 light orange 1x2 plates you just
-placed.
-27. Locate 2 white 2x8 plates. Horizontally place them in the front and back on top of the white 4x6 and
-white 2x5 plates with a lower and raised part. They should sit in between the raised parts of the 2x5 plate
-and the 1x1 circular bricks.
-28. Locate 1 dark tan 1x4 brick and 1 light grey 2x2 circular tile. Vertically place the 1x4 brick to the left of
-the dark orange 1x4 plate placed in step 26. To the left of this brick, place the circular tile centered
-vertically.
-29. Locate 2 light orange 1x2 plates and 2 light orange 1x8 plates. Horizontally place 1x2 plates in front
-and behind the 2x2 circular tile you just placed. Then in front and behind these plates, horizontally place
-the 1x8 plates so they sit in between the 4 circular bricks.
-30. Locate 2 more light orange 1x8 plates and 4 orange 1x4 plates. Horizontally place 2 orange 1x4
-plates on top of each of the 1x8 plates so there is no overhang. Now place 1 stack in the front right and
-back right of the build so that there is no overhang.
-31. Locate 2 dark tan 1x3 slope bricks. Feel for the light grey 2x2 circular tile. This tile is where the
-middle gap is located. Now on the left side in front and behind the gap, horizontally place the 1x3 slope
-bricks so they go down towards the right. They should be against the raised part of the 2x5 plate on the
-left.
-32. Locate 2 black 1x1 circular plates and 1 light grey oval-shaped 1x2 tile. Place the 1x1 circular plates
-to the right of each of the 1x3 slope bricks you just placed. In between these two circular plates, vertically
-place your oval-shaped tile.
-Group 12 — Car
-33. Locate 1 black steering wheel. Vertically place it in between the 1x3 slope bricks on the left side so
-the steering wheel is facing right.
-34. Locate 2 orange 2x2 corner bricks. Place them in front and behind the 2x2 circular tile located in the
-middle gap. There should be no overhang and fit perfectly.
-35. Locate 2 light grey 1x4 bricks with side studs and 2 black 1x2 bricks with side studs. In the front row
-to the left of the corner brick, horizontally place your 1x4 brick so the studs face you. Then to the left of
-this, horizontally place your 1x2 brick so the studs face you. Then symmetrically repeat for the back row.
-36. Locate 2 black 1x3 plates. Horizontally place them in the front and back row to the left of the black
-1x2 bricks with side studs.
-37. Locate two dark blue 1x6 plates and 2 red 1x2 plates with 1 stud. Attach the 2 dark blue 1x6 plates
-together so there is no overhang, then vertically place them to the left of the steering wheel. There should
-be no overhang in the front and back. Now to the left of these 1x6 plates, horizontally place the red 1x2
-plates in the front and back row.
-38. Locate 1 light grey ridged circular 2x2 brick and 2 red 1x1 circular plates. Place the red 1x1 circular
-plates on each of the studs of the red 1x2 plates previously placed. Place your ridged 2x2 circular brick in
-between these red 1x2 plates, centered vertically.
-Building Instructions (Bag 3, Book 2):
-Group 13 — Car
-40. Locate 2 dark blue 1x6 plates and 2 light grey 1x2 plates with hooks. Horizontally place the 1x6 plates
-in the front right and back right of the build so there is no overhang. Then to the left of each of these
-plates, horizontally place your 1x2 plates so the hooks face outwards.
-41. Locate 2 white 1x6 tiles, 2 white 1x10 plates and 1 white 1x4 plate. Horizontally place the white 1x6
-tiles in the front right and back right of the build. To the left of each of these tiles, horizontally place the
-1x10 plates. In between the 2 white 1x10 plates, to the left of the steering wheel, vertically place the 1x4
-plate.
-42. Locate 2 light orange 1x2 plates and 2 black 1x2 oval-shaped plates. Attach each oval-shaped plate
-to the top of each of the 1x2 plates. Behind the eighth and ninth studs on the front white 1x10 plate, there
-is a lower 1x2 stud area. Horizontally place the black plate attached to the orange plate in that space.
-Symmetrically repeat with the other attached plates.
-Group 14 — Car
-43. Locate 1 white 3x6 plate that has 2 missing corners and 1 transparent red 1x2 plate. Vertically place
-the 3x6 plate in the center of the build to the right of the black 1x2 oval-shaped plates you just placed so
-that the side with missing corners is facing right. On top of the 3x6 plate you just placed, vertically place
-the transparent red 1x2 plate on the right side.
-44. Locate 1 red 2x2 plate and 2 white 1x4 plates. Place the red 2x2 plate to the left of the transparent
-red 1x2 plate. Then in front and behind this 2x2 plate, horizontally place your 2 white 1x4 plates. They
-should sit on the black 1x2 oval plates as well and not overhang.
-45. Locate 2 black 1x1 circular plates and 2 light grey 1x2 plates with a 1 hook instead of a stud.
-Horizontally place the hook plates, 1 behind the other, on top of the red 2x2 plate and transparent red 1x2
-plate so the hooks are on the right. Then in front and behind the stud part of the 1x2 plates you just
-placed, place your circular 1x1 plates. These 1x1 circular plates should be on top of the 1x4 plates
-previously placed.
-46. Locate 2 dark grey 2x2 slope tiles. Vertically place them on the red 2x2 plate and 2 white 1x4 plates
-so the top part of it sits on the 1x1 circular plates and the stud part of the hook plates.
-47. Locate 2 black 1x1 circular bricks. Place them to the left of the slope tiles you just placed so they sit
-on the left side of the 1x4 plates.
-48. Locate 1 white 1x4 plate and 2 white 1x2 slope bricks. Vertically place the 1x4 plate on top of the
-black 1x1 circular bricks. In front and behind the white 1x4 plate, horizontally place the slope bricks so the
-slope goes down to the right and the studs of the slope bricks line up with the studs of the white plate.
-49. Locate 1 white 1x6 tile. Vertically place it on top of the white 1x2 slope bricks and white 1x4 plate you
-just placed.
-50. Locate 2 black 1x2 plates with hinges, 2 white 1x1 slope tiles, and 2 black 1x4 tiles with 2 studs.
-Horizontally place the 1x4 tiles with 2 studs in the front and back row to the left of the 1x6 tile you just
-placed. To the left of these tiles you placed, horizontally place your 1x2 plates with hinges so the hinges
-face outwards of the build. To the left of these plates, place your 1x1 slope tiles so the slope goes down
-to the right.
-51. Locate 2 white 2x2 bricks with an arch attached. To the left of the slope tiles you just placed,
-horizontally and symmetrically place the 2x2 bricks in front and behind the 2x2 ridged circular brick so the
-arches face outwards.
-52. Locate 2 orange 1x2 plates with a 2x2 side stud area below it. Vertically place 1 behind the other on
-the left side of the build so they are centered. The side studs should be facing left.
-Group 15 — Car
-53. Locate 2 black 2x3 angle plates. These plates are identical but flipped. Horizontally place them to the
-left of the plates with the side studs you previously placed so the 2-stud long sides of the angle plate are
-on the left and together they make a 2x3 stud area on top.
-54. Locate 4 black 1x3 tiles with 2 studs on top. Rotate your build counterclockwise 90 degrees so the left
-is now facing you. Now vertically place the black tiles next to one another so they all cover the 3x4 side
-stud area on the front.
-55.1. Locate 1 white 4x6 hood-shaped tile with 4 studs.
-55.2. Skip this step if you have already placed your sticker! Ask a helper to place sticker 1 on the white
-4x6 hood-shaped tile. This sticker has a picture of a mountain surrounded by a round light orange, then
-orange, then dark blue circle.
-55.3. Place this hood-shaped tile in front of the white 1x1 slope tiles. The 1x4 stud area should be in the
-back and this should overhang in the front by 2 studs.
-Note that this group will have 2 clear transparent 1x1 circular tiles that will be used in the following steps.
-Don’t get them mixed up with the other 1x1 circular tiles in the next group.
-Group 16 — Car
-56.1. Put aside your build while we make the headlights. Locate 1 white 2x6 plate that has a round side.
-Place it down horizontally in front of you with the round side facing you.
-56.2. Locate 1 dark blue 1x6 plate and 1 light grey 1x2 plate with a hook. Horizontally place the 1x6 plate
-on top of the 2x6 plate in the back. Now horizontally place the 1x2 plate with a hook in front of the 1x6
-plate so that it is centered and the hook is facing you.
-56.3. Now locate 1 black 1x2 slope tile and 2 light yellow 1x1 circular tile which represent the lights. Place
-the 1x2 slope tile on top of the 1x6 plate in the center so the slope goes down towards you. To the left
-and right of the slope tile, place your light yellow 1x1 circular tiles. Ask a helper if this is oriented correctly!
-56.4. Now locate 2 clear 1x1 circular tiles from group 15. Place it on the dark blue 1x6 plate to the left and
-right of the light yellow 1x1 circular tiles. You have finished the headlights!
-57. Bring back your build so it is oriented in the same way. The hood of the car should be facing you.
-Underneath the hood, place your headlight build on the side studs so it is centered and the hook part of
-the build is facing down.
-58. Locate 1 black bar. It should feel like two bars connected by 2 shorter bars. Horizontally connect the
-middle part of the longer bar onto the hook of the headlights. When connecting this bar to the hook,
-ensure that when it is parallel with the surface, the ends of the bar are facing upward. Also make sure that
-the bar is flipped upwards so it is in front of the 2 studs of the hook plate.
-59. Locate 1 black 1x4 tile with 2 studs. Horizontally place it behind the 4x6 hood-shaped tile so it is
-centered.
-60. Rotate your build 90 degrees clockwise so the hood is now facing left. Locate 1 orange 2x4 tile and 1
-orange 2x2 angle plate with 2 studs.
-60.1. Skip this step if you have already placed your sticker! Ask a helper to place sticker 3 on the orange
-2x4 tile. It is an orange sticker with a white stripe, an orange stripe, and a dark blue stripe.
-60.2. There are 6 side studs on the front side of the build. Horizontally attach the top part of the 2x4 tile to
-the right 4 studs. To the left of this, place your 2x2 angle plate so the studs are both on the right. Make
-sure the sticker is oriented correctly. The wider part of the angle should be at the top.
-Group 17
-61. Rotate your build 180 degrees so the hood is now on the right. Locate 1 orange 2x4 tile and 1 orange
-2x2 angle plate with 2 studs.
-61.1. Skip this step if you have already placed your sticker! Ask a helper to place sticker 2 on the orange
-2x4 tile. It is an orange sticker with a white stripe, an orange stripe, and a dark blue stripe.
-61.1. There are 6 side studs on the front side of the build. Horizontally attach the top part of the 2x4 tile to
-the left 4 studs. To the right of this, place your 2x2 angle plate so the studs are both on the left. Make
-sure the sticker is oriented correctly.
-62. Rotate your build so the hood of the car is facing you. Locate 1 clear windshield piece and 1 white 2x6
-tile. Horizontally place the 2x6 tile on top of the 4 studs of the windshield piece. Now horizontally place
-your windshield behind the 4x6 hood tile and 1x4 tile with 2 studs. Make sure it is centered and the front
-of the windshield is facing you.
-63.1. Locate 2 black 3x5 L-shaped technic plates and 2 red pegs with balls attached. Lay 1 L-shaped
-technic plate so it is oriented like the letter L in front of you. Insert each peg into the right hole of the Lshaped technic plate.
-63.2. Turn your build upside down so the hood of the car is facing left. Insert the corner hole of the
-technic plate into the front right peg of the car so the red ball is facing back. Now in the back left peg,
-insert the corner hole of the technic plate so the red ball is facing you.
-64.1. Locate 2 black 3x5 L-shaped technic plates and 2 red pegs with balls attached. Lay 1 L-shaped
-technic plate so the long side is facing right and the short side is facing you. It should be a flipped L
-shape. Insert each peg into the left hole of the L-shaped technic plate.
-64.2. Insert the corner hole of the technic plate into the front left peg of the build so the red ball is facing
-back. Then insert the corner hole of the other technic plate in the back right peg so the ball is facing you.
-65. Now locate your white square-shaped box and open it if it already hasn’t been opened. Locate the 2
-yellow rubber bands that are inside. Use 1 rubberband to connect the 2 red balls in the back. Then use
-the other to connect the 2 red balls in the front. These rubber bands will act as suspension for the car so it
-can go over rocks and terrain!
-66. Locate 4 big black tires and 4 black cylinders. Insert each cylinder into each tire. Make sure the
-cylinders are fitted correctly into the wheels. There are two sides to the cylinder, a ridged side and a side
-that isn’t.
-67. Locate 4 red 1x1 technic clips and 4 white 1x3 pegs with a short circular side and a longer plusshaped side. Insert each technic clip into each of the longer plus-shaped sides of the peg. Now insert
-each peg into the ridged side of each of the cylinders.
-68-69. Now insert the circular side of the peg that is connected to the wheel into the end holes of the
-longer side of the 3x5 technic plates.
-Congratulations you have completed the build!
+Group 4 - Prisoner and Dog
+4. Locate 1 white leg, 1 white and grey striped torso, 1 yellow head, and 1 dark brown hair piece. Put
+them together to assemble the prisoner! Then locate 1 pink diamond and put it in the prisoner’s hand!
+5. Next locate 1 dog and put it beside your prisoner! Make sure that the prisoner doesn’t get away!
+Group 5 - Gate
+6-7. Locate 1 light grey 8x16 plate with 6 gaps, 2 on each long side and 1 on each short side. Also, locate
+2 blue 1x2 bricks. Place the 8x16 plate horizontally in front of you. Then vertically place the 1x2 bricks in
+the back left and right corners.
+8-9. Locate 2 brown circular 1x1 plates with swirls on top, these are poops from the dog! Place 1 in the
+back right to the left of the 1x2 brick. Then symmetrically place the other one on the left side.
+10-11. Locate 2 dark grey 4x8 ramp tiles with an overhang in the back. Horizontally place them next to
+each other in the back so that the overhang sits in the 2 gaps of the 8x16 plate.
+12-13. Locate 4 white 1x2 bricks with a peg. Vertically place 2 in the right gap of the 8x16 plate so that
+the pegs face the right. Then vertically place the other 2 in the left gap of the 8x16 plate so the pegs face
+the left.
+14-15. Locate 2 blue 1x2 bricks. Vertically place 1 in the front left corner and 1 in the front right corner so
+that they sit in front of the white 1x2 bricks with pegs.
+16-17. Locate 2 bright yellow 1x4 plates. Vertically place 1 on the left side on top of the 2 white 1x2 bricks
+with the pegs. Then repeat symmetrically on the right.
+18-19. Locate 2 blue 1x8 tiles. Vertically place 1 on the left side on top of all the pieces placed. Then
+repeat for the right side.
+20-21. Locate 2 tall blue 2x2 bricks. Place 1 on the left side to the right of the 1x8 tile placed so that there
+is 1 free stud behind it.
+22-23. Locate 1 blue 2x3 brick. Horizontally place it in front of the tall 2x2 brick that is on the right. It
+should be against the pieces that are located to the right of it.
+24-25. Locate 1 white 1x2 tile and 1 dark grey 2x2 tile with a peg on top. Vertically place the 1x2 tile on
+top of the 2x3 brick previously placed on the right side. Then to the left of this tile, place the 2x2 tile with a
+peg.
+26-27. Locate 2 more tall blue 2x2 bricks. Place 1 on each of the already placed tall 2x2 bricks.
+28-29. Locate 4 bright yellow 1x2 plates. Horizontally place 2 next to each other on top of each of the tall
+2x2 bricks previously placed.
+30-33. Locate 2 blue 1x12 arch bricks, this brick has a curved underside. Also, locate 2 blue 1x2 bricks.
+Vertically place 1 blue 1x2 brick on top of the left tall 2x2 bricks so that it sits on the left. Then vertically
+place the other one symmetrically on the right. Then, in between these 1x2 bricks, horizontally place both
+1x12 arch bricks so that they sit on top of the tall 2x2 bricks.
+34-35. Locate 2 more blue 1x2 bricks. To the left and right of the back 1x12 arch brick, horizontally place
+the 1x2 bricks.
+Group 6 - Gate
+36-37. Locate 2 light grey 1x2 bricks with hooks. Place them in front of the previously placed 1x2 bricks.
+38-39. Locate 2 blue 2x3 bricks. Horizontally place 1 on top of the left 1x2 brick with hook so that it covers
+the 2x3 space. There should be no overhang. Repeat symmetrically on the right.
+40-41. Locate 3 white 3x4 ramp bricks and 1 white 2x3 ramp brick. On top of the previously placed 2x3
+bricks and the arch bricks, place 1 3x4 ramp brick on the left side so it goes down towards the front and is
+overhanging. Then to the right, place the 2x3 ramp brick oriented the same way. Then place the other 2
+3x4 ramp bricks to the right of this brick so they are all facing the same direction. Make sure there is no
+overhang in the back.
+42-43. Locate 1 red L-shaped bar that has a circular shape at the bottom and 1 black camera. Under the
+overhang of the ramp bricks, on the left and right sides, there are 2 hooks. Attach the camera to the left
+hook and attach the L-shaped bar to the right hook so the circular part is facing the front.
+44-45. Locate 1 black 1x2 plate with 4 side studs. Place it on top of the white ramp bricks in the middle so
+the 4 studs are facing front. There should be 6 studs on either side of this piece.
+46-47. Locate 1 white 2x8 tile that says police on it. Place it on the 4 studs of the 1x2 plate you just
+placed and make sure it is centered.
+48-49. Put aside your main build for now. Locate 1 white 1x12 plate and 3 white 1x2 tiles. Place the 1x12
+plate horizontally in front of you. Then horizontally place the 1x2 tile on the left side of the plate. To the
+right of the tile, leave 2 studs exposed then horizontally place the 1x2 tile. Repeat this for the last tile.
+Group 7 - Gate
+48-49. Locate 3 red 1x2 tiles. Horizontally place them in the 1x2 gaps on the 1x12 plate so that all the
+studs are covered.
+Group 8 - Gate
+50-51. Locate 1 light grey 2x2 plate with a hole underneath it and 1 white 1x2 tile with a bunch of buttons
+on it. Orient the grey 2x2 plate so the hole faces the front and back. Then horizontally place the right side
+of the 1x12 plate with the tiles on the front 2 studs of the 2x2 plate. Then horizontally place the 1x2 tile
+with the buttons on the back 2 studs of the 2x2 plate.
+52-53. Bring back your main build. In front of the 2x2 tall bricks on the right side, there is a 2x2 tile with a
+peg facing up. Insert the front hole of the sub-build into the peg. Make sure the tiles on the 1x12 plate are
+facing the front. This is the gate so no cars can get in! You can open and close it to let fellow officers in!
+54-57. Locate 2 dark grey 4x8 ramp tiles with an overhang part in the back. Insert the overhang parts of
+the ramp tiles into the 2 front gaps on the 8x16 plate.
+You finished the police gate entrance!
+Building Instructions (Bag 3, Book 3):
+Group 9 - Police Officer
+4-5. Locate 1 dark blue leg, 1 light blue torso with a police vest and badge, 1 yellow head, 1 dark blue
+cap, 1 walkie-talkie, and 1 gold key. Assemble the police officer using the legs, torso, head, and cap.
+Then put the walkie-talkie in his left hand and the key in his right.
+Group 10 - Monitor Room
+6-7. Locate 1 light grey 8x8 plate with a gap on each side and 1 bright yellow 1x4 plate. Place the 8x8
+plate down in front of you then horizontally place the 1x4 plate in the back gap.
+8-11. Locate 1 tall blue 2x8 frame and 1 transparent blue 1x6x6 window. This window has pictures of bad
+guys and a map on it. Horizontally place down the frame so the 1x8 studs of it are in the back. Then insert
+your window in the front. Make sure the pictures are oriented correctly. Then horizontally place the frame
+oriented in the same position in the back of the 8x8 plate so it sits above the previously placed 1x4 plate.
+12-13. Locate 1 white 2x6 brick and 2 white 1x4 bricks with holes. Horizontally place the 2x6 brick in
+between the gap of the frame so it sits against the window. Then vertically place the 1x4 bricks in the left
+and right gaps of the 8x8 plate.
+14-15. Locate 2 bright yellow 1x4 plates and 1 black 1x2 plate with a hook instead of a stud. Vertically
+place each yellow 1x4 plate on top of the previously placed 1x4 bricks. Then orient your black 1x2 plate
+so it is vertical and the hook is in the front. Place this plate in the 2nd column of the white 2x6 brick.
+Group 11 - Monitor Room
+16-17. Locate 2 blue 1x2 bricks and 2 blue 1x6 plates. Vertically place the bricks in the front left and right
+corners. Then vertically place the 1x6 plates on the left and right side so that there is no overhang.
+18-19. Locate 1 tan 2x2 chair and 1 key. Insert the key into the hook of the 1x2 plate on top of the 2x6
+brick. Then place the chair in the center behind the front gap of the 8x8 plate so it faces back.
+20-21. Locate 2 bright yellow 2x4 plates and 1 blue 2x8 brick. Horizontally place the 2x4 plates on top of
+the blue frame with the window so that it covers all the studs of it. Then horizontally place the 2x8 brick on
+top of the yellow plates you just placed.
+22-23. Locate 2 white 3x4 ramp bricks. Horizontally place the ramp bricks on top of the 2x8 brick you
+previously placed so that the ramp goes down towards you and overhangs in the front.
+24-27. Locate 1 light brown croissant, 1 white bone, and 1 red mug. Place the red mug on the left side on
+top of the vertically placed 1x6 plate so that there are 3 studs free in front of the mug. Then place the
+croissant on the right 1x6 plate so that there are 4 free studs in front. Then place the bone beside the
+build, this is for the dog!
+Congratulations, you finished the police table and monitor room!
+Building Instructions (Bag 4, Book 4):
+Group 12 - Police officer
+4-5. Assemble the police officer using dark blue legs, light blue torso with tie and badge, yellow female
+head, and black hair. Then locate 1 red megaphone and put it in her hand.
+Group 13 - Car
+6-7. Locate 1 blue 4x10 car base, 1 transparent red 1x4 tile, and 1 blue 1x4 arch tile. Place the car base
+down vertically in front of you so there is a 2x4 stud area facing you. Horizontally attach the transparent
+red 1x4 tile to the top of the 2x4 stud area. Then horizontally attach the blue 1x4 arch tile underneath it.
+This will be the back of the car. Rotate the car so the back is facing right.
+8-11. Locate 4 tires and 4 light grey cylinders. Attach each cylinder into each of the tires by pushing them
+in. Then attach the wheels to the pegs located underneath the smooth arch areas located in the front and
+back. Ensure that the ridged size is facing out.
+Group 14 - Car
+12-13. Locate 1 light grey 1x4 tile with car lights and grill on it and locate 1 blue 1x4 arch tile. Rotate the
+car so that the left side is now facing you. Horizontally attach the 1x4 tile to the top part of the 2x4 stud
+area on the front of the car. Underneath this, horizontally attach the 1x4 arch tile. Then rotate 90 degrees
+clockwise so the front is now facing the left.
+14-15. Locate 1 black 2x3 brick, 1 red 2x2 tile with 2 studs on top, and 1 light grey 1x2 steering wheel. In
+the middle of the car, there is a 2x6 gap. Horizontally place the black 2x3 brick on the left side of the gap.
+Then to the right of this, vertically place your steering wheel so that the wheel is facing the right. Then to
+the right of this, place down the 2x2 tile so the 2 studs are both on the left.
+16-17. Locate 1 bright yellow 1x2 plate. Vertically attach this in the last column of the car base so there is
+a free stud in the front and behind it.
+18-19. Locate 4 bright yellow 1x4 plates and 1 bright yellow 2x4 plate. Vertically place the 2x4 plate in the
+first 2 columns. Then place the remaining 2 plates symmetrically in the front row. Then horizontally place
+the remaining 2 plates in the front row to the right of the 2x4 plate.
+Group 15 - Car
+20-21. Locate 2 white 1x2 plates and 2 white 1x6 plates. Vertically place the 2 white 1x2 plates in the last
+column. Then to the left of these plates, horizontally place the 1x6 plates in the front and back rows.
+22-23. Locate 1 light grey 1x2 grill tile and 1 white 3x4 curve tile with 1x2 stud area. Attach the 1x2 grill
+tile to the 1x2 stud area of the 3x4 curve tile. Then vertically place the curve tile in the first 3 columns so
+that the curve goes down from right to left.
+24-25. Locate 1 transparent light blue 3x4 windshield and 1 white 2x2 curve tile that says police on it.
+Place the 2x2 smooth tile in the first 2 columns in between the gap of the 3x4 curve tile. Then to the
+immediate right of the grill tile, vertically place the windshield so that it faces the left. 
+26-29. Locate 1 transparent blue 1x4 tile. Vertically place this on top of the windshield.
+Congratulations you finished the police car!
+Now that you have finished you can put together all the builds! The gate goes in the middle while the jail
+sits to the left and the monitor room sits to the right of it. If you want to secure it and make it stable, you
+can add pegs to the 3 holes in the 1x4 bricks on the sides of each part and connect them!
+
 There are no ads at the end of the instructions.
 Visit bricksfortheblind.org for more accessible instructions and tell your friends about us!

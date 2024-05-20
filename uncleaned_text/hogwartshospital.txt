@@ -1,16 +1,57 @@
-30653 BatmanTM 1992
+76398 Hogwarts™ Hospital Wing
 Set adapted by Alex Charbonneau and tested by Natalie Charbonneau.
-Build the iconic superhero Batman in this polybag! Polybags are great for a quick, relaxing build, or to add
-a new minifigure to your collection! This set includes the caped crusader, and a small portion of a building
-for him to pose on!
-This front of the polybag shows a Batman minifigure standing on the corner of a building at night. He has
-a black cape billowing out behind him, and he wears a mask which covers all of his face except his
-mouth. He has a yellow oval with a bat in the center on his chest, and he holds a batarang – a
-boomerang shaped like the wings of a bat. Gotham CityTM stretches out behind him. A searchlight
-projects a bat symbol on the low clouds over the city. The corner of the building Batman is standing on is
-also made out of LEGO. It is shaped like a gargoyle head with upwards pointing fangs.
-The build is 40 pieces, and 14 building steps.
-Welcome to text-based instructions from Bricks for the Blind. Before you start building, here are some
+LEGO® Harry Potter™ Hogwarts™ Hospital Wing (76398) is bursting with magical play possibilities for
+kids aged 8+, from caring role play in the infirmary to time-travel adventures in the clock tower.
+Young witches and wizards join Harry Potter, Ron Weasley™ and Hermione Granger™ in a versatile
+playset based on a memorable scene from Harry Potter and the Prisoner of Azkaban™. Inside the
+Hogwarts Hospital Wing are 3 beds, a screen and Madam Poppy Pomfrey pushing her cart filled with
+potions and candy. Ron’s in bed with a bandaged leg, and there’s a bottle of the revolting Skele-gro to
+hand. Meanwhile, up in the clock tower, Harry and Hermione are using the Time-Turner™. Kids twist the
+tower’s turret to make the clock’s hands spin and travel back in time for another magical adventure. The
+top and bottom halves of the set detach so other modules can be stacked in between, and the set
+connects with others in the series to create an entire Hogwarts Castle.
+Perfect for Harry Potter™ fans:
+- LEGO® Harry Potter Hogwarts™ Hospital Wing (76398) is packed with role-play fun, from treating
+injuries in the infirmary to time-travel adventures in the clock tower
+Popular characters:
+- Includes Harry Potter™, Hermione Granger™, Ron Weasley™ and Madam Pomfrey minifigures, plus a
+buildable Hospital Wing and clock tower with authentic accessories
+Many ways to play:
+- Kids can recreate the iconic hospital-wing time-travelling scene from Harry Potter™ and the Prisoner of
+Azkaban™ and conjure up endless enchanting stories of their own
+Great gift for kids aged 8 and up:
+- This detailed Hogwarts™ recreation will delight fans of the Harry Potter™ movies and inspire any child
+to enter an amazing world of imaginative play
+Ideal for play and display:
+- This versatile, reconfigurable set measures + 10 in. (26 cm) high, 7.5 in. (20 cm) wide and 4 in. (10 cm)
+deep
+Magically modular:
+- This toy is one of a series of modular sets that combine to create a complete Hogwarts™ Castle. 2
+random wizard card tiles are also included for kids to collect (16 in total)
+Many ways to play:
+- The extensive range of LEGO® Harry Potter™ playsets puts favorite characters, familiar locations and
+magical adventures into the hands of all young wizards, witches and muggles
+The box is a deep blue. On the front right corner is an image of Harry, Hermione, and Ron from the film. A
+swish of magic curves around the border of the box. Inside of the curve is an image of the Hogwarts
+hospital wing, with the rest of the castle in the distance behind it. A full moon shines past the high roofs
+and spires of the castle! An owl flies over the castle. Mountains rise in the distance. The hospital wing is a
+tan building with a sand green roof with a large clock tower rising from the middle. It has three large,
+arched windows with white lattice window frames. Madam Poppy Pomfrey stands next to her medical
+cart, talking to Ron Weasley, who wears a cast on one foot and walks with a cane. In front of the hospital
+wing, Hermione Granger and Harry Potter talk. Hermione wears a cast on her right hand.
+The top of the box shows a life sized image of the Madam Poppy Pomfrey minifigure. There is also an
+image of the four minifigures holding various accessories. The left side of the box includes a very small
+image of the hospital wing!
+The back of the box has a main image and two insets. The main image shows the hospital wing from the
+back, showing its interior packed with details! There are three hospital beds, with white frames and
+pillows, and blue blankets. Ron sits in the middle bed, being attended to by Madam Pomfrey. He has a
+chart at the foot of his bed, and a box of Bertie Bott’s Every Flavor Beans nearby! There is a bottle of
+Skele-Gro potion near one bed, and flowers near Ron’s bed. Hermione and Harry are in the clock tower,
+practicing their magic! The first inset shows that turning one of the spires on the clock tower causes the
+hands on the clock to move! The second inset shows a close-up image of one of the beds, with Harry
+sitting in it while Madam Pomfrey gives him the bottle of Skele-Gro potion!
+The build is 510 pieces, and 94 building steps.
+Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 - In Front of/Front: towards you.
 - Behind/Back: away from you.
@@ -29,11 +70,10 @@ the right, the technic connector of the second piece should point to the back, s
 symmetrically.
 - Centered-vertically: even amount of space in front of and behind the piece
 - Centered-horizontally: even amount of space left and right of the piece.
-- Row: studs lined up horizontally (left to right/side to side).
-- Column: studs lined up upright or vertically (top to bottom/back to front).
+- Row: studs lined up from left to right.
 For builders with low vision, or a sighted building partner who may want to follow along with the printed
 visual instructions that come with each kit, PDF versions are always online at LEGO.com:
-(https://www.lego.com/en-us/service/buildinginstructions/30653) As low vision users may benefit
+(https://www.lego.com/en-us/service/buildinginstructions/76398) As low vision users may benefit
 from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
 Sorting the pieces:
@@ -44,91 +84,625 @@ pieces for each step easier. See below on how to sort the pieces to correspond t
 Number the containers using letters A-Z, numbers or meaningful names. The parts will be sorted into one
 or a small number of steps in the instructions. Example: Steps 1-3 means collect all the parts used in
 steps 1, 2 and 3, and put them in one container.
-This LEGO set comes with one unlabeled bag, and an instruction booklet. Sort the pieces into groups as
-described below. Note that where there are multiple colors of the same brick in a step, the colors will be
-split across two groups to make telling the difference easier for the builder! LEGO includes a few spare
-parts in case you lose something. Set these into their own group away from the rest, in case you need
-them later.
-Bag 1 (3 groups of bricks)
-Minifigure group 1 contains the pieces to build the Batman minifigure, and a batarang. Ask your builder if
-they’d like you to attach the head to the torso to get the alignment correct!
+This LEGO set comes with four bags labeled 1-4, a sticker sheet, and an instruction booklet. Sort the
+pieces into groups as described below. Note that where there are multiple colors of the same brick in a
+step, the colors will be split across two groups to make telling the difference easier for the builder! LEGO
+includes a few spare parts in case you lose something. Set these into their own group away from the rest,
+in case you need them later.
+Bag 1 (6 groups of bricks)
+Minifigure group 1 contains the pieces to build the Ron Weasley minifigure, a 3L bar representing a
+crutch, and his wand.
 Main build:
 Group 1 contains the pieces for steps 1-7.
-Group 2 contains the pieces for steps 8-14.
+Group 2 contains the pieces for steps 8-9.
+Group 3 contains the window frames for step 10.
+Group 4 contains the window panes for step 10.
+Group 5 contains the pieces for steps 11-19.
+Bag 2 (4 groups of bricks)
+Minifigure group 2 contains the pieces to build the Madam Pomfrey minifigure, her wand, and a medical
+chart. Place the medical chart sticker on the black 2x2 tile.
+Main build:
+Group 6 contains the pieces for steps 20-25.
+Group 7 contains the pieces for steps 26-30.
+Group 8 contains the pieces for steps 31-36.
+Bag 3 (6 groups of bricks)
+Minifigure group 3 contains the pieces to build the Harry Potter minifigure, his wand, and the parts to
+make a bottle of Skele-Gro potion.
+Minifigure group 4 contains the pieces to build the Hermione Granger minifigure, with her arm in a cast,
+her wand, and her time turner.
+Minifigure group 5 contains the pieces to build a chest, an owl, two wizard cards, a visitor’s chair, a
+privacy screen, a lantern, and a box of Bertie Bott’s Every Flavor beans. Place two curtain stickers on the
+2x3 tiles for this group. Place the privacy screen stickers on the light blue 2x3 tiles.
+Group 9 contains the steps 1-7 for Madam Pomfrey’s medical cart. To help the builder differentiate
+pieces. Make a stack of three 1x1 circular plates, ordered from top to bottom: transparent green,
+transparent blue, transparent orange. Stick a transparent yellow gem with a bar on the bottom into the
+stud on the top circular plate. Stack the two cones together, with the transparent green one at the bottom.
+Group 10 contains the pieces for steps 37-38 of the main build. Stack the two clear 1x1 circular plates on
+each other.
+Group 11 contains the pieces for steps 39-46.
+Bag 4 (8 groups of bricks)
+Group 12 contains the pieces for steps 47-50.
+Group 13 contains the pieces for steps 51-57.
+Group 14 contains the pieces for steps 58-59. Find the 6x6 dish. Mark the red triangle with a piece of
+tape, or a piece of sticker backing. Make sure to do this on the side which is not printed so it is hidden if
+any tape is hard to remove
+Group 15 contains the pieces for steps 60-62.
+Group 16 contains the pieces for steps 63-67. Place a small piece of tape on the 2x2 circular tile to show
+the builder where the 12 o’clock position is.
+Group 17 contains the pieces for steps 68-76.
+Group 18 contains the pieces for steps 77-82.
+Group 19 contains the pieces for steps 83-87.
 Building Instructions:
 Open bag 1.
 Open minifigure group 1.
-Assemble the Batman minifigure. Start by placing the torso onto the leg piece. The legs are black. The
-torso is black with a yellow oval with a bat on the front and an orange utility belt across the waist. This belt
-is where Batman keeps his many useful gadgets! The torso is printed on both the front and back. On the
-back, you can see a batarang clipped to the back of the utility belt. Place the head on the stud on top of
-the torso. The face has two sides; one side is a normal face and the other has a pair of white eyes above
-the normal eyes. These eyes are designed to show through the holes in the Batman mask! If you have a
-sighted friend helping you build, ask them to make sure the white eyes are at the front. Now place the
-Batman mask with a cape on the head. Place a black batarang in Batman’s hand to complete the
-minifigure!
-Main Build:
+Assemble the Ron Weasley minifigure by attaching the torso to the legs, putting the head on the torso,
+and putting the hair on top. Ron is wearing a dirty red sweater and gray pants. One leg of his pants is
+white, indicating he’s wearing a cast on that leg! Put a brown 3L bar in his right hand and his wand in his
+left hand. The 3L bar should extend down to the ground so Ron can use it to help him walk!
 Open group 1.
-1.1. We’ll build the corner of a Gotham City skyscraper for Batman to stand on! The corner of the building
-is decorated with a small gargoyle. Start by placing a light gray 3x3 plate in front of you.
-1.2. Place a black 2x2 brick on the previous piece, even with the back right corner.
-2.1. Place a light gray 1x2 inverted slope, with the slope at the front, in front of the right column of the 2x2
-brick from the previous step. Place another, with the slope at the left, to the left of the back row of the 2x2
-brick from the previous step.
-2.2. Place a dark gray 1x1 brick to the left of the front piece from the previous step. Place another in front
-of the left piece from the previous step. Now, only the front left stud of the 3x3 plate from step 1.1 should
-be exposed.
-3. Place a light gray 2x2 double inverted slope, with slopes at the front and the left, to the left of the front
-piece from the previous step. It should be on the last remaining stud of the 3x3 plate.
-4. Place a dark gray 4x4 plate on top of the build.
-5.1. Place a dark gray 1x2 plate with rounded ends, horizontally long, on the rightmost two studs on the
-back row of the previous piece.
-5.2. Place a black 1x2 plate with a horizontal clip on one short side, with the clip at the right, in front of the
-previous piece. The clip should overhang the 4x4 plate to the right.
-6.1. Place a light gray 2x2 tile with two studs, with the studs at the right, in front of the previous piece.
-Place another, with the studs at the back, on the left two rows of the 4x4 plate, even with the back.
-6.2. Place a light gray 1x1 circular plate in front of the right stud on the left piece from the previous step.
-7.1. Place a dark gray 1x1 slope tile, with the thick side at the right, in front of the 1x1 circular plate from
-the previous step. Place another, with the thick side at the back, to the left of the 1x1 circular plate from
-the previous step.
-7.2. Attach the center hand hold of a black batarang to the clip on the right side of the build.
+1. The lower floor of the hospital wing has three nearly identical rooms with beds. We’ll start building
+there. Place a dark tan 8x8 lattice plate in front of you.
+2.1. Place a tan 2x4 brick, horizontally long and centered horizontally, on the back row of the previous
+piece, even with the back of the previous piece.
+2.2. Place a tan 1x2 slope to the left of the previous piece, with the slope at the front. Place another on
+the right side of the 2x4.
+3.1. Now we will assemble two light brown 1x4 hinge bricks. Find a 1x2 brick which has a downwards
+pointing pin on one short end, and a 1x2 brick which has a pin hole at the bottom of one short end. Push
+the pin from the first piece into the hole on the second, keeping the studs of both pointed up.You can
+open the hinge to create a 1x4 brick, close the hinge to make a 2x2 brick, or make it some angle in
+between. Close the hinge so the hinge brick looks like a 2x2 brick. Note there is a curved bump at the
+side which hinges. Make another hinge brick.
+3.2. Place one 1x4 hinge brick, closed up, with the curved bump at the back, to the left of the left 1x2
+slope. The left half of the hinge brick should overhang to the left of the lattice plate. Place another, in the
+same orientation, to the right of the right 1x2 slope.
+4. Attach a dark tan 8x8 lattice plate under the overhanging part of the left hinge plate, with its front even
+with the front of the first lattice plate. Place another symmetrically under the right hinge plate.
+5. Place a tan 1x2 slope to the left of the left hinge brick, with the slope at the front, and the back even
+with the back of the lattice plate. Place another symmetrically to the right of the right hinge plate.
+6.1. Place a tan 2x4 brick, horizontally long, to the left of the left slope from the previous step. Place
+another symmetrically to the right of the right slope from the previous step.
+6.2. Find two light brown 1x2 masonry bricks. A masonry brick has a brick wall pattern on one side, and
+horizontal grooves on the other side. Place one masonry brick, horizontally long, on the back row to the
+left of the left 2x4 brick from the previous step. The side with both horizontal and vertical grooves should
+be at the back. Place another symmetrically to the right of the rightmost 2x4 brick.
+6.3. Place a light gray 1x1 brick with a hole on the side, on the leftmost column, in front of the left
+masonry brick from the previous piece, with the hole at the left. Place another symmetrically in front of the
+masonry brick on the right side.
+7.1. Place a light brown 1x2 masonry brick, vertically long on the left piece from the previous step,
+extending back one stud so it is even with the back of the build. The side with both horizontal and vertical
+grooves should be at the right. Place another symmetrically on the right piece from the previous step.
+7.2. Place a tan 1x1 scroll brick to the right of the left previous piece, with the scroll at the back. Scroll
+bricks are a 1x1 brick with a bar sticking out even with the top on one side, which has a stud on top and a
+circular decoration on the sides. Skip four studs to the right and place another scroll brick in the same
+orientation. Skip two more studs and place another scroll brick in the same orientation. Repeat the last
+three scroll bricks symmetrically on the right side of the build. The scroll bricks should only be placed on
+1x2 slopes, or on 1x2 masonry bricks.
+7.3. Place a light brown 1x1 brick on the back studs of each of the hinge bricks. You should place a total
+of four 1x1 bricks for this step, and each one should touch one scroll brick, and one 1x1 brick.
 Open group 2.
-8. Place a black 2x2 brick on the build, even with the back right corner.
-9.1. Place a dark gray 1x2 masonry brick, horizontally long, in front of the 2x2 brick from the previous
-step. A masonry brick has a brick wall pattern on one side, and horizontal grooves on the other side. The
-side with vertical and horizontal grooves should be at the front. Place another masonry brick, vertically
-long with the vertical and horizontal grooves at the left, to the left of the 2x2 brick from the previous step.
-9.2. Place a dark gray 1x1 brick to the left of the front piece from the previous step.
-10. Place a light gray 3x3 plate on the raised part of the build, even with the back right corner.
-11. Place a dark gray 2x2 tile with a stud, on the front two rows of the previous piece, even with the left
-side.
-12.1. Now we’ll start the gargoyle. Place a light gray 1x1 circular plate in front of you.
-12.2. Place a light gray 1x1 brick with studs on all four sides on the previous piece.
-12.3. Place a light gray 1x1 circular plate on the front side stud of the previous piece.
-12.4. Place a light gray 1x1 plate with a short bar on one side, with the bar on top, on the right side stud
-of the 1x1 brick with studs on all four sides. Place another, symmetrically, on the left.
-12.5. Attach a light gray triangle with a clip on one side to each of the bars. Attach them so one point of
-the triangle is at the back, and one side of the triangle forms a vertical line at the front. Once they are
-attached, hinge them so they angle towards each other. These are the wings of the gargoyle, folded up in
-a resting position.
-12.6. Now, attach the gargoyle to the front left stud on the main build. It should be placed at a 45 degree
-angle, with the sideways 1x1 circular plate at the front left.
-13.1. Now we’ll build the gargoyle’s head! Place a light gray pair of minifigure binoculars in front of you.
-The binoculars are made up of two bars connected to each other. One end of each bar is thick and
-hollow. This hollow end can accept a bar. There is a cutout for a stud on one side of the binoculars. Put
-two silver claws, one in each hollow bar on the binoculars. These form the horns, and the binoculars form
-the face of the gargoyle. The horns should curve towards the stud cutout on the binoculars.
-13.2. Attach the head assembly to the main build, attaching the cutout on the binoculars to the sideways
-1x1 circular plate on the front left of the building, with the horns pointing up.
-14.1. Place a dark gray 1x1 slope tile, with the thick side at the left, on the front stud on the rightmost
-column on top of the build. Place another, with the thick side at the front, on the leftmost stud on the back
-row on top of the build.
-14.2. Place a dark gray 1x2 plate with rounded ends onto the 2x2 tile with a single stud on the top of the
-build. Attach it to this piece so it is centered on the piece, and is at a 45 degree angle to the rest of the
-build, with a stud at the front right and back left.
-15. Attach the Batman minifigure to the previous piece. He should be standing over the gargoyle and
-looking to the front left.
-Congratulations! Now the Batman 1992 polybag is complete!
+8.1. Make six stacks of two tan 2x2 corner bricks.
+8.2. Place one stack, with the studs oriented like a Braille letter J, on the leftmost scroll brick and masonry
+brick. The back stud on the stack should attach to the decorated scroll on the scroll brick. Place another
+stack, with the studs oriented like a Braille letter H, on the next scroll brick to the right. There should be a
+four stud gap between this stack and the previous stack. Place another stack, with the studs oriented like
+a Braille letter J, to the right of the previous stack. Repeat these three stacks symmetrically on the right
+side of the build.
+9. Place a light brown 1x1 brick in front of the left stud of the leftmost stack from the previous piece. It
+should be on top of a masonry brick. Put another 1x1 brick on the first. Repeat these two pieces
+symmetrically on the right side of the build. There should be three breaks in the wall which are four studs
+wide. The windows will go in these gaps!
+Open group 3 and group 4. Group 3 contains the window frames for the next step, and group 4 contains
+the window lattice.
+10.1. Assemble a window by attaching a white 1x2x2 lattice into a tan 1x2x2 window frame. Find the lip in
+the window frame and rotate the window so that it is at the front, then push a lattice in from the front.
+Repeat this eighteen times.
+10.2. Using the windows just created, make six stacks of three windows, keeping all the lattices at the
+front.
+10.3. Place one stack of windows, with the lattice at the back, to the right of the leftmost stack of corner
+bricks. Place another stack to the right of the first stack. This is the first hospital window! Repeat this in
+the other two window gaps. There should be a raised row of four studs in front of each window.
+Open group 5.
+11. Now we’ll start making the hospital beds! First we’ll place the headboards. Place three white 1x4x2
+fences, horizontally long, one on each set of raised studs in front of the windows. These are shaped kind
+of like a capital letter D on its side.
+12. Now to make the beds themselves, there will be three identical beds. Set the hospital wing aside for
+now. Place a light gray 2x3 plate vertically long in front of you. Stack another 2x3 plate on the first.
+13. Place a white 2x2 plate on the front two rows of the previous piece.
+14.1. Place a white 1x3 jumper plate behind the previous piece. A jumper plate is a 1x2 plate with a single
+stud on top, or a 1x3 plate with only two studs on top. Place another 1x3 jumper plate on the first. These
+are the sheets of the bed.
+14.2. Place a white 1x2 slope tile, horizontally long and centered horizontally, with the thick part at the
+back, on the previous piece. This is the pillow of the bed!
+15. Place a light blue 2x4 curved slope with a 1x4 plate on one side, vertically long, in front of the left stud
+of the previous piece, with the curve on the left. Place another symmetrically to the right of the first. These
+are the hospital blankets on the bed.
+16. Place a white 2x2 brick under the front two rows of the previous two pieces.
+17.1. Place a light blue 2x2 tile in front of the pillow, centered horizontally.
+17.2. Place a light blue 2x2 tile with two studs on top, in front of the previous piece, with the studs at the
+front. It should be even with the front of the bed.
+17.3. That’s one bed! Now let’s repeat steps 12-17.2 two more times.
+18. Place a hospital bed, vertically long, with the pillow at the back, in front of each headboard, centered
+horizontally on the headboards.
+19. Make the footboards by placing a white 1x4x2 fence, horizontally long, in front of each bed. These
+pieces should be on the front row of the lattice plates.
+Open bag 2.
+Open minifigure group 2.
+Assemble the Madam Pomfrey minifigure by attaching the torso on the skirt leg piece, placing the head
+on the torso, and putting the combined hair and hat piece on the head. Place a tan wand in her right
+hand.
+Assemble the medical chart by placing a light gray 1x2 plate with two studs hanging down from one long
+side, horizontally long in front of you, with the side studs at the left. Then place a black 2x2 tile, with a
+medical charts sticker on it, onto the side studs of the previous piece so that it’s even with the top of the
+previous piece. Madam Pomfrey can hold the chart by putting the flat part of her hand into one of the antistud on the bottom of the 1x2 plate with side studs.
+Open group 6.
+20.1. Place two tan 1x2x2 tall bricks, horizontally long, in a row on the wall between the left and center
+windows. Place two more on the wall between the right and center windows.
+20.2. Place a tan 2x2 corner brick, oriented like a Braille letter F, on the wall to the left of the left window
+so that it’s even with the corner. Place another symmetrically to the right of the right window.
+21.1. Place two light gray 1x1 bricks with a pin-hole on the side, one on the front stud of each of the
+pieces from the previous step, with the pin-holes at the side.
+21.2. Place a light brown 1x2 masonry brick, horizontally long, behind each of the previous two pieces.
+These should be even with the corners of the hospital wing, and the side with both horizontal and vertical
+grooves should be at the back.
+21.3. Place a light brown 1x1 brick on the wall to the right of the left window, place another to the left of
+the center window. Repeat these two pieces symmetrically between the center and right windows.
+22.1. Find the studs extending forwards from the wall between each set of beds. There should be two
+sets of two studs. Place a tan 1x1x3 tall brick on each of these studs.
+22.2. Place a tan 1x3x3 half arch on each of the tall bricks from the previous step, with the arched portion
+at the front.
+23.1. We need to assemble two more light brown 1x4 bricks like we did previously. Close them up so they
+look like a 2x2 brick, and place them behind each pair of half arches from the previous step, with the
+curved bump at the back of the hinge brick. Each hospital room should be able to hinge open now!
+23.2. Place a tan 1x6x7 arched door frame with round columns, vertically long, on the floor on the
+leftmost column of studs, even with the front of the floor, with the rounded side of the column at the left.
+Place another symmetrically on the right side of the hospital wing.
+24.1. Place a tan 1x1x3 tall brick on the front row of the floor, to the right of the previous piece.
+24.2. Place a tan 1x3x3 half arch on the previous piece, with the arch at the right.
+24.3. Place a tan 1x1 brick with a horizontal clip on one side, on the leftmost stud of the previous piece
+with the clip at the front. This should be in a cutout so the top is even with the top of the previous piece.
+24.4. Repeat this assembly symmetrically on the right side of the build.
+25.1. Place a tan 1x3 brick, horizontally long, on the front row of the wall, even with the left end of the
+wall. There should be one exposed stud to the right of this piece. Place another vertically long, on the left
+column of the wall, even with the back end of the wall. There should be one exposed stud to the right of
+this piece.
+25.2. Place a light brown 1x1 brick on the wall to the right of the previous piece.
+25.3. Repeat steps 25.1-25.2 symmetrically on the right side of the build. Rotate the build 180 degrees so
+it is still horizontally long, and the windows are now at the front.
+Open group 7.
+26. Find the studs which extend to the front on the left and right sides of each window. We’re going to
+make these windows into arched windows, starting with the left window! Place a 1x3x3 half arch on the
+exposed stud to the left of the left window, with the arch on the right. Place another 1x3x3 half arch on the
+exposed stud to the right of the left window. Repeat these two pieces for the other two windows.
+27.1. Place a tan 1x2 plate with rounded ends, vertically long, on the leftmost stud of the left arch on the
+left window. Place another symmetrically on the right arch over the left window. Repeat these two pieces
+on the rightmost window. All of these plates should overhang one stud to the front.
+27.2. Place a light brown 1x1 circular plate under the front stud on each of the pieces from the previous
+step.
+27.3. Place a sand green unicorn horn, point up, into the front stud of each of the 1x2 rounded plates from
+step 27.1.
+28.1. Place a dark tan 1x1 plate on the leftmost stud of the left arch on the center window. Place another
+symmetrically on the right arch of the center window.
+28.2. Place a light brown 1x1 plate with a stud hanging down on one side, on each of the pieces from the
+previous step, with the side stud at the front.
+28.3. Place a tan 1x1 plate with a row of two studs extending up from one side, on each of the pieces
+from the previous step, with the side studs at the front.
+29.1. Place a dark tan 2x2 plate on top of the wall of the hospital building, even with the front of the wall
+and centered horizontally on the left window. There should be three exposed studs on the wall to the left
+of this piece. Place another 2x2 plate symmetrically over the right window.
+29.2. Place a light brown 1x2 plate, horizontally long, on the back row of each of the pieces from the
+previous step. Stack another 1x2 plate on the first 1x2 plates.
+29.3. Place a sand green 1x2 double slope tile, horizontally long, in front of each of the stacks of 1x2
+plates from the previous step.
+30. Place a dark tan 1x2 slope with a cut out on one side, to the left both of double slopes from the
+previous step. Place another dark tan 1x2 slope with a cut out, to the right of both of the double slopes
+from the previous step.
+Open group 8.
+31.1. Place a tan 2x4 brick, horizontally long, on the wall, centered horizontally on the center window.
+31.2. Place a tan 2x2 corner brick, with the studs oriented like a Braille letter J, to the left of the previous
+piece. Place another symmetrically to the right of the 2x4 brick.
+31.3. Place a tan 1x3 brick, vertically long, behind the left stud of the left piece from the previous piece.
+Place another symmetrically on the right side of the build.
+32. Place a tan 1x1 scroll brick behind each of the pieces from the previous step, with the scroll at the
+back. Place a scroll brick on the rightmost stud of the arch in the back left corner of the room, with the
+scroll at the right. Place another symmetrically on the right side of the build.
+33.1. Place a tan 1x3 brick, vertically long, on the wall to the left of the left piece from the previous step,
+even with the back of the wall. Place another horizontally long on the wall in front of the first. The left end
+should touch a 1x2 plate. Place another 1x3 brick, horizontally long, to the left of the 1x2 plate.
+33.2. Place a light brown 1x1 brick behind the leftmost stud of the previous piece.
+33.3. Place a tan 1x6 brick, vertically long, behind the previous piece. It should be even with the back of
+the wall.
+33.4. Place a tan 1x3 brick, horizontally long, on the wall to the right of the back stud of the previous
+piece.
+33.5. Repeat steps 33.1-33.4 symmetrically on the right side of the build.
+34.1. Now we are going to make the connections for the roof! These don’t have many studs so the roof is
+easy to remove. We’ll start with the center section, which has a thicker front wall than the two outer
+sections. Place a dark tan 2x4 tile, horizontally long, on the left four columns of the center wall, even with
+the front of the wall. Place another to the right of the first.
+34.2. Place a dark tan 1x4 tile with a stud on each end, vertically long, on the left and right walls of the
+center section, behind the tiles from the previous step. It should overhang one stud to the back so it
+connects to the scrolls of the scroll bricks.
+35.1. Now we’ll work on the roof attachment for the two side rooms. Place a dark tan 1x4 tile with a stud
+on each end, vertically long, on the right wall of the left room.
+35.2. Place a dark tan 1x6 tile, horizontally long, on the front wall to the left of the previous piece.
+35.3. Place a dark tan 1x1 plate to the left of the previous piece.
+35.4. Place a dark tan 1x6 tile, vertically long, behind the previous piece.
+35.5. Place a dark tan 1x4 tile with a stud on each end, horizontally long, on the wall behind the previous
+piece, even with the left and right sides of the wall.
+35.6. Repeat steps 35.1-35.6 symmetrically for the right room.
+36.1. Place a dark tan 1x1 plate in front of you.
+36.2. Place a tan 1x3 concave slope with a cut out, on the previous piece, with the slope at the front and
+attaching the cut out to the plate.
+36.3. Place a dark tan 1x1 plate on the one stud on the previous piece.
+36.4. Repeat steps 36.1-36.3 to create another assembly.
+36.5. Place one assembly, with the slope at the bottom, on the three side studs on the front of the wall
+above and to the left of the center window. Place the other on the three side studs on the other side of the
+window.
+36.6. Place a light gray 2L pin into the two pin-holes on the left wall of the building. These holes are just in
+front of the archway with curved columns. One is near the floor and the other is five bricks above the first.
+Set the hospital wing aside for now! We’ve got some work to do!
+Open bag 3.
+Open minifigure group 3.
+Assemble the Harry Potter minifigure by attaching the torso to the legs, putting the head on the torso, and
+putting the hair on top. Harry is wearing a dark blue hoodie, a torn light blue shirt, and khaki pants. Put his
+wand in his left hand.
+Assemble a bottle of Skele-Gro potion by placing a white 1x1 round brick with a Skele-Gro pattern in front
+of you. Place a white 1x1 circular plate on the previous piece. Place a gold 1x1 circular tile with an
+upwards bar on the previous piece. Place a white skull on the bar of the previous piece.
+Open minifigure group 4.
+Assemble the Hermione Granger minifigure by attaching the torso to the legs, putting the head on the
+torso, and putting the hair on top. Hermione is wearing a pink hoodie, a hot pink shirt, and blue jeans. Put
+a white cast on her right hand. The cast has a bar on one side, this bar goes into Hermione’s hand, with
+the rest of the cast going up her arm. Assemble the time turner by putting a clear 1x1 circular tile with a
+time turner pattern onto a gold 1x1 circular plate. Hermione can hold either the time turner, or her tan
+wand in her left hand!
+Open minifigure group 5.
+Assemble a chest by attaching the brown lid to the brown chest base.
+Assemble the visitor’s chair by placing a brown chair on a black 2x2 circular plate.
+Assemble a box of Bertie Bott’s Every Flavor Beans by placing a red 1x1 triangular slope tile on a white
+1x1 brick with a Bertie Bott’s Beans pattern.
+Assemble a lantern by placing a transparent yellow 1x1 round brick onto a gold 1x1 short cone. Place a
+gold lantern frame on top of the transparent yellow round brick, with the handle on top.
+Assemble a privacy screen by placing a white 2x2 square sign with a clip on one side in front of you with
+the clip on top, oriented vertically. This is a very flat piece with no studs or anti-stud. Clip a short end of a
+white 1x6x3 fence panel into the clip on the previous piece, and stand it up straight. This piece should be
+taller than it is wide. Attach a light blue 2x3 tile with a curtain sticker, horizontally long with the sticker at
+the front, onto the top studs on the previous piece, extending down by one stud. Place another below the
+first.
+Open group 9. This group contains a stack of three 1x1 circular plates, ordered from top to bottom:
+transparent green, transparent blue, transparent orange. A transparent yellow gem with a bar on the
+bottom is stuck into the stud on the top circular plate. There are two cones stacked together as well, with
+a transparent green one at the bottom and a transparent pink one on top. Don’t take these apart yet.
+Sub-build: Madam Pomfrey’s cart
+1. Place a white 2x3 plate, horizontally long, in front of you.
+2.1. Place a transparent orange 1x1 circular plate, centered horizontally, on the front row of the previous
+piece. The orange circular plate is the bottom of the stack of 1x1 circular plates.
+2.2. Place a transparent yellow gem, with a bar on the bottom, on the previous piece by pushing the bar
+on the gem into the hole on the stud of the previous piece. The yellow gem is the gem that is loose in this
+group.
+3. Place a white 1x2 brick with a log pattern, vertically long, on the left and right columns of the 2x3 plate.
+4.1. Place a white 1x2 plate with rounded ends, vertically long, on the left piece from the previous step.
+4.2. Place a white 1x2 plate with a horizontal bar on one long side, with the bar on the right, on the right
+1x2 brick with a long pattern.
+5. Place a white 2x3 plate, horizontally long, on the previous piece, extending two studs to the left to
+connect to the white 1x2 plate with rounded ends.
+6.1. Place a transparent green 1x1 cone on the front left stud of the previous piece. This is at the bottom
+of the stack of cones.
+6.2. Place a brown 1x2 tile with a chocolate bar and gold bow pattern, horizontally long, to the right of the
+previous piece.
+6.3. Place a transparent blue 1x1 circular plate behind the right stud of the previous piece. This should be
+the circular plate on the bottom of the stack of circular plates.
+7.1. Place a transparent blue gem with a bar into the stud of the previous piece, by pushing the bar of the
+gem into the hole on the stud. This is the gem that is stuck into the stack of circular plates.
+7.2 Place a transparent pink 1x1 cone to the left of the previous piece.
+7.3. Place a transparent pink heart with a bar into the stud of the previous piece, by pushing the bar of the
+heart into the hole on the stud.
+7.4. Place a transparent green 1x1 circular plate on the front left cone.
+Open group 10. The two clear 1x1 circular plates from step 37.7 are stacked together.
+37.1. Now we’re going to build two hospital nightstands. Place a white 2x2 plate in front of you.
+37.2. Place a white 1x2 brick with a log pattern, horizontally long, on the back row of the previous piece.
+37.3. Find two white 1x1 headlight bricks. A headlight brick is a 1x1 brick with a square hole on one side,
+and a recessed stud on the opposite side. Place one headlight brick on the left stud in front of the
+previous piece, with the side stud at the front. Place another to the right of the previous piece, with the
+side stud at the front.
+37.4. Place a white 1x2 jumper plate, horizontally long, on the side studs of the two pieces from the
+previous step. The jumper is the drawer of the nightstand, and the stud represents the drawer pull!
+37.5. Place a white 2x2 plate on the top of the nightstand.
+37.6. Now we’ll place a lamp on the nightstand! Place a gold telescope on the back right stud of the
+previous step. The stud on the telescope should be on the top.
+37.7. Place a clear 1x1 circular plate on the previous piece.
+37.8. Place a gold 1x1 short cone on the previous piece, with the wide part down.
+37.9. Make another nightstand by repeating steps 37.1-37.8.
+37.10. Place the hospital wing back in front of you, with the windows at the back. Place a nightstand
+against the wall to the left of the rightmost bed, and the center bed. The lamp should be on the back right
+of each nightstand.
+38.1. Now we’re going to make some flowers! Start by placing a dark tan 1x1 circular plate in front of you.
+38.2. Place a green flower base with three stems and a bar on the bottom on the previous piece by
+pushing the bar on the bottom into the hole in the stud of the previous piece.
+38.3. Place a pink 1x1 circular plate with a flower pattern onto each stem of the previous piece.
+38.4. Place the flowers on the front left stud on the nightstand to the left of the center bed.
+38.5. Find two white candles. A candle is a 2L cylinder with a short bar sticking out on one end, and a
+hole for a bar on the other end. Push a transparent orange flame with a bar on the bottom into the hole on
+each candle piece.
+38.6. Rotate the candle so the flame is at the top. Find the two horizontal clips on the front walls of the
+hospital wing, one at the left and one at the right. Clip the bar of a candle into each horizontal clip,
+keeping the flame up.
+Open group 11.
+39.1. Now we’re going to start building the roof for the left and right rooms! The center room has a much
+more elaborate roof! We’ll do this assembly twice. Place a dark tan 4x8 plate, horizontally long, in front of
+you.
+39.2. Place a sand green 1x2 slope tile, with the thick side at the back, on the back row of the previous
+piece, centered horizontally. Place another 1x2 slope tile on both sides of the previous piece, in the same
+orientation.
+40.1. Place a tan 1x3 brick, vertically long, on the leftmost and rightmost columns of the 4x8 plate, even
+with the back.
+40.2. Place a tan 1x2 slope brick, with the slope at the right, in front of the left piece from the previous
+step. Place another symmetrically on the right side of the 4x8 plate.
+41. Skip a stud to the right of the left piece from the previous step, and place a light brown 1x2 plate with
+an upwards clip on one side, with the clip at the back. Place another to the right of the first.
+42. Place a tan 1x3x2 concave slope, with the slope at the back, on the leftmost column of the assembly,
+aligned with the front. Place another symmetrically on the right side. This assembly is the support for the
+roof.
+43. Place a sand green 1x1 cone on the two pieces from the previous step. Place a sand green 1x1 cone
+in the back left corner of the assembly, and another on the back right corner.
+44.1. Place a sand green 4x6 plate horizontally long in front of you, with the studs down.
+44.2. Place a brown 2x3 plate with a handlebar on the bottom, vertically long and centered horizontally,
+on the front three rows of anti-stud on the previous plate. Keeping the plate with a handlebar at the front,
+flip the 4x6 plate over so the studs are up.
+44.3. Place a sand green 1x1 sand tile, with the thick part at the back, on the second stud from the right
+on the front row, with the thick part at the back. Place another on the second stud from the left on the
+second row from the front, with the thick part at the back. Place another on the third stud from the right on
+the back row, with the thick part at the back.Keep the studs up, and rotate this piece so the 2x3 plate with
+a handlebar is at the back.
+44.4. Attach the roof over the left room on the hospital wing by clipping the bar on the handlebar on this
+roof panel onto the two clips on the roof support over the left room.
+44.5. Repeat steps 39-44.4 to make another roof section and attach it over the right room
+45. Put the hospital wing back in front of you, horizontally long, with the windows at the back. Place one
+roof section over the left room, even with the left and back walls, with the lowest portion at the back.
+Place the other roof section symmetrically over the right room.
+46.1. Place a tan 1x16 brick, horizontally long, across the front of the hospital wing. Connect it to the
+scroll bricks at either side of the front opening. Note that this will prevent you from hinging the hospital
+wing open, but is required to attach the hospital wing to other modular sections!
+46.2. Place a dark tan 1x4 tile with a stud on each end, horizontally long and centered horizontally, on the
+previous piece.
+46.3. Place a dark tan 1x6 tile, horizontally long, to the left of the previous piece. Place another to the
+right of the 1x4 tile from the previous step.
+Open bag 4.
+Open group 12.
+47.1. Now we’ll start on the clock tower! Set the rest of the hospital wing aside for now. Place a dark tan
+8x8 lattice plate in front of you.
+47.2. Place a tan 1x3x2 concave slope on the right column of the previous piece, even with the front, with
+the slope at the back. Place another symmetrically on the back of the 8x8 lattice plate.
+48.1. Place a light gray 1x1 brick with a pin-hole on the side to the left of each of the pieces from the
+previous step, with the holes on the front.
+48.2. Place a light brown 1x1 brick on each of the pieces from the previous step.
+49.1. Place a gold 2x2 curved slope plate, with the studs at the left, between the two concave slopes,
+even with the right side of the lattice plate.
+49.2. Place a dark tan 1x2 plate with a horizontal bar on one long side on the previous piece, with the bar
+at the right.
+49.3. Place a dark tan 1x2 brick with a log pattern, vertically long, on the previous piece.
+50. Place a tan 1x1x3 tall brick on each of the concave slope bricks. These should be in the back right
+and front right corners of the build. Set the clock tower aside for the moment.
+Open group 13.
+51. Place a dark tan 1x8 plate, horizontally long, in front of you.
+52.1. Place a light brown 1x2 plate, horizontally long and centered horizontally, on the previous piece.
+52.2. Place a dark tan 1x1 plate on the leftmost and rightmost studs of the 1x8 plate.
+53.1. We’re going to make the mount for the clock now. Place a light brown 1x1 brick on each of the
+pieces from the previous step.
+53.2. Place a tan 1x2x2 tall brick with four studs on one side to the right of the left piece from the previous
+step, with the side studs at the front. Place another symmetrically on the right side of the build. These
+pieces should go directly on the 1x8 plate.
+53.3. Place a tan 1x2 brick with a pin-hole on the side, horizontally long, between the previous two
+pieces. It should go onto a 1x2 plate. This brick will support the clock!
+54.1. Place a light brown 1x2 plate, horizontally long, on the previous piece.
+54.2. Place a dark tan 1x1 plate on the leftmost and another on the rightmost stud of the assembly. The
+top of this assembly should be level now.
+55. Place a dark tan 1x8 plate, horizontally long, on top of the assembly.
+56.1. Place a sand green 1x2 slope tile, vertically long, on the leftmost column of side studs, with the thick
+side at the left.
+56.2. Place a tan 1x2 tile, vertically long, on the side studs to the right of the previous piece.
+56.3. Repeat steps 56.1-56.2 symmetrically on the right side of the assembly. Rotate the assembly so it is
+vertically long, and the slope tiles are on the right.
+57. Place the rest of the clock tower in front of you, with the concave arches on the right. Keeping the
+orientation from the previous step, place the clock mount to the left of the 1x1x3 tall bricks, centered
+vertically. It should attach to a 1x1 brick at the front and back.
+Open group 14. 
+58.1. Now we’ll assemble the face of the clock itself! Place a clear 6x6 dish with a clock pattern on the
+concave side in front of you, with the studs up. This piece has a hole through the center, and a 2x2 set of
+studs.
+58.2. Place a tan 1x1 quarter circle tile on the back left stud, with the corner at the back left. Place
+another to the right of the first, with the corner in the back right. Repeat these two pieces symmetrically on
+the front two studs. The corners should form a square, and there should be a hole in the center.
+58.3. Rotate the dish so it is upright, with the tiles on the left. The concave side of the dish is marked with
+roman numerals, I through XII. If you have a helper, they have marked the back side dish with a sticker
+where the XII is so that we can have the clockface oriented correctly! Push a dark tan 3L axle through the
+center hole of the clock face, Push it through from the right, with the stud on the right.
+58.3. Now we’ll attach the clock face to the clock tower. Orient the tower floor with the wall on your right.
+Find the hole on the tower support. This hole is centered vertically on the wall. Keeping the tape mark at
+the top of the clock face, push the axle from the previous step through the hole in the support. The tiles
+on the left side of the clock face should fit in between the tiles on the right side of the clock tower to
+prevent the clock from rotating. You might need to rotate the clock face a little bit to get it perfectly
+aligned.
+58.4. Once the clock face is aligned, push a large light gray 40 tooth gear over the axle from the left. This
+will hole the clock face from falling off. Now, pull the tape off of the clock face. Now, when the gear is
+turned, the axle and stud will turn, but the face of the clock will stay put, since it is held in place by the
+tiles. This is how we’ll make the arms of the clock turn!
+59. Make two stacks of two dark tan 1x1 plates. Stack a light gray 1x1 brick with a pin-hole on each stack.
+Place a stack, with the hole at the front, on the front stud of the leftmost raised column of bricks. Place
+another stack on the back stud of this column in the same orientation.
+Open group 15.
+60.1. Now we’ll continue making the clock mechanism! Place a dark tan 1x2 brick with a log pattern,
+vertically long and centered vertically, between the two stacks from the previous step.
+60.2. Place a dark tan 1x2 plate with a horizontal bar on one long side, on the previous piece with the bar
+at the right.
+60.3. Find two brown 1x1 plates with a ring on one side. The ring has a stud on each side. Place one
+piece, with the ring at the front, on the front stud of the previous piece. Place the other symmetrically
+behind the first.
+60.4. Place a tan 1x2 brick with a pin-hole, vertically long, in front of you.
+60.5. Place a tan axle/pin combo into the pin-hole of the previous piece by pushing the pin portion in from
+the left, so the axle extends to the left.
+60.6. Push a medium dark gray 24 tooth gear onto the axle portion of the previous piece from the left.
+60.7. Attach the gear assembly onto the two brown 1x1 plates with rings, with the gear at the left. The
+teeth on this gear should mesh with the teeth on the large gear. When you spin one gear, the other gear
+should turn!
+61.1. Now we’ll start making the clock tower look a bit more complete! Start by placing a tan 1x8x2 arch,
+vertically long, on the rightmost column of the clock tower. It should be directly over the clock face.
+61.2. Place a tan 1x6x7 arched door frame with round columns, horizontally long with the round columns
+at the front, on the front row of the clock tower, even with the left edge. Place another symmetrically on
+the back side of the clock tower.
+62.1. Place a tan 1x1 scroll brick on the leftmost stud of the front piece from the previous step, with the
+scroll at the back. Place another symmetrically on the back side of the clock tower.
+62.2. Place a tan 2x2 inverted slope on the second and third studs from the right, on the front of the clock
+tower, with the slope at the back. This should be right in front of the small gear. Place another
+symmetrically on the back side of the clock tower.
+Open group 16.
+63.1. Place a dark tan 2x6 plate, horizontally long, on the front two rows of the clock tower, even with the
+left and front edges. Place another symmetrically on the back two rows.
+63.2. Place a dark tan 1x8 plate, vertically long, to the right of the previous two pieces, aligned with the
+front of the clock tower.
+63.3. Place a dark tan 1x1 plate to the right of the front stud of the previous piece, and another to the right
+of the back stud of the previous piece. These two should be aligned with the right end of the clock tower.
+63.4. Place a light brown 1x2 plate, vertically long and centered vertically, between the previous two
+pieces. Rotate the clock tower so that the clock face is now at the front.
+64.1. Now we’ll build the hands of the clock! Place a black 1x1 circular plate with a short bar sticking out
+one side in front of you with the stud facing up. The orientation of the bar is not important. This is the hour
+hand of the clock!
+64.2. Place a black 1x1 circular tile with an upwards pointing bar on the stud of the previous piece.
+64.3. Now we will make the minute hand. Find a black mechanical arm. This piece is about two studs long
+and has a clip at each end. Attach one clip onto the upwards bar from the previous piece. It should be
+able to spin around the bar 360 degrees, just like the minute hand of a clock! Arrange the hands how you
+would like them, and attach them to the center stud on the clock face. You can now turn them by rotating
+the small gear.
+65.1. Now we’ll make another small clock. Place a gold 1x1 circular plate in front of you.
+65.2. Place a sand green 1x1 cone on the previous piece.
+65.3. Place a brown 2x2 circular plate with a clock pattern on it, on the previous piece. Attach this piece
+using the center anti-stud, so it is centered horizontally and vertically on the previous piece.
+65.4. Now, rotate this on its side, with the circular tile at the front. Rotate it so the mark indicating the top
+of the clock is up. Now attach it to the right 1x1 plate with a ring which is behind the large clock face. It
+might be difficult to find this from the front, so you might be able to remove the smaller gear and find the
+plate with a ring from behind, then use that to guide your placement of the small clock. Don’t forget to
+replace the gear when you are done if you take it off! Once you have the small clock placed and oriented
+correctly, you can remove the tape from that tile.
+66. Place a sand green 1x1 cone on each corner of the clock tower.
+67.1. Place a tan 1x2x2 tall slope to the right of the front left cone from the previous step, with the slope at
+the left. Place another symmetrically on the right side of the clock tower.
+67.2. Place a sand green 1x2 slope tile, with the thick side at the right, behind the left stud on the left
+piece from the previous step. Place two more in a row behind the first, in the same orientation. Repeat
+these three pieces symmetrically on the right side of the clock tower.
+Open group 17.
+68. Now we’ll build some more of the clock mechanism! Set the clock tower aside for now. Place a tan
+1x2 brick with a pin-hole, vertically long, in front of you.
+69.1. Place a dark gray 4L axle with a stop into the hole on the previous piece, pushing it in from the right
+with the stop on the right.
+69.2. Push a small dark gray 8 tooth gear onto the previous piece, pushing it on from the left side until it
+touches the 1x2 brick. Don’t push too hard, we want the axle to turn freely!
+70. Place a dark tan 2x2 plate under the 1x2 brick, extending one column to the right.
+71. Place a light brown 1x2 plate, vertically long, on the right column of the previous piece.
+72.1. Place a tan 2x2 inverted slope on the previous piece, with the slope at the right.
+72.2. Place a light brown 1x2 plate, vertically long to the left of the previous piece. Its top should be even
+with the top of the previous piece.
+73. Slide a tan 12 tooth bevel gear onto the axle. Push it on from the left, with the flat part of the gear at
+the right.
+74. Place the clock tower in front of you, with the clock face at the right. Attach the mechanism we just
+created on the clock tower, between the two tall slopes on the right column. The axle should be at the left,
+and the teeth of the small dark gray gear should mesh with the teeth of the medium gear on the clock
+tower. If you spin the axle, the hands on the clock should spin!
+75.1. Now we’ll make the arch at the left end of the clock tower. Place a sand green 1x1 plate behind the
+1x1 cone at the front left corner of the clock tower. Place another in front of the cone on the back left
+corner.
+75.2. Place a tan 1x6 arch, vertically long, so that it connects to both pieces from the previous step.
+75.3. Place a sand green 1x1 slope tile on the front stud of the previous piece, with the thick side at the
+back.
+75.4. Place a dark tan 2x2 corner plate behind the previous piece, oriented like a Braille letter F,
+overhanging the arch by one stud to the right.
+75.5. Repeat steps 75.3-75.4 symmetrically on the back side of the arch.
+76. Place a tan 1x2x2 tall slope on the front corner plate on the left arch, aligned with the left end of the
+clock tower, with the slope at the front. Place another symmetrically behind it. Place another pair of tall
+slopes, in the same orientation, on the two tall slopes on the right side of the clock tower.
+Open group 18.
+77. Now we’ll start building the roof of the clock tower, which also contains more of the mechanism for
+turning the hands of the clock! Set the clock tower aside for now. Place a light gray 2x6 plate with holes
+horizontally long in front of you. The holes are hard to notice because they are between the studs, but
+they’re there!
+78.1. Place a dark tan 2x2 circular tile with a hole in the middle, centered vertically and horizontally, on
+the previous piece.
+78.2. Place a dark tan 2x2 plate to the left of the previous piece, and another to the right of it.
+79. Place a brown 1x2 hinge base, horizontally long with the tall side at the back, on the front row of each
+of the previous pieces. Place two more symmetrically behind the first.
+80.1. Find a brown 5L axle with a stop on one end. Hold the axle so the stop is at the bottom and push a
+tan 12 tooth bevel gear onto it from the top, with the flat part of the axle on the top. Push the gear all the
+way down to the stop.
+80.2. Push the axle and gear up through the center hole of the 2x6 plate from the bottom. Hold onto the
+axle so it doesn’t fall through!
+81.1. Slide a tan 1L thick liftarm down over the axle from the top. This piece looks like a hollow cylinder.
+81.2. Slide a light gray thin bushing over top of the axle, pushing it down until it touches the previous
+piece, and the previous piece touches the 2x2 circular tile. With this in place, the axle is secured and
+won’t fall out! Once again, make sure you don’t push the bushing down too hard. We want the axle to spin
+freely!
+82. Put the clock tower back in front of you, with the clock face at the right. Place the assembly we just
+created, centered vertically, between the two sets of tall slopes. The bevel gear on the roof assembly
+should engage with the bevel gear attached to the small gear. Now, when you turn the axle on top of the
+clock tower, the clock hands should turn!
+Open group 19.
+83.1. All that’s left to do now is to make the roof! Place a sand green 4x6 plate horizontally long in front of
+you, with the studs down.
+83.2. Place a brown 2x2 hinge plate on the previous piece, even with the back left corner, with the flat
+part at the front. Place another on the back right corner in the same orientation. Keeping the hinge plates
+at the back, flip the 4x6 plate over so the studs are up.
+83.3. Place a sand green 1x1 slope tile on the third stud from the left on the back row, with the thick part
+at the back. Place another on the second stud from the left on the second row from the front, with the
+thick part at the back. Place another on the second stud from the right on the front row, with the thick part
+at the back.
+83.4. Repeat steps 83.1-83.3 to make the second half of the roof.
+83.5. Attach the front roof section by attaching the hinge plates onto the hinge bases we already placed
+on the clock tower. Do this by holding the roof section flat in front of you, with the hinge plates at the back.
+Line the hinge plates up with the base and push straight down until they both click into place, then hinge
+the roof down as far as it will go. Repeat this symmetrically on the back side of the clock tower.
+84. Place a light brown 2x8 plate with holes, horizontally long and centered vertically, on top of the clock
+tower. It should be aligned with the left and right ends of the clock tower, and the axle should stick up out
+of the middle of it.
+85.1. Place a dark tan 2x2 circular tile with a hole in the middle, centered horizontally on the previous
+piece. It should go down over the axle.
+85.2. Place a sand green 1x2 double slope, vertically long and centered vertically, on the leftmost column
+of the roof. Rotate the clock tower so the clock face is at the front.
+85.3. Find the inverted slope overhanging the clock face. Place a light brown 1x2 plate, horizontally long,
+on the inverted slope.
+85.4. Assemble a window by placing a white 1x2x2 lattice into a tan 1x2x2 arched window panel. Place
+the window panel onto the 1x2 plate from the previous step, with the flat side of the panel at the front.
+86.1. Place a tan 2x2 circular brick on the previous piece, even with the front of the clock tower.
+86.2. Place a sand green 2x2 jagged cone on top of the previous piece.
+86.3. Place a sand green unicorn horn, with the point up, into the stud on top of the previous piece.
+86.4. Place a tan 2x2 circular brick onto the axle on top of the roof. The axle connects through an axle
+hole in the center of the circular brick, so the circular brick should be aligned with the 2x2 circular tile on
+top of the roof. Place another tan 2x2 circular brick on the first one.
+86.5. Place a sand green 2x2 jagged cone on top of the previous piece.
+86.6. Place a sand green unicorn horn, with the point up, into the stud on top of the previous piece. You
+can rotate this spire to turn the clock hands!!
+87. Place the entire hospital wing in front of you with the windows at the front. Attach the clock tower, with
+the clock at the front, to the hospital wing, centering it horizontally between the two small roofs. The front
+of the clock tower should extend two studs past the front of the hospital wing so it is even with the two
+small half arches overhanging to the front.
+Congratulations! Now the Hogwarts Hospital Wing is complete!
 Thank you so much for building this set!
-There are no ads after the instructions end.
-Visit bricksfortheblind.org for more accessible instructions and tell your friends about us!
+There are three pages of ads after the instructions end.
+The first page shows ads for four sets. The first is set number 76396, Hogwarts ™ Moment: Divination
+Class. This set shows a scene in divination class and includes Harry Potter, Professor Trelawney, and
+Pavarti Patil minifigures. The set includes a cabinet, tables, textbooks, and a red armchair. The main build
+is a backdrop forming the divination classroom, with deep purple and red colors, and lots of hot tea. The
+classroom folds into a book, which can hold all of the minifigures and accessories. The second is set
+number 76397, Hogwarts ™ Moment: Defense Class. This set shows a scene in defense class and
+includes Mad-Eye Moody, Hermione Granger, and Nevil Longbottom minifigures. The set is similar to the
+Divination Class set, in that it includes various pieces of furniture and a room which folds into a book.
+Included are various potions, textbooks, chests, and a blackboard. The third ad shows this set. The fourth
+ad shows set number 76399, the Hogwarts ™ Magical Trunk. This contains a buildable trunk, and
+includes five student minifigures and a professor. The bodies and heads of the minifigures can be
+combined into various popular characters, or can be changed to make your own! The trunk is brown, with
+checkered stripes representing the four Hogwarts houses. The chest folds out to create a scene! There
+are also a few pieces of furniture, including a writing desk, a couch and a chest.
+The second page shows all sixteen wizard cards! The cards available are: a silver Albus Dumbledor, a
+gold Albus Dumbledor, Severus Snape, Godric Gryfindor, Minerva McGonagall, Gilderoy Lockhart,
+Zalazar Slytherin, Olympe Maxime, Helga Hufflepuff, Newt Scarmander, Seraphina Picquer, Nicholas
+Flamel, Bertie Bott, Jocunda Sykes, Rowena Ravenclaw and Garrick Ollivander.
+The third page of ads shows three additional Hogwarts which can be combined with this set. They are set
+number 76389, Hogwarts: Chamber of Secrets, 76386, Hogwarts: Polyjuice Potion Mistake, and 76387,
+Hogwarts Fluffy Encounter.
+Visit legofortheblind.com for more accessible instructions and tell your friends about us!

@@ -1,0 +1,140 @@
+Lego Star Wars Microfighters 75072
+Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
+terms we’ll be using:
+Front: towards you.
+Back: away from you.
+Up: towards the ceiling.
+Down: towards the floor.
+Stud: the bump on a Lego brick. Example: A 2x1 brick has two studs on it.
+Vertically: going from front to back.
+Horizontally: going from left to right.
+Upright: pointing up towards the ceiling, and down towards the floor.
+Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic connector on the
+front wall at the right, connector to the front, and then place another such piece symmetrically on
+the back wall, at the right, the technic connector of the second piece should point to the back,
+since it will be placed symmetrically.
+There are also abbreviations defined at the end of this file.
+The clone pilot wears yellow protective goggles and grey pants. His torso is printed with a white jacket
+with grey sleeves, and black suspenders, reminiscent of tentacles which hug his shoulders. His front
+(stomach is printed with the exit for the suspenders/tentacles, is a large rectangle, (possibly a battery). On
+the back, his suspenders go triangularly to his belt. In between them on the back is a pocket. His head is
+a double-sided face, with a frown on one side, and a calm face on the other. (One is yelling, and the
+other is pensive)
+Steps to build:
+1. Put a F 4x4 upside down on the table.
+Put a F 2x2 upside down on top of the two left columns, in the middle.
+Put a F 2x2 upside down to the right.
+Turn the structure right side up.
+Put a FS 1x1 wedge in the right front corner, slide to the front.
+Repeat symm at the back.
+Put a F three-button corner piece to the left and to the front, braille letter F.
+Put a F three-button corner piece to the front, braille letter H.
+Put a F 2x1 with the tube underneath ver to the left, on the front left corner, the tube overhanging to the
+front.
+Repeat symm at the back.
+Put a 2x1/2x1 corner piece (with 2x1 buttons on the piece to the front, the side buttons to the left.
+Put a 2x2/3x2 step piece hot in the middle of the two right columns, the 2x2 end to the left and the 3x2
+overhanging to the right.
+
+Put a F 2x1 with the handle hor to the front, in the middle, the handle overhanging to the front.
+Put a 1x1 button to the left alligned with the brick of the 2x1 handle piece)
+Repeat steps 7.1.-7.2. symm at the back.
+Put a F 4x4 on top, symm to the similar piece at the bottom.
+Put two FS 1x1 wedges upright, slides to the bottom, on the side buttons on the left edge.
+Put a F 2x2 on top of the two PPs and to the left (on the leftmost column).
+Put a F 3x2 hor to the right.
+Put a F 1x1 with the tube ver to the front of the rightmost column of the PP, the tube to the front.
+Repeat symm at the back.
+10.1. Put a F 3x1 ver to the left and to the back.
+10.2. Repeat symm at the front.
+10.3. Put a F 3x1 right wing piece (the one with the sharp corner to the front to the right when the buttons
+are vertically on the left) ver to the left (the sharp corner should be at the back to the left).
+10.4. Repeat symm at the back.
+11. Skip one column from the left and put a F 4x4 frame piece in the middle.
+Put a F 2x2 to the right, in the middle.
+Put a 2x1/2x2 corner piece ver to the right, the side buttons overhanging to the right to the bottom.
+12. Put a F 2x2 trapeze piece ver on the leftmost column, the shortest side overhanging to the left.
+13. Put a F 2x2 washer-board piece ver, on the front row, the curve end overhanging to the front.
+Repeat symm at the back.
+14. Turn your structure upside down and left to right.
+14.1. Make a part. Put a FS 2x2 disk on the table, button side up.
+14.2. Put a 2x1/2x1 corner piece ver on the right column, side buttons overhanging to the right.
+14.3. Put a F 2x1 with the two clasps upright, ver, on the side buttons of the PP, the clasps to the bottom.
+14.4. Put a F 2x1 grate piece upright, ver, on the PP.
+14.5. repeat steps 14.1. – 14.4. to make two such parts.
+Install one upright, hor, the clasps to the top, on the front edge. Repeat symm at the back.
+15. Put a two-clasp wing piece in the middle of the front edge of the main body, the cut-off corner to the 
+front to the right, putting the clasps on the handle.
+Repeat symm at the back.
+16. Make two shooters by inserting the pegs into the long connectors and put hor, the pegs to the left, in
+the attached tubes to the right of the wings.
+17. Put two 2x1 lip pieces hor, upside down, lips to the right, in the recess in the middle of the left side.
+18. Turn your structure the right side up.
+Skip one column from the right and put a F 1x1 with a clasp ver on the back row, the clasp to the back.
+Put a F three-button corner piece to the front and to the left, braille letter H.
+19. Put two FS 1x1 wedges on the rightmost column, slides to the right.
+Put a F 2x1 with one button ver to the left.
+Repeat.
+20. Put a F 2x1 with the clasp hor to the front and to the left, touching corners with the PP, the clasp to
+the front.
+Repeat symm at the back.
+Put a F 2x1 ver to the left and to the front, touching corners with the PP.
+21. Put a FS 4x1 receiver piece hor to the front and to the right.
+Repeat symm at the back.
+22. Put a F 2x1 with one button ver to the front of the leftmost column of the PP.
+Put a F 2x1 with one button ver to the left (and 1/3 down).
+Put a F 2x2 to the left.
+23. Put a joystick piece on the rightmost button.
+Put a FS 1x1 wedge to the left, slide to the right.
+Skip one column to the left and put another wedge there, slide to the left.
+Put another wedge to the left (and 1/3 down), slide to the left.
+24. Insert a round end of a half-Philips connector from the left hor into the attached tube at the front on
+the left.
+Repeat symm at the back.
+Put a S 2x2 loft piece upright, slide to the top, on the side buttons on the left edge.
+25. Make a part. Stack two F 2x2 disks. Put a FS disk on top. (the flat smooth disks have a line down the
+midle, to imitate an engine. 
+Repeat to make two such parts.
+Install upright at the front and at the back from the left, the smooth side to the left, by putting the centers
+into the two connectors.
+26.1. Make a part. Put a long connector hor on the table, wide end to the right. Put a button upright on
+the right end. Put a two-clasp wing upright hor, the clasps on the connector, the cuto-off corner to the left
+to the back.
+26.2. Repeat to make two such parts.
+Install one hor at the front, as is, in the middle (to the right of the stacked disks) by putting the connector
+on the clasp there.
+Repeat symm at the back.
+27.1. Make a part. Put a long stick hor on the table, the ring to the left. Put the cone on the left end,
+narrow end first. Put a button on the wide end.
+27.2. Repeat to make two.
+Install one as is at the front edge at the bottom by putting the right side of the stick in the two clasps at the
+bottom.
+Repeat symm at the back.
+Enjoy!
+Thank you so much for building this set!
+Visit legofortheblind.com for more accessible instructions!
+Abbreviation definitions:
+F = flat (Plate.)
+FS = flat smooth (tile)
+Slide = slope.
+Lip = inverted slope.
+Ribbed stick = Technic axle.
+Connector = Technic pin.
+Stubby or Short connector = Technic pin with stud.
+Long connector = elongated Technic pin.
+Nail = technic axle with end stop.
+Fat nut = Technic joiner.
+Thin nut = Technic stop.
+Elbow = technic joiner 90 dg.
+1x1, 2x1, 3x1… means a 1x1, 2x1, 1x3… brick.
+Ver = vertically.
+Hor = horizontally.
+Symm = symmetrically.
+LMA = Lay Momentarily Aside.
+PP = previous piece.
+Sep bag = separate bag.
+Braille letters (for placing corner pieces):
+D = open corner to the front left.
+F = open corner to the front right.
+J = open corner to the back left.
+H = open corner to the back right.

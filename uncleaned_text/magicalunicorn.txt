@@ -1,16 +1,48 @@
-30653 BatmanTM 1992
+31140 Magical Unicorn
 Set adapted by Alex Charbonneau and tested by Natalie Charbonneau.
-Build the iconic superhero Batman in this polybag! Polybags are great for a quick, relaxing build, or to add
-a new minifigure to your collection! This set includes the caped crusader, and a small portion of a building
-for him to pose on!
-This front of the polybag shows a Batman minifigure standing on the corner of a building at night. He has
-a black cape billowing out behind him, and he wears a mask which covers all of his face except his
-mouth. He has a yellow oval with a bat in the center on his chest, and he holds a batarang – a
-boomerang shaped like the wings of a bat. Gotham CityTM stretches out behind him. A searchlight
-projects a bat symbol on the low clouds over the city. The corner of the building Batman is standing on is
-also made out of LEGO. It is shaped like a gargoyle head with upwards pointing fangs.
-The build is 40 pieces, and 14 building steps.
-Welcome to text-based instructions from Bricks for the Blind. Before you start building, here are some
+Imaginative kids aged 7+ can be transported to a mythical land for enthralling action with this 3in1
+Magical Unicorn (31140) building set. It features a unicorn toy with a golden horn, colorful tail, and
+posable legs and hooves. It can be presented in 2 different positions: standing on 4 legs or reared up on
+its 2 hind legs for an iconic pose and displayed on the set’s rainbow stand.
+Build colorful animals from LEGO® bricks:
+The mythical action never stops with 3 different magical creatures for little builders to assemble in this
+LEGO Creator 3in1 set. They can build a posable Magical Unicorn, rebuild it into a posable seahorse toy
+with a seabed stand, turn it into a posable magical peacock with a colorful tail, or even use the bricks to
+create another enchanting creature.
+Long-lasting play value:
+- Kids can enjoy fun stories with 3 different scenes in a mythical land: trot across a rainbow with a Magical
+Unicorn, swim with a seahorse or play with a peacock
+Posable models:
+- Each of the 3 creatures has posable body parts: the unicorn can move its legs and hooves; the
+seahorse moves its tail, fins and head; and the peacock has a movable tail and eyes
+Play and display:
+- All 3 of these durable magical animals can be easily displayed: the unicorn on a rainbow stand, the
+seahorse toy on a seabed stand, and the toy peacock on its 2 legs
+A fun build:
+- This 145-piece playset gives kids aged 7+ an enjoyable building task before the imaginative play begins
+and can be given as an unexpected treat, birthday present or holiday gift
+Play on the go:
+- Standing over 5 in. (13 cm) tall, the Magical Unicorn can be played with at home by kids or popped in a
+bag and taken with them on their travels
+More 3in1 fun:
+- Look out for other LEGO® Creator 3in1 playsets, including Vintage Motorcycle (31135), Exotic Parrot
+(31136) and Beach Camper Van (31138)
+The front of the box shows a unicorn rearing up on a rainbow. The rainbow curls through pink fluffy clouds
+in a deep purple sky, studded with stars. The unicorn has a white body, silver hooves, and a golden horn.
+Its mane is pink, red, and orange, and its tail is dark blue, light blue and teal. The Unicorn is standing on
+its rear legs, lifting its front legs in the air. It stands on a small circular base with rainbow colors! There are
+two small insets showing a seahorse and a peacock model.
+The top of the box shows a small picture of each of the three builds in the kit, as well as a life size picture
+of the unicorn’s horn to give a sense of scale.
+The back of the box shows three images. The first image shows a seahorse swimming near a piece of
+coral underwater! The seahorse is brightly colored, and has a unicorn horn! The second image shows the
+unicorn, once again on the rainbow in the sky. Now, however, the unicorn is walking along the rainbow.
+The last image is of a peacock standing in a field in front of a castle. The sky is the same deep purple as
+the sky in the unicorn images. The peacock is a white bird with orange feet and an orange bill. Its tail is
+brightly colored, with blue, yellow, orange, red and teal!
+The unicorn build is 145 pieces, and 58 building steps. The seahorse build is 95 pieces, and 48 building
+steps. The peacock build is 90 pieces, and 41 building steps.
+Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 - In Front of/Front: towards you.
 - Behind/Back: away from you.
@@ -29,11 +61,10 @@ the right, the technic connector of the second piece should point to the back, s
 symmetrically.
 - Centered-vertically: even amount of space in front of and behind the piece
 - Centered-horizontally: even amount of space left and right of the piece.
-- Row: studs lined up horizontally (left to right/side to side).
-- Column: studs lined up upright or vertically (top to bottom/back to front).
+- Row: studs lined up from left to right.
 For builders with low vision, or a sighted building partner who may want to follow along with the printed
 visual instructions that come with each kit, PDF versions are always online at LEGO.com:
-(https://www.lego.com/en-us/service/buildinginstructions/30653) As low vision users may benefit
+(https://www.lego.com/en-us/service/buildinginstructions/31140) As low vision users may benefit
 from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
 Sorting the pieces:
@@ -44,91 +75,686 @@ pieces for each step easier. See below on how to sort the pieces to correspond t
 Number the containers using letters A-Z, numbers or meaningful names. The parts will be sorted into one
 or a small number of steps in the instructions. Example: Steps 1-3 means collect all the parts used in
 steps 1, 2 and 3, and put them in one container.
-This LEGO set comes with one unlabeled bag, and an instruction booklet. Sort the pieces into groups as
-described below. Note that where there are multiple colors of the same brick in a step, the colors will be
-split across two groups to make telling the difference easier for the builder! LEGO includes a few spare
+This LEGO set comes with some unlabeled bags, and an instruction booklet. Sort the pieces into groups
+as described below. Note that where there are multiple colors of the same brick in a step, the colors will
+be split across two groups to make telling the difference easier for the builder! LEGO includes a few spare
 parts in case you lose something. Set these into their own group away from the rest, in case you need
 them later.
-Bag 1 (3 groups of bricks)
-Minifigure group 1 contains the pieces to build the Batman minifigure, and a batarang. Ask your builder if
-they’d like you to attach the head to the torso to get the alignment correct!
-Main build:
-Group 1 contains the pieces for steps 1-7.
-Group 2 contains the pieces for steps 8-14.
+Unicorn Build (12 groups of bricks)
+Sub-build - Rainbow Base
+Group 1 contains the pieces for steps 1-4.
+Group 2 contains two light blue 1x2 plates, a light blue 2x2 tile with a single stud, two light blue 1x2
+curved slope tiles, and teal two 1x3 curved slope tiles.
+Group 3 contains two orange 1x2 plates, an orange 2x2 tile with a single stud, two light orange 1x3
+curved slope tiles and two orange 1x2 curved slope tiles.
+Group 4 contains two red 1x2 curved slope tiles.
+Main build - Magical Unicorn
+Group 5 contains the pieces for steps 10-17.
+Group 6 contains the pieces for steps 18-20. Stack two light teal 1x2 plates together to help the builder
+differentiate colors.
+Group 7 contains the pieces for steps 21-22. Stack two orange 1x1 bricks with a stud on one side
+together.
+Group 8 contains the pieces for steps 23-27.
+Group 9 contains the pieces for steps 28-33.
+Group 10 contains the pieces for steps 34-39.
+Group 11 contains the pieces for steps 40-46.
+Group 12 contains the pieces for steps 47-58. Stack the purple 1x4 plate on top of the teal 1x4 plate.
 Building Instructions:
-Open bag 1.
-Open minifigure group 1.
-Assemble the Batman minifigure. Start by placing the torso onto the leg piece. The legs are black. The
-torso is black with a yellow oval with a bat on the front and an orange utility belt across the waist. This belt
-is where Batman keeps his many useful gadgets! The torso is printed on both the front and back. On the
-back, you can see a batarang clipped to the back of the utility belt. Place the head on the stud on top of
-the torso. The face has two sides; one side is a normal face and the other has a pair of white eyes above
-the normal eyes. These eyes are designed to show through the holes in the Batman mask! If you have a
-sighted friend helping you build, ask them to make sure the white eyes are at the front. Now place the
-Batman mask with a cape on the head. Place a black batarang in Batman’s hand to complete the
-minifigure!
-Main Build:
 Open group 1.
-1.1. We’ll build the corner of a Gotham City skyscraper for Batman to stand on! The corner of the building
-is decorated with a small gargoyle. Start by placing a light gray 3x3 plate in front of you.
-1.2. Place a black 2x2 brick on the previous piece, even with the back right corner.
-2.1. Place a light gray 1x2 inverted slope, with the slope at the front, in front of the right column of the 2x2
-brick from the previous step. Place another, with the slope at the left, to the left of the back row of the 2x2
-brick from the previous step.
-2.2. Place a dark gray 1x1 brick to the left of the front piece from the previous step. Place another in front
-of the left piece from the previous step. Now, only the front left stud of the 3x3 plate from step 1.1 should
-be exposed.
-3. Place a light gray 2x2 double inverted slope, with slopes at the front and the left, to the left of the front
-piece from the previous step. It should be on the last remaining stud of the 3x3 plate.
-4. Place a dark gray 4x4 plate on top of the build.
-5.1. Place a dark gray 1x2 plate with rounded ends, horizontally long, on the rightmost two studs on the
-back row of the previous piece.
-5.2. Place a black 1x2 plate with a horizontal clip on one short side, with the clip at the right, in front of the
-previous piece. The clip should overhang the 4x4 plate to the right.
-6.1. Place a light gray 2x2 tile with two studs, with the studs at the right, in front of the previous piece.
-Place another, with the studs at the back, on the left two rows of the 4x4 plate, even with the back.
-6.2. Place a light gray 1x1 circular plate in front of the right stud on the left piece from the previous step.
-7.1. Place a dark gray 1x1 slope tile, with the thick side at the right, in front of the 1x1 circular plate from
-the previous step. Place another, with the thick side at the back, to the left of the 1x1 circular plate from
-the previous step.
-7.2. Attach the center hand hold of a black batarang to the clip on the right side of the build.
+Sub-build 1 - Rainbow base
+A note for sighted helpers: I have rearranged the instructions for this entire sub-build to make the
+instructions more straightforward. For the main build, I have divided large steps into sub-steps, while
+keeping the base step number the same. Aka, step 3 might have sub-steps 3.1, 3.2, etc.
+1. We’ll start off by building the base for the unicorn to stand on. This is a white circle with horizontal
+stripes of color, like a rainbow! Place a white 4x8 half-circular plate in front of you, with the flat side at the
+left. Place another symmetrically to the left of the first, so they make a circle.
+2. Place a teal 2x6 plate, vertically long, centered vertically and horizontally on the pieces from the
+previous step. It should connect them together.
+3. Place a white 1x2 half-circular tile, with the flat part at the back, in front of the 2x6 plate from the
+previous step. Place another symmetrically behind the 2x6 plate from the previous step.
+4. Place a dark purple 1x2 curved slope tile, with the cutout at the left on the back right stud of the 2x6
+plate. It should extend one stud to the right and attach to one of the 4x8 half-circular plates. Place another
+symmetrically to the left of the first.
 Open group 2.
-8. Place a black 2x2 brick on the build, even with the back right corner.
-9.1. Place a dark gray 1x2 masonry brick, horizontally long, in front of the 2x2 brick from the previous
-step. A masonry brick has a brick wall pattern on one side, and horizontal grooves on the other side. The
-side with vertical and horizontal grooves should be at the front. Place another masonry brick, vertically
-long with the vertical and horizontal grooves at the left, to the left of the 2x2 brick from the previous step.
-9.2. Place a dark gray 1x1 brick to the left of the front piece from the previous step.
-10. Place a light gray 3x3 plate on the raised part of the build, even with the back right corner.
-11. Place a dark gray 2x2 tile with a stud, on the front two rows of the previous piece, even with the left
-side.
-12.1. Now we’ll start the gargoyle. Place a light gray 1x1 circular plate in front of you.
-12.2. Place a light gray 1x1 brick with studs on all four sides on the previous piece.
-12.3. Place a light gray 1x1 circular plate on the front side stud of the previous piece.
-12.4. Place a light gray 1x1 plate with a short bar on one side, with the bar on top, on the right side stud
-of the 1x1 brick with studs on all four sides. Place another, symmetrically, on the left.
-12.5. Attach a light gray triangle with a clip on one side to each of the bars. Attach them so one point of
-the triangle is at the back, and one side of the triangle forms a vertical line at the front. Once they are
-attached, hinge them so they angle towards each other. These are the wings of the gargoyle, folded up in
-a resting position.
-12.6. Now, attach the gargoyle to the front left stud on the main build. It should be placed at a 45 degree
-angle, with the sideways 1x1 circular plate at the front left.
-13.1. Now we’ll build the gargoyle’s head! Place a light gray pair of minifigure binoculars in front of you.
-The binoculars are made up of two bars connected to each other. One end of each bar is thick and
-hollow. This hollow end can accept a bar. There is a cutout for a stud on one side of the binoculars. Put
-two silver claws, one in each hollow bar on the binoculars. These form the horns, and the binoculars form
-the face of the gargoyle. The horns should curve towards the stud cutout on the binoculars.
-13.2. Attach the head assembly to the main build, attaching the cutout on the binoculars to the sideways
-1x1 circular plate on the front left of the building, with the horns pointing up.
-14.1. Place a dark gray 1x1 slope tile, with the thick side at the left, on the front stud on the rightmost
-column on top of the build. Place another, with the thick side at the front, on the leftmost stud on the back
-row on top of the build.
-14.2. Place a dark gray 1x2 plate with rounded ends onto the 2x2 tile with a single stud on the top of the
-build. Attach it to this piece so it is centered on the piece, and is at a 45 degree angle to the rest of the
-build, with a stud at the front right and back left.
-15. Attach the Batman minifigure to the previous piece. He should be standing over the gargoyle and
-looking to the front left.
-Congratulations! Now the Batman 1992 polybag is complete!
+5.1 Place a light blue 1x2 plate, vertically long, in front of the right stud of the right piece from the previous
+step. Place another light blue 1x2 plate symmetrically on the left side of the base.
+5.2. Place a light blue 2x2 tile with a single stud, centered horizontally between the two pieces from the
+previous step.
+6. Place a light blue 1x2 curved slope tile, with the cutout at the left, to the right of the previous piece,
+even with the back of the previous piece. The cutout should be on the back stud of a 1x2 plate. Place
+another symmetrically on the left side of the base.
+7. Place a teal 2x3 curved slope tile, with the cutout at the left, in front of the right piece from the previous
+step, with the cutout on a 1x2 plate. Place another symmetrically on the left side of the base.
+Open group 3.
+8.1. Place two orange 1x2 plates, vertically long, one in front of each of the light blue 1x2 plates from step
+5.1.
+8.2. Place an orange 2x2 tile with a single stud, centered horizontally between the two pieces from the
+previous step.
+8.3. Place a yellow 2x3 curved slope tile, with the cutout at the left, to the right of the previous piece, even
+with the back of the previous piece, with the cutout on a 1x2 plate. Place another symmetrically on the left
+side of the base.
+9.1. Place an orange 1x2 curved slope tile, with the cutout at the left, in front of the right piece from the
+previous step, with the cutout on a 1x2 plate.
+Open group 4.
+9.2. Place a red 1x2 curved slope tile, with the cutout on the left, in front of the previous piece, offset one
+stud to the left so the cutout is on the front row of the 2x6 plate from step 2. Place another red 1x2 curved
+slope tile symmetrically to the left of the first.
+Main build - Magical Unicorn
+Open group 5.
+10.1. Now we’ll start on the unicorn! We start by making its body. Place a white 4x6 plate, horizontally
+long, in front of you.
+10.2. Place a light teal 1x2 plate with two click hinge fingers on one long side, with the click fingers at the
+right, on the front two studs on the rightmost column of the previous piece. This piece looks like a normal
+1x2 plate, but it has two vertical circle shapes sticking off of one end. These shapes have little bumps all
+around the circles. Place another light teal 1x2 plate with two click hinge fingers on one long side, in the
+same orientation, behind the first.
+11.1. Place a light teal 2x4 plate, horizontally long, to the left of the front piece from the previous step.
+Place another light teal 2x4 plate, horizontally long, behind the first.
+11.2. Place a white 1x2 plate with a vertical clip on one long side, with the clip on the left, to the left of the
+front piece from the previous step. Place another, in the same orientation, behind the first.
+12.1. Place a white 1x4 brick, vertically long, on the rightmost column of the build.
+12.2. Place a white 1x4 plate, horizontally long, to the left of the previous piece on the front row of the
+build. Place another on the back row of the build.
+13. Place an orange 1x4 arch brick, horizontally long, behind the front piece from the previous step. Place
+another, in the same orientation, behind the first.
+14. Place a white 1x1 plate with a 1x1 slope tile, with the slope at the front, on one side to the left of the
+previous piece, even with the front and left of the body. Place another symmetrically behind the first.
+15.1. Place a white 1x1 slope tile, with the thick side at the back, on the front stud of the 1x4 brick at the
+right side of the body. Place another symmetrically on the back stud of the 1x4 brick.
+15.2. Place a white 1x2 plate with a vertical clip on one long side, with the clip on the right, between the
+previous two pieces.
+16. Place a white 1x4 plate with a 1x4x1 curved slope on one side, with the curve at the front and
+centered horizontally, on the front two rows of the body. Place another symmetrically behind the first.
+17.1. Place a light teal 1x2 plate, vertically long and centered vertically, to the left of the pieces from the
+previous step.
+17.2. Place a white 1x2 plate with a 1x2x1 inverted curved slope on one side, with the slope at the left, on
+the previous piece. It should overhang one column to the left.
+17.3. Place a light teal 1x2 plate, vertically long, on the right column of the previous piece.
+Open group 6. There are two light teal 1x2 plates stuck together on this step. Leave them together for
+now. The other 1x2 plate is red.
+18. Place a light teal 2x4 plate, horizontally long and centered vertically, on the body, with the right end
+even with the right end of the body.
+19. Find a white 5x2x2 step brick. This looks like two 2x3 plates connected by a 1x2x2 tall brick. Place the
+lower plate of this piece to the left of the previous piece, with the tall piece at the left. This forms the base
+of the unicorn’s neck.
+20.1. Separate the two light teal 1x2 plates. Place one, vertically long, on the left column of the low part of
+the previous piece. It should be to the right of the tall part of the neck.
+20.2. Place a white 1x2 brick, vertically long, on the previous piece.
+20.3. Place the last light teal 1x2 plate, vertically long, on the previous piece.
+20.4. Place a red 1x1 brick with a stud on one side on the front stud of the previous piece with the side
+stud at the front. Place another symmetrically behind the first.
+20.5. Place a red 1x2 plate, vertically long, on the pieces from the previous step.
+Open group 7. There are two orange 1x1 bricks with a stud on one side stuck together on this step. Leave
+them together for now. The other two 1x1 bricks with a stud on one side are white.
+21.1. Place a white 1x1 brick with a stud on one side on the front stud to the right of the stack of pieces
+we made in the past few steps. Place it with the side stud at the front. Place another symmetrically behind
+the first.
+21.2. Now you can unstack the two orange 1x1 bricks with a stud on one side. Place one orange 1x1
+brick with a stud on one side to the right of the front piece from the previous step. Place it with the side
+stud at the front. Place another symmetrically behind the first.
+22.1. Over the next few steps, we’ll start adding brightly colored curved pieces, which make up the
+unicorn’s flowing mane! The mane is red, pink, and two shades of orange. Place an orange 1x2 concave
+slope, with the slope on the right, on the front pieces from the previous two steps. Place another in the
+same orientation behind the first.
+22.2. Place a red 1x2 plate, vertically long, on the studs of the previous two pieces.
+Open group 8.
+23.1. Place an orange 1x2 plate, vertically long, on the third row from the right on the body.
+23.2. Place an orange 1x2 quarter cylinder, with the thick side at the left, on the previous piece.
+24. Place a red 1x1 plate with a 1x1x1 curved slope on one side, with the slope at the right, on the front
+stud of the tallest part of the neck. The cutout of the curved slope should attach to the tallest portion, and
+the lower part of the curved slope should attach to the 1x2 plate on the concave slopes. Place another in
+the same orientation behind the first.
+25.1. Place a white 2x3 brick, horizontally long, on the left three columns of the unicorn. This forms the
+basis for the unicorn’s head.
+25.2. Place a teal 2x2 plate on the right two columns of the previous piece.
+26.1. Place a white 1x2 plate with four studs hanging down from one side to the left of the previous piece,
+with the side studs at the left.
+26.2. Place an orange 1x2 plate, vertically long on the second column from the left on the head.
+26.3. Place a red 1x2 plate with a pin-hole, horizontally long with the hole at the right, on the front row to
+the right of the previous piece. Place another behind the first.
+27. Place a 1x2 plate with four studs hanging down from one side, with the studs at the front, on the stud
+of the front piece from the previous step. It should extend left onto the orange 1x2 plate from step 26.2.
+Place another symmetrically behind the first.
+Open group 9.
+28.1. Place a white 1x2 slope tile to the left of the pieces from the previous step, with the thick side at the
+right.
+28.2. Place a white 2x2 half cylinder brick with two studs on top, on the side studs at the left of the head.
+The studs on this piece should make a horizontal line. This is the unicorn’s nose.
+29.1. Place a pink 1x2 plate, vertically long, on the right column of studs on the unicorn’s head.
+29.2. Place a pink 1x2 jumper plate, vertically long, on the previous piece. A jumper plate is a 1x2 plate
+with a single stud on top, or a 1x3 plate with only two studs on top.
+29.3. Place a pink 1x1 slope tile, with the thick side at the right, on the front stud to the left of the previous
+two pieces. Place another, in the same orientation, behind the first.
+30.1. There should now be seven studs on each side of the unicorn. Four in a 2x2 square on the side of
+the head, one just to the right and below these, and two in a horizontal row on the side of the body above
+the 1x4 plates with a 1x4x1 curved slope on one side. Place a light orange 1x1 quarter circle tile on the
+bottom right side stud, with the corner at the bottom left. Place another, in the same orientation, on the
+side stud to the right of the square of side studs.
+30.2. Find a light orange 2x2 quarter circle tile with a quarter circle cut-out. This tile is cutout so it looks
+like a macaroni noodle, I’ll call it a “2x2 macaroni tile” from now on. Place this on the bottom side stud, to
+the left of the first quarter circle tile from the previous step. Place it so it curves up and to the left. It should
+touch each of the quarter circle tiles from the previous piece. This makes a light orange portion of the
+unicorn’s mane.
+31.1. Place a white 2x2 circular tile with an eye pattern on the remaining four side studs on the head.
+31.2. Find a white 1x1 plate with a triangular tooth on one side. Find the pin-hole on the right side of the
+head. This is just to the right of the eye. Place the stud of the tooth plate into the front pin hole, with the
+tooth on top. This is the left ear of the unicorn. Now rotate the unicorn 180 degrees so the head is on the
+right.
+32.1. Place a light orange 1x1 quarter circle tile on the bottom left side stud on the unicorn’s body, with
+the corner at the bottom right. Place another, in the same orientation, on the side stud to the left of the
+square of side studs. This is symmetrical to pieces from step 30.1.
+32.2. Place a light orange 2x2 macaroni tile on the bottom side stud, to the right of the first quarter circle
+tile from the previous step. Place it so it curves up and to the right. It should touch each of the quarter
+circle tiles from the previous piece. This is symmetrical to the piece from step 30.2.
+33.1. Place a white 2x2 circular tile with an eye pattern on the remaining four side studs on the head.
+33.2. Make the unicorn’s other ear by placing the stud of a white 1x1 tooth plate into the pin-hole on the
+head to the left of the previous piece, with the tooth at the top. This should be symmetrical to the first ear.
+Open group 10.
+34.1. Now we’ll make the bottom of the unicorn’s body, set the unicorn aside for now. Place a white 2x4
+double inverted slope, vertically long, in front of you. This piece looks like a 2x2 plate with a 1x2 inverted
+slope on each side.
+34.2. Place a light teal 1x2 plate, vertically long and centered vertically, on the left column of the previous
+piece.
+34.3. Place a teal 2x2 plate to the right of the previous piece.
+34.4. Place a light teal 2x4 plate, horizontally long and centered vertically, on the previous two pieces,
+with the left end even with the left end of the assembly.
+34.5. Place a white 4x4 inverted wedge, with the narrow end at the right, on the previous pieces,
+attaching it from the bottom. It should touch the 2x4 double inverted slope on the left, and the studs on
+top should all be even.
+34.6. Now place the unicorn back in front of you with the head at the left. Attach the lower body to the
+bottom of the body. The right end of the lower body should be even with the right end of the unicorn.
+35.1. Now we’ll start building the front legs of the unicorn. Set the body aside for now. We’ll build two
+legs, so do steps 35.1 - 38.3 twice. Start by placing a white 1x2 plate with two click hinge fingers on one
+short side in front of you, horizontally long with the fingers at the left.
+35.2. Place a white 1x1 plate with a vertical clip on one side, with the clip on the right, on the right stud of
+the previous piece.
+36. Place a white 1x2 curved slope tile, with the cutout at the right, on the previous piece. It should extend
+one stud to the left and attach to the 1x2 plate with two click hinge fingers.
+37.1. Attach a white 1x1 plate with a horizontal bar on two opposite ends to the 1x1 plate with a vertical
+clip from step 35.2.. Attach one of the bars to the clip on the 1x1 with a clip. It should overhang to the right
+with the stud pointing up.
+37.2. Place a white 1x1 tile with one rounded end on the stud of the previous piece, with the rounded end
+at the left.
+38.1. Place a light gray 2x2 plate with a single click hinge finger on top in front of you, with the click finger
+at the right.
+38.2. Place a light gray 1x2 half circle tile, with the straight side at the right, on the left column of the
+previous piece. These two pieces make the foot of the unicorn! Rotate the foot so the half circle tile is on
+top, and the click finger is on the bottom, pointing right.
+38.3. Attach the click finger from the foot to the click fingers on the left side of the leg. Repeat the last 8
+steps to make another leg! Each leg should have a bar at the rightmost end and a foot at the left end.
+39. Place the unicorn in front of you, with the head at the left. Keeping the foot at the left, attach the bar of
+one leg to the front clip under the unicorn’s neck. Attach the other leg in the same way to the back clip
+under the neck.
+Open group 11.
+40.1. Now we’ll start building the rear legs of the unicorn. Set the unicorn aside for now. Once again, we’ll
+make two of these. Start by placing a white 1x4 plate, horizontally long, in front of you.
+40.2. Place a white 1x2 plate with two click hinge fingers on one short side, with the click fingers on the
+left, on the left two studs of the previous piece.
+41. Place a light teal 1x3 plate, horizontally long, to the right of the previous piece. Flip the leg over so the
+studs are down and the click fingers are at the left.
+42.1. Place a light teal 1x2 inverted curved slope tile, with the cutout at the left, on the right two anti-stud
+on the leg. “Anti-stud” is a term for the portion of a LEGO piece which accepts studs, like the bottom of a
+plate.
+42.2. Place a white 1x1 circular plate to the left of the previous piece. Flip the leg over so the studs are on
+top and the click fingers are on the left.
+43. Place a white 1x2 plate with a single upright click finger on one end, horizontally long with the click
+finger on the right, on the right two studs of the leg.
+44. Place a white 1x3 curved slope tile, with the cutout at the right, on the stud of the previous piece. It
+should extend two studs to the left.
+45.1. Place a light gray 2x2 plate with a single click hinge finger on top in front of you, with the click finger
+at the right.
+45.2. Place a light gray 1x2 half circle tile, with the straight side at the right, on the left column of the
+previous piece. We made another foot for the unicorn! Rotate the foot so the half circle tile is on top, and
+the click finger is on the bottom, pointing right.
+45.3. Attach the click finger from the foot to the click fingers on the left side of the leg. Repeat the last 10
+steps to make another leg! Each leg should have a click finger on top at the rightmost end and a foot at
+the left end.
+46. Place the unicorn in front of you with the head at the left. Take one leg and rotate it so the foot is at
+the bottom and the click finger at the top is on the left. Attach the leg to the front pair of click fingers at the
+right side of the unicorn’s body. Do the same for the other leg to attach it behind the first. Rotate the front
+legs down so the unicorn can stand on all four legs!
+Open group 12. There are two 1x4 plates stacked together in this group. The top one is the purple one
+you’ll use for the next step, so remove it now.
+47.1. Now we’ll build the unicorn’s tail! This is purple, teal, and two shades of blue. Set the body of the
+unicorn aside for now. Place a purple 1x4 plate, horizontally long, in front of you.
+47.2. Place a blue 1x2 plate with a bar on one short end, with the bar on the right, on the right two studs
+of the previous piece.
+48.1. Place a blue 1x1 plate to the left of the previous piece.
+48.2. Place a purple 1x2 inverted slope with a cutout, with the slope on the left, to the left of the previous
+piece.
+49.1. Place a blue 1x1 plate on the left stud of the previous piece.
+49.2. Place a blue 1x2 brick with two studs on each side, horizontally long, on the right two studs of the
+tail. Place another to the left of the first.
+50.1. Place a teal 1x4 plate, horizontally long on the left four studs on the tail.
+50.2. Place a teal 1x1 plate with a 1x1x1 curved slope on one side, with the slope at the right, to the right
+of the previous piece. The slope part of this should overhang one stud to the right over the bar at the right
+of the tail.
+51.1. Place a teal 1x3 tile, horizontally long, on the stud of the previous piece. It should extend two studs
+to the left.
+51.2. Place a teal 1x2 concave slope, with the slope at the right, to the left of the previous piece.
+51.3. Place a teal 1x1 slope tile, with the thick side at the right, on the stud of the previous piece.
+52. Find the four side studs on the front of the tail. Place a light blue 1x2 tile on the center two side studs.
+53.1. Place a light blue 1x1 quarter circle tile, with the corner at the bottom left, to the right of the previous
+piece.
+53.2. Place a light blue 2x2 macaroni tile to the left of the 1x2 tile on the side, curving up to the left like the
+rest of the tail. Rotate the tail 180 degrees, so the tall part is at the right.
+54. Place a light blue 1x2 tile on the center two side studs.
+55.1. Place a light blue 1x1 quarter circle tile, with the corner at the bottom right, to the left of the previous
+piece.
+55.2. Place a light blue 2x2 macaroni tile to the right of the 1x2 tile on the side, curving up to the right like
+the rest of the tail.
+56. Place the unicorn back in front of you, with the head at the left. Attach the bar at the left end of the tail
+to the clip on the top right of the unicorn.
+57.1. Congratulations now the unicorn is complete! Wait! No, it’s just a horse right now! We forgot the
+horn!! Place a gold 1x1 cone on the jumper plate on the head.
+57.2. Push a gold unicorn horn down through the hollow stud on the cone, with the pointy end of the horn
+pointing up.
+58. Now place the base in front of you. The unicorn’s back legs attach to the two 2x2 tiles with a single
+stud in the center of the base. Once it’s on the base, you can pose the unicorn’s legs to make it rear up or
+look like it’s running!
+Congratulations! Now the Magical Unicorn is complete! Next up are the instructions for the Seahorse,
+followed by the instructions for the Peacock.
+Seahorse Build (13 groups of bricks)
+Sub-build: Seahorse Base
+Group 1 contains the pieces for steps 1-9.
+Main Build: Seahorse
+Group 2 contains the pieces for steps 10-13.
+Group 3 contains the pieces for steps 14-18.
+Group 4 contains the pieces for steps 19-20. Stack two orange 1x1 bricks with side studs together to help
+the builder differentiate colors.
+Group 5 contains the pieces for steps 21-23, as well as a purple 1x2 curved slope tile from step 24.
+Group 6 contains the pieces for steps 24-25.
+Group 7 contains the pieces for steps 26-27.
+Group 8 contains the pieces for step 28, as well as a purple 1x2 curved slope tile from step 29.
+Group 9 contains the pieces for steps 29-30.
+Group 10 contains the pieces for steps 31-32.
+Group 11 contains the pieces for steps 33-37.
+Group 12 contains the pieces for steps 38-44.
+Group 13 contains the pieces for steps 45-48.
+Building Instructions:
+A note for sighted helpers:I have divided large steps into sub-steps, while keeping the base step number
+the same. Aka, step 3 might have sub-steps 3.1, 3.2, etc.
+Open group 1.
+Sub-build: Seahorse base
+1. Place a white 4x8 half-circular plate in front of you, with the flat part at the back. Place another
+symmetrically behind the first so they form a circle. They are not connected right now.
+2. Place a white 4x6 plate, horizontally long and centered vertically and horizontally, on the previous two
+pieces. It will connect them together.
+3. Place a light gray 1x2 half circle tile, with the flat part at the back, in front of the second and third studs
+from the right on the plate from the previous step. Place a second half circle tile, with the flat part at the
+front behind the second and third studs from the left on the plate from the previous step. Place a third half
+circle tile, with the flat side at the right and centered vertically, to the left of the plate from the previous
+step. Place a fourth symmetrically on the right side of the base.
+4. Place a white 1x1 slope tile, with the thick side at the back, to the left of the front piece from the
+previous step. Place another, with the thick side at the front, to the right of the back piece from the
+previous step.
+5.1. Place a light blue 1x2 tile, vertically long, on the back two studs on the right column of the 4x6 plate
+on the base.
+5.2. Place a light blue 1x1 quarter circle tile in front of the previous piece, with the corner at the back left.
+5.3. Place a light blue 1x2 plate, horizontally long, on the back row of the 4x6 plate, to the left of the 1x2
+tile.
+6. Place a teal 1x3 curved slope tile, with the cutout at the right, on the left stud of the previous piece. It
+should extend two studs to the left of the previous piece.
+7.1. Place a teal 1x2 concave slope, with the slope at the front, in front of the left stud of the previous
+piece.
+7.2. Place a white 2x3 brick, horizontally long, to the right of the previous piece.
+8.1. Place a light blue 1x2 plate, horizontally long, in front of the left column of the previous piece so it
+extends one stud past the left of the previous piece.
+8.2. Place a light blue 1x2 tile, vertically long, to the left of the previous piece so it extends one stud
+behind the previous piece.
+8.3. Place a light blue 1x1 quarter circle tile, with the corner at the front right, behind the previous piece.
+9.1. Place a teal 1x3 curved slope tile, with the cutout at the left, on the right stud of the front 1x2 plate so
+that it extends two studs past the 1x2 plate.
+9.2. Place a teal 1x1 slope tile, with the thick side on the right, on the stud of the 1x2 concave slope,
+which is on the third column from the left on the base.
+9.3. Place a white 2x2 half cylinder brick with two studs on top, with the studs in a vertical row, on the left
+two columns on the 2x3 brick to the right of the previous piece. Now the base is complete, set it aside for
+now.
+Open group 2.
+Main build: Seahorse
+10.1. We’ll start the seahorse by building its body! Place a teal 2x6 plate, horizontally long, in front of you.
+10.2. Place a light gray 2x2 plate with a single click hinge finger on top, with the click finger at the right, on
+the right two columns of the previous piece.
+11.1. Place a purple 1x4 plate, vertically long and centered vertically, to the left of the previous piece.
+11.2. Place an orange 1x2 plate, vertically long, to the left of the previous piece.
+11.3. Place a light teal 2x4 plate, horizontally long, to the left of the previous piece. It should overhang two
+studs to the left.
+12.1. Place a light teal 2x4 plate, horizontally long, on the anti-stud of the previous piece. It should extend
+two studs past the left end of the previous piece. “Anti-stud” is a term for the portion of a LEGO piece
+which accepts studs, like the bottom of a plate.
+12.2. Place a light gray 2x2 plate with a single click hinge finger on top, with the click finger at the left, on
+the left two columns of the previous piece.
+13. Place a light teal 2x4 plate, horizontally long, to the right of the click finger of the previous piece. Place
+another, in the same orientation, to the right of the first.
+Open group 3.
+14.1. Place an orange 1x2 quarter cylinder, with the thick side at the left, on the right column of the
+previous piece.
+14.2. Place a white 1x4 plate, horizontally long, on the front row to the left of the previous piece. Place
+another, in the same orientation, behind the first.
+15.1. Place a white 1x1 plate with a 1x1 slope tile, with the slope at the left, to the left of the front piece
+from the previous step. Place another, in the same orientation behind the first.
+15.2. Place a white 1x2 half circle tile, with the flat side at the right, to the left of the pieces from the
+previous step.
+16. Place a red 1x1 plate with a 1x1x1 curved slope on one side, with the slope at the front, on the front
+stud of the rightmost open column of studs. The curved slope portion should overhang one stud to the
+front. Place another symmetrically behind the first.
+17. Place a white 1x2 plate with four studs hanging down from one side, with the side studs at the front, to
+the left of the front piece from the previous step. Place another symmetrically behind the first.
+18. Place a light teal 1x3 plate, horizontally long, on the front piece from the previous step, extending one
+stud to the right so it attaches to the front 1x1 plate with a 1x1x1 curved slope on one side. Place another,
+in the same orientation, behind the first.
+Open group 4. There are two orange 1x1 bricks with a stud on one side stuck together. Leave these
+together for now. The two which are loose are red.
+19. Place a red 1x2 plate, vertically long, on the left studs of the two pieces from the previous step.
+20.1. Place a red 1x1 brick with a stud on one side, with the side stud at the front, to the left of the
+previous piece. Place another symmetrically behind the first.
+20.2. Unstack the two orange 1x1 bricks with studs on one side. Place one to the left of the front piece
+from the previous step, with the side stud at the front. Place another symmetrically behind the first.
+Open group 5.
+21. Place an orange 1x2 plate, vertically long, on the second column of open studs from the left.
+22.1. Place an orange 1x2 curved slope tile, with the cutout at the right, on the front stud of the previous
+piece so that it extends one stud to the left past the previous piece. Place another, in the same
+orientation, behind the first.
+22.2. Place a light orange 1x3 curved slope tile, with the cutout at the left, to the right of the front piece
+from the previous step. Place another, in the same orientation, behind the first.
+23. Place a light gray 2x2 plate with a single click hinge finger on top, with the click finger at the bottom,
+on the square of four side studs on the front of the seahorse. There should be a horizontal row of two side
+studs to the left of this piece.
+24.1. Place a light blue 1x2 curved slope tile, with the cutout at the bottom, on the right stud of the
+previous piece so it extends one stud above the previous piece.
+Open group 6.
+24.2. Place a purple 1x2 curved slope tile, with the cutout at the bottom, to the left of the previous piece.
+25. Place a red 1x2 plate with a pin-hole, with the pin-hole at the bottom, on the side stud to the left of the
+previous piece, so that its top is even with the top of the previous piece.
+Open group 7.
+26. Place a red 1x2 curved slope tile, with the cutout at the right, on the top stud of the previous piece so
+it extends one stud to the left of the previous piece.
+27.1. Now we’ll build a fin for the seahorse. Place a light teal 1x2 inverted slope tile in front of you, with
+the cutout at the right.
+27.2. Place a white 1x2 plate with two click hinge fingers on one short side, with the click fingers at the
+back, on the back right stud of the previous piece so it extends one stud in front of the previous piece.
+The studs of this assembly should form a Braille letter D.
+27.3. Place a light orange 1x1 quarter circle tile, with the corner at the back right, on the back right stud of
+the fin.
+27.4. Find a blue 2x2 quarter circle tile with a quarter circle cut-out. This tile is cutout so it looks like a
+macaroni noodle, I’ll call it a “2x2 macaroni tile” from now on. Place this on the two remaining studs on the
+flipper, with the flat sides at the back and the right. This piece should fit perfectly next to the previous
+piece.
+27.5. Keeping the fin in the same orientation, attach the two click fingers on the back of the fin to the
+single click finger on the front of the body. Keeping the anti-stud down, rotate the body 180 degrees so
+the fin is now at the back.
+Steps 28-32.5 are symmetrical to steps 23-27.5. If you are confident, you can simply repeat these steps
+on the back side of the body and then skip to step 33.1! Otherwise you can keep following along.
+Open group 8.
+28. Place a light gray 2x2 plate with a single click hinge finger on top, with the click finger at the bottom,
+on the square of four side studs on the seahorse. There should be a horizontal row of two side studs to
+the right of this piece.
+29.1. Place a light blue 1x2 curved slope tile, with the cutout at the bottom, on the left stud of the previous
+piece so it extends one stud above the previous piece.
+Open group 9.
+29.2. Place a purple 1x2 curved slope tile, with the cutout at the bottom, to the right of the previous piece.
+30. Place a red 1x2 plate with a pin-hole, with the pin-hole at the bottom, on the side stud to the right of
+the previous piece, so that its top is even with the top of the previous piece.
+Open group 10.
+31. Place a red 1x2 curved slope tile, with the cutout at the left, on the top stud of the previous piece so it
+extends one stud to the right of the previous piece.
+32.1. Now we’ll build the seahorse’s other fin. Place a light teal 1x2 inverted slope tile in front of you, with
+the cutout at the left.
+32.2. Place a white 1x2 plate with two click hinge fingers on one short side, with the click fingers at the
+back, on the back left stud of the previous piece so it extends one stud in front of the previous piece. The
+studs of this assembly should form a Braille letter F.
+32.3. Place a light orange 1x1 quarter circle tile, with the corner at the back left, on the back left stud of
+the fin.
+32.4. Place a blue 2x2 macaroni tile on the two remaining studs on the flipper, with the flat sides at the
+back and the left. This piece should fit perfectly next to the previous piece.
+32.5. Keeping the fin in the same orientation, attach the two click fingers on the back of the fin to the
+single click finger on the front of the body.
+Open group 11.
+33.1. Now we’ll build the seahorse’s tail, which also doubles as the stand to connect it to the base. Set
+the body aside for now. Place a light teal 1x2 plate, horizontally long, in front of you.
+33.2. Place a white 1x2 plate with two click hinge fingers on one short side, with the click fingers at the
+left, on the previous piece.
+34.1. Place a white 1x1 plate with a vertical clip on one end, with the clip at the right, on the right stud of
+the previous piece.
+34.2. Place a white 1x2 curved slope tile, with the cutout at the right, on the previous piece so it extends
+one stud to the left of the previous piece. It should attach to the other stud on the tail.
+35.1. Place a white 1x1 plate with a short bar on two opposite sides, horizontally long, in front of you.
+35.2. Place an orange 1x1 quarter circle tile, with the corner at the front left on the stud of the previous
+piece.
+35.3. Flip this piece over so the previous piece is at the bottom and attach the left bar onto the clip on the
+right side of the tail.
+36.1. Place a white 1x1 plate with a vertical clip on one side, with the clip at the left, in front of you.
+36.2. Place an orange 1x1 quarter circle tile, with the corner at the front left, on the stud of the previous
+piece.
+36.3. Keeping the clip at the left, flip this piece over so the previous piece is at the bottom and attach the
+clip onto the bar on the right side of the tail.
+37. Place the body of the seahorse back in front of you. There should be a click finger at the left and right
+ends, and the flat side of the fins should be on the left. Attach the two click fingers at the left of the tail to
+the single click finger on the right side of the body. Hinge the tail so it points straight up, perpendicular to
+the bottom of the body.
+Open group 12.
+38.1. Now we’ll build the head. Set the body aside for now. Place a teal 2x2 plate in front of you.
+38.2. Place a light teal 1x2 plate with two click hinge fingers on one long side, with the click fingers at the
+back, on the back row of the previous piece.
+39. Place a white 1x2 brick, horizontally long, on the previous piece.
+40. Place a white 1x1 brick with a stud on one side, with the side stud at the right, in front of the right stud
+of the previous piece. Place another symmetrically to the left of the first.
+41.1. Place a white 1x2 plate with four studs hanging down from one side, with the side studs at the front,
+on the two pieces from the previous step.
+41.2. Place an orange 2x2 tile with a single stud on the side studs of the previous piece. This is the top of
+the seahorse’s head.
+42.1. Place an orange 1x2 concave slope, with the slope on the front, on the right column on top of the
+head. Place another, in the same orientation, to the left of the first.
+42.2. Place an orange 1x2 plate, horizontally long, on the two pieces from the previous step. This piece is
+the seahorse’s nose.
+43. Place a white 2x2 circular tile with an eye pattern on the right side stud of the head. Attach the center
+anti-stud on the circular tile to the side stud.
+44. Repeat step 43 symmetrically on the left side of the head. Rotate the head 180 degrees so the 2x2
+tile with a single stud is at the back and the two click fingers are at the front.
+Open group 13.
+45.1. Place a light teal 1x2 plate, horizontally long, in front of you.
+45.2. Place a white 1x2 plate with a 1x2x1 inverted curved slope on one side, with the slope at the back,
+on the previous piece so it overhangs the previous stud one stud to the back.
+45.3. Place a light teal 1x2 on the front row of the previous piece. Place the rest of the head on this
+assembly.
+46. Place the body of the seahorse in front of you, with the tail at the left. Rotate the head so the click
+fingers are at the left. Attach the two click fingers on the head to the single click finger on the right side of
+the body. The 1x2 plate nose of the seahorse should be pointed up.
+47.1. Now we’ll attach the seahorse to the base. Place the base in front of you so that the row of two
+studs on the half cylinder on the base is vertical. Find the 1x2 plate on the tail. This should be at the far
+left of the seahorse and should be pointing straight up. Attach the seahorse to the base by connecting this
+1x2 to the studs on the half cylinder. The nose of the seahorse should be at the front.
+47.2. Now click the nose of the seahorse down one click. Curl the tail of the seahorse up, and click the
+fins of the seahorse two clicks to the back.
+48.1. Now we’ll give the seahorse its horn! Place a gold 1x1 cone on the stud on the seahorse’s head.
+48.2. Push a gold unicorn horn down through the hollow stud of the previous piece, with the point at the
+top.
+Congratulations! Now the Seahorse is complete! The last set of instructions is for the Peacock.
+Peacock Build (11 groups of bricks)
+Main build:
+Group 1 contains the pieces for steps 1-4.
+Group 2 contains the pieces for steps 5-7. To help the builder differentiate colors, stack two light blue 1x2
+plates together.
+Group 3 contains the pieces for steps 8-9. Stack the orange 1x2 plate onto the light teal 1x2 plate.
+Group 4 contains the pieces for steps 10-15.
+Group 5 contains the pieces for steps 16-19.
+Group 6 contains the pieces for steps 20-24.
+Group 7 contains the pieces for steps 25-31.
+Group 8 contains the pieces for steps 32-34.
+Group 9 contains the pieces for steps 35-37.
+Group 10 contains two purple 1x2 curved slope tiles from step 38.
+Group 11 contains the pieces for steps 38-41.
+Building Instructions:
+Open group 1.
+1.1. We’ll start by building the peacock’s body. Place a white 4x6 plate, horizontally long, in front of you.
+1.2. Place a teal 2x2 plate, centered vertically and horizontally on the previous piece.
+2. Place a white 1x2 plate with a single upright click finger on one end, horizontally long with the click
+finger at the right, to the right of the front row of the previous piece. Place another, in the same
+orientation, behind the first.
+3. Place a white 1x2 half circle tile, with the flat side at the back, in front of the front piece from the
+previous step. Place another symmetrically behind the back piece from the previous step.
+4.1. Find a white 5x2x2 step brick. This looks like two 2x3 plates connected by a 1x2x2 tall brick. Place
+the lower plate of this piece to the left of the 2x2 plate, with the tall part at the left. This will be the
+peacock’s neck.
+4.2. Place a light teal 1x2 plate on the anti-stud of the previous piece to the left of the 4x6 plate. “Antistud” is a term for the portion of a LEGO piece which accepts studs, like the bottom of a plate.
+Open group 2. There are two light blue 1x2 plates stacked together. Leave these together until step 5.2.
+There is another loose 1x2 plate. This one is orange.
+5.1. Place an orange 1x2 plate, vertically long, on the left column of the low plate on the 5x2x2 step brick.
+5.2. Place a light blue 1x2 plate, horizontally long, to the right of the front stud of the previous piece. Place
+another, in the same orientation, behind the first.
+6. Place a white 1x1 plate with a 1x1 slope tile on one end, with the slope at the right, to the right of the
+front piece from the previous step. Place another, in the same orientation, behind the first.
+7. Place a white 1x4 plate with a 1x4x1 curved slope on one side, with the slope at the front, on the left
+stud of the front piece from the previous step so that it extends left to the tall brick of the 5x2x2 step brick.
+Place another symmetrically behind the first.
+Open group 3. There are two 1x2 plates stuck together. The top one is light teal and the bottom one is
+orange.
+8.1. Take the light teal 1x2 plate off of the stack and place it, vertically long, on the right studs of the two
+pieces from the previous step.
+8.2. Place an orange 1x2 plate, vertically long, on the leftmost column on the two 1x4 plates with a 1x4x1
+curved slope on one side.
+9. Place a white 1x3 curved slope tile, with the cutout on the left, on the front stud of the previous piece. It
+should extend two studs to the right of the previous piece. Place another, in the same orientation, behind
+the first.
+Open group 4.
+10. Now we’ll build the head. Set the body aside for now. Place a white 2x4 double inverted slope,
+vertically long in front of you.
+11. Place an orange 1x3 curved slope tile, with the cutout at the right, on the left stud on the second row
+from the front on the previous piece. It should overhang two studs to the left of the previous piece. Place
+another, in the same orientation, behind the first. These will be the bill of the peacock.
+12.1. Place an orange 1x2 plate, vertically long, to the right of the previous piece.
+12.2. Place a white 1x2 plate with a 1x2x1 inverted curved slope on one side, with the slope at the right,
+on the previous piece so it overhangs one stud to the right.
+13. Place a light teal 2x4 plate, vertically long, on the second and third rows from the right on the head.
+14. Place a white 2x3 brick, vertically long and centered vertically, on the head even with the right end of
+the head.
+15.1. Place a red 1x1 brick with a stud on one side, with the side stud at the right, in front of the middle
+column of the previous piece. Place another, in the same orientation, on the back side of the head.
+15.2. Place a pink 1x1 slope tile, with the thick side at the top, on the side stud of each of the pieces from
+the previous step.
+Open group 5.
+16. Place an orange 1x1 brick with a stud on one side, on the front left stud on the head. Place another, in
+the same orientation, on the back left stud on the head.
+17.1. Place a light teal 2x4 plate, vertically long, on the left two columns on the head.
+17.2. Place a light teal 1x2 plate, vertically long and centered vertically, to the right of the previous piece.
+18.1. Place a white 2x2 half cylinder brick with two studs on top, with the studs in a horizontal row, on the
+previous piece, even with the right side of the head.
+18.2. Place a light teal 1x2 plate, vertically long, to the left of the previous piece.
+19. Place a white 1x2 curved slope tile, with the cutout on the back, on the front stud of the previous piece
+so it extends one stud in front of the previous piece. Place another symmetrically behind the first.
+Open group 6.
+20. Place a light blue 1x2 curved slope tile, with the cutout on the left, on the rightmost stud of the 2x2
+half cylinder on the head so it overhangs one stud to the right of the head.
+21.1. Place a teal 1x1 plate with a 1x1x1 curved slope on one side, with the slope at the left, to the left of
+the previous piece, attaching it with the slope side so the 1x1 plate side hangs over the previous piece.
+21.2. Place a light blue 1x2 curved slope tile, with the cutout on the left, on the stud of the previous piece
+so it overhangs one stud to the right.
+22. Place a white 2x2 circular tile with an eye pattern on each of the side studs on the left side of the
+head. Attach the center anti-stud of the circular tiles to the side studs.
+23. Now the head is complete! Let’s put it on the body. Set the body in front of you with the neck at the
+left. Place the head, with the beak at the left, on the plate on the neck so that the left side of the beak
+overhangs one stud to the left. Now rotate the peacock so the studs are down and the head is at the left.
+24. Place a white 4x4 inverted wedge, with the narrow end at the left, on the anti-stud on the body, with
+the left end even with the left end of the body.
+Open group 7.
+25.1. Now we’ll build the bottom of the body and the feet. Set the body aside for now. Place a white 1x4
+plate, horizontally long, in front of you.
+25.2. Place an orange 1x2 concave slope, with the slope at the left, on the left two studs of the previous
+piece. This is one of the peacock’s feet.
+26. Place a light orange 1x4 arch brick, vertically long, to the right of the previous piece so it extends
+three studs to the front. Place another, in the same orientation, to the right of the previous piece.
+27.1. Place a white 1x4 plate, horizontally long, on the front anti-stud of the pieces from the previous step,
+extending two studs to the left.
+27.2. Place an orange 1x2 concave slope, with the slope on the left, on the left two studs of the previous
+piece. This is the peacock’s other foot.
+28.1. Place a white 1x4 plate, vertically long, on the rightmost column.
+28.2. Place a light teal 2x4 plate, vertically long, to the left of the previous piece.
+29.1. Place a white 1x4 brick, vertically long, on the right column of the previous piece.
+29.2. Place a white 1x2 brick, vertically long and centered vertically, to the right of the previous piece.
+30.1. Place a white 1x1 brick with a stud on one side, with the side stud at the right, in front of the piece
+from the previous step. Place another, in the same orientation, behind the piece from the previous step.
+30.2. Place a white 1x1 slope tile, with the thick side at the top, on the side stud of each of the pieces
+from the previous step.
+31. Now we’ll attach the legs to the body. Attach the body, with the head at the left and on top, onto the
+legs so the right side of the body is even with the right side of the legs.
+Open group 8.
+32. Now we’ll build the tail. Set the rest of the peacock aside for now. Place a white 4x8 half circle plate,
+with the flat side at the front, in front of you. Place another symmetrically in front of the first so they make
+a circle. These pieces aren’t connected yet.
+33. Connect them by placing a light blue 2x2 tile with a single stud, centered vertically, on the left two
+columns of the pieces from the previous step.
+34.1. Find a light blue 2x2 quarter circle tile with a quarter circle cut-out. This tile is cutout so it looks like a
+macaroni noodle, I’ll call it a “2x2 macaroni tile” from now on. Place this so the left flat side of the
+macaroni tile is to the right of the front right side of the previous piece, and the other flat side of the
+macaroni tile is to the front. Place another symmetrically behind the first.
+34.2. Place a light blue 1x1 quarter circle tile, with the corner at the back right, in front of the right stud of
+the front piece from the previous step. Place another symmetrically on the back side of the tail.
+34.3. Place a blue 1x1 plate to the right of each of the pieces from the previous step.
+Open group 9.
+35.1. Place a light orange 1x1 quarter circle tile, with the corner at the back left, in front of the front piece
+from the previous step. Place another symmetrically on the back side of the tail.
+35.2. Place a light orange 2x2 macaroni tile, with the flat sides at the right and the back, to the left of the
+front piece from the previous step. Place another symmetrically on the back side of the tail.
+35.3. Place a light orange 1x1 quarter circle tile, with the corner at the front left, behind the left flat side of
+the front macaroni tile from the previous step. Place another symmetrically on the back side of the tail.
+36. Place an orange 1x2 curved slope tile, with the cutout at the left, on each of the blue 1x1 plates from
+step 34.3. These should extend one stud to the right of the 1x1 plates.
+37.1. Place a red 1x2 plate with a pin-hole, with the pin-hole at the left, behind the front piece from the
+previous step. Place another symmetrically on the back side of the tail.
+37.2. Place a teal 2x2 plate between the right studs of the previous pieces.
+Open group 10.
+38.1. Place a purple 1x2 curved slope tile, with the cutout at the right, on the front left stud of the previous
+piece so it extends one stud to the right of the previous piece. Place another, in the same orientation,
+behind the first.
+Open group 11.
+38.2. Place a red 1x2 curved slope tile, with the cutout on the left, on the right stud of the front 1x2 plate
+with a pin-hole. Place another, in the same orientation, on the back side of the tail.
+39.1. Place a teal 1x3 curved slope tile, with the cutout at the left, behind the right stud of the previous
+piece. It should overhang the tail by one stud. Place another, in the same orientation, behind the first.
+39.2. Place a white 1x1 tile with one rounded end, with the rounded end at the left, on the stud on the 2x2
+tile with a single stud on the left side of the tail.
+40.1. Now we’ll make the bottom of the tail, which will attach to the body. Set the rest of the tail aside for
+now. Place a teal 2x6 plate, horizontally long in front of you.
+40.2. Place a white 1x2 plate with two click hinge fingers on one short side, with the click fingers at the
+left, on the front studs on the left two columns on the previous piece. Place another, in the same
+orientation, behind the first.
+40.3. Place an orange 1x2 plate, vertically long, to the right of the pieces from the previous step.
+40.4. Place a light teal 2x4 plate, horizontally long, to the right of the previous piece.
+40.5. Place the rest of the tail on the assembly, centered vertically, with the overhanging curved slope
+tiles at the right.
+41. Now put the rest of the peacock in front of you, with the head at the left. Attach the click fingers on the
+left side of the tail to the click fingers on the top right of the peacock. Hinge the tail up to the left so it is
+straight up and down, then hinge it down to the right one click.
+Congratulations! Now the Peacock is complete!
 Thank you so much for building this set!
-There are no ads after the instructions end.
-Visit bricksfortheblind.org for more accessible instructions and tell your friends about us!
+There is one page of ads after the instructions end.
+This page has ads for seven Creator 3in1 sets. The first is set number 31137, Adorable Dogs. In the
+picture, three dogs sit in a park. There is a yellow lab, a white poodle, and a brown, black and white
+beagle. The dogs are all built from LEGO bricks, and are poseable! There is also a dog bowl, a chew toy,
+a bone, and a ball!
+The second ad is for set number 31139, the Cozy House. The picture shows a white house, with blue
+trim, and a brown roofed sunroom. A family is busy enjoying the yard! A woman is checking the red
+mailbox, which has letters overflowing from the door! A boy is playing with a remote controlled car, while a
+dog watches from the driveway. A man watches the activities, with his coffee cup in hand. Little details
+are everywhere! A snail climbs the roof. There is a small birdhouse attached to the house. A vine has
+escaped from the sunroom and is climbing up the side of the house!
+The third ad is for set number 31138, the Beach Camper Van. A white, and yellow van with a blue stripe
+on top is parked at a beach! A striped blue and red surfboard leans against the van. There is a luggage
+rack on top of the van, with a large inflatable duck, and another surfboard. A man and a woman relax on
+reclining beach chairs, eating ice cream and listening to a boombox! Two small huts on the sand are
+shaded by a palm tree.
+The fourth ad is for set number 31136, the Exotic Parrot. The image shows a blue and yellow parrot,
+perched on a branch in the jungle! Pink, purple and white flowers bloom from the branch under the parrot.
+The fifth ad is for set number 31135, the Vintage Motorcycle. The image shows a motorcycle with a light
+blue fuel tank and headlight parked on a road in the desert. The frame of the motorcycle is gray and
+black, and the seat is brown, like old leather.
+The sixth ad is for set number 31134, the Space Shuttle. The image shows the earth from space! Stars
+are in the background. In the foreground, a shuttle floats near a satellite. The shuttle’s underside is black,
+while the upper surfaces are white. It has a rounded nose, a large payload bay, a triangular wing, and a
+vertical tail. Rocket engines can be seen peeking around the back of the shuttle. A red and blue flag is on
+each wing. The satellite is gold, with a silver thruster bank, and transparent blue solar panels.
+The seventh ad is for set number 31140, the Magical Unicorn! The image shows a rainbow floating
+through a starry purple and pink sky. Pink clouds float by. A white unicorn, with a flowing orange and red
+mane rears majestically on a circular, rainbow colored base. The unicorn has a golden horn and a tail in
+various shades of blue. Its front and rear legs are articulated so it can be posed easily!
+Visit legofortheblind.com for more accessible instructions and tell your friends about us!
