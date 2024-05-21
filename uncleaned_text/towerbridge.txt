@@ -1,4 +1,7 @@
 10214 Tower bridge.
+Stretch your LEGO building fun with the world-famous Tower Bridge, features iconic towers, working
+drawbridge and red double-decker bus!
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,8 +17,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
-Stretch your LEGO building fun with the world-famous Tower Bridge, features iconic towers, working
-drawbridge and red double-decker bus!
+§
 Book 1.
 Large bag 1. The bridge.
 Bag 1.
@@ -1252,7 +1254,9 @@ Bag 9. Build a double-deck bus.
 The end.
 Enjoy!!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

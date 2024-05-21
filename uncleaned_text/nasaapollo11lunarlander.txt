@@ -24,7 +24,6 @@ and laser hatches and a ladder.
 * Celebrate space exploration with this highly detailed display model.
 * This set has 1,087 pieces and 207 steps, (28 steps in bag 1, and 179 steps for bags 2-4)
 * Measures over 7" (20 cm) high, 8" (22cm) wide and 7" (20cm) deep.
-
 The Race to the Moon
 Humanity’s sense of wonder, fascination and awe of space is as old as humanity itself. But our desire to
 explore the universe beyond the realms of earth did not take flight until the 1960s. Following John F.
@@ -123,6 +122,7 @@ Fun Facts
 provided the guidance, navigation and control of the spacecraft. The computer’s performance was
 comparable to first-generation home computers available in the late 1970s but is similar to a simple
 calculator today.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 - Front: towards you.
@@ -141,6 +141,7 @@ For builders with low vision, or a sighted building partner may want to follow a
 instructions that come with each kit or PDF versions are always online at LEGO.com for each set:
 https://www.lego.com/en-us/service/buildinginstructions/10266. As low vision users may benefit from
 viewing the instructions on a personal device where they can zoom
+§
 Box Contents
 The box contains a booklet with visual building instructions and unnumbered bags.
 Bag 1: Lunar surface plate, American flag, and astronaut 1
@@ -158,7 +159,6 @@ Sorting the pieces
 Bag 1 (8 groups of bricks)
 Minifigure Parts - Legs, torso, head, gold helmet and life support backpack
 Steps 1-5, 6-10, 11, 12-14, 15-20, 21-25, 26-28
-
 Bag 2 (9 groups of bricks)
 Steps 1-2, 3-8, 9-15, 16-17, 18-21, 22-33, 34-49, 50-72, 73-79
 Bag 3 (5 groups of bricks)
@@ -166,6 +166,7 @@ Steps 80-83, 84-89, 90-101, 102-112, 113-115
 Bag 4 (11 groups of bricks)
 Minifigure Parts - Legs, torso, head, gold helmet and life support backpack
 Steps 116-123, 124-134, 135-139, 140-143, 144-149, 150-154, 155-166, 167-179
+§
 Assemble the first astronaut minifigure. Connect the white legs to the white torso. The white space suit
 he is wearing has the NASA logo, and some pockets. Connect the yellow head. Now connect the gold
 helmet and life support backpack He is ready for the moon!

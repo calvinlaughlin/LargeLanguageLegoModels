@@ -1,4 +1,5 @@
 70599 Ninjago Cole’s Dragon
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,6 +15,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
+§
 Make a minifigure. Put a 1x1 corner piece on its neck, the button to the back. Put a 1x1 clasp on this
 button. Affix a sticker (with a hieroglyph) on the FS 2x2 with two clasps. Put this piece on a stick to make
 a flag. Put this flag into the clasp on the minifigure’s back. Insert a flame piece into the large side of a
@@ -103,7 +105,9 @@ clasp at the back of your piece.
 41. Install this part symm at the back.
 Enjoy!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

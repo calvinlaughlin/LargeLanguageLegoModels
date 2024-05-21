@@ -1,5 +1,6 @@
 
 40058 Decorating the Tree
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -22,6 +23,7 @@ easier.
 Minifigures: The man wears a blue coat and brown
 trousers, and the girl wears a red sweater, and red trousers.
 Both are happily smiling.
+§
 Build the tree:
 1. Put a 6x6 on the table. Put a 2x2 cylinder in
 the middle. Put 4 2x1 curved quarter round pieces around the pp.
@@ -80,7 +82,9 @@ the middle. Put a fs2x1 with one button in the gap. Take a fs2x1
 the tree.
 You are done! Enjoy!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

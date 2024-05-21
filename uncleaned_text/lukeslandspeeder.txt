@@ -1,4 +1,5 @@
 8092 Luke's Landspeeder
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,6 +15,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
+§
 When he drove the old hermit Ben Kenobi into Mos Eisley spaceport, young farm boy Luke Skywalker™
 had no idea that he would end up becoming a Jedi Knight and saving the galaxy. Recreate the moment
 the adventure began with this special edition set, featuring an landspeeder vehicle with a secret
@@ -21,6 +23,7 @@ lightsaber compartment, a cast of droids and heroes, and a sandtrooper guard wit
 these the droids he’s looking for?
 The box features advertisements for sets 8083 (rebel trooper battle pack) 8084 (snow trooper battle
 pack) and 8085 (Freeco speeder.)
+§
 Build the Minifigs. First build the sandtrooper. He wears a large helmet. His torso is printed with (what
 looks like black sunglasses on his chest) his clothes are white, and his belt is black. Above the belt are
 some teeth, resembling a city sky-line. Put on a short cape, (aligning the two neck-loops one on top of the
@@ -123,6 +126,7 @@ structure.
 Enjoy!
 Thank you so much for building this set!
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

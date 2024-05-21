@@ -40,6 +40,7 @@ Bag 1 includes the pieces for the transporter truck.
 Bag 2 includes the pieces for the wrecking ball crane.
 Bag 3 includes the pieces for the dump truck.
 Bag 4 includes the pieces for the demolition site.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we may be using:
 - Front: towards you.
@@ -58,14 +59,13 @@ wall, at the right, the technic connector of the second piece should point to th
 placed symmetrically.
 - Centered vertically: even amount of space in front of and back of the piece
 - Centered horizontally: even amount of space left and right of the piece.
-
 For builders with low vision, or a sighted building partner may want to follow along with the printed visual
 instructions that come with each kit, or PDF versions are always online at LEGO.com for each set:
 (https://www.lego.com/en-us/service/buildinginstructions/60391) As low vision users may benefit
 from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
-
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
 should be sorted according to the building steps in the kit. Doing this in advance makes locating the
@@ -119,10 +119,10 @@ Group 15 has the pieces for pages 6-19 (Base/spider)
 Group 16 has the pieces for pages 20-25 (Door)
 Group 17 has the pieces for pages 26-33 (Light)
 Group 18 has the pieces for pages 34-44 (Number 3)
+§
 Let’s get to building!
 Building Instructions (Bag 1, Book 1):
 Group 1 — Construction worker minifigure
-
 6-7. Assemble the construction worker Minifigure by using the orange legs, orange-uniform printed torso,
 male head, and red hardhat. Then insert the light grey walkie-talkie into his hand.
 Group 2 — Car base
@@ -404,6 +404,7 @@ number 3 is facing you.
 door so that overall, the entire wall has a trapezoidal shape.
 Congratulations, you have completed the demolition site! Have fun destroying this with the wrecking ball
 crane!
+§
 At the end of the instruction booklets are advertisements for the following 8 LEGO CITY Theme kits:
 60380 - City Downtown
 60362 - Car Wash

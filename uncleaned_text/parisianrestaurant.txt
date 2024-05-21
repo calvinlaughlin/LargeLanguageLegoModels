@@ -1,4 +1,13 @@
 10243 Parisian Restaurant
+It’s very busy in the Parisian Restaurant! As a scooter zips by, inside the waiter rushes between the
+tables as the nervous young man gets ready to propose with the ring! It’s just as hectic behind the
+scenes, with the chef busily preparing the food. This beautifully detailed building is the setting for so many
+stories and is a great addition to the modular building series. The Parisian Restaurant has a fully stocked,
+blue and white tiled kitchen with tableware as well as a cozy apartment with pull-down bed, kitchenette
+and fireplace. On the top floor is the artist’s room with a studio that includes a cast iron heater, easel,
+paintbrush and two works of art by the aspiring artist. Outside, stairs lead down to the roof terrace lined
+with hanging lanterns and flowers where the diners eat alfresco style.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,14 +23,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
-It’s very busy in the Parisian Restaurant! As a scooter zips by, inside the waiter rushes between the
-tables as the nervous young man gets ready to propose with the ring! It’s just as hectic behind the
-scenes, with the chef busily preparing the food. This beautifully detailed building is the setting for so many
-stories and is a great addition to the modular building series. The Parisian Restaurant has a fully stocked,
-blue and white tiled kitchen with tableware as well as a cozy apartment with pull-down bed, kitchenette
-and fireplace. On the top floor is the artist’s room with a studio that includes a cast iron heater, easel,
-paintbrush and two works of art by the aspiring artist. Outside, stairs lead down to the roof terrace lined
-with hanging lanterns and flowers where the diners eat alfresco style.
+§
 Large bag 1.
 The base.
 People bag.
@@ -1909,7 +1911,9 @@ Bag 39
 Insert two claw sticks into each of the branches. Put on the trellis.
 Enjoy!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

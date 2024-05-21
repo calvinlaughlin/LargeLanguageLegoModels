@@ -1,4 +1,5 @@
 31043 Chopper Transporter
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,10 +15,12 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
+§
 Model 1: A truck-with-helicopter.
 Model 2: A tractor.
 Model 3: A small jeep.
 Model 1: First build the helicopter.
+§
 Step 1. Put a f4x2 (orange) hor on the table. Put a f3x2 (also orange) hor on top, aligned at the left.
 2. Put a 2x/2x1 corner piece on the left edge, ver, overhanging to the left, put a f2x2 to the right.
 3. Put a f2x2 lip ver on the right edge, lip to the right. Put two f1x1s, (white) to the left, ver, (one behind
@@ -102,7 +105,9 @@ middle and to the right, slide to the left.
 28. Put the wheels on the axles.
 In the back is an ad for 31045 (a tugboat/submarine) and an ad for 31041 (this helicopter/truck.)
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

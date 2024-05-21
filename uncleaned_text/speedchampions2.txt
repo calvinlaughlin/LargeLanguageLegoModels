@@ -40,6 +40,7 @@ model. We can see the Brian O’Conner minifigure sitting behind a steering whee
 oxide (NOS) sits in the passenger seat. Brian uses this NOS bottle in the movie during races for an extra
 speed boost!
 The build is 319 pieces, and 108 building steps.
+§
 Welcome to text-based instructions from Bricks for the Blind. Before you start building, here are some
 terms we’ll be using:
 - In Front of/Front: towards you.
@@ -61,11 +62,13 @@ symmetrically.
 - Centered-horizontally: even amount of space left and right of the piece.
 - Row: studs lined up horizontally (left to right/side to side).
 - Column: studs lined up upright or vertically (top to bottom/back to front).
+§
 For builders with low vision, or a sighted building partner who may want to follow along with the printed
 visual instructions that come with each kit, PDF versions are always online at LEGO.com:
 (https://www.lego.com/en-us/service/buildinginstructions/76917) As low vision users may benefit
 from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
@@ -109,6 +112,7 @@ Group 21 contains the pieces for steps 97-101.3, as well as the blue pieces from
 Group 22 contains the pieces for steps 101.4-103.
 Group 23 contains the pieces for steps 104-107.
 Group 24 contains the pieces for step 108.
+§
 Building Instructions:
 Open bag 1.
 Open minifigure group 1.
@@ -643,6 +647,7 @@ have one side which is flat, and one side which has three spokes. Attach the whe
 108.2. Now attach a wheel to the pin inside each wheel well, with the hub facing the outside.
 Congratulations! Now the 2 Fast 2 Furious Nissan Skyline GT-R (R34) is complete!
 Thank you so much for building this set!
+§
 There is one page of ads after the instructions end. This page includes seven ads for Speed Champions
 sets. The top left set is set number 76911, the 007 Aston Martin DB5 from the classic James BondTM
 movies! The set to the right is set number 76912, the Fast & Furious 1970 Dodge Charger R/T. This is

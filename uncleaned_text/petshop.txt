@@ -1,4 +1,13 @@
 10218 Pet Shop
+This highly detailed, 3-story Pet Shop building and townhouse with full internal and external detailing is
+the perfect addition to your LEGO town. Greet customers with a menagerie of pets and let them treat
+them with a selection of toys and supplies. The pet shop building features a hinged staircase for easy
+access, upper apartment with kitchenette and upper loft overlooking the open plan interior below. To the
+side, the tastefully appointed townhouse features a detailed ground floor with accessories and spiral
+staircase leading to the upper floor. The attic space features storage boxes and French doors leading out
+to an elegant front balcony, while the rooftop garden, complete with fresh vegetables, brightens up the
+rear of the building.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,14 +23,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
-This highly detailed, 3-story Pet Shop building and townhouse with full internal and external detailing is
-the perfect addition to your LEGO town. Greet customers with a menagerie of pets and let them treat
-them with a selection of toys and supplies. The pet shop building features a hinged staircase for easy
-access, upper apartment with kitchenette and upper loft overlooking the open plan interior below. To the
-side, the tastefully appointed townhouse features a detailed ground floor with accessories and spiral
-staircase leading to the upper floor. The attic space features storage boxes and French doors leading out
-to an elegant front balcony, while the rooftop garden, complete with fresh vegetables, brightens up the
-rear of the building.
+§
 Book 1.
 Bag 1 number 1
 1. Put a flat 32x16 ver on the table. Put a flat smooth 6x1 hor on its front edge, starting from the left
@@ -1642,7 +1644,9 @@ Unit 6.
 3. Connect all floors.
 Enjoy!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

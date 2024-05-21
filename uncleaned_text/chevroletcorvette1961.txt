@@ -50,6 +50,7 @@ inset image shows the hood open to reveal the engine, which is painted in red wi
 The third inset shows that the trunk opens, revealing details inside. The final image is a side view of a real
 Corvette so you can see the similarities between the model and the real deal!
 The build is 1210 pieces, and 318 building steps.
+§
 Welcome to text-based instructions from Bricks for the Blind. Before you start building, here are some
 terms we’ll be using:
 - In Front of/Front: towards you.
@@ -76,6 +77,7 @@ visual instructions that come with each kit, PDF versions are always online at L
 (https://www.lego.com/en-us/service/buildinginstructions/10321) As low vision users may benefit
 from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
@@ -208,6 +210,7 @@ Bushes/Bushings - LEGO Technic™ uses bushes largely as spacers, but they also 
 between rotating parts, or can form useful elements such as handles. Bushes are typically light gray,
 generally cylindrical, and have an axle-hole running through the middle. They have a flange at the front
 and back to make them easier to pull on and off
+§
 Building Instructions:
 Open bag 1.
 Open group 1.
@@ -1983,5 +1986,6 @@ of the windshield. The rear window of the car should be at the right. It should 
 studs to the right of the seats. The hardtop can be removed if you want the car to be a convertible again!
 Congratulations! Now the 1961 Chevrolet Corvette is complete!
 Thank you so much for building this set!
+§
 There are no pages of ads after the instructions end.
 Visit bricksfortheblind.org for more accessible instructions and tell your friends about us!

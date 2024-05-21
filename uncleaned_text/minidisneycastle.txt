@@ -29,6 +29,7 @@ shows the general dimensions of the castle: 14 cm or 5.5 inches wide and 21 cm o
 shows the clock again. The last picture shows the Disney castle in real life, towering over a field of red
 and pink flowers.
 The build is 567 pieces, and 157 building steps.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 - In Front of/Front: towards you.
@@ -54,6 +55,7 @@ instructions that come with each kit or PDF versions are always online at LEGO.c
 (https://www.lego.com/en-us/service/buildinginstructions/40478) As low vision users may benefit
 from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
@@ -97,6 +99,7 @@ Group 20 contains the pieces for steps 129-138, as well as transparent blue 3x3 
 five light gray 2x2 circular plates from step 139 and two from step 150.
 Group 21 contains five identical groups for the pieces for steps 139-149.
 Group 22 contains the pieces for steps 150-157.
+§
 Building Instructions:
 Open bag 1.
 Sub-build 1 - Mickey Mouse Minifigure
@@ -847,5 +850,6 @@ keep, just to the right of the pyramid shaped roof. This is a 2x2 cylinder. Atta
 base! The little side room should be at the front right.
 Congratulations! Now the Mini Disney Castle is complete! GREAT WORK!!
 Thank you so much for building this set!
+§
 There are no pages of ads after the instructions end.
 Visit legofortheblind.com for more accessible instructions and tell your friends about us!

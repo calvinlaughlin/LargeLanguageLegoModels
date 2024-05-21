@@ -1,4 +1,11 @@
 10224 Town Hall
+This highly detailed model features large entranceway columns, a coat of arms, a tall bell tower with clock
+and a large skylight that lets you see inside! On the ground floor, the large hall, tax office and auditorium
+have everything you need to run the town. Take the working elevator up to the secretary and mayor’s
+offices on the second floor, realistically furnished with desks, chairs, paintings and even a frog sculpture.
+Hold a meeting and address the town’s citizens at the podium! On the third floor, a spacious meeting
+room features a large conference table, chairs, globe and plants.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,12 +21,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
-This highly detailed model features large entranceway columns, a coat of arms, a tall bell tower with clock
-and a large skylight that lets you see inside! On the ground floor, the large hall, tax office and auditorium
-have everything you need to run the town. Take the working elevator up to the secretary and mayor’s
-offices on the second floor, realistically furnished with desks, chairs, paintings and even a frog sculpture.
-Hold a meeting and address the town’s citizens at the podium! On the third floor, a spacious meeting
-room features a large conference table, chairs, globe and plants.
+§
 Book 1
 Bag 1.
 1. Take a 32x32 base. Put a 1x1 flat smooth piece at the leftmost button of the first row.
@@ -2065,7 +2067,9 @@ Number 36
 Install the roof onto the third floor. Install the third floor onto the building.
 Enjoy!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

@@ -1,4 +1,5 @@
 7944 Fire Hovercraft
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -15,6 +16,7 @@ the back wall, at the right, the technic connector of the second piece should po
 since it will be placed symmetrically.
 On the box the Fire Hovercraft is on duty in the harbor of a large city. The firemen on board are at their
 water cannon posts, ready to extinguish any fire they find!
+§
 First, let's build the minifigures.
 Our first minifigure is wearing a black suit with two white stripes on it, above the stripes is a yellow crest
 with a black outline of flames in it. Two of them wear white hard/fire hats, two of the hats are white, while
@@ -233,7 +235,9 @@ helicopter (7238), the LEGO® City Fire Truck (7239), the LEGO® City Fire Car (
 City Off Road Fire Rescue (7942)
 Enjoy!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

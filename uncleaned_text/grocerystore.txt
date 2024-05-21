@@ -13,6 +13,7 @@ and one clerk, and shelves loaded with products for sale. There are many picture
 action, loading veggies and bottles into the store. Another scene is a girl buying flowers from the clerk.
 The final picture shows the man and woman minifigures loading their car with the items they have
 purchased: carrots, a tomato, flowers, a loaf of bread and a croissant!
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -27,6 +28,7 @@ Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic co
 front wall at the right, connector to the front, and then place another such piece symmetrically on
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
+§
 Open Bag 1
 Minifigure Assembly
 1. First we'll build the female forklift driver - She'll need a hard hat and a yellow, red and grey vest to be
@@ -52,7 +54,6 @@ back row in the middle. The raised 2x2 parts at the left and right of the car sh
 symmetrically at the right.
 4. Take a grey 2x1 with steering wheel and place it vertically to the right of the left 2x2 plate, with the
 wheel facing right, there should be 4 free studs to the right, that's where the driver will sit.
-
 5. Find two red car 1x3 doors, (they look like 1x1 cylinders with a car door with handle attached to them)
 and put one horizontally in front of the steering wheel, door handle to the front right, and the other one
 symmetrically to the back, door handle to the back right.
@@ -90,7 +91,6 @@ facing the rear bumper. This is the car's roof.
 car.
 13. Your Electric Car is done! Great work! Now place the man you built earlier inside the car.
 Now, let's build our forklift!
-
 1. Find a black 4x7 vehicle base with wheel connectors and place it horizontally on the table.
 2. Put 2 light grey 1x3 plates horizontally, one onto the front row in the middle, and the other one
 symmetrically at the back.
@@ -473,6 +473,7 @@ the two large, sloped pieces to the right side of the road plate sloping down an
 104. Connect the road plate to the right side of the store, via the two dark gray 2x4 plates. You're done!
 Great work!
 Thank you so much for building this set! Have fun playing with it!
+§
 Visit legofortheblind.com for more accessible instructions and tell your friends about us!
 At the end of the instruction booklets are advertisements for the following 13 LEGO CITY Theme kits:
  60283 - Holiday Camper Van

@@ -15,6 +15,7 @@ On the front of the box, Boba Fett is flying his starfighter over the desert, re
 the box Boba has landed and is walking alongside his starfighter on the desert, with his blaster in hand.
 In the background you can see mountains. There is also a small picture showing how the missiles are
 launched from the starfighter by pushing from behind.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -31,11 +32,11 @@ the back wall, at the right, the technic connector of the second piece should po
 since it will be placed symmetrically.
 The set contains three unnumbered bags, a small one, a medium-sized bag, and a large one dump
 them all into one container, and let's get building!
+§
 Let's first build the Boba Fett minifigure. Put the sand green jet pack on his neck and secure it with his
 head. He is wearing a black and dark green jacket, and an ammunition belt. His pants are black with
 sand colored protective knee pads. He also wears arm padding. He wears a grim facial expression.
 Place his full visor sand green helmet on his head.
-
 Now let's build his gun. Take a double-barreled minifig gun and put a black light saber hilt onto its
 bottom barrel.
 You're done!
@@ -144,6 +145,7 @@ anti-stud of this part into the stud of a light grey 4-stud-long bar with stud e
 structure, so that the lightsaber hilts are at the top. They should spin freely.
 You're done! Enjoy!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions and tell your friends about us!
 At the back of the instructions are advertisements for the following Star Wars sets:
 75347 - TIE Bomber™

@@ -1,4 +1,9 @@
 4195 Queen Anne’s Revenge
+Captain Jack Sparrow and his motley band of pirates are taking control of the Queen Anne’s Revenge!
+It’s mayhem and mutiny as they seize the ship from Angelica and her zombie crew. If they only knew that
+Blackbeard, the pirate all pirates fear, is watching and waiting in the captain’s quarters. This time Jack
+has gone too far!
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,10 +19,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
-Captain Jack Sparrow and his motley band of pirates are taking control of the Queen Anne’s Revenge!
-It’s mayhem and mutiny as they seize the ship from Angelica and her zombie crew. If they only knew that
-Blackbeard, the pirate all pirates fear, is watching and waiting in the captain’s quarters. This time Jack
-has gone too far!
+§
 Large bag 1 (0.3-05)
 Bag 0.3
 1. Make assorted men with weapons.
@@ -757,7 +759,9 @@ of the diagonal mast.
 somewhere at the back of the left side.
 Enjoy!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

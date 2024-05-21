@@ -1,4 +1,5 @@
 60032 Arctic Snowmobile.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,6 +15,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
+§
 Put a F 2x1 ver on top of a F 2x2.
 Put a F 6x2 hor to the left, overhanging to the left.
 Put a F winged 2x2 on top, at the right end, wings to front and back, cut-off corners to the left.
@@ -52,7 +54,7 @@ Put a crystal in the icebox, close and put on the sledge.
 Fit the other end of the chain to the hook.
 Enjoy!
 Thank you so much for building this set!
-Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

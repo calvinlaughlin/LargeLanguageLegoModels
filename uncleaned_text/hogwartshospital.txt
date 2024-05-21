@@ -51,6 +51,7 @@ practicing their magic! The first inset shows that turning one of the spires on 
 hands on the clock to move! The second inset shows a close-up image of one of the beds, with Harry
 sitting in it while Madam Pomfrey gives him the bottle of Skele-Gro potion!
 The build is 510 pieces, and 94 building steps.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 - In Front of/Front: towards you.
@@ -76,6 +77,7 @@ visual instructions that come with each kit, PDF versions are always online at L
 (https://www.lego.com/en-us/service/buildinginstructions/76398) As low vision users may benefit
 from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
@@ -132,6 +134,7 @@ the builder where the 12 o’clock position is.
 Group 17 contains the pieces for steps 68-76.
 Group 18 contains the pieces for steps 77-82.
 Group 19 contains the pieces for steps 83-87.
+§
 Building Instructions:
 Open bag 1.
 Open minifigure group 1.
@@ -683,6 +686,7 @@ of the clock tower should extend two studs past the front of the hospital wing s
 small half arches overhanging to the front.
 Congratulations! Now the Hogwarts Hospital Wing is complete!
 Thank you so much for building this set!
+§
 There are three pages of ads after the instructions end.
 The first page shows ads for four sets. The first is set number 76396, Hogwarts ™ Moment: Divination
 Class. This set shows a scene in divination class and includes Harry Potter, Professor Trelawney, and

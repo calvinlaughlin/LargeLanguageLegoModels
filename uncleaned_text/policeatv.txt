@@ -1,4 +1,14 @@
 60006 Police ATV
+This set includes a Police ATV with steering wheel, movable lights, and handcuffs. It also includes a
+wheelbarrow and some diamonds. The set includes two minifigures, a Police officer with a baseball cap,
+and a robber with a crowbar.
+Instruction art: An unshaven robber with a wheelbarrow full of diamonds and wielding a crowbar, is
+chased by a policeman in a baseball cap, on an ATV, holding a pair of handcuffs.
+First build the wheelbarrow, by putting a small rubber tire onto a double-sided button and insert it into the
+clasps at the bottom. Put the jewels and the crowbar inside. Give it to the robber. The robber wears a
+grey jump suit with black stripes, and a helmet with notched edges. He has a rope over his shoulder, on
+which are a set of keys.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,15 +24,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
-This set includes a Police ATV with steering wheel, movable lights, and handcuffs. It also includes a
-wheelbarrow and some diamonds. The set includes two minifigures, a Police officer with a baseball cap,
-and a robber with a crowbar.
-Instruction art: An unshaven robber with a wheelbarrow full of diamonds and wielding a crowbar, is
-chased by a policeman in a baseball cap, on an ATV, holding a pair of handcuffs.
-First build the wheelbarrow, by putting a small rubber tire onto a double-sided button and insert it into the
-clasps at the bottom. Put the jewels and the crowbar inside. Give it to the robber. The robber wears a
-grey jump suit with black stripes, and a helmet with notched edges. He has a rope over his shoulder, on
-which are a set of keys.
+§
 Build the ATV:
 1. Put a f6x2 hor on the table, and put 2 f2x2 axles underneath at the edges, ver.
 2. Put a 2x2 on the right edge. Put a 2x2 with two 2x1 wings, ver to the left.
@@ -45,7 +47,9 @@ button, the button to the left.
 12. Make the tires onto the wheels and mount them onto the axles.
 Enjoy
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)
@@ -71,4 +75,3 @@ D = open corner to the front left.
 F = open corner to the front right.
 J = open corner to the back left.
 H = open corner to the back right.
-!

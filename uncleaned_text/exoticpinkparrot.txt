@@ -32,6 +32,7 @@ jungle all around. The second is a picture of the pink frog in a jungle near a s
 pink fish swimming past seaweed with river rocks in the background.
 The parrot build is 253 pieces, and 108 building steps. The fish build is 122 pieces, and 61 building steps.
 The frog build is 84 pieces, and 52 building steps.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 - In Front of/Front: towards you.
@@ -57,6 +58,7 @@ visual instructions that come with each kit, PDF versions are always online at L
 (https://www.lego.com/en-us/service/buildinginstructions/31144) As low vision users may benefit
 from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
@@ -116,6 +118,7 @@ Bushes/Bushings - LEGO Technic™ uses bushes largely as spacers, but they also 
 between rotating parts, or can form useful elements such as handles. Bushes are typically light gray,
 generally cylindrical, and have an axle-hole running through the middle. They have a flange at the front
 and back to make them easier to pull on and off
+§
 Building Instructions:
 Note for helpers: I have broken some of LEGO’s original instructions into smaller steps, but I have kept
 the original base number. For example, step 5 is now steps 5.1 and 5.2.
@@ -987,6 +990,7 @@ with a blue stripe running down his body, and a blue stomach. His feet are all l
 legs have blue and yellow stripes! In nature, those bright colors are a good sign that this frog is
 poisonous! So don’t put him in your mouth!
 Thank you so much for building this set!
+§
 There are three pages of ads after the instructions end.
 The first page has ads for seven Creator 3in1 sets. The first is set number 31137, Adorable Dogs. In the
 picture, three dogs sit in a park. There is a yellow lab, a white poodle, and a brown, black and white

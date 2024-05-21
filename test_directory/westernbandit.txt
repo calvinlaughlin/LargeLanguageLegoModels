@@ -1,19 +1,16 @@
-75127 The Ghost
-Set adapted and tested by Matthew Shifrin
-Launch into the fantastic world of collectible LEGO® Microfighters with this miniaturized version of Hera
-Syndulla's personal starship, The Ghost, featuring a stud shooter with extra ammo and space to sit the
-included Hera minifigure with blaster pistol.
- Includes a Hera Syndulla minifigure.
- Features big engines, stud shooter and an open cockpit with space for a minifigure to sit.
- Fire the stud shooter to see off the enemy.
- Includes a blaster pistol and extra stud shooter ammo.
- Match up with the 75128 TIE Advanced Prototype microfighter for space-themed duels.
- As featured in the Star Wars Rebels animated TV series.
- Makes a great addition to any microfighter collectible set.
- Measures over 1” (4cm) high, 3” (10cm) long and 3” (9cm) wide.
-The build is 104 pieces, and 28 building steps.
-Welcome to text-based instructions from Bricks for the Blind. Before you start building,
-here are some terms we’ll be using:
+6790 Western Bandit’s Wheel Gun
+Adapted and tested by Matthew Shifrin
+Keep the Sheriff at bay with the Bandit’s Wheel Gun! With his wheeled gun, a revolver, and a lit stick of
+dynamite at the ready, this bandit’s not going down without a fight!
+This is an easy build and a neat starter set. There're 2 guns on the top of that wagon and on the front, you
+can see a sign which says, 'KEEP OUT'. There's a black wheel on each side and a handle on the back
+where the minifig can move this wagon around. This set also comes with a barrel with a stick of dynamite.
+This set is cool for a small set and a great army builder.
+The bandit comes with a brown cowboy hat, a white bandanna, a revolver, dark gray pants and a black
+jacket with a blue shirt. This minifig has black hair and a black beard on his face.
+The build is 21 pieces in total and includes one Minifigure.
+Welcome to text-based instructions from Bricks for the Blind. Before you start building, here are some
+terms we may be using:
 - In Front of/Front: towards you.
 - Behind/Back: away from you.
 - Up: towards the ceiling.
@@ -25,152 +22,40 @@ here are some terms we’ll be using:
 - That one/ppp: previously placed piece.
 - Plate: piece with studs.
 - Tile: smooth piece without studs (unless otherwise specified)
-- A jumper plate is a 1x2 plate with a single stud on top, or a 1x3 plate with only two studs on top.
-- “Anti-stud” is a term for the portion of a LEGO piece which accepts studs, like the bottom of a plate or
-brick.
-- Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic connector on the front wall
-at the right, connector to the front, and then place another such piece symmetrically on the back wall, at
-the right, the technic connector of the second piece should point to the back, since it will be placed
-symmetrically.
+- Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic
+connector on the front wall at the right, connector to the front, and then place another
+such piece symmetrically on the back wall, at the right, the technic connector of the
+second piece should point to the back since it will be placed symmetrically.
 - Centered-vertically: even amount of space in front of and behind piece
 - Centered-horizontally: even amount of space left and right of piece.
-- Row: studs lined up horizontally (left to right/side to side).
-- Column: studs lined up upright or vertically (top to bottom/back to front).
-For builders with low vision, or a sighted building partner who may want to follow along with the printed
-visual instructions that come with each kit, PDF versions are always online at LEGO.com:
-(https://www.lego.com/en-us/service/buildinginstructions/75127) As low vision users may benefit from
-viewing the instructions on a personal device where they can zoom in on content and use assistive
-technologies to enhance the visuals.
-Let’s build the Minifigure!
-Our minifigure Hera Syndulla, features goggles on her head, and two tails at the back of her head. She
-wears a brown vest, and her legs are printed with a safety harness, and she’s armed with a blaster pistol.
-To build her, put the minifigure lets horizontally in front of you, toes facing towards you. Put the torso onto
-the legs, the head on the torso, and her helmet on the head, so the two tails are at the back. 
-Now we’ll build the ship:
-1. Put a light gray 6x4 plate horizontally on the table.
-2. Put a dark grey 2x4 plate vertically in the middle of the previous piece.
-3. Make a part: 3.1. put a light gray 6x2 plate horizontally on the table. 3.2. Put a dark grey 2x1 brick with
-pinhole vertically on the left end of the previous piece, repeat symmetrically at the right. 3.3. Put a dark
-grey 2x2-2x1 stair plate horizontally on the right brick with pinhole so that the 2x1 part is at the bottom, to
-the left, the 2x2 surface is at the top right. Repeat symmetrically at the left. Put this part vertically onto
-the 2x4 plate in the middle of your main build.
-4. Turn your build so that the pinholes are at the left and the right. Put a dark gray 2x2-2x1 stair plate
-horizontally so that the 2x1 is on the front row of your build in the middle, and the 2x2 surface is above
-and behind the 2x1 part, on the front row of the previous build, in the middle. Put a light grey 2x1 inverted
-slope horizontally on the second stud from the front on the rightmost column of the build, slope to the
-right. Repeat symmetrically on the left.
-5. Turn your build 180 degrees and repeat step 4 here- the dark grey stair-plate goes horizontally on top
-of the front row of the middle with the 2x1 part at the front, and the light grey 2x1 inverted slopes go on
-the second studs of the left and right columns of the build, horizontally overhanging to the left and right
-respectively.
-6. Put a black 2x1-2x1 bracket with side studs hanging down horizontally on the front row of the build in
-the middle, side studs to the front.
-7. Put a red 2x1 plate horizontally on top of the previous piece. Put a light grey 2x1 inverted slope
-vertically to the left of the previous piece, on the left front stud of the build, slope to the front. Repeat
-symmetrically at the right.
-8. Put a light grey 2x2 corner plate onto the back stud of the left vertical 2x1 inverted slope and to the
-back, braille letter h, repeat symmetrically at the right braille letter j.
-9. Put a light brown 2x2 plate on top of the two previous pieces in the middle.
-10. Put a black 2x1 plate with two vertical clips vertically on the left column of the previous piece, clips to
-the left, repeat symmetrically to the right.
-11. Put a red 2x1-2x2 bracket with the side studs hanging down, horizontally on the front studs of the
-previous pieces 2x2 side studs to the front.
-12. Put a light orange (maybe yellow?) 2x1 sloped curved tile vertically on the left stud of the previous
-piece curving to the back, repeat to the right, with another yellow 1x2 sloped curved tile. Put a white 1x1
-brick onto the front stud of the 2x1 vertical inverted slope at the front left. Repeat at the front right.
-13. Make a part
-13.1. Put a white 3x2 plate horizontally on the table.
-13.2. Put a dark gray 2x1 jumper tile vertically on the left column of the previous piece. Put another dark
-gray 2x1 jumper tile vertically to the right of the previous piece.
-13.3. Put a black 2x1 concaved brick (also called a Log brick) horizontally on the studs of the two
-previous pieces.
-13.4. Put one red 1x1 round plate on the right stud of the previous piece, and another one to the left of
-the first one. Now turn the piece you made upright so the concaved brick points towards you at the top
-and attach this piece to the 2x2 side studs at the front of your build. 
-14. Put a pin with a 2-stud-long axle into each of the holes on the 2x1 bricks with pinhole. Put a dark grey
-2x1 sloped grille tile horizontally on the back stud of the 2x1 brick with pinhole and to the left, grille
-sloping to the right. Repeat to the front, and then put two more light grey sloped grille tiles symmetrically
-at the left.
-15. Make a part:
-15.1. Put a white 2x2 round brick with grooves on the table and put a dark gray 2x2 round plate on top.
-15.2. Put a light grey 2x2 truncated cone on top, it's top is flat with one stud on it. Repeat to make two
-such parts, and mount them on the axles, there's only way they will mount.
-16. Put a black 1x2-1x2 bracket with side-studs hanging down on the front row of the build in the middle
-side studs to the front.
-17. Put a red 2x1 plate horizontally on top of the previous piece. Put a white 3x1 inverted slope vertically
-to the left of the previous piece slope to the front. Repeat to the right of the 2x1 plate.
-18. Put a light gray 2x2 corner plate onto the back stud of the left 3x1 inverted slope, and to the right,
-braille letter h. Repeat symmetrically at the right, braille letter J.
-19. Put a light brown 2x2 plate on top of the two previous pieces.
-20. Put a light gray 2x1 plate vertically on the two free studs of the left 3x1 inverted slope. Repeat at the
-right. Put an orange 2x1 plate with two vertical clips on long side vertically on the left column of the 2x2
-plate from step 19, clips to the left, repeat symmetrically at the right.
-21. Put a red 2x1-2x2 bracket with side-studs hanging down horizontally on the front row of the build side
-studs to the front. Put a light grey 2x1 plate horizontally behind the previous piece.
-22. Put a white 2x1 slope vertically slope to the front on the left 3x1 inverted slope, slope to the front.
-Repeat symmetrically at the right. Put a red 2x1 jumper tile horizontally on the 2x1-2x2 bracket and put a
-white 2x1 jumper tile horizontally behind the previous piece.
-23. Make a part.
-23.1 Put a white 3x2 plate horizontally on the table
-23.2 Put a black 2x2 round plate on its right and middle column.
-23.3 Put a transparent 2x2 dome on the previous piece. Hold this part upright, so the dome is at the top
-facing and put this part on the side studs at the front, dome to the front.
-24. Now we will make one of the ship's wings.
-24.1 Make a part. Take a white 3x3 triangle plate and place it upside-down on the table, so its cut-off
-corners are at the back left and front right.
-24.2 Put a black 2x1 plate with rounded bar horizontally on the back row bar overhanging to the right.
-Repeat to the front. Flip this part right-side-up, so that the cut-off corners are at the front left and back
+- Row: studs lined up from left to right.
+- Column: studs lined up from top to bottom or front to back
+Let’s build the wheel gun.
+1. Put a grey 3x2 plate horizontally on the table in front of you.
+2. Put a black 2x1 plate with side handles vertically on the rightmost column of the previous piece, side
+handles to the right.
+3. Put a black 4x2 plate horizontally to the left of the previous piece, overhanging to the left.
+4. Put a black 2x2 plate with small pins on two sides vertically underneath the left end of the previous
+piece, pins to the front and to the back.
+5. Put a light gray 2x1 plate with 4x1 side studs vertically on the left end of the previous piece, side-studs
+to the left.
+6. Put a black tile printed with yellow lettering reading, “Keep Out!” Upright on the previous piece’s side
+studs.
+7. Put two 1x1 plates with top clasp vertically on top of the studs of the 2x1-4x1 plate from step 5. Take
+two grey rifles and clip each of them into one of the clasps, so that their muzzles face left, stocks to the
 right.
-24.3 Put a black 2x1 plate with two vertical clips vertically on the back at the back right clips to the right.
-24.4 Put a black 2x1 sloped curved tile vertically on the previous piece's front stud and to the front, slope
-to the front.
-Now we'll build a rocket booster.
-Make a part: Take an orange 2x2 boat stud, (a 2x2 round plate with rounded bottom.) and put a black
-2x2 round plate on top. Put a black 6-stud-long bar with end stop into the middle of the black plate, endstop first. Stick a black 2x2 cone on top. Put this part into the clasps of the previous part cone to the back.
-25. Now we'll make the other wing: 
-25.1 Put a white 3x3 triangle plate on the table upside-down, cut-off corner at the front left and back right.
-25.2 Put a black 2x1 plate with rounded bar horizontally on the back row of the previous piece, bar to the
-left. Repeat to the front. Flip this part right-side up.
-25.3 Put a black 2x1 plate with two vertical clips vertically on the back and middle studs of the left column,
-clips to the left.
-25.4 Put a black 2x1 sloped curved tile vertically, on the front stud of the previous piece and to the front,
-slope to the front.
-Build the engine with the same parts as in step 24, (put the black 2x2 round plate on top of the orange
-2x2 round plate with rounded bottom, put the end-stop part of the black 6-stud-long bar with end-stop into
-the middle of the black plate, and put a black 2x2 cone onto the bar), and attach it to the clips, at the left,
-cone to the back. Clip the wing into the clasps at the left, cone to the back.
-Now we'll make two more wings.
-26. Make a part:
-26.1 Put a white 3x3 triangle plate with cut-off corners upside-down on the table, cut-off corners at the
-front left and back right.
-26.2 Put a white 1x2 plate with rounded bar horizontally on the front row, bar to the right. Repat to the
-back.
-26.3 Turn this part right-side up so the rounded bars are at the right with the cut-off corner at the front
-right and back left. Put a green 1x2 tile horizontally in the middle row and put a yellow 1x1 round tile on
-the leftmost stud of the back row.
-Now we'll make another wing.
-27. Make a part:
-27.1 Take a white 3x3 triangular plate with cut-off corners and put it upside-down on the table in front of
-you cut-off corners at the front right and back left.
-27.2 Put a white 2x1 plate with rounded bar horizontally on the front row of the previous piece bar to the
-left. Repeat to the back.
-27.3 Turn this wing right-side up so that your cut-off corners are at the front and right. Put a green 2x1 tile
-horizontally on the second row of the plate and put a yellow 1x1 round tile on the right-most stud of the
-plate's back row. The wings are done.
-27.4 Turn your ship so the 2x2 dome faces you and clip in the wings, into the clips at the left and right, so
-that they are symmetrical to the ones at the back, one should have its long side at the front left, and the
-other should have its long side at the front right.
-28. Take a 2x1 black stud shooter and snap the trigger into it. Place it horizontally on the table in front of
-you its free stud to the right. Put a transparent 1x1 slope tile onto the shooter's free stud, sloping to the
-right. Now turn the stud shooter vertically, so the slope tile is at the back, and mount it on the 2x1 jumper
-tiles at the front of your ship, it should shoot towards you. Now put a green 1x1 stud into the shooter and
-fire away! Be careful, and don’t aim it at your face.
-In the back of the instructions is an advertisement featuring 6 Series 3 Microfighters sets:
-The Resistance X-wing Fighter (75125),
-The First Order Snow Speeder (75126),
-The Ghost (75127),
-The Tie Advanced Prototype (75128)
-Wookie Gunship (75129) and
-The ATDP (75130).
-Thank you so much for building this set!
+8. Attach two black wagon wheels onto the pins at the front and back of the build so that the gun can
+roll—there’s only one way to attach them, make sure your spokes are facing outward.
+9. Put a 2x1 tile printed with a stick of dynamite with a lit fuse, (The tile is gray and the dynamite stick is
+red) into a 2x2 barrel and put a gray revolver into the barrel as well.
+Now build your bandit.
+Put the legs left horizontally on the table in front of you so the toes point towards you. Then put the torso
+on top, so the bandit’s hands are pointing towards you. His legs are gray and he wears a black suit over a
+white shirt. He also wears a belt, from which a pair of handcuffs dangles. Before you attach his head, put
+the neckerchief onto his torso, and secure it with his head. His head is decorated with black hair, black
+eyes, black eyebrows, and a black mustache. He wears a cowboy hat.
+Congratulations! You’re done!
+Now your bandit’s ready to give the sheriff a run for his money!
+In the back of the manual are ads for the Lego Warp Wing Fighter (Set 6915 The Witch’s Magic Manor
+(Set 6087) The Stingray Explorer (Set 6442) and The Chief’s Tepee (Set 6746)
 Visit bricksfortheblind.org for more accessible instructions and tell your friends about us!

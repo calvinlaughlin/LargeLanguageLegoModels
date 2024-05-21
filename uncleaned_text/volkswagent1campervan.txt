@@ -1,4 +1,12 @@
 10220 Volkswagen T1 Camper Van.
+This authentic camper van is a replica of the classic Volkswagen Camper Van from 1962. Every iconic
+feature is here! On the outside, the terrific detailing includes 'V' shape three-way color split at the front,
+rounded roof and window frames, opening 'splittie' safari windshield, opening doors, iconic pop-up roof
+with textile curtain surround, roof rack, rear side air intake vents and lots more! The detailing is equally
+impressive on the inside, from the authentic VW air-cooled flat four cylinder boxer engine, front cabin
+bench seat, gear stick, angled dashboard and iconic spherical speedometer, to custom LEGO® features
+like folding rear bench seat, folding dinette table, closet with mirror and even a painting!
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,13 +22,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
-This authentic camper van is a replica of the classic Volkswagen Camper Van from 1962. Every iconic
-feature is here! On the outside, the terrific detailing includes 'V' shape three-way color split at the front,
-rounded roof and window frames, opening 'splittie' safari windshield, opening doors, iconic pop-up roof
-with textile curtain surround, roof rack, rear side air intake vents and lots more! The detailing is equally
-impressive on the inside, from the authentic VW air-cooled flat four cylinder boxer engine, front cabin
-bench seat, gear stick, angled dashboard and iconic spherical speedometer, to custom LEGO® features
-like folding rear bench seat, folding dinette table, closet with mirror and even a painting!
+§
 Book 1.
 Number 1.
 Put a F 12x2 ver on the table.
@@ -1392,7 +1394,9 @@ Number 115. Make a part.
 Install at the back right wheel (as oriented).
 Enjoy!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

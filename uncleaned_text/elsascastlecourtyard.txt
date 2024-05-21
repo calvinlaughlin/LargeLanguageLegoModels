@@ -1,4 +1,5 @@
 43199 Elsa’s Castle Courtyard
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -21,6 +22,7 @@ kids visualize the model with intuitive tools.
 First, we will build the Elsa minifigure. Find the top blue octagonal (8 sided) dress piece put the body on it,
 and then put the head, and hair on top. She wears a blue sparkly top, and a blue crystal dress, and has a
 wide smile.
+§
 Now we'll build the actual set:
 Step 1. Find a white 8x4 plate with sloped edges, and put it horizontally on the table, wide end to the
 back.

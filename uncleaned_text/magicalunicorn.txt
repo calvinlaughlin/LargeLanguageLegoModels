@@ -42,6 +42,7 @@ the sky in the unicorn images. The peacock is a white bird with orange feet and 
 brightly colored, with blue, yellow, orange, red and teal!
 The unicorn build is 145 pieces, and 58 building steps. The seahorse build is 95 pieces, and 48 building
 steps. The peacock build is 90 pieces, and 41 building steps.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 - In Front of/Front: towards you.
@@ -67,6 +68,7 @@ visual instructions that come with each kit, PDF versions are always online at L
 (https://www.lego.com/en-us/service/buildinginstructions/31140) As low vision users may benefit
 from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
@@ -99,6 +101,7 @@ Group 9 contains the pieces for steps 28-33.
 Group 10 contains the pieces for steps 34-39.
 Group 11 contains the pieces for steps 40-46.
 Group 12 contains the pieces for steps 47-58. Stack the purple 1x4 plate on top of the teal 1x4 plate.
+§
 Building Instructions:
 Open group 1.
 Sub-build 1 - Rainbow base
@@ -727,6 +730,7 @@ left side of the tail to the click fingers on the top right of the peacock. Hing
 straight up and down, then hinge it down to the right one click.
 Congratulations! Now the Peacock is complete!
 Thank you so much for building this set!
+§
 There is one page of ads after the instructions end.
 This page has ads for seven Creator 3in1 sets. The first is set number 31137, Adorable Dogs. In the
 picture, three dogs sit in a park. There is a yellow lab, a white poodle, and a brown, black and white

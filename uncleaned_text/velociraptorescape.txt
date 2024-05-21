@@ -45,6 +45,7 @@ that you can spin a drum to raise and lower a chain holding food for the velocir
 some of the larger pieces used, highlighting the fact that this set is easier to build than some of the more
 complex sets.
 The build is 137 pieces, and 93 building steps.
+§
 Welcome to text-based instructions from Bricks for the Blind. Before you start building, here are some
 terms we’ll be using:
 - In Front of/Front: towards you.
@@ -66,11 +67,13 @@ symmetrically.
 - Centered-horizontally: even amount of space left and right of the piece.
 - Row: studs lined up horizontally (left to right/side to side).
 - Column: studs lined up upright or vertically (top to bottom/back to front).
+§
 For builders with low vision, or a sighted building partner who may want to follow along with the printed
 visual instructions that come with each kit, PDF versions are always online at LEGO.com:
 (https://www.lego.com/en-us/service/buildinginstructions/76957) As low vision users may benefit
 from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
@@ -104,6 +107,7 @@ pages 4-7 in book 3.
 Group 7 contains the pieces for pages 8-19.
 Group 8 contains the pieces for pages 20-23.
 Group 9 contains the pieces for pages 24-35.
+§
 Building Instructions:
 Open bag 1.
 Open velociraptor group 1 (Book 1, pages 6-13)
@@ -345,6 +349,7 @@ around on the ATV and look at the dinosaur eggs while Robert Muldoon watches fro
 Hopefully the velociraptor doesn’t escape!
 Congratulations! Now the Velociraptor Escape is complete!
 Thank you so much for building this set!
+§
 There are two pages of ads in the first book after the instructions end. All of these adds showcase various
 iconic scenes from the original Jurassic Park movie!
 The first page shows one ad for set number 76961, the Jurassic Park Visitor Center: T.rex & Raptor

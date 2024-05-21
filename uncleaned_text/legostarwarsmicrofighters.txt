@@ -1,4 +1,5 @@
 Lego Star Wars Microfighters 75072
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,12 +15,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
-The clone pilot wears yellow protective goggles and grey pants. His torso is printed with a white jacket
-with grey sleeves, and black suspenders, reminiscent of tentacles which hug his shoulders. His front
-(stomach is printed with the exit for the suspenders/tentacles, is a large rectangle, (possibly a battery). On
-the back, his suspenders go triangularly to his belt. In between them on the back is a pocket. His head is
-a double-sided face, with a frown on one side, and a calm face on the other. (One is yelling, and the
-other is pensive)
+§
 Steps to build:
 1. Put a F 4x4 upside down on the table.
 Put a F 2x2 upside down on top of the two left columns, in the middle.
@@ -35,7 +31,6 @@ Repeat symm at the back.
 Put a 2x1/2x1 corner piece (with 2x1 buttons on the piece to the front, the side buttons to the left.
 Put a 2x2/3x2 step piece hot in the middle of the two right columns, the 2x2 end to the left and the 3x2
 overhanging to the right.
-
 Put a F 2x1 with the handle hor to the front, in the middle, the handle overhanging to the front.
 Put a 1x1 button to the left alligned with the brick of the 2x1 handle piece)
 Repeat steps 7.1.-7.2. symm at the back.
@@ -112,7 +107,9 @@ bottom.
 Repeat symm at the back.
 Enjoy!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

@@ -120,6 +120,7 @@ the landing sites of the different Apollo missions that landed on the moon, name
 16, and 17. The final picture shows the lunar orbiter at splashdown, after having landed back on earth in
 the ocean, with an orange dinghy with four men in black diving suits next to it.
 The build is 1969 pieces and 337 building steps.
+§
 Welcome to text-based instructions from Bricks for the Blind. Before you start building, here are some
 terms we’ll be using:
 - Front: towards you.
@@ -134,6 +135,7 @@ terms we’ll be using:
 at the right, connector to the front, and then place another such piece symmetrically on the back wall, at
 the right, the technic connector of the second piece should point to the back, since it will be placed
 symmetrically.
+§
 A note on LEGO Technic™ part names. These parts are somewhat different from regular LEGO bricks.
 Here are some definitions in case the builder or helper is not familiar with LEGO Technic™.
 Axles - An axle is a connector which has an X shaped cross-section. Because their cross section is not
@@ -166,11 +168,13 @@ Bushes/Bushings - LEGO Technic™ uses bushes largely as spacers, but they also 
 between rotating parts, or can form useful elements such as handles. Bushes are typically light gray,
 generally cylindrical, and have an axle-hole running through the middle. They have a flange at the front
 and back to make them easier to pull on and off
+§
 For builders with low vision, or a sighted building partner may want to follow along with the printed visual
 instructions that come with each kit or PDF versions are always online at LEGO.com for each set:
 (https://www.lego.com/en-us/service/buildinginstructions/92176) As low vision users may benefit from
 viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 sighted friend or family member do this in advance following the instructions below. You will see that the
@@ -282,6 +286,7 @@ Group 56 contains the pieces for steps 314-325.
 Group 57 contains the pieces for steps 326-329.
 Group 58 contains the pieces for steps 330-337. The two light bluish gray 1x6 plates from steps 330 and
 333 are in a separate subgroup.
+§
 Building Instructions:
 The first six large bags deal with the first stage of the rocket.
 Start by using the parts from the first large bag to build the inner structure of the first stage.
@@ -1902,6 +1907,7 @@ Make sure that you repeated steps 334-336 two times.
 lift-arms (so the thin lift-arms should be oriented horizontally). The taller stand should be placed under the
 third stage. The two smaller stands should be placed under the first and second stage.
 Congratulations! You have successfully built the NASA Apollo Saturn V!
+§
 The three stages can be separated by doing the opposite of what you did during construction (so by
 pulling apart the stages, separating the clips from the bars). Also, the lunar lander can be placed within
 the ascent stage. To do so, separate the ascent stage from the third stage, separate the lunar lander from

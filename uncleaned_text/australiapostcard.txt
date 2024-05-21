@@ -26,6 +26,7 @@ image depicts the large eucalyptus tree with the yellow-crested cockatoo sitting
 road sign warning about kangaroos. The bottom right inset image shows the gray windmill with some
 purple desert flowers next to it.
 The build is 191 pieces and 54 building steps.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 - Front: towards you.
@@ -45,6 +46,7 @@ instructions that come with each kit or PDF versions are always online at LEGO.c
 (https://www.lego.com/en-us/service/buildinginstructions/40651) As low vision users may benefit from
 viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 sighted friend or family member do this in advance following the instructions below. You will see that the
@@ -72,6 +74,7 @@ sub-bag.
 Group 7 contains the pieces for steps 30-35.
 Group 8 contains the pieces for steps 36-44.
 Group 9 contains the pieces for steps 45-54.
+§
 Building Instructions:
 Open bag 1 and group 1 which contains the pieces for steps 1-6 and the dark orange 1x2 tile from step 7.
 The two medium blue 1x2 tiles from step 6 are in a separate sub-bag.
@@ -370,5 +373,6 @@ horizontally from the front to the six studs in the bottom center of the base of
 the top.
 Congrats, you have finished building the Australia Postcard.
 Thank you so much for building this set!
+§
 At the end of the instruction booklets there are no advertisements for other sets.
 Visit legofortheblind.com for more accessible instructions and tell your friends about us!

@@ -1,5 +1,9 @@
-
 76014 Spider-Trike VS Electro
+Electro is menacing the citizens by hovering above their heads with fearsome electricity bolts spinning
+under his feet and a diamond he has just stolen. Only Spider-Man can end his reign of terror using the
+great new Spider-Trike. Use the ejector seat to launch Spider-Man at his nemesis and win the day for
+the good guys. Includes Spider-Man and new, exclusive Electro minifigures with an accessory
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -15,11 +19,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
-Electro is menacing the citizens by hovering above their heads with fearsome electricity bolts spinning
-under his feet and a diamond he has just stolen. Only Spider-Man can end his reign of terror using the
-great new Spider-Trike. Use the ejector seat to launch Spider-Man at his nemesis and win the day for
-the good guys. Includes Spider-Man and new, exclusive Electro minifigures with an accessory
-Note: larger-slit connectors are in a separate bag.
+§
 Bag 1. Electro
 Insert a connector-end of a F 2x2 piece with an attached connector into the middle hole of a Christmas
 tree-stand piece. This is a round piece with four vertical clasps on its sides.
@@ -109,7 +109,9 @@ Number fifteen.
 Put the Spiderman figure onto the seat.
 Enjoy.
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

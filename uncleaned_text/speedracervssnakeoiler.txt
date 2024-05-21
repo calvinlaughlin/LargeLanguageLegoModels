@@ -1,4 +1,6 @@
 8158 Speed Racer VS Snake Oiler
+Featured in Casa Cristo Classic cross-country road rally. Includes Speed Racers Mach 5 and Snakes car.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,9 +16,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
-Featured in Casa Cristo Classic cross-country road rally. Includes Speed Racers Mach 5 and Snakes car.
-Please note: This set contains stickers. I have not written out instructions for their proper application.
-Please get some sighted assistance if you want to apply them correctly.
+§
 Bag 1: Build the Speed racer: 1. Put 2 f6x1 hor parallel to each other on the table with a gap of 2 rows
 between them.
 2. Put an f8x1 ver on top of the rightmost buttons of the two pps, so that it overhangs to the front and the

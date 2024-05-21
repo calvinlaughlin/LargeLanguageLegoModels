@@ -1,4 +1,10 @@
 6401 Seaside Cabana
+This beach scene from 1992 features a deck/veranda with a table with sunshade and two chairs, a mug,
+a parrot, wind-surfing board with sail, foliage, and a small one-person motorboat. The set includes 2
+minifigures, a man with a lifejacket, and a woman with a pony-tail.
+Minifigures. The girl: The girl has a ponytail and bangs, her eyes have make-up with heavy eyelashes,
+and lipstick with a red summer blouse with a blue bow on it.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,11 +20,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
-This beach scene from 1992 features a deck/veranda with a table with sunshade and two chairs, a mug,
-a parrot, wind-surfing board with sail, foliage, and a small one-person motorboat. The set includes 2
-minifigures, a man with a lifejacket, and a woman with a pony-tail.
-Minifigures. The girl: The girl has a ponytail and bangs, her eyes have make-up with heavy eyelashes,
-and lipstick with a red summer blouse with a blue bow on it.
+§
 1. Put the 2 pizza pieces side by side so they form a semi-circle.
 2. Take a 2x2 cylinder and put it on the second row form the front, in the middle connecting the two
 pieces. Put a 4x1 fence piece horizontally on the back row one column to the right from the left edge.
@@ -54,7 +56,9 @@ middle hole, of the large pole so the ring is on the left, stick to the right, p
 that stick. Attach the sail to the surfboard.
 Enjoy!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

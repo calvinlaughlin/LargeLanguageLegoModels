@@ -49,6 +49,7 @@ are three inset pictures: the first shows Sirius Black in the jail cell, The sec
 feeding a drumstick to Buckbeak, the third shows Harry flying his broom in the courtyard while Hermione
 looks on nervously.
 The build is 345 pieces, and 121 building steps.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 - In Front of/Front: towards you.
@@ -74,6 +75,7 @@ visual instructions that come with each kit, PDF versions are always online at L
 (https://www.lego.com/en-us/service/buildinginstructions/76398) As low vision users may benefit
 from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
@@ -118,6 +120,7 @@ Group 19 contains the pieces for steps 92-97. Place sticker #4 for step 97.
 Group 20 contains the pieces for steps 98-104. Place sticker #5 for step 98.
 Group 21 contains the pieces for steps 105-111. Place sticker #2 for step 109.
 Group 22 contains the pieces for steps 112-121.
+§
 Building Instructions:
 Open bag 1.
 Open minifigure group 1.
@@ -659,6 +662,7 @@ with the third story on top of the second story. The cell should be at the back 
 even with the front and left edges.
 Congratulations! Now the Hogwarts Courtyard: Sirius’s Rescue is complete!
 Thank you so much for building this set!
+§
 There are three pages of ads after the instructions end.
 The first page shows all sixteen wizard cards! The cards available are: a silver Albus Dumbledor, a gold
 Albus Dumbledor, Severus Snape, Godric Gryfindor, Minerva McGonagall, Gilderoy Lockhart, Zalazar

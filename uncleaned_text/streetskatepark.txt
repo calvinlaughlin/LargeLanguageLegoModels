@@ -27,6 +27,7 @@ keep his balance! The back of the box also has 3 smaller pictures of the skaters
 tricks on the ramps and railings.
 The top of the box shows all 4 skaters having a good time drinking soda, jamming to music, and dancing.
 The build is 454 pieces in total, 169 pages/steps long, and is for ages 6+.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we may be using:
 - Front: towards you.
@@ -44,14 +45,14 @@ at the right, the technic connector of the second piece should point to the back
 symmetrically.
 - Centered vertically: even amount of space in front of and back of the piece
 - Centered horizontally: even amount of space left and right of the piece.
-
+§
 For builders with low vision, or a sighted building partner may want to follow along with the printed visual
 instructions that come with each kit, or PDF versions are always online at LEGO.com for each set:
 (https://www.lego.com/en-us/service/buildinginstructions/60364) As low vision users may benefit from
 viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
-
 To begin a successful build, it helps to sort the pieces into groups, bags, or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
 should be sorted according to the building steps in the kit. Doing this in advance makes locating the
@@ -686,6 +687,7 @@ pegs are facing back. Then insert the pegs into the holes on the front of the pl
 staircase build. 
 Congratulations, you finished the skate park! Now grab your skaters and let them ride on the ramps and
 pipes!
+§
 At the end of the instruction booklets are advertisements for the following 4 LEGO CITY Theme kits:
 60380 - Downtown
 60362 - Car Wash

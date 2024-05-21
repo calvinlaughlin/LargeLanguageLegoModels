@@ -1,4 +1,3 @@
-
 10246 Detective’s Office
 Discover a world of mystery and adventure with the LEGO® Creator Expert Detective’s Office! Step
 through the open archway and into the barbershop, where seated customers are pampered in the
@@ -12,6 +11,7 @@ the building features a decorative roofline and a beautifully designed façade. 
 smuggling mystery? Includes 6 minifigures with assorted accessories: Detective Ace Brickman, Al the
 barber, dart player, pool player, policewoman and a mysterious lady in red. There are 2,262 pieces in
 this set!
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -27,6 +27,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
+§
 Book 1
 Bag 1
 Put a F 32x32 on the table.
@@ -1835,7 +1836,9 @@ buttons together.
 Install in the middle of the front pavement.
 Congratulations, this was a 2,262 piece set!!!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

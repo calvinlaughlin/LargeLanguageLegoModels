@@ -44,6 +44,7 @@ one red katana, a red and black shrine, and three light green 2x2 circular tiles
 the shrine can be used to launch the circular tiles like projectiles! Another inset shows how the motorcycle
 is built, highlighting its simplicity.
 The build is 64 pieces, and 36 building steps.
+§
 Welcome to text-based instructions from Bricks for the Blind. Before you start building, here are some
 terms we’ll be using:
 - In Front of/Front: towards you.
@@ -70,6 +71,7 @@ visual instructions that come with each kit, PDF versions are always online at L
 (https://www.lego.com/en-us/service/buildinginstructions/71788) As low vision users may benefit
 from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 sighted friend or family member do this in advance following the instructions below. You will see that the
@@ -94,6 +96,7 @@ Group 1 contains the pieces for pages 10 - 25.
 Group 2 contains the pieces for pages 26 - 45.
 Main build 2 - Bone Temple
 Group 3 contains the pieces for pages 46 - 73.
+§
 Building Instructions:
 Open minifigure group 1 - Lloyd.
 Assemble the Lloyd minifigure by placing the torso on the legs, the head on the torso, and finally place
@@ -192,6 +195,7 @@ another, symmetrically to the left of the first. When attached, these should for
 at the back of the temple. It will launch out the front! The set comes with three of these 2x2 circular tiles.
 Congratulations! Now Lloyd’s Ninja Street Bike is complete!
 Thank you so much for building this set!
+§
 There are two pages of ads after the instructions end. All of the sets are other Ninjago sets!
 The first page shows the boxes for four Ninjago sets. The first is set number 71785, Jay’s Titan Mech.
 This box shows a large, blue, white and gold mech holding a giant gold sword! The second is set number

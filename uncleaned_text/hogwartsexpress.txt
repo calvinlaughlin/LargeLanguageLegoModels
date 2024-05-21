@@ -50,6 +50,7 @@ Her cart is stocked with sweets! The middle inset shows the interior of the trai
 and a quill pen, as well as a toilet! The right inset shows Ron at another desk inside the station. A small
 cubby to the right has an owl in it, showing that this is the owl post for the station!
 The build is 1074 pieces, and 258 building steps.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 - In Front of/Front: towards you.
@@ -75,6 +76,7 @@ visual instructions that come with each kit, PDF versions are always online at L
 (https://www.lego.com/en-us/service/buildinginstructions/76423) As low vision users may benefit
 from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
@@ -172,6 +174,7 @@ to keep them distinct from the dark green ones.
 Group 43 contains the pieces for step 64.
 Group 44 contains the pieces for steps 65-73. Place sticker #12 for step 72.
 Group 45 contains the pieces for steps 74-79.
+§
 A note on LEGO Technic™ part names. These parts are somewhat different from regular LEGO bricks.
 Here are some definitions in case the builder or helper is not familiar with LEGO Technic™.
 Axles - An axle is a connector which has an X shaped cross-section. Because their cross section is not
@@ -204,6 +207,7 @@ Bushes/Bushings - LEGO Technic™ uses bushes largely as spacers, but they also 
 between rotating parts, or can form useful elements such as handles. Bushes are typically light gray,
 generally cylindrical, and have an axle-hole running through the middle. They have a flange at the front
 and back to make them easier to pull on and off
+§
 Building Instructions:
 Minifigure Group 1:
 Assemble the Harry Potter minifigure by attaching the hair to the head, the head to the stud on the torso,
@@ -1603,6 +1607,7 @@ the train cars! Unfortunately, their legs don’t bend, so they stand in the sea
 next to her cart. You can drive the train on the floor and drive it up the ramp to have it pull into the station!
 If you have LEGO trains, this train will fit on the same tracks!
 Thank you so much for building this set!
+§
 There are two pages of ads after the instructions end.
 The ads show how you can connect multiple sets together to make one giant Hogwarts castle! The main
 image stretches across both pages and it shows the castle against a backdrop of misty hills. The castle is

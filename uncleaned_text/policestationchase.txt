@@ -27,6 +27,7 @@ The build is 172 pieces in total, 143 steps long, and is for ages 4+.
 Bag 1 includes the pieces for the robber, motorcycle, and jail. Bag 2 includes the pieces for the prisoner,
 dog, and gate. Bag 3 includes the pieces for a police officer and monitor room. Bag 4 includes the pieces
 for another police officer and a police car.
+§
 Welcome to text-based instructions from Bricks for the Blind. Before you start building, here are some
 terms we may be using:
 - In Front of/Front: towards you.
@@ -48,11 +49,13 @@ second piece should point to the back, since it will be placed symmetrically.
 - Centered-horizontally: even amount of space left and right of piece.
 - Row: studs lined up from left to right.
 - Column: studs lined up from top to bottom or front to back
+§
 For builders with low vision, or a sighted building partner may want to follow along with the printed visual
 instructions that come with each kit, or PDF versions are always online at LEGO.com for each set:
 (https://www.lego.com/en-us/service/buildinginstructions/60370) As low vision users may benefit from
 viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 Bag 1:
 Group 1 - Pages 6-7 (Robber Minifigure).
@@ -73,6 +76,7 @@ Group 12 - Pages 4-5 (Police officer).
 Group 13 - 6-11 (Car).
 Group 14 - 12-19 (Car).
 Group 15 - 20-29 (Car).
+§
 Let’s get to building!
 Building Instructions (Bag 1, Book 1):
 Group 1 - Robber Minifigure
@@ -276,6 +280,6 @@ Congratulations you finished the police car!
 Now that you have finished you can put together all the builds! The gate goes in the middle while the jail
 sits to the left and the monitor room sits to the right of it. If you want to secure it and make it stable, you
 can add pegs to the 3 holes in the 1x4 bricks on the sides of each part and connect them!
-
+§
 There are no ads at the end of the instructions.
 Visit bricksfortheblind.org for more accessible instructions and tell your friends about us!

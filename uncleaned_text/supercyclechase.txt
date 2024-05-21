@@ -1,4 +1,9 @@
 70808 Super Cycle Chace
+No time to waste! Use your Master Builder skills to help Wyldstyle assemble a two-seater, flaming-fast
+dragster from the materials she collects. Help Emmet to escape from the Robo SWATs. Rev up the
+engine to jump over the spike strip roadblock and speed away. Dodge the Robo Police guns and their 4x4
+SWAT car’s flick missiles and deadly dynamite.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,10 +19,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
-No time to waste! Use your Master Builder skills to help Wyldstyle assemble a two-seater, flaming-fast
-dragster from the materials she collects. Help Emmet to escape from the Robo SWATs. Rev up the
-engine to jump over the spike strip roadblock and speed away. Dodge the Robo Police guns and their 4x4
-SWAT car’s flick missiles and deadly dynamite.
+§
 Book 1.
 B. 1-5
 1. put a F 4x2 hor on the table.
@@ -450,7 +452,9 @@ Install one upright, ver, smooth side to the left, diagonally (the front edge to
 putting the handle into the clasp underneath the windshield; and one symm at the back.
 Enjoy!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

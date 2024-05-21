@@ -39,6 +39,7 @@ Peter Pan’s train car, and the train station. To the right, there is a small i
 being added on below a banner which reads “Learn to build.” Below this is the back of Moana’s train car,
 showing how a yellow box can be hidden in the mountain.
 The build is 200 pieces, and 79 building steps.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 - Front: towards you.
@@ -58,6 +59,7 @@ instructions that come with each kit or PDF versions are always online at LEGO.c
 (https://www.lego.com/en-us/service/buildinginstructions/43212) As low vision users may benefit from
 viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
@@ -103,6 +105,7 @@ Bag 5 (2 groups of bricks)
 Group 12 contains the pieces to build Minnie Mouse holding a yellow balloon. This covers the steps on
 pages 4-7 of Book 5.
 Group 13 contains the pieces to build the train station. This covers the steps on pages 8-25 of Book 5.
+§
 Building Instructions:
 Open bag 1.
 Sub-build 1 - Mickey Mouse Minifigure
@@ -406,6 +409,7 @@ on top of the flag with the barbed end pointing up, and push it all the way down
 Now the train station is complete! Minnie Mouse can stand in the station holding her balloon!
 Congratulations! Now the Disney Celebration Train is complete!
 Thank you so much for building this set!
+§
 Book 2 includes two pages of ads after the instructions!
 The first page contains two ads, the first is an ad for set number 43216, Princess Enchanted Journey. In
 the image, Cinderella walks next to a white horse pulling a gilded blue and white carriage down a road

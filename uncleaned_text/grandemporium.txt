@@ -1,4 +1,13 @@
 10211 Grand Emporium
+The LEGO® Modular Buildings series continues with this spectacularly detailed 3-story department store,
+designed in a realistic scale with lots of special building techniques and rare pieces. On the street outside,
+citizens carry shopping bags, send letters at the mailbox, admire the window mannequins, then cool off at
+the ice cream stand while a busy window washer works above. Enter through the revolving doors to
+discover a ground-floor clothing department, complete with a cash register, fitting room, hats, jewelry,
+perfume, and even a selection of spare trousers. A brick-built escalator carries customers to the secondfloor housewares department with glassware and golden plates for special occasions, and then it’s up to
+the top floor for the toy department (complete with toy house and push-scooter) with an impressive
+chandelier above the open atrium. Up on the roof are a billboard and skylight!
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,15 +23,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
-The LEGO® Modular Buildings series continues with this spectacularly detailed 3-story department store,
-designed in a realistic scale with lots of special building techniques and rare pieces. On the street outside,
-citizens carry shopping bags, send letters at the mailbox, admire the window mannequins, then cool off at
-the ice cream stand while a busy window washer works above. Enter through the revolving doors to
-discover a ground-floor clothing department, complete with a cash register, fitting room, hats, jewelry,
-perfume, and even a selection of spare trousers. A brick-built escalator carries customers to the secondfloor housewares department with glassware and golden plates for special occasions, and then it’s up to
-the top floor for the toy department (complete with toy house and push-scooter) with an impressive
-chandelier above the open atrium. Up on the roof are a billboard and skylight!
-People bag. Make the people.
+§
 Start the emporium!
 Bag 1 (items 1-2 in book)
 Take a 32x32 square base. We’ll call the top-to-bottom dot lines columns and the left-to-right dot lines
@@ -1195,7 +1196,9 @@ Repeat with the other handle piece.
 9. Attach the crib to the roof by the rope buttons letting the crib hang on the side along the wall.
 Hooray! You have done it!!!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

@@ -1,4 +1,5 @@
 10197 Fire Brigade
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -20,6 +21,7 @@ LEGO® pieces and innovative construction techniques. It includes a ‘30s-style
 fire dog, an opening station garage door, and a removable building roof for interior access. It also
 includes 2 fully furnished floors with fire-fighting tools, racks for the firemen's helmets, fire-pole, ping-pong
 table, kitchen with fully stocked fridge, couch, bookshelf and a roof with a water tower and bell.
+§
 Bag 1.
 1. Put two largest platform pieces vertically side by side. Put a 3x2 flat piece vertically in the middle
 of the front edge, on the seam between them to connect them.
@@ -1767,7 +1769,9 @@ previous step.
 35.Put this lantern in the middle of the front wall of the roof. Put the roof on the building.
 Enjoy!!!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

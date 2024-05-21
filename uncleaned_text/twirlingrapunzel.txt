@@ -35,6 +35,7 @@ another image of the music box, on a teal background. It shows that the key to t
 stored on a clip at the front. There is a small cubby where Pascal can hide, and Rapunzel’s gem-shaped
 dress can be used to store the Rapunzel figure!
 The build is 89 pieces, and 44 building steps.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 - In Front of/Front: towards you.
@@ -55,11 +56,13 @@ symmetrically.
 - Centered-vertically: even amount of space in front of and behind the piece
 - Centered-horizontally: even amount of space left and right of the piece.
 - Row: studs lined up from left to right.
+§
 For builders with low vision, or a sighted building partner who may want to follow along with the printed
 visual instructions that come with each kit, PDF versions are always online at LEGO.com:
 (https://www.lego.com/en-us/service/buildinginstructions/43214) As low vision users may benefit
 from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
@@ -79,6 +82,7 @@ Group 2 contains the pieces for steps 7-10.
 Group 3 contains the pieces for steps 11-18, and a green 2x2 circular plate from step 19.
 Group 4 contains the pieces for steps 19-32, and a green 2x2 circular plate from step 33.
 Group 5 contains the pieces for steps 33-38.
+§
 Building Instructions:
 Note for helpers: I have broken some of LEGO’s original instructions into smaller steps, but I have kept
 the original base number. For example, step 5 is now steps 5.1 and 5.2.
@@ -206,6 +210,7 @@ bottom of the music box, with the leaves pointing up and away from the windows.
 and watch her spin!
 Congratulations! Now Twirling Rapunzel is complete!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions and tell your friends about us!
 There is one page with four ads after the instructions end!
 The first is an ad for set number 43216, Princess Enchanted Journey. In the image, Cinderella walks next

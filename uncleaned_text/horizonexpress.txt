@@ -1,4 +1,6 @@
 10233 Horizon Express
+Fly down the track in the Horizon Express!
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,7 +16,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
-Fly down the track in the Horizon Express!
+§
 Book 1. Engine.
 Book 2. passenger car.
 Book 3. Cafe/dining Car
@@ -1832,7 +1834,9 @@ the car, to the second car. Put the Battery box in the second
 car. You could also connect two of this set to make an entire train.
 On the back is an ad for Lego Town Hall, (set 10224.)
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

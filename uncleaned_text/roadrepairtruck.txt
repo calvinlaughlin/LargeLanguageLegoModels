@@ -1,4 +1,6 @@
 10750 Road Repair Truck
+Mystery Lego Juniors set Road Repair Truck with construction worker, cement mixer, and truck/trailer.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,8 +16,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are abbreviations defined at the end of this file.
-
-Mystery Lego Juniors set Road Repair Truck with construction worker, cement mixer, and truck/trailer.
+§
 Build a minifig, he has a red construction hat, orange vest and a black shovel.
 Put the car body hor on the table.
 Put a steering wheel in the indent at the left and put the seat to the right.
@@ -53,7 +54,9 @@ Put a 2x2 with connector on top, connector to the right.
 Take around 4x4 disk and mount it upright on the connector and the handles.
 Put a 4x4 cone with hole on top of the PP.
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

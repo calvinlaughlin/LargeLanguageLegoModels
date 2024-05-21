@@ -22,6 +22,7 @@ The back of the box shows all three flowers laying down, with the flowers facing
 can see the seedpods and stamen between the petals. An inset image shows a lotus flower silhouetted in
 dark green, with a line showing its full length from stem to petals of 18.10 inches (30.74 cm).
 The build is 220 pieces, and 29 building steps.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 - In Front of/Front: towards you.
@@ -47,6 +48,7 @@ visual instructions that come with each kit, PDF versions are always online at L
 (https://www.lego.com/en-us/product/lotus-flowers-40647) As low vision users may benefit from
 viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
@@ -75,6 +77,7 @@ White bloomed flower
 Group 6 contains the pieces for steps 1-2 for the white flower.
 Group 7 contains the pieces for steps 3-5 for the pink flower.
 Group 8 contains the pieces for steps 6-9 for the white flower.
+§
 A note on LEGO Technic™ part names. These parts are somewhat different from regular LEGO bricks.
 Here are some definitions in case the builder or helper is not familiar with LEGO Technic™.
 Axles - An axle is a connector which has an X shaped cross-section. Because their cross section is not
@@ -107,6 +110,7 @@ Bushes/Bushings - LEGO Technic™ uses bushes largely as spacers, but they also 
 between rotating parts, or can form useful elements such as handles. Bushes are typically light gray,
 generally cylindrical, and have an axle-hole running through the middle. They have a flange at the front
 and back to make them easier to pull on and off
+§
 Building Instructions:
 Note for helpers: I have broken some of LEGO’s original instructions into smaller steps, but I have kept
 the original base number. For example, step 5 are now steps 5.1 and 5.2.
@@ -241,4 +245,5 @@ the top. Push the axle at the top of the stem into the center of the steering wh
 flower until the top of the stem touches the steering wheel at the base of the flower.
 Congratulations! Now the Lotus Flowers are complete!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions and tell your friends about us!

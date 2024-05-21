@@ -1,4 +1,5 @@
 31040 Desert Racers
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,6 +15,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
+§
 Model 1: (the largest model, a jeep-style car.)
 1. Put a f6x2 upside-down hor on the table. Put a f2x1 with clasp, upside-down ver, clasp to the left, on
 the left edge. 2. Put a f2x1 ver upside-down to the right. Put a 2x1/2x1 upside-down ver on the right
@@ -49,7 +51,9 @@ edge (lower front, and lower back corners.) Put a stick intto the front clasp, a
 clasp on the right edge. Put on the ties on the wheels and put them onto the axles.
 You are done! 
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

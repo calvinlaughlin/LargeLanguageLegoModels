@@ -50,6 +50,7 @@ and is developed for all with an interest in travel, architecture, history and d
 • This set includes over 1,685 LEGO® pieces.
 • Measures over 17” (44cm) high, 5” (14cm) wide and 5” (14cm) deep.
 • The box has a picture of the completed Statue of Liberty on the front and the back.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -65,6 +66,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 The box has a picture of the completed Statue of Liberty on the front and the back.
+§
 Bag 1:
 We will start by building the base of the statue in Bag 1.
 Step 1: Put a black 8x2 plate vertically on the table.
@@ -1062,6 +1064,7 @@ Use two handcuff pieces to add detail to the statue's base by inserting them int
 base.
 Congratulations! That's it!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
 At the end of the instruction book, LEGO invite you to Celebrate the world of architecture and collect all
 the models:

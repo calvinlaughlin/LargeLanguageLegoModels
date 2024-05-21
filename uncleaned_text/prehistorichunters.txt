@@ -1,4 +1,8 @@
 6914 Prehistoric Hunters
+Run for it! The mighty T-Rex is on the loose! Rule the prehistoric world with his opening mouth full of
+teeth, powerful moving legs and a long tail! Rebuild it into a flying pterodactyl with moving wings or a
+poseable brachiosaurus!
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,9 +18,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
-Run for it! The mighty T-Rex is on the loose! Rule the prehistoric world with his opening mouth full of
-teeth, powerful moving legs and a long tail! Rebuild it into a flying pterodactyl with moving wings or a
-poseable brachiosaurus!
+§
 Instruction booklet for the sauropod.:
 1. Put a f6x2 hor on the table. Put a f4x2 hor on top, starting from the right. Put another f4x2 hor to the
 left.
@@ -120,7 +122,9 @@ Put a f1x1 on top, at the left. Put a 4x1 curve hor to the right. Slide to the r
 the right and attach to the Dino.
 Enjoy.
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

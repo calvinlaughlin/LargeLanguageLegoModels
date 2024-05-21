@@ -44,6 +44,7 @@ The back of the box shows the rear of the microfighter without the minifigures i
 next to it, the Mandolorian holding a blaster pistol and Grogu standing next to him. There is a small inset
 showing the stud shooters.
 The build is 88 pieces, and 37 building steps.
+§
 Welcome to text-based instructions from Bricks for the Blind. Before you start building, here are some
 terms we’ll be using:
 - In Front of/Front: towards you.
@@ -70,6 +71,7 @@ visual instructions that come with each kit, PDF versions are always online at L
 (https://www.lego.com/en-us/service/buildinginstructions/75363) As low vision users may benefit
 from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
@@ -94,6 +96,7 @@ blue 1x1 circular plate onto the 1x2 jumper plate.
 Group 5 contains the pieces for steps 15-23.
 Group 6 contains the pieces for steps 24-30.
 Group 7 contains the pieces for steps 31-37.
+§
 Building Instructions:
 Open bag 1.
 Open minifigure group.
@@ -224,6 +227,7 @@ are loaded, the trigger piece is forced up. To launch them, push the trigger dow
 launched!
 Congratulations! Now the The Mandalorian N-1 Starfighter Microfighter is complete!
 Thank you so much for building this set!
+§
 There are two pages of ads after the instructions end.
 The first page shows ads for five Star Wars sets. The top left is set number 75346, the Pirate Snub
 Fighter. Going around the page clockwise, the next set is 75348, the Mandalorian Fang Fighter vs. TIE

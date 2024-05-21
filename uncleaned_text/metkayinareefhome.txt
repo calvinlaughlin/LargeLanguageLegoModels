@@ -1,6 +1,5 @@
 75578 Metkayina Reef Home
 Set adapted by Lev Smolsky and tested by Matthew Shifrin
-
 The LEGO Avatar Metkayina home sits on top of 2 pillars and a cliff, with ladders to the beautiful coral
 reefs of Pandora and swimming fish below.
 This advanced LEGO® set features the Metkayina Reef Home, with a flexible roof and underwater
@@ -39,6 +38,7 @@ color, with animal patterns. The top corner of the back of the box shows three z
 home, offering a variety of views of the minifigures with their cooking equipment, a minifigure in the
 canoe, and a part of the underwater portion of the set. The sides of the boxes give us more similar angles
 of the set.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 - In Front of/Front: towards you. - Behind/Back: away from you.
@@ -99,6 +99,7 @@ Group 15 contains the pieces for steps 131-155
 Group 16 contains the pieces for steps 156-166
 Group 17 contains the pieces for steps 167-176
 Group 18 contains the pieces for steps 177-182
+§
 Building instructions
 Bag 1, we will be building two minifigures, a boat, and a coral base.
 1. Assemble the first minifigure by connecting the legs, tail, torso, head, and hair. This minifigure has
@@ -124,7 +125,6 @@ across from the first two, so that the assembly is symmetrical. It should measur
 protrusions are horizontally at the front and at the back onto the rightmost four studs of the 2x6, so that
 the little angled ends go in front and behind the rightmost 1x2 grilled tile. Place the second one similarly,
 so that it is on the left side, across from the first, so that the assembly is symmetrical.
-
 6. Locate the two green long and bendy pointy pieces that have two studs at one end, and a long bendy
 tapering part at the other end. Place the first one onto the rightmost four studs of the entire assembly, so
 that it points to the right. Two of those studs shouldn’t mount, and that's intended. Place the second one
@@ -392,7 +392,6 @@ Each should still have 5 studs of the piece under it exposed to its left.
 65. Place a tan 2x10 plate horizontally directly to the left and front of the front 1x6 placed in the last step.
 The entire front row of the 2x10 should overhang forward, and the 5 leftmost columns of the 2x10 should
 overhang to the left.
-
 66. Locate a black 1x6 plate and orient it vertically.
 67. Locate two light gray 2x2 plates which look like a 1x2 plate with a 1x2 brick with a technic pin hole on
 the side. Orient them both so that both of their pinholes are pointing to the left. Then lay them next to
@@ -490,7 +489,6 @@ black pins into the pinholes at the top right of the main assembly.
 92. Set this assembly aside. Locate two corresponding tan 3x12 triangular pieces, where corresponding
 means they are opposite-oriented. Lay them together horizontally so they create a trapezoid pointing to
 the left.
-
 93. Place a tan 2x2 tile onto the leftmost four studs of this trapezoid. Then place a tan 1x2 grilled tile
 vertically directly to the right of the previous piece.
 94. Flip your part upside-down it should still be horizontal with the narrow end at the left and wide end at
@@ -724,7 +722,6 @@ it directly behind the previous piece’s left column. Place a white 1x1 round p
 previous piece, pointing back.
 154. Place a dark gray 2x2 corner brick onto the previous piece and onto the back right stud of the 2x2
 inverted sloped brick, so that the corner is on the back left stud of the horizontal cliff piece.
-
 155. Place a dark gray 1x2 inverted sloped brick directly in front of the previous piece’s right column,
 sloping up forward. Place a dark gray 2x2 inverted sloped brick directly to the left of the previous piece’s
 back stud and the 2x2 corner piece’s front end, sloping up and to the left.
@@ -832,6 +829,7 @@ forward. Place a white 1x1 round plate onto the previous piece’s left stud.
 top, in the back left of the assembly, which was placed recently. Put an orange fish piece into the barrel.
 That's it! Great work!
 Thank you so much for building this set!
+§
 Visit bricksfortheblind.com for more accessible instructions and tell your friends about us!
 At the end of the instruction booklets are advertisements for the following 9 other LEGO Avatar Theme
 kits:

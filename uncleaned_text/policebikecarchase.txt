@@ -21,6 +21,7 @@ The top of the box shows the police officer's minifigure and how you can attach 
 crook’s hands.
 The build is 59 pieces in total, 36 pages/steps, and is for ages 5+.
 Bag 1 includes the pieces for the police bike, the getaway car, the police officer, and the crook.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we may be using:
 - In Front of/Front: towards you.
@@ -42,11 +43,13 @@ second piece should point to the back, since it will be placed symmetrically.
 - Centered-horizontally: even amount of space left and right of piece.
 - Row: studs lined up from left to right.
 - Column: studs lined up from top to bottom or front to back
+§
 For builders with low vision, or a sighted building partner may want to follow along with the printed visual
 instructions that come with each kit, or PDF versions are always online at LEGO.com for each set:
 (https://www.lego.com/en-us/service/buildinginstructions/60392) As low vision users may benefit from
 viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags, or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
@@ -68,6 +71,7 @@ Group 3 has the pieces for pages 7-11. (Police bike)
 Group 4 has the pieces for pages 12-23. (Crook car part 1)
 Group 5 has the pieces for pages 24-32 (Crook car part 2)
 Group 6 has the pieces for pages 33-36 (Wheels)
+§
 Let’s get to building!
 Building Instructions (Bag 1 and 2, Book 1):
 Group 1 — Police officer minifigure
@@ -140,6 +144,7 @@ Group 6 — Wheels
 the flat side of the cylinders, insert them into each of the 4 pegs on the car. Congratulations, you have 
 finished the crook’s car! Now put your crook in front of the steering wheel and let him ride off with his
 money! Don’t get caught by the officer!
+§
 At the end of the instruction booklets are advertisements for the following 5 LEGO CITY Theme kits:
 60372 - City Police Training Academy
 60374 - City Fire Command Truck

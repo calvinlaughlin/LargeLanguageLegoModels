@@ -1,4 +1,6 @@
 42031 Tow Truck
+Reach dizzying heights with the awesome LEGO® Technic Tow Truck! Let’s get to work!
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,7 +16,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
-Reach dizzying heights with the awesome LEGO® Technic Tow Truck! Let’s get to work!
+§
 Tow truck
 Bag 1.
 Put a 9x1 oblong piece hor on the table, holes to front and back.
@@ -229,7 +231,9 @@ Bag 26.
 Put the wheels on.
 Enjoy!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

@@ -27,6 +27,7 @@ different parts of the build. (155 pages total)
 Bag 1 includes the fire truck, a flame, and a female firefighter.
 Bag 2 includes the popcorn cart, popcorn vendor, and the first floor of the fire station.
 Bag 3 includes the second floor of the fire station and a male firefighter.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we may be using:
 - Front: towards you.
@@ -44,14 +45,13 @@ wall, at the right, the technic connector of the second piece should point to th
 placed symmetrically.
 Note: When I say phrases along the lines of “2 studs in from the left”, I mean count two studs from the left
 and place it on the second stud.
-
 For builders with low vision, or a sighted building partner may want to follow along with the printed visual
 instructions that come with each kit or PDF versions are always online at LEGO.com for each set:
 (https://www.lego.com/en-us/service/buildinginstructions/60375) As low vision users may benefit
 from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
-
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
 should be sorted according to the building steps in the kit. Doing this in advance makes locating the
@@ -91,10 +91,10 @@ Group 9 contains the pieces for pages 4-5. (Male firefighter minifigure).
 Group 10 contains the pieces for pages 6-11. (Top floor part 1).
 Group 11 contains the pieces for pages 12-41. (Top floor part 2).
 Group 12 contains the pieces for pages 42-51. (Top floor part 3).
+§
 Let’s get to building!
 Building Instructions (Bag 1):
 Group 1 — Firefighter Minifigure
-
 6-7. Assemble the firefighter Minifigure by using the black legs, firefighter uniform torso, female head, and
 neon yellow helmet. Insert the walkie-talkie into her hand.
 Group 2 — Fire
@@ -336,6 +336,7 @@ making sure that the wall is facing the right.
 50-51. Lastly, place this build on top of the last build you created making sure that the frames align with
 each other and that there is no overhang.
 Congratulations, you have finished the Fire Station and Fire Truck build!
+§
 The next page shows ads for 5 city-themed LEGO sets.
 60372 - City Police Training Academy
 This ad shows police officers training by doing an obstacle course that includes climbing a wall, monkey

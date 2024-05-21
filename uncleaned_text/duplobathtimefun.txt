@@ -11,6 +11,7 @@ flamingo on a blue floating ring. The back of the poster shows the additional se
 separately and connected. The set does not come with any other instructions.
 When you're done building, you can store your animals in the cylindrical container, which is also the
 island! The lid is very hard to remove, so ask for help if you can't remove it.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -25,6 +26,7 @@ Symmetrically: a mirror image. Example: If you place a 2x1 brick with technic co
 front wall at the right, connector to the front, and then place another such piece symmetrically on
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
+§
 First let's build our lion!
 1. Find a brown lion's head, It has no studs on top.
 2. Put it on a yellow 2x2 curved brick with 4 studs. (It's printed with the lion’s paws which are holding a
@@ -60,4 +62,5 @@ can put on top of the life preserver.
 You're all done!
 Enjoy!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions and tell your friends about us!

@@ -19,6 +19,7 @@ The build is 654 pieces in total, 204 steps, and is for ages 10+.
 There are 3 bags labeled 1 that have the pieces for the red torso, 2 bags labeled 2 that have the pieces
 for the blue legs, bag 3 has the pieces for the hands and arms, bag 4 has the pieces for the head, and
 bag 5 has the pieces for the hat and minifigure.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we may be using:
 - In Front of/Front: towards you.
@@ -40,11 +41,13 @@ second piece should point to the back, since it will be placed symmetrically.
 - Centered-horizontally: even amount of space left and right of piece.
 - Row: studs lined up from left to right.
 - Column: studs lined up from top to bottom or back to front.
+§
 For builders with low vision, or a sighted building partner may want to follow along with the printed visual
 instructions that come with each kit, or PDF versions are always online at LEGO.com for each set:
 (https://www.lego.com/en-us/service/buildinginstructions/40649) As low vision users may benefit from
 viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags, or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
@@ -104,6 +107,7 @@ Group 36 - Step 201: This group has 1 dark grey 1x2 slope tile with a green rada
 Group 37 - Step 201: This group has 1 dark grey 1x2 slope tile with red and grey buttons printed on it
 (Buttons).
 Group 38 - Steps 202-204: This group includes the large blue dome piece (Handlebars and Dome).
+§
 Let’s get to building!
 Warning! This set is difficult to build. Be very careful when handling the various assemblies when
 connecting them and lots of patience is needed when building this set! Do not press too hard on
@@ -990,5 +994,6 @@ Do this until your dome fits perfectly on the hat.
 Congratulations, you have finished the Up-Scaled Minifigure! Now grab your small minifigure and sit him
 down in the cockpit! Orient his hands so he is driving the big minifigure! You might have to move the
 handlebars to fit your driver!
+§
 The last 2 pages have a list of all the parts used!
 Congratulations again on completing your Up-Scaled Minifigure!

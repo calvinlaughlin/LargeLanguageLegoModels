@@ -1,5 +1,5 @@
 10732 Guido and Luigi's Pit Stop
-
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -15,7 +15,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are abbreviations defined at the end of this file.
-
+§
 Let’s get started!
 Take a 4x2 with a concaved 2x2 and short wheel axles and put the wheels on.
 Put 2 fs2x1s with 1 button hor onto the raised 2x1s at the front and the back of the part.
@@ -68,7 +68,9 @@ Put a 1x1 cone on the narrow end of the telescope piece.
 Put the hose into the 1x1 side button and clasp the handle of the hose into
 the right clasp.
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

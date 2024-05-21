@@ -12,6 +12,7 @@ included Hera minifigure with blaster pistol.
  Makes a great addition to any microfighter collectible set.
  Measures over 1” (4cm) high, 3” (10cm) long and 3” (9cm) wide.
 The build is 104 pieces, and 28 building steps.
+§
 Welcome to text-based instructions from Bricks for the Blind. Before you start building,
 here are some terms we’ll be using:
 - In Front of/Front: towards you.
@@ -36,11 +37,13 @@ symmetrically.
 - Centered-horizontally: even amount of space left and right of piece.
 - Row: studs lined up horizontally (left to right/side to side).
 - Column: studs lined up upright or vertically (top to bottom/back to front).
+§
 For builders with low vision, or a sighted building partner who may want to follow along with the printed
 visual instructions that come with each kit, PDF versions are always online at LEGO.com:
 (https://www.lego.com/en-us/service/buildinginstructions/75127) As low vision users may benefit from
 viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Let’s build the Minifigure!
 Our minifigure Hera Syndulla, features goggles on her head, and two tails at the back of her head. She
 wears a brown vest, and her legs are printed with a safety harness, and she’s armed with a blaster pistol.
@@ -165,6 +168,7 @@ you its free stud to the right. Put a transparent 1x1 slope tile onto the shoote
 right. Now turn the stud shooter vertically, so the slope tile is at the back, and mount it on the 2x1 jumper
 tiles at the front of your ship, it should shoot towards you. Now put a green 1x1 stud into the shooter and
 fire away! Be careful, and don’t aim it at your face.
+§
 In the back of the instructions is an advertisement featuring 6 Series 3 Microfighters sets:
 The Resistance X-wing Fighter (75125),
 The First Order Snow Speeder (75126),

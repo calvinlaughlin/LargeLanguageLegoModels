@@ -26,6 +26,7 @@ base to allow the operator to dig almost anywhere! The excavator is the alternat
 truck. An inset view shows the dump truck, with an arrow pointing to a small picture of the excavator,
 indicating the dump truck can be rebuilt into the excavator.
 The build is 177 pieces, and the main build is 90 building steps. The alternate build is 73 building steps.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 - In Front of/Front: towards you.
@@ -52,6 +53,7 @@ instructions that come with each kit or PDF versions are always online at LEGO.c
 (https://www.lego.com/en-us/service/buildinginstructions/42147) As low vision users may benefit
 from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
@@ -115,6 +117,7 @@ Bushes/Bushings - LEGO Technic™ uses bushes largely as spacers, but they also 
 between rotating parts, or can form useful elements such as handles. Bushes are typically light gray,
 generally cylindrical, and have an axle-hole running through the middle. They have a flange at the front
 and back to make them easier to pull on and off.
+§
 Open group 1
 We’ll start by building the chassis at the cab-end of the truck! It won’t look like much for a while, but be
 patient!
@@ -447,5 +450,6 @@ Now the truck is done!! Turn the gear on the top of the truck to turn the wheels
 you’re ready to empty the truck bed, turn the gear between the driver’s side wheels to raise and lower the
 bed!
 Thank you so much for building this set!
+§
 There are no ads after the instructions end.
 Visit legofortheblind.com for more accessible instructions and tell your friends about us!

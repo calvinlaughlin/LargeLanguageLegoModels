@@ -32,6 +32,7 @@ to the carrot and flower. The cockatoo is shown perched on a computer generated 
 shown in a swimming pose on a blue background.
 The rabbit build is 258 pieces, and 102 building steps. The cockatoo build is 173 pieces and 74 building
 steps. The seal is 161 pieces and 59 steps.
+§
 Welcome to text-based instructions from Bricks for the Blind. Before you start building, here are some
 terms we’ll be using:
 - In Front of/Front: towards you.
@@ -53,11 +54,13 @@ symmetrically.
 - Centered-horizontally: even amount of space left and right of the piece.
 - Row: studs lined up horizontally (left to right/side to side).
 - Column: studs lined up upright or vertically (top to bottom/back to front).
+§
 For builders with low vision, or a sighted building partner who may want to follow along with the printed
 visual instructions that come with each kit, PDF versions are always online at LEGO.com:
 (https://www.lego.com/en-us/service/buildinginstructions/31133) As low vision users may benefit
 from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
@@ -91,6 +94,7 @@ Group 14 contains the pieces for steps 1-7 of the flower.
 Sub-build 2: Carrot
 Group 15 contains the pieces for steps 1-4 of the carrot.
 Group 16 contains the pieces for steps 5-7 of the carrot.
+§
 Building Instructions:
 Open bag 1.
 Open group 1.
@@ -1005,5 +1009,6 @@ rightmost anti-stud of the fish so it overhangs one stud to the right.
 Now, place the seal in front of you. You can pose him however you like, and let him play with the fish!
 Congratulations! Now the Seal is complete!
 Thank you so much for building this set!
+§
 There are no ads after the instructions end.
 Visit bricksfortheblind.org for more accessible instructions and tell your friends about us!

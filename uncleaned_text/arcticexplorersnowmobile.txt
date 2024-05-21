@@ -27,6 +27,7 @@ the sides of her face, she is wearing a dark blue beanie to stay warm!
 The build is 70 pieces in total, 51 pages/steps long, and is for ages 5+.
 There are 2 bags that include the pieces for the snowmobile, the camera, the iceberg, the Arctic explorer
 minifigure, and the seals.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we may be using:
 - In Front of/Front: towards you.
@@ -50,14 +51,8 @@ second piece should point to the back, since it will be placed symmetrically.
 - Column: studs lined up from top to bottom or back to front.
 - Centered vertically: even amount of space in front of and back of the piece
 - Centered horizontally: even amount of space left and right of the piece.
-
-For builders with low vision, or a sighted building partner may want to follow along with the printed visual
-instructions that come with each kit, or PDF versions are always online at LEGO.com for each set:
-(https://www.lego.com/en-us/service/buildinginstructions/60376) As low vision users may benefit from
-viewing the instructions on a personal device where they can zoom in on content and use assistive
-technologies to enhance the visuals.
+§
 Sorting the pieces:
-
 To begin a successful build, it helps to sort the pieces into groups, bags, or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
 should be sorted according to the building steps in the kit. Doing this in advance makes locating the
@@ -79,6 +74,7 @@ Group 4 has the pieces for pages 18-23. (Snow Mobile part 2)
 Group 5 has the pieces for pages 24-30. (Snow Mobile part 3)
 Group 6 has the pieces for pages 31-40. (Snow Mobile part 4)
 Group 7 has the pieces for pages 41-51. (Floating ice sheet)
+§
 Let’s get to building!
 Building Instructions (Bag 1 and 2, Book 1):
 Group 1 — Arctic Explorer Minifigure + seal
@@ -88,7 +84,6 @@ beanie with hair attached.
 6-7. Attach the white goggles to the dark blue helmet by snapping it on. You can switch this out with the
 beanie so your minifigure is safe on her snowmobile! You also have two seals, one small white one and
 one bigger light grey one. They are so cute! Now to make the camera.
-
 Group 2 — Camera
 8-9. Locate 1 black 1x3 rounded plate, 1 black 1x2 brick with a clip on the side, and 1 black 1x1 brick with
 a stud on the side. Place down your plate horizontally, then horizontally place the 1x2 brick on the right
@@ -196,6 +191,7 @@ ice sheet!
 51. You can attach the seals to any of the 3 2x2 tiles with a singular stud. Then you can position your
 camera and Arctic Explorer so that it is taking pictures of the seals! Also when you are riding around with
 your snowmobile, don’t forget your camera! You can attach the quadpod to the clips in the back!
+§
 At the end of the instruction booklets are advertisements for the following 8 LEGO CITY Theme kits:
 60380 - City Downtown
 60362 - Car Wash

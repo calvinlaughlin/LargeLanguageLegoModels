@@ -50,6 +50,7 @@ computer, one drinking coffee at a table, and another looking through a microsco
 shows the crane being used to raise or lower the dinghy. The final small inset shows the viking shipwreck
 with the orca swimming past. A diver lifts a treasure chest!
 The build is 815 pieces, and 244 building steps.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 - In Front of/Front: towards you.
@@ -76,6 +77,7 @@ instructions that come with each kit or PDF versions are always online at LEGO.c
 (https://www.lego.com/en-us/service/buildinginstructions/60368) As low vision users may benefit
 from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
@@ -149,6 +151,7 @@ Group 28 contains the pieces for steps 148-156.
 Group 29 contains the pieces for steps 157-157.5.
 Group 30 contains the pieces for steps 158-168.
 Group 31 contains the pieces for steps 169-173.
+§
 Building Instructions:
 Build 1 - Inflatable Dinghy & Orca
 Minifigure group 1
@@ -1334,6 +1337,7 @@ orientation. Repeat these two pieces symmetrically directly to the left.
 structure to store your explorers’ diving gear and other equipment!
 Now your Arctic Explorer Ship is complete!
 Thank you so much for building this set!
+§
 There is one page of ads after the instructions end.
 There is one main image, with three inset images. The main image is of this set, and is the box art from
 the front of the box.

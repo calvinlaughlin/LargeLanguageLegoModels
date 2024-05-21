@@ -52,6 +52,7 @@ the garden and having their places swapped, highlighting the customizability of 
 image shows all of the accessories which can be removed, which includes two trees with pink and purple
 flowers, a conifer, a bamboo tree, a gray shrine, and short, gnarled tree.
 The build is 1363 pieces, and 181 building steps.
+§
 Welcome to text-based instructions from Bricks for the Blind. Before you start building,
 here are some terms we’ll be using:
 - In Front of/Front: towards you.
@@ -76,11 +77,13 @@ symmetrically.
 - Centered-horizontally: even amount of space left and right of piece.
 - Row: studs lined up horizontally (left to right/side to side).
 - Column: studs lined up upright or vertically (top to bottom/back to front).
+§
 For builders with low vision, or a sighted building partner who may want to follow along with the printed
 visual instructions that come with each kit, PDF versions are always online at LEGO.com:
 (https://www.lego.com/en-us/service/buildinginstructions/10315) As low vision users may benefit
 from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
@@ -173,6 +176,7 @@ Group 50 contains the pieces for step 170.
 Group 51 contains the pieces for steps 171-173.
 Sub-build 6 - Small tree
 Group 52 contains the pieces for steps 174-181.
+§
 Building Instructions:
 Main build 1 - Tea-ceremony room
 Open bag 1.
@@ -1650,5 +1654,6 @@ hole, which is on the left side of the garden behind two small trees. Now, try t
 out and rearrange them however you like!
 Congratulations! Now the Tranquil Garden is complete!
 Thank you so much for building this set!
+§
 There are no pages of ads after the instructions end.
 Visit bricksfortheblind.org for more accessible instructions and tell your friends about us!

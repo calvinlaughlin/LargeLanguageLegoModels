@@ -20,7 +20,6 @@ including school papers, dog toys, a laptop, book, phone, lamp and a trophy
 Made for play – This toy measures over 3 in. (8 cm) high, 5 in. (13 cm) wide and 3.5 in. (10 cm) deep
 A helping hand – Discover intuitive building instructions in the LEGO Builder app where you can zoom in
 and rotate models in 3D, track progress and save sets as your child develops new skills
-
 The front of the box shows Aliya and Paisley in a room. Aliya has medium brown skin, brown eyes, dark
 brown afro hair, and is wearing light blue pajamas with a white horseshoe pattern, and pink shoes. Paisley
 has light nougat skin, blue eyes, dark red wavy hair, and is wearing light pink pajamas with a pink and
@@ -29,25 +28,21 @@ next to her orange-brown dog, Aira, who is wearing a gold crown. Paisley is sitt
 cloud table with an orange drink, a hot pink teapot, a cookie, and an orange phone. Some other things
 around the room include a laptop and popcorn, a gold medal and trophy, some paper and notebooks, pink
 and red flowers, and also blue cushions scattered throughout!
-
 The top of the box has a small image of the Aliya minifigure.
-
 The back of the box has four images: a main image up top and three inset images along the bottom. The
 main image shows a demonstration of the pull-out bed that comes from underneath Aliya’s main bed so
 Paisley can sleepover! It also shows a movie section or sub-build that is separate from Aliya’s room with a
 projector and Aira on a pink circular dog bed with her bone.
-
 The first inset view shows Paisley comforting Aliya that is heartbroken about receiving a letter “F” grade on
 a paper. There is another paper with a letter “A” grade that could be Paisley’s or another one of Aliya’s
 graded assignments.
-
 The second inset picture demonstrates how the projector is powered by a LEGO cell-phone! In this
 picture, Aliya, Paisley, and Aira are sitting at the movie section, singing, and eating popcorn!
 The third inset image shows Aira on the cloud table and Aliya and Paisley bowing their hands before the
 royal Aira and pretending Aira is in a castle!
 The build is 209 pieces, with 2 bags, and 95 steps. Each numbered step will go along with each page the
 step is on in the LEGO instruction book.
-
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we may be using:
 - In Front of/Front: towards you.
@@ -72,15 +67,8 @@ Note: count columns left to right, rows back to front, and align the back-left c
 specify both the row and column. Example: “Place the 2x2 brick on the plate’s third row, fourth column”
 means to align the back-left corner stud of the 2x2 brick onto the plate’s stud that meets at the third row
 and fourth column.
-
-For builders with low vision, or a sighted building partner may want to follow along with the printed visual
-instructions that come with each kit or PDF versions are always online at LEGO.com for each set:
-(https://www.lego.com/en-us/service/buildinginstructions/41740) As low vision users may benefit
-from viewing the instructions on a personal device where they can zoom in on content and use assistive
-technologies to enhance the visuals.
-
+§
 Sorting the pieces:
-
 To begin a successful build, it helps to sort the pieces into groups/piles, bags, or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
 should be sorted according to the building steps in the kit. Doing this in advance makes locating the pieces
@@ -88,7 +76,6 @@ for each step easier. See below on how to sort the pieces to correspond to the s
 the containers using letters A-Z, numbers or meaningful names. The parts will be sorted into one or a
 small number of steps in the instructions. Example: “Steps 1-3” means collect all the parts used in steps 1,
 2, and 3, and put them in one group.
-
 This LEGO set comes with one large plate, two large bags labeled 1 and 2, instructions, and a sticker
 sheet. There are 13 instructions to place a sticker on pages 8, 13, 14, 32, 36, 42, 50, 58, 59, 62, 67, 80,
 and 83. If you want to use the sticker for the build, it should be put on as you or your helper sorts the
@@ -99,7 +86,6 @@ away from the rest, in case you need them later.
 Note: there are designs both printed and stuck onto pieces that should be built facing a certain way and
 their orientations may not be determined by touch, so ask your helper about the orientations of the designs
 on printed pieces or pieces with stickers and make physical or mental notes of them for later.
-
 Bag 1 of 2 (6 groups):
 Note: The instructions for the build start on page 6 in the LEGO book. 
 Group 1 contains the pieces for pages 6-15. The pieces make a minifigure, book, dog, and movie section.
@@ -120,9 +106,9 @@ decorations.
 Group 12 contains extras from the first and second bags in case you lose any small pieces.
 Building Instructions:
 As a reminder, the instructions for the build start on page 6 in the LEGO book.
+§
 6. Assemble a minifigure using the dark brown afro hair, dark flesh minifigure head, light blue horseshoe
 printed torso, and light blue pants attached to pink shoes. You’ve just built Aliya!
-
 7. This page has no instructions and shows a drawing of Aliya waving at you! There are also fun drawings
 around her including a heart holding a balloon, a horse with a horseshoe, and a checklist with a pencil.
 8.1. Locate one light green 1x2 tile with no studs and two hinges. This is the front cover of a book. Then
@@ -442,7 +428,7 @@ Congratulations! Now Aliya's Room is complete!
 The page after shows the completed room in the back, the movie section on the left, and Paisley with Aliya
 on the right.
 Thank you so much for building this set!
-
+§
 There are four pages of ads and drawings, after the instructions end.
 The first shows advertisements for LEGO Friends sets 41727 Dog Rescue Center, 41738 Dog Rescue
 Bike, and 41741 Dog Rescue Van.

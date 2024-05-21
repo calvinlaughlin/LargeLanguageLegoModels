@@ -36,6 +36,7 @@ them. From nearest to farthest, the colors are blue, red, green and purple.
 The bottom inset picture shows the slushy van driving down the road, with the vendor behind the wheel in
 full penguin costume!
 The build is 194 pieces, and 101 building steps.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 - Front: towards you.
@@ -50,11 +51,13 @@ terms we’ll be using:
 at the right, connector to the front, and then place another such piece symmetrically on the back wall, at
 the right, the technic connector of the second piece should point to the back, since it will be placed
 symmetrically.
+§
 For builders with low vision, or a sighted building partner may want to follow along with the printed visual
 instructions that come with each kit or PDF versions are always online at LEGO.com for each set:
 (https://www.lego.com/en-us/service/buildinginstructions/60384) As low vision users may benefit
 from viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
@@ -88,6 +91,7 @@ Group 9 contains the pieces from steps 67-76.
 Group 10 contains the pieces from steps 77-81.
 Group 11 contains the pieces from steps 82-90. It contains the pieces to make the giant slushy on the top
 of the truck, and the wheels.
+§
 Building Instructions:
 Open bag 1.
 Sub-build 1 - Vendor Minifigure
@@ -404,6 +408,7 @@ Congratulations! Now the van is complete! The next page shows how you can lift t
 driver’s seat and place the slushy vendor inside! The page after shows the completed van, with the
 vendor inside and the little girl outside.
 Thank you so much for building this set!
+§
 There are two pages of ads after the instructions end.
 The first page includes ads for five sets. The main image is set number 60389, the Custom Car Garage.
 The ad shows two custom cars. Each car comes with multiple different options to customize the car,

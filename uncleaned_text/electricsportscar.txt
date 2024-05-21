@@ -29,6 +29,7 @@ also an arrow on the spoiler, indicating it is hinged and can move up and down. 
 window, you can see the car’s two batteries, which are blue and have the Octan logo, as well as a
 positive and negative symbol, indicating the battery’s polarity.
 The build is 95 pieces, and 52 building steps.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 - Front: towards you.
@@ -48,6 +49,7 @@ instructions that come with each kit or PDF versions are always online at LEGO.c
 https://www.lego.com/en-us/service/buildinginstructions/60383 As low vision users may benefit from
 viewing the instructions on a personal device where they can zoom in on content and use assistive
 technologies to enhance the visuals.
+§
 Sorting the pieces:
 To begin a successful build, it helps to sort the pieces into groups, bags or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
@@ -62,6 +64,7 @@ Bag B contains the pieces for the first part of the car build, steps 1 through 1
 body of the car as well as the rear bumper.
 Bag C contains the remaining pieces for the car, steps 11.5 through 34. This includes the wheels and
 canopy of the car.
+§
 Building Instructions:
 Open bag A.
 Sub-build 1 - Driver Minifigure
@@ -243,4 +246,5 @@ Now your Electric Sports Car is complete! You can lift off the canopy pieces to 
 last picture in the instruction book shows the driver charging his car using the charging station with the
 cable connected to a stud next to the cockpit.
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions and tell your friends about us!

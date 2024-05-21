@@ -20,6 +20,7 @@ minifigures are both on their mountain bikes riding over the rocks and terrain! 
 though because a scorpion is hiding behind one of the rocks!
 The top of the box shows both the minifigures riding their mountain bikes while a rabbit follows them and
 a scorpion sits in the background on a hill.
+
 The build is 252 pieces in total, 94 steps long, and is for ages 6+.
 Bag 1 includes the pieces to make the minifigures, tent, and terrain. Bags 2 and 3 includes the pieces to
 make the truck.
@@ -44,13 +45,7 @@ second piece should point to the back since it will be placed symmetrically.
 - Centered-horizontally: even amount of space left and right of piece.
 - Row: studs lined up from left to right.
 - Column: studs lined up from top to bottom or front to back
-For builders with low vision, or a sighted building partner may want to follow along with the printed visual
-instructions that come with each kit, or PDF versions are always online at LEGO.com for each set:
-(https://www.lego.com/en-us/service/buildinginstructions/60387) As low vision users may benefit from
-viewing the instructions on a personal device where they can zoom in on content and use assistive
-technologies to enhance the visuals.
-Sorting the pieces:
-
+§
 To begin a successful build, it helps to sort the pieces into groups, bags, or small containers. Have a
 friend or family member do this in advance following the instructions below. You will see that the pieces
 should be sorted according to the building steps in the kit. Doing this in advance makes locating the
@@ -83,6 +78,7 @@ Group 14 - Pages 43-52 (Car).
 Group 15 - Pages 53-55 and 2 clear transparent 1x1 circular tiles from step 56 (Car).
 Group 16 - Pages 56-60 (Car).
 Group 17 - Pages 61-69 and 4 large tires that were not in a bag (Car).
+§
 Let’s get to building!
 Note that building instructions will be using page numbers instead of steps.
 Building Instructions (Bag 1, Book 1):
@@ -407,5 +403,6 @@ each peg into the ridged side of each of the cylinders.
 68-69. Now insert the circular side of the peg that is connected to the wheel into the end holes of the
 longer side of the 3x5 technic plates.
 Congratulations you have completed the build!
+§
 There are no ads at the end of the instructions.
 Visit bricksfortheblind.org for more accessible instructions and tell your friends about us!

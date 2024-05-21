@@ -1,4 +1,12 @@
 10232 Palace Cinema
+Illuminate the night sky with the spotlights as the child star arrives in a fancy black limousine! Gather the
+crowd on the star-studded sidewalk, then head into the detailed lobby with a concession stand and ticket
+area! Take the grand staircase into the theater with a large screen, movie projector and reclining chairs
+for 6 minifigures. Introducing the latest addition to the LEGO® Modular Buildings series, the highly
+detailed, 2-story Palace Cinema corner building. This collectible model features a sidewalk of the stars,
+brick-built entrance doors, posters, sign frontage, a tower with spires and rooftop decorations. Includes 6
+minifigures.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,13 +22,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
-Illuminate the night sky with the spotlights as the child star arrives in a fancy black limousine! Gather the
-crowd on the star-studded sidewalk, then head into the detailed lobby with a concession stand and ticket
-area! Take the grand staircase into the theater with a large screen, movie projector and reclining chairs
-for 6 minifigures. Introducing the latest addition to the LEGO® Modular Buildings series, the highly
-detailed, 2-story Palace Cinema corner building. This collectible model features a sidewalk of the stars,
-brick-built entrance doors, posters, sign frontage, a tower with spires and rooftop decorations. Includes 6
-minifigures.
+§
 Book 1
 Limo bags (1-3)
 Limo Bag 1
@@ -1843,7 +1845,9 @@ There's also an add for the Horizon express, (10231) and the SOp With Camel, (10
 ad for the Lego Club, VIP Program, Town Hall, and Winter Village.
 Enjoy!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

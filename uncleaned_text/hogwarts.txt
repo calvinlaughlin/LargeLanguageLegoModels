@@ -4,6 +4,7 @@ between Harry Potter and Lord Voldemort is looming! Harry and Dumbledore face He
 Named while Professors McGonagall and Flitwick try to keep the school safe. Explore this essential Harry
 Potter set to discover incredible details like Dumbledore’s office with sliding spiral staircase, the Slytherin
 and Gryffindor common rooms, and so much more!
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -19,6 +20,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
+§
 Book 1.
 Bag 1.
 Make people and accessories. Give Snape a key and make him a lantern by putting a button on
@@ -765,7 +767,9 @@ top. Repeat. Put these turrets at the sides at the back of the roof.
 54.Connect this structure to the main building from the left.
 Enjoy!
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)

@@ -1,4 +1,13 @@
 41103 Pop Star Recording Studio
+The box: The box features shots of Olivia singing into a mic, with a music stand, and holding a guitar. We
+also see shots of the other friends, Mia, Stephanie, Andrea, Livi and Olivia.
+Get ready to lay down some new tracks! Help Olivia get all the technical equipment in the production
+room ready for Livi the pop star to come in and record her next big hit album. Now it’s time to head into
+the recording booth to test out all the settings. Put Olivia’s headset on then grab the guitar, step up to the
+microphone and have fun recording a demo. At the end of the song, press the button to eject the CD and
+have a rest on the sofa with a drink and a magazine. You are all set for a great hit! Includes Olivia
+mini-doll figure.
+§
 Welcome to text-based instructions from LEGO for the Blind. Before you start building, here are some
 terms we’ll be using:
 Front: towards you.
@@ -14,14 +23,7 @@ front wall at the right, connector to the front, and then place another such pie
 the back wall, at the right, the technic connector of the second piece should point to the back,
 since it will be placed symmetrically.
 There are also abbreviations defined at the end of this file.
-The box: The box features shots of Olivia singing into a mic, with a music stand, and holding a guitar. We
-also see shots of the other friends, Mia, Stephanie, Andrea, Livi and Olivia.
-Get ready to lay down some new tracks! Help Olivia get all the technical equipment in the production
-room ready for Livi the pop star to come in and record her next big hit album. Now it’s time to head into
-the recording booth to test out all the settings. Put Olivia’s headset on then grab the guitar, step up to the
-microphone and have fun recording a demo. At the end of the song, press the button to eject the CD and
-have a rest on the sofa with a drink and a magazine. You are all set for a great hit! Includes Olivia
-mini-doll figure.
+§
 Build a mixer: Take a 2x2 cylinder. Put a 2x1 pew piece on its back two buttons hor. Take a 2x2 with a
 horizontal bar and turn it so the bar is on top to the back. Put it into the pew. Put a fs2x1 (it is printed with
 a yellow knob and a green knob) hor on its back buttons. Put 2 f1x1 buttons on the two front buttons. Put
@@ -108,7 +110,9 @@ onto the front buttons diagonal 3x1s. Put 2 fs2x2 disks on top. Cover with a fs4
 back of this part. Mount the right disk on the 2x2 corner of your structure.
 Enjoy.
 Thank you so much for building this set!
+§
 Visit legofortheblind.com for more accessible instructions!
+§
 Abbreviation definitions:
 F = flat (Plate.)
 FS = flat smooth (tile)
