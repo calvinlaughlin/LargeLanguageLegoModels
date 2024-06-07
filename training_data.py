@@ -3,7 +3,7 @@ from tqdm import tqdm
 import json
 import os
 
-api_key = os.getenv("OPENAI_API_KEY")
+api_key = 'api-key-here'
 client = OpenAI(api_key=api_key)
 
 def clean_prompt(prompt):
