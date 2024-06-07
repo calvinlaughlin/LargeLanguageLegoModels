@@ -1,11 +1,13 @@
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building a 319-piece Speed Champions set inspired by the Nissan Skyline GT-R (R34) from the 2 Fast 2 Furious movie. The set includes authentic details like iconic livery, a rear wing, grille, wheel arches, and a nitro fuel canister, along with a Brian O'Conner minifigure for role play. The model measures over 2 in. (5 cm) high, 6.5 in. (16 cm) long, and 2.5 in. (7 cm) wide. Box features a black design with a silver coupe driving through a city, Brian O'Conner minifigure, and Fast & Furious branding.
+</user>
 
-assistant
+<assistant>
 Concise LEGO Building Instructions:
 
 **Building Brian O'Conner Minifigure:**
@@ -104,16 +106,18 @@ Concise LEGO Building Instructions:
 24. Place transparent gray windshield and light gray tiles for rear window.
 25. Attach wheels to wheel wells.
 26. Congratulations! Your 2 Fast 2 Furious Nissan Skyline GT-R (R34) is complete! Thank you for building.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building a LEGO Technic Tow Truck set numbered 42031.
+</user>
 
-assistant
+<assistant>
 LEGO Tow Truck Building Instructions:
 1. Bag 1: Place a 9x1 oblong piece on the table with holes facing front and back. Insert a long connector into leftmost hole, skip two holes, repeat on the right.
 2. Bag 2: Insert a rotating long connector into the second hole from the left, skip two holes to the right. Insert another connector from the back, skip three holes, then insert a rotating long connector from the back. Set aside.
@@ -124,16 +128,18 @@ LEGO Tow Truck Building Instructions:
 7. Bag 10-15: Continue adding pieces to the main structure, following instructions for each bag.
 8. Bag 16-26: Complete assembly of the tow truck by adding remaining parts as instructed in each bag.
 Enjoy your completed LEGO tow truck set!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for set 60375 Fire Station and Fire Truck. Adapted by John Le and tested by Natalie Charbonneau. This set includes a toy firehouse with sleeping quarters, garage, and emergency slide, along with a fire truck featuring a flexible hose and roof ladder. Additionally, there is a popcorn cart, LEGO flames, a vendor, and 2 firefighter minifigures included. Perfect for kids aged 4+, this set offers nonstop firefighting fun. The fire station measures over 8.5 in. (22 cm) high, 7 in. (18 cm) wide, and 7 in. (19 cm) deep. Accessories like a toy spade, axe, radio, and cup enhance the
+</user>
 
-assistant
+<assistant>
 Building Instructions (Bag 1):
 1. Assemble the firefighter Minifigure using black legs, firefighter uniform torso, female head, and neon yellow helmet. Insert the walkie-talkie into her hand.
 2. Create the fire by connecting the flame to the cone, then placing the cone on the circular piece.
@@ -174,16 +180,18 @@ Building Instructions (Bag 3):
 6. Position two 1x2 tan L-shaped tiles vertically on the left side. Add a 2x4 dark turquoise tile next to the left tile and a white 2x2 tile next to the previous one. Place the other L-shaped tile on the right side.
 7. Insert two black fence pieces horizontally in the gaps facing you.
 8. Stack this section on top of the previous one, ensuring alignment of the frames. Congratulations on completing the Fire Station and Fire Truck build!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building a Land Rover Classic Defender replica to celebrate the 75th anniversary of the iconic brand. The set includes a driver minifigure for role-play adventures. The model measures over 2.5 in. (7 cm) high, 4.5 in. (12 cm) long, and 2 in. (6 cm) wide. Enjoy portable play with this 150-piece set designed for ages 8+.
+</user>
 
-assistant
+<assistant>
 LEGO Building Instructions: Sub-build — Driver Minifigure:
 1. Assemble the driver minifigure using tan legs, pineapple-patterned torso, female head, and dark orange hair. Reposition arms to look like holding a steering wheel.
 
@@ -245,16 +253,18 @@ Main-build — Land Rover Classic Defender:
 10. Attach two black 3x6 pipe racks to complete the roof.
 11. Attach the roof to the main build with the slope facing left.
 12. Congratulations! The Land Rover Classic Defender is complete.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for a Police ATV set (60006) featuring a Police ATV with steering wheel, movable lights, handcuffs, wheelbarrow, diamonds, a Police officer minifigure with a baseball cap, and a robber minifigure with a crowbar. Instruction art should depict a robber with a wheelbarrow full of diamonds and a crowbar being chased by a policeman on an ATV. Start by building the wheelbarrow with a small rubber tire on a double-sided button, insert it into the clasps at the bottom, add jewels and a crowbar, and give it to the robber. The robber wears a grey jumpsuit with black stripes, a helmet with notched edges, and carries a rope with keys.
+</user>
 
-assistant
+<assistant>
 Build the ATV:
 1. Place a 6x2 horizontal piece on the table. Attach 2 2x2 axles underneath at the edges.
 2. Add a 2x2 on the right edge. Attach a 2x2 with two 2x1 wings to the left. Then, add a 2x1 vertically to the left. Attach a 2x1 with two clasps vertically to the left, ensuring the clasps overhang to the left.
@@ -266,16 +276,18 @@ Build the ATV:
 8. Create two parts by stacking a 1x1 on a 1x1 with a clasp and a disk. Mount the parts on top of the frame with the disks on the left.
 9. Attach a 1x1 with a clasp upright vertically on the stick at the left edge. Mount a disk on its button, placing the button to the left.
 10. Assemble the tires onto the wheels and mount them onto the axles. Enjoy your completed ATV set! Thank you for building it!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building the LEGO City Penguin Slushy Van (60384).
+</user>
 
-assistant
+<assistant>
 Building Instructions: 
 1. Build Vendor Minifigure: Attach minifigure legs, slushy logo torso, head, and penguin mask. Create red slushy and place it in minifigure's hand.
 2. Build Customer Minifigure: Assemble using short legs, tank-top torso, head, and hairpiece. The head has a reversible face. Create blue slushy as done for vendor.
@@ -320,16 +332,18 @@ Building Instructions:
 12. Build the giant slushy cup. 
 13. Attach the slushy cup to the van. 
 14. Attach wheels to the van.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building a 3D Australia Postcard (40651) featuring iconic outback sights like a shed, windmill, eucalyptus tree, desert flowers, cockatoo, 'Australia' plaque, and kangaroo road sign. The set is designed for kids aged 7+ and measures over 4 in. (10 cm) high, 5.5 in (15 cm) wide, and 1.5 in. (5 cm) long. The set includes 191 pieces and 54 building steps.
+</user>
 
-assistant
+<assistant>
 1. Open bag 1 to find pieces for steps 1-6 and dark orange 1x2 tile from step 7. Two medium blue 1x2 tiles are in a separate sub-bag. Build a scene with dark orange hills, blue sky, clouds, and a plane.
 2. Place a black 2x12 plate vertically in front of you.
 3. Add pieces to form the scene's background: black 1x6 plates, black 4x12 plates, and dark orange and medium blue tiles.
@@ -382,16 +396,18 @@ Complete the scene with a traffic sign and additional details:
 13. Add final details like a small flying plane and plant bricks to the tree.
 14. Build a cockatoo in six steps and place it on the eucalyptus tree.
 15. Add a kangaroo warning sign and an "AUSTRALIA" tile to complete the postcard.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building Disney's Aurora, Merida, and Tiana's Enchanted Creations set (43203). The set includes 558 pieces with buildable items for each princess, such as a transforming 'diamond' dress. Begin with Bags 1 and 2 to construct Princess Merida's castle, followed by Bags 3 and 4 for Princess Tiana's jewelry box, and finish with Bags 5 and 6 to assemble Princess Aurora's treasure chest. The set features Disney's Aurora, Tiana, and Pixar's Merida, encouraging endless princess play and imaginative storytelling.
+</user>
 
-assistant
+<assistant>
 Bag 1: Start by building Princess Merida. Place the blue torso on the blue octagonal dress piece, then add the head, hair, belt with a buckle, and gold hem. Construct her umbrella using the blue dress bottom and a gold wand piece. Create the archery target by assembling the pieces as follows: green 4x4 round plate, two light brown 2x1 plates, light green 2x2 curved tile, yellow 1x1 flower, brown 2x2 wedge plate, gold 1x2 plate with handle, white stepped 2x2 plate, and white round 4x4 tile. Attach the stickered plate vertically onto the archery target. Proceed to build a small castle/container using light tan plates and bricks, blue tiles, gold cylinders, window frame, and other pieces. Finally, insert the assembled target into the castle.
 
 Bag 2: Begin constructing the larger castle for pencil storage using a green 16x8 plate, light reddish-brown 1x8 plate, light gray 1x1 round tile, yellow 1x1 flower, dark blue plates and tiles, dark blue and turquoise triangle plates, semicircular plate, and various bricks and tiles. Add the tower features such as golden bricks, torches, battlements, and decorations. Complete the tower by finishing the exterior with sloped bricks, curved bricks, flower pieces, and stickers. Finally, insert the princess's room into the castle and place the target on the round turntable for storing Merida's bow. 1. Open bags 3 and 4 to assemble Princess Tiana and the Frog using the provided pieces.
@@ -424,16 +440,18 @@ Bag 2: Begin constructing the larger castle for pencil storage using a green 16x
 10. Add diamond 1x1 round tiles and a pink ball to the golden pieces.
 11. Install a golden 1x2 tile at the front and attach two golden long wavy pieces as icicles.
 12. Attach the roof to complete the build. Enjoy your enchanted creation! Thank you for building this set!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for set 10244 - Lego Fairground.
+</user>
 
-assistant
+<assistant>
 **Book 1: Minifigures and Booth Construction**
 
 1. Build a man on stilts with skittles.
@@ -490,16 +508,18 @@ Construct the truck and trailer:
 3. Create the trailer by following the step-by-step instructions provided in the manual.
 
 Enjoy building and thank you for completing this set!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building a toy police car with space for the police officer minifigure included. The set includes a toy flashlight and police cap for the minifigure. Suitable for kids aged 5 and up. When built, the police car measures over 1.5 in. (4 cm) high, 4.5 in. (11 cm) long, and 2 in. (5 cm) wide.
+</user>
 
-assistant
+<assistant>
 Build the police officer Minifigure by putting together legs, torso, head, and hat. He wears blue pants, a police uniform with epaulets, 2 breast pockets (one with a badge), a tie, and has a walkie-talkie. Attach a flashlight to his hand. Next, build the police car:  
 1. Place yellow 1x4 plates at the front and back rows of the black base.  
 2. Add steering wheel, back seat, and car body parts.  
@@ -512,16 +532,18 @@ Build the police officer Minifigure by putting together legs, torso, head, and h
 9. Place wheels and rims on the axles.  
 10. Insert the engine piece.   
 Attach flashlight to the car. The roof can be removed to place the police officer inside.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for set 8092 Luke's Landspeeder.
+</user>
 
-assistant
+<assistant>
 Build the Minifigs:
 1. Sandtrooper: Assemble the sandtrooper with a large helmet, white clothes, black belt, and a cape. Attach a jet-pack to his back.
 2. Luke: Put together Luke with a simple cloth tunic and a silver belt buckle.
@@ -533,16 +555,18 @@ Build the Minifigs:
 8. Landspeeder: Follow the step-by-step instructions to build the landspeeder.
 
 Enjoy building this set and visit legofortheblind.com for more accessible instructions!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building The Mandalorian N-1 Starfighter Microfighter (75363). The set includes an open cockpit for The Mandalorian minifigure, space for Grogu figure, and 2 stud shooters. The Mandalorian comes with a blaster pistol and jetpack. Combine with other LEGO Star Wars Microfighter sets for more play options. Suitable for kids aged 6 and up. The set is 88 pieces and has 37 building steps.
+</user>
 
-assistant
+<assistant>
 LEGO Building Instructions: 
 Step 1: Assemble Mandalorian minifigure.
 Step 2: Assemble Grogu minifigure.
@@ -569,16 +593,18 @@ Step 28-30: Add finishing details.
 Step 31-35: Build and attach engines.
 Step 36: Attach engines to ship.
 Step 37: Load side shooters and launch plates. Congratulations! The Mandalorian N-1 Starfighter Microfighter is complete! Thank you for building!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building a replica of the 1962 Volkswagen T1 Camper Van, featuring iconic exterior details such as the 'V' shape three-way color split, rounded roof, opening 'splittie' safari windshield, and pop-up roof. Include interior details like the VW air-cooled flat four cylinder boxer engine, front cabin bench seat, gear stick, angled dashboard, spherical speedometer, folding rear bench seat, dinette table, closet with mirror, and painting.
+</user>
 
-assistant
+<assistant>
 1. Place a F 12x2 vertical piece on the table. Add a F 12x1 vertical piece on top, to the right.
 2. Add a F 2x1 vertical piece to the left, in the middle. Skip two buttons back and add a F 4x2 vertical piece that overhangs to the left and back. Repeat on the front.
 3. Put a F 8x4 vertical piece to the left under the two PPs. Add a F 2x1 vertical piece with one button in the middle of the rightmost column.
@@ -632,16 +658,18 @@ For the rest of the instructions, you can continue to condense the steps in a si
 7. Assemble the wheels by stacking parts and installing them as needed.
 8. Follow the instructions to create additional parts and install them accordingly.
 9. Enjoy building this set and thank you for your effort!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for replicating the iconic Statue of Liberty with over 1,685 LEGO pieces. The set features intricate details like the shield-lined pedestal, columned balconies, and a Lady Liberty statue complete with a flowing robe, 7-ray crown, iconic tablet, and golden torch. The finished model stands over 17” high, 5” wide, and 5” deep. The accompanying booklet provides insights into the history, architecture, and design of this renowned landmark. Ideal for those interested in architecture, travel, history, and design.
+</user>
 
-assistant
+<assistant>
 **Bag 1 Building Instructions - Condensed Version:**
 
 1. **Base Construction:**
@@ -765,16 +793,18 @@ By condensing the instructions, the steps are simplified and streamlined for eas
 - Enhance the base with handcuff pieces.
 
 Congratulations on completing the set! Thank you for building with us!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Create detailed LEGO instructions for building three models from the LEGO Creator 3in1 Exotic Pink Parrot set (31144): a pink parrot perched on a tree branch, a pink fish swimming by a coral reef, and a pink tree frog. The parrot model has 253 pieces and 108 building steps, the fish model has 122 pieces and 61 building steps, and the frog model has 84 pieces and 52 building steps. Each model has posable features and vibrant colors, providing a fun and engaging building experience for kids aged 7 and above.
+</user>
 
-assistant
+<assistant>
 Building Instructions: Side Build - Tree Branch with Flowers
 
 1. Start with the base of the branch:
@@ -887,16 +917,18 @@ For the LEGO frog:
 11. Build the last leg using specific plates and tiles.
 12. Attach the back right stud on the foot to the curved slope on the frog to complete the frog.
 13. Description of the completed frog model.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building a Batman minifigure with a portion of a building for him to pose on. The set includes Batman with a black cape, mask, yellow oval bat symbol on his chest, and a batarang. The front of the polybag shows Batman standing on a gargoyle-shaped building corner in Gotham City at night, with a bat symbol projected in the sky. The set consists of 40 pieces and 14 building steps.
+</user>
 
-assistant
+<assistant>
 LEGO Building Instructions:
 - Open bag 1 and minifigure group 1.
 - Assemble Batman minifigure: torso on legs, head on torso, mask with cape on head, and batarang in hand.
@@ -924,16 +956,18 @@ LEGO Building Instructions:
 13.2. Attach head assembly to main build.
 14.1-14.2. Place dark gray pieces on top of the build.
 15. Attach Batman minifigure to complete the set.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building the Arctic Explorer Ship (60368) set, including a toy exploration ship, helicopter, dinghy, ROV submarine, and Viking shipwreck. Set includes 7 minifigures, an orca figure, and various accessories. Dimensions: 7.5 in. (19 cm) high, 28 in. (71 cm) long, and 6.5 in. (17 cm) wide. Suitable for kids aged 7+. Total of 815 pieces with 244 building steps.
+</user>
 
-assistant
+<assistant>
 Building Instructions: Inflatable Dinghy & Orca Minifigure
 
 Minifigure 1:
@@ -1040,16 +1074,18 @@ Viking Shipwreck:
 7. Work on the stern of the ship by stacking white 2x2 bricks and adding tiles and handlebar tiles as directed.
 8. Complete the ship by adding plates and a tile for storing diving gear.
 9. Your Arctic Explorer Ship is finished. Thank you for building this set!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building the 40478 Mini Disney Castle set to celebrate the Walt Disney World® Resort’s 50th anniversary. The set includes a miniature Cinderella Castle with pearlized golden tower tops, opalescent blue rooftop cones, and a vintage-style Mickey Mouse minifigure. The display piece measures over 8 in. (21 cm) high, 5.5 in. (14 cm) wide, and 5.5 in. (13 cm) deep, suitable for home or office decoration. The box features images of the castle from different angles and dimensions, with a total of 567 pieces and 157 building steps.
+</user>
 
-assistant
+<assistant>
 1. **Mickey Mouse Minifigure:**
    - Place head onto torso, then torso onto legs.
 
@@ -1148,27 +1184,31 @@ assistant
 6. Place a gold 1x1 cone and a gold unicorn horn on top of the ring from the previous step.
 7. Attach the tallest tower to the castle base next to the pyramid roof.
 8. Rotate the castle, ensuring the drawbridge is at the front. The Mini Disney Castle is now complete. Great job! Thank you for building this set.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building Mia's Magic Tricks set, featuring Mia practicing magic tricks with cards, a wand, flowers, a bunny, and a top hat. Construct a stage for her performance and create a magic cabinet for the bunny to disappear into. The set includes Mia minifigure.
+</user>
 
-assistant
+<assistant>
 Build Mia mini-doll with magic wand. Give Rabbit bow. Construct table: 2x2 plate, 2x2 cylinder, 4x4 round plate, 2x1 tile with flowers. Create curtain: 8x2 plate, tall 2x1 pieces, f2x2 with bracier, 2x1 slope with buttons. Make disappearing box: 4x4 frame, 4x1 pieces, fs2x1, 4x1 with horizontal slot. Make part: f6x2, fs6x1, f2x1 with prongs, f2x1 with cornice, f2x2 with handle. Attach part to frame. Add decorations. Create gates: 2x1 with clasp, 1x1 with clasp and handle, f2x1, 1x1 wedge. Assemble gates. Place Rabbit inside the disappearing box, pull handle, open gates. Task complete!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building the 8158 Speed Racer VS Snake Oiler set, featuring Speed Racer's Mach 5 and Snake's car from the Casa Cristo Classic cross-country road rally.
+</user>
 
-assistant
+<assistant>
 Bag 1: Speed Racer:
 1. Place 2 f6x1 horizontally on the table, spaced 2 rows apart.
 2. Add an f8x1 vertically over the rightmost buttons of the f6x1 pieces.
@@ -1190,16 +1230,18 @@ Bag 2: Snake Oiler's Car:
 5. Construct another part with f8x6 and seats.
 6. Add steering wheel and finishing touches.
 7. Install wheels and driver to complete the car.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building the LEGO Technic Dump Truck (42147) set, designed by Alex Charbonneau and tested by Natalie Charbonneau. This set is ideal for children aged 7 and up who enjoy construction site themes. The set includes instructions to build a dump truck and an excavator for versatile play. The dump truck measures over 3 inches high, 5.5 inches long, and 2 inches wide. The set introduces young builders to engineering concepts through realistic mechanisms. The box features images of the dump truck and excavator models to provide visual context. The dump truck build consists of 90 building steps, while the excavator build requires 73 steps.
+</user>
 
-assistant
+<assistant>
 1. Begin by assembling the chassis of the truck:
    a. Attach dark gray 3x3 L-shaped thin lift-arm and two light gray 3L axles.
    b. Add another dark gray 3x3 L-shaped lift-arm on top.
@@ -1256,16 +1298,18 @@ These simplified instructions should help you build the LEGO truck efficiently. 
 19. Complete the dump bed with lift-arm and pins.
 20. Attach wheels to the truck.
 21. Turn gear to steer and raise/lower the bed.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for set 60391 Construction Trucks and Wrecking Ball Crane. The set includes a transporter truck, wrecking ball crane, dump truck, and derelict house, along with 3 worker minifigures and various accessories for imaginative play. The build consists of 235 pieces and is designed for kids aged 4 and up. Instructions are divided into four bags labeled 1 through 4, with an additional bag containing larger pieces.
+</user>
 
-assistant
+<assistant>
 Building Instructions (Bag 1, Book 1):
 Group 1 — Construction worker minifigure
 1. Assemble the construction worker Minifigure using the provided parts.
@@ -1342,16 +1386,18 @@ For Light assembly:
 For Number 3 assembly:
 1. Stack plates and bricks horizontally. Add corner bricks and a brown brick with a circular tile numbered 3.
 2. Place the build to the left of the door, ensuring the number 3 is facing forward. Add slopes to form a trapezoidal shape.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building a fire hovercraft set with the code 7944.
+</user>
 
-assistant
+<assistant>
 1. Build minifigures: First minifigure in black suit with yellow crest and flames, two white hard/fire hats, glasses, smile. Second minifigure in black suit with orange glasses, no smile. Third minifigure without glasses, bushy eyebrows, black eyes, no smile.
 2. Build hovercraft:
    - Step 1: Place large hovercraft hull horizontally on table, attach 6 2x2 plates with technic connectors at front and back holes.
@@ -1390,16 +1436,18 @@ assistant
 13. Apply remaining stickers to the sides of the hull with set number 7944.
 14. Advertise other LEGO sets related to this one.
 15. Enjoy your completed build!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building the 10211 Grand Emporium, a detailed 3-story department store with special building techniques and rare pieces. The set includes street scenes with citizens, a clothing department, housewares section, toy department, escalator, chandelier, rooftop billboard, and skylight.
+</user>
 
-assistant
+<assistant>
 Start by assembling the emporium using the following steps: 
 - Bag 1: Begin by creating a border on the front and left sides of the 32x32 base using 1x1 and 6x1 flat smooth pieces. Extend the border wider by adding various flat pieces in a specific sequence.
 - Bag 2: Mark the floor layout for the first shop by adding specific flat pieces along the columns and rows to build the border and floor pattern.
@@ -1479,16 +1527,18 @@ Start by assembling the emporium using the following steps:
 9. Attach the window-washer crib to the structure.
 
 That's it! Enjoy building!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building a model of the iconic Tower Bridge, complete with its iconic towers, a working drawbridge, and a red double-decker bus.
+</user>
 
-assistant
+<assistant>
 Book 1 - Bag 1: Large bag 1 contains instructions for building the bridge.  
 - Step 1: Place a 32x16 blue flat piece on the table to represent the Thames.  
 - Step 2: Attach a 6x1 piece with side holes vertically on the left edge, skipping the front five rows, and repeat on the right.  
@@ -1652,16 +1702,18 @@ Repeat instructions to complete the tower roofs.
 1. Follow the steps to build a van, car, truck, and double-deck bus.
 
 Enjoy building this LEGO set! Thank you for your patience and creativity!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for a 4x4 Off-Roader Adventures playset (60387) featuring a 4x4 vehicle, 2 mountain bikes, a tent, campfire, and accessories. Set includes 252 pieces, 94 steps, and is for ages 6+. Bag 1 for minifigures, tent, and terrain; Bags 2 and 3 for the truck. Use provided terms for building guidance.
+</user>
 
-assistant
+<assistant>
 Building Instructions (Bag 1, Book 1):
 
 1. Female Minifigure and Bicycle:
@@ -1736,16 +1788,18 @@ Building Instructions (Bag 2, Book 2):
 10. Place a clear windshield piece and a white 2x6 tile, followed by adding L-shaped technic plates and red pegs.
 11. Insert rubber bands for suspension and assemble wheels with technic clips and pegs.
 12. Connect the wheels to the technic plates to complete the build.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for constructing the 10232 Palace Cinema set. The set includes a detailed lobby with a concession stand and ticket area, a grand staircase leading to a theater with a large screen, movie projector, and reclining chairs for 6 minifigures. Features include a sidewalk of the stars, brick-built entrance doors, posters, sign frontage, a tower with spires, and rooftop decorations. The set also includes 6 minifigures.
+</user>
 
-assistant
+<assistant>
 Book 1 Limo bags (1-3):  
 Limo Bag 1  
 Number 1:  
@@ -1978,16 +2032,18 @@ Bag 6
 2. Install barriers at designated locations.
 3. Assemble searchlights with various parts.
 4. Position searchlights at specified corners.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building the 10197 Fire Brigade set.
+</user>
 
-assistant
+<assistant>
 Bag 1:  
 1. Place two large platform pieces vertically side by side. Connect them with a 3x2 flat piece vertically in the middle of the front edge.  
 2. Create the back border by layering flat smooth pieces in the following order: 1x1, 4x1, 6x1, 1x1 (from separate bag), 8x1, 1x1 (from separate bag), 6x1, 4x1, 1x1.  
@@ -2319,16 +2375,18 @@ Bag 11:
 4. Place two flat 1x1 pieces on each side of the 12x1 piece.
 
 Continue this format for each bag of instructions to simplify and clarify the building process.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for LEGO set 76423 Hogwarts Express and Hogsmeade Station, including building steps for recreating the arrival of new Hogwarts students with authentic details.
+</user>
 
-assistant
+<assistant>
 **Minifigure Group 1 (Harry Potter):**
 - Attach hair to head, head to torso, and torso to legs.
 - Add brown wand to right hand and coin to left hand.
@@ -2444,16 +2502,18 @@ This revision condenses the instructions, making them easier to follow while ret
 12. Create train tracks using plastic plates.
 
 This revised version condenses the steps for building a LEGO station with clear instructions and essential details. Assemble the railroad tracks by aligning and snapping together full and half ties at the ends of each track section. Place two straight track pieces horizontally in front of the station. Attach a dark gray 8x12 railroad ramp to the left and right of the tracks. Decorate the rails with green 1x1 flower plates and dark tan 1x1 quarter circle tiles. Attach the tracks to the slopes in front of the train platform. Add more straight track pieces to the right of the station section. Decorate this section with flower plates and quarter circle tiles. The Hogwarts Express and Hogsmeade Station are now complete. LEGO figures can sit in the train cars, and the trolley witch can stand next to her cart. Drive the train on the floor and up the ramp to the station. LEGO trains can also run on these tracks. Thank you for building this set!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for the 31133 White Rabbit set designed by Alex Charbonneau and tested by Natalie Charbonneau. Kids aged 8 and up can build a posable brick-built toy bunny with interchangeable snacks: a carrot or a flower. Enjoy 3 build-and-play experiences by transforming the bunny into a cockatoo parrot or a white seal, each with unique movable features. Includes accessories like seeds for the parrot and a fish for the seal. Stand the toy rabbit over 5.5 in. (15 cm) high for on-the-go play. Box features images of the white rabbit, cockatoo, and seal builds.
+</user>
 
-assistant
+<assistant>
 **Concise LEGO Building Instructions:**
 
 1. Begin by assembling the rabbit's body using white and tan plates and bricks.
@@ -2527,16 +2587,18 @@ Seal:
    - Attach the seal's head to the body with a tow ball socket.
    - Create the fish sub-build using various colored plates.
    - Pose the seal with the fish to complete the set.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for 43198 Anna's Castle Courtyard.
+</user>
 
-assistant
+<assistant>
 Instructions for LEGO courtyard build:
 1. Place a medium dark flesh 8x1 trapezoid plate horizontally, short side to front.
 2. Add a light tan 8x1 arch piece with columns in the middle of the back row.
@@ -2568,16 +2630,18 @@ Instructions for LEGO courtyard build:
 28. Attach parts to the right side.
 29. Build lanterns and place on attached parts.
 Enjoy your build! Thank you for assembling this set.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for the 41738 Dog Rescue Bike set. Featuring a dog rescue bike with a removable trailer, a park scene with a hidden puppy, and Aliya and Victoria mini-dolls, this 125-piece set allows kids aged 6 and up to enjoy pet-care role play adventures. Instructions span 76 pages, guiding builders through creating the bike, trailer, park elements, and accessories like food and water for the puppy, binoculars, and more.
+</user>
 
-assistant
+<assistant>
 Building Instructions:
 5. Build Aliya: Attach dark flesh legs with blue shoes and a blue shirt to a yellow and blue torso with dark flesh arms. Add a dark flesh head and a dark brown afro hair on top, ensuring alignment.
 7. Assemble the bike: Connect a blue bike frame horizontally with two thin black wheels. Make sure the wheels click into place.
@@ -2600,16 +2664,18 @@ Building Instructions:
 5. Attach a black binocular piece to the front hook on the trailer.
 6. Attach the bike to the left mechanical arm on the trailer.
 7. Dog Rescue Bike is now complete. No ads included.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building a miniature display model of Disney's The Haunted Mansion ride, including an exclusive Butler minifigure. The set features details like a dining room, chandelier, gallery, and recognizable paintings of the Hitchhiking Ghosts, Madame Leota, and the Gravekeeper. Perfect for LEGO fans, miniature collectors, and Disney enthusiasts aged 8 and up. The 680-piece model stands over 5 inches high, 4 inches wide, and 4 inches deep, with sticker paintings for the gallery. Capture the spooky essence of the Haunted Mansion with detailed visuals on the box, showcasing the mansion, eerie backdrop, and scenes from the iconic ride at Disneyland on the back.
+</user>
 
-assistant
+<assistant>
 Building Instructions:
 Bag 1: Sub-build 1 - Butler Minifigure
 1. Assemble the butler minifigure by placing fabric coattails over legs, head onto torso, and torso onto legs.
@@ -2730,16 +2796,18 @@ Step 95: Add tiles and bricks to the balcony wall. To build the LEGO Mini Disney
 18. Finish with top circular room using white plates and tiles.
 19. Attach the room to the mansion roof.
 Congratulations on completing the Mini Disney Haunted Mansion!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for the 31043 Chopper Transporter set.
+</user>
 
-assistant
+<assistant>
 LEGO Building Instructions:
 
 Main Structure:
@@ -2791,16 +2859,18 @@ Truck:
 28. Install the wheels on the axles.
 
 Thank you for building this set!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building the Up-Scaled LEGO Minifigure (40649) designed by John Le and tested by Matthew Shifrin. This posable figure stands over 10.5 inches tall and includes movable head, arms, legs, and hands. The figure features an opening hat that reveals a standard-sized minifigure inside for role-play fun. The set consists of 654 pieces, with 204 build steps, and is suitable for ages 10 and up. The assembly includes sorting pieces from 5 labeled bags: 3 bags for the red torso, 2 bags for the blue legs, 1 bag for hands and arms, 1 bag for the head, and 1 bag for the hat and minifigure
+</user>
 
-assistant
+<assistant>
 LEGO Building Instructions:
 Bag 1 - Back of Torso:
 1. Place 1 red 1x4 plate flat, then add 1 red 1x6 brick on top, overhanging on left and right.
@@ -2883,16 +2953,18 @@ Group 30 — Hat:
 203. Attach the driver cockpit to the hat, ensuring correct placement.
 204. Attach the large blue dome piece to the back of the hat.
 205. Place hat on the Up-Scaled Minifigure. Seat the small minifigure in the cockpit, adjusting the handlebars as needed.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building Aliya's Room (41740) set, designed by Ann Wei and tested by Natalie Charbonneau. The set features Aliya and Paisley mini-dolls, along with Aira the dog character. The room includes a variety of accessories such as school papers, a swivel chair, laptop, book, lamp, trophy, and dog toys. The set encourages creative play and storytelling for kids aged 6 and up. Use the LEGO Builder app for intuitive building guidance, 3D model viewing, progress tracking, and set saving. The set is designed for imaginative play, measuring over 3 inches high, 5 inches wide, and 3.5 inches deep. Follow the 95 steps in the instruction
+</user>
 
-assistant
+<assistant>
 1. Build minifigure Aliya with dark brown afro hair, dark flesh head, light blue torso, and pants with pink shoes.
 2. No instructions, just a drawing of Aliya waving, with fun doodles around her.
 3. Connect light green 1x2 tile and plate with hinges to make a book cover.
@@ -2949,16 +3021,18 @@ assistant
 29. Attach additional vines with flowers and leaves.
 30. Connect the last vine to complete the floral arrangement.
 31. Final step: Secure the vine to the wall and finish Aliya's Room.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building the Batmobile™ Pursuit set (76264) featuring Batman™ vs. The Joker™ from LEGO® DC.
+</user>
 
-assistant
+<assistant>
 LEGO Building Instructions:
 1. Assemble Batman: torso on legs, cloth cape over neck stud, head, then mask. Batman can hold batarang.
 2. Assemble Joker: torso on legs, head, green hairpiece. Joker can hold 1x2 tile with money print.
@@ -2970,16 +3044,18 @@ LEGO Building Instructions:
 - Attach rubber tires to yellow wheel hubs, then attach wheels to car.
 4. Rotate car to have fins on the left.
 5. Congratulations! Batmobile Pursuit: Batman vs. The Joker is complete! Thank you for building!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for the Arctic Snowmobile set number 60032.
+</user>
 
-assistant
+<assistant>
 1. Place a 2x1 flat LEGO piece on top of a 2x2 flat LEGO piece.
 2. Attach a 6x2 flat LEGO piece horizontally to the left, hanging over.
 3. Place a winged 2x2 flat LEGO piece on top, positioning the wings forward and backward, with cut-off corners on the left.
@@ -3019,16 +3095,18 @@ assistant
 37. Place a crystal in the icebox, close it, and put it on the sledge.
 38. Connect the other end of the chain to the hook.
 39. Enjoy your creation! Thank you for building this LEGO set.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building a Spider-Trike vehicle and scene where Spider-Man uses the ejector seat to defeat Electro, including details like Electro hovering with electricity bolts under his feet and a stolen diamond, and the exclusive minifigures of Spider-Man and Electro with an accessory.
+</user>
 
-assistant
+<assistant>
 Bag 1: 
 1. Connect F 2x2 piece with attached connector to Christmas tree-stand piece.
 2. Add two F 2x1 pieces with buttons side by side.
@@ -3063,16 +3141,18 @@ Bag 2:
 13. Put rubbers on wheels.
 14. Make flick-firing missiles and insert into oblong pieces.
 15. Place Spiderman figure on seat. Enjoy!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for LEGO Friends Horse Training 41746 set, designed for kids aged 4 and up. Includes a stable, Aliya and Mia mini-dolls, 2 horse characters, and various accessories for imaginative play. Experience the bond between Aliya and Mia over their shared love of horses. Utilize the LEGO Builder app for guidance. Set measurements: stable is 4.5 in. (12 cm) high, 7.5 in. (19 cm) wide, and 4.5 in. (11 cm) deep. Kit features jumps, horse care items, and detailed accessories. Ideal for young builders and makes a great gift. Total of 134 pieces and 93 building steps.
+</user>
 
-assistant
+<assistant>
 Building instructions:
 1. Open bag 1 and minifigure group 1.
 2. Assemble Aliya minifigure: torso on legs, head on torso, and helmet on head. Attach a carrot to one hand.
@@ -3117,16 +3197,18 @@ Small Jump
 5. Place green 1x1 plate with leaves to the left.
 6. Add pink 1x1 circular plate with flower pattern.
 Congratulations on completing Horse Training! Thank you for building this set!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for set 60370 Police Station Chase. The set includes a police station, police car, and crook's motorcycle, along with 2 police officers, 2 crook minifigures, and a police dog figure. The police station features a raisable barrier, office, and jail with a breakout function. The motorbike can be attached to activate the jailbreak function. When built, the police station measures over 4.5 in. (12 cm) high, 10 in. (26 cm) wide, and 4.5 in. (12 cm) deep. The set contains various accessories for imaginative play, such as a toy gem, police radio, jail key, cups, and a meg
+</user>
 
-assistant
+<assistant>
 Building Instructions (Bag 1, Book 1):
 
 Group 1 - Robber Minifigure
@@ -3200,16 +3282,18 @@ Group 15 - Car
 4. Congratulations! The police car is complete.
 5. Now assemble the gate, jail, and monitor room. Place the gate in the middle, the jail to the left, and the monitor room to the right.
 6. For stability, add pegs to the 3 holes in the 1x4 bricks on the sides of each part and connect them.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Please create LEGO instructions for the 20-piece set "10966 Duplo Bath Time Fun - Floating Animal Island." The set features 4 bathtub animals: a fish, octopus, lion, and flamingo, with activities on and around the floating island. Suitable for kids aged 18 months and up, it includes a bucket for various play options and a floating ring that opens for easy cleaning. After bath time, store the animals inside the island. Mix and match animals and rings for endless fun, enhancing toddlers' motor skills, imagination, and creativity. The island is over 8.5 inches (22 cm) wide and can connect with sets 10964 and 10965. The box displays the animals floating in a bathtub. A
+</user>
 
-assistant
+<assistant>
 Let's start by building the lion:  
 1. Attach the brown lion's head without studs to a yellow 2x2 curved brick with lion paw prints.  
 
@@ -3230,16 +3314,18 @@ Lastly, build the tree:
 2. Add a light green 4x2 curved brick in the middle, extending left and right, and another one on top.  
 
 The set includes a life-preserver to fill with water and a cup to place on top. Enjoy your completed set! Thank you for building with us!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building the LEGO Jurassic World Velociraptor Escape (76957) set, designed for ages 4 and up. The set includes a dinosaur pen with a tower, breakout function, and winch for the Velociraptor figure, as well as a buildable off-roader vehicle, 2 minifigures (Dr. Ellie Sattler and Robert Muldoon), and accessory elements. The digital instructions are pictorial and user-friendly, suitable for young builders. The set is a perfect gift idea for kids, with playful features inspired by the iconic Jurassic Park scene.
+</user>
 
-assistant
+<assistant>
 LEGO Building Instructions:
 
 1. **Velociraptor Build**  
@@ -3282,16 +3368,18 @@ LEGO Building Instructions:
    g. Place a dark blue 1x6 plate with a fence and a yellow 1x2 plate with four studs hanging down on the previous piece.
    h. Place a yellow 2x2 tile with an electricity warning sign print on the side studs of the previous piece.
 7. Assemble the guard tower and electric fence as instructed, ensuring the electric fence is attached correctly. Dr. Sattler can drive the ATV to view dinosaur eggs while Robert Muldoon watches from the tower. Congratulations on completing the Velociraptor Escape set!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for recreating the Hogwarts set (4842) from the Harry Potter theme. Capture the epic battle scene between Harry Potter and Lord Voldemort, as well as the Dementors surrounding Hogwarts™ School of Witchcraft and Wizardry. Include key features like Dumbledore’s office with a sliding spiral staircase, the Slytherin and Gryffindor common rooms, and other intricate details from the Harry Potter universe.
+</user>
 
-assistant
+<assistant>
 Book 1. Bag 1. 
 1. Create characters and accessories:
 - Snape: Attach a key and a lantern (button on a cylinder bottom, faucet on top).
@@ -3385,29 +3473,33 @@ Continue with the sequence for each bag, following the step-by-step instructions
 11. Create turrets by stacking a 1-button cone on a 2x2 cylinder, and top it with a 1x1 cone. Place these turrets at the sides on the back of the roof.
 12. Add a flat 2x1 piece with one button horizontally on top of the roof, then place a 1x1 cone on top.
 13. Connect this structure to the main building on the left side. Enjoy your build! Thank you for building this set.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building Boba Fett's Starship Microfighter (75344). This microscale LEGO version of the iconic starship from Star Wars features an opening cockpit, 2 flick shooters, and adjustable wings. The set includes a LEGO minifigure of Boba Fett with a blaster and jetpack accessory. The Microfighter measures over 2.5 in. (6 cm) high, 3.5 in. (9 cm) long, and 3 in. (8 cm) wide.
+</user>
 
-assistant
+<assistant>
 Let's build Boba Fett minifigure: 1. Attach sand green jet pack to his neck, then put on his head. 2. Dress him in black and dark green jacket, ammunition belt, black pants with sand colored knee pads, arm padding, and a sand green full visor helmet. 3. Build his gun: attach black lightsaber hilt to bottom barrel of double-barreled minifig gun.
 
 Now, build his starship: 1. Place dark grey 8x4 plate horizontally. 2. Add light green 2x4 plate vertically on second and third columns from right, with overhang front and back. 3. Attach light grey 6x3 trapezoidal plate to right, overhang front and back. 4. Add dark gray oval 2x1 plates in front and back, symmetrically. 5. Insert left and right 6x2 light grey wing plates. 6. Place 2 reddish-brown 2x2 pyramid bricks in front row of trapezoidal plate. 7. Add dark grey 2x2-2x1 stepped plate on top. 8. Attach 2 reddish brown 1x2 slope bricks in front and back. 9. Put black 2x2 tile to left of stepped plate. 10. Make two technic axle/pin parts. 11. Add reddish brown 2x1 slope bricks in front and back. 12. Attach reddish brown 2x3 wing bricks. 13. Place reddish-brown 2x2 pyramid bricks. 14. Add light grey 1x1 corner plate. 15. Attach light grey quarter-circle brick. 16. Add light grey top angle plate and 1x1 plate. 17. Place light grey 3x1 bench piece. 18. Add reddish brown 2x1 slope tile. 19. Create tail: light grey curved 2x2, dark grey oval 2x1 plate, green 2x2 plate, and light grey stepped plate. 20. Continue building as per instructions 21-39. 40. Attach cockpit. 41. Create parts with light grey 1x1 round plate, black lightsaber hilt, light grey bar, and technic-connector. Attach to ship.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for set 76386 Hogwarts™: Polyjuice Potion Mistake, featuring the Hogwarts bathroom scene with transforming minifigures and a secret tunnel. Includes Harry Potter™, Hermione Granger™, and Ron Weasley™ minifigures, a buildable Moaning Myrtle's bathroom, and authentic accessories. Connects easily to LEGO® Harry Potter™ Hogwarts™ Chamber of Secrets (76389) for expanded play possibilities. Celebrate 20 years of magic with an exclusive golden Harry Potter™ minifigure and collectible wizard card tiles. Box features iconic imagery showcasing the set contents. Enjoy building this 217-piece set with 77 building steps for magical playtime!
+</user>
 
-assistant
+<assistant>
 Building Instructions:
 1. Open bag 1. Assemble Hermione Granger: torso on legs, head on torso, hair on head. Accessories: tan wand and clear mug. Hair can be switched for cat head.
 2. Assemble gold Harry Potter: torso on legs, head on torso, hair on head. Place on stand: gold 3x4 tile with four studs on top. Insert gold wand in hand.
@@ -3451,16 +3543,18 @@ Building Instructions:
 29. Attach the assembly to the front of the bathroom.
 30. Place dark tan tiles on the back and side walls.
 31. Congratulations on completing the Hogwarts Polyjuice Potion Mistake set!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building set 71788 Lloyd’s Ninja Street Bike.
+</user>
 
-assistant
+<assistant>
 LEGO Building Instructions:  
 1. **Lloyd Minifigure**:  
    - Assemble Lloyd by placing torso on legs, head on torso, and mask on head.  
@@ -3478,16 +3572,18 @@ LEGO Building Instructions:
    - Use light green 2x2 circular tile to launch from 1x4 disk launcher brick at the back of the temple.  
 
 Congratulations on completing the set! Thank you for building with us!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building a detailed Parisian Restaurant, featuring a bustling interior with a waiter, a nervous man preparing to propose, a chef in the kitchen, and an artist's studio. Include a fully equipped kitchen, a cozy apartment, and a rooftop terrace with hanging lanterns and flowers for outdoor dining.
+</user>
 
-assistant
+<assistant>
 **LEGO Building Instructions**  
 
 **Large Bag 1:**  
@@ -3700,16 +3796,18 @@ Bag 6: Build and add vertical F parts to the structure. Combine and simplify the
 9. Place a 2x2 disk on top of each of the two sled pieces. Flip right side up, handles to the back, and install by inserting the handles into the clasps on the half-arches. 
 10. Continue with building the structure by following the remaining steps in the provided instructions. 
 11. Complete the set by inserting the claw sticks into each branch and placing it on the trellis. Enjoy your build!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Please generate LEGO instructions for the LEGO City Electric Sports Car set (60383) designed by Alex Charbonneau. The set includes pieces to build a futuristic toy sports car with neon-yellow detailing and a large rear spoiler, a toy charging station, and a driver minifigure. The car measures over 1.5 inches high, 4.5 inches long, and 2 inches wide. The box art features a dark gray sports car with blue and lime green stripes, a driver minifigure wearing a baseball cap, and a solar-powered charging station. The driver is shown connecting the car to the charging station. The set contains 95 pieces and requires 52 building steps.
+</user>
 
-assistant
+<assistant>
 Building Instructions:
 1. Sub-build 1 - Driver Minifigure:
    - Assemble the driver minifigure using legs, jacket torso, head, and white baseball cap.
@@ -3746,27 +3844,31 @@ Building Instructions:
 7. Complete the Electric Sports Car by adding the wheels.
 8. Lift off canopy to place driver inside.
 9. Last step: Driver charges the car using the charging station with the cable connected next to the cockpit.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for 75127 The Ghost set from the Star Wars Rebels series. The set includes a miniaturized version of Hera Syndulla's starship, The Ghost, featuring a stud shooter, space for the Hera minifigure with a blaster pistol, and big engines. Includes a Hera Syndulla minifigure, blaster pistol, and extra stud shooter ammo. Match up with 75128 TIE Advanced Prototype for duels. Measures over 1” high, 3” long, and 3” wide. Build consists of 104 pieces and 28 building steps.
+</user>
 
-assistant
+<assistant>
 Build Minifigure Hera Syndulla: 1. Place minifigure legs horizontally. 2. Attach torso, head, and helmet with tails at the back. Build Ship: 1. Lay light gray 6x4 plate flat. 2. Add dark gray 2x4 plate vertically in the middle. 3. Make a part: - Place light gray 6x2 plate horizontally. - Attach dark gray 2x1 brick with pinhole symmetrically. - Add dark gray 2x2-2x1 stair plate on top. 4. Attach stair plate horizontally with slopes on front row. 5. Repeat step 4 on the back row. 6. Add black 2x1-2x1 bracket and red 2x1 plate. 7. Attach inverted slopes and corner plates with letters. 8. Place light brown 2x2 plate on top. 9. Add black 2x1 plate with vertical clips. 10. Attach red bracket and sloped curved tiles. 11. Add more brackets and tiles. 12. Make a part: - Place white 3x2 plate. - Add dark gray jumper tiles and black concaved brick. - Attach red round plates. 13. Attach parts to main build. 14. Insert axles and add grille tiles. 15. Make two parts with cones and mount on axles. 16. Add bracket and slopes. 17. Attach inverted slopes and corner plates. 18. Place light brown plate on top. 19. Add vertical plates and clips. 20. Attach brackets and plates. 21. Add bracket, plate, slopes, and tiles. 22. Attach slopes and jumper tiles. 23. Make part with dome and attach. Build Wings and Rocket Booster: 24. Make triangle plate with bars and clips. 25. Repeat for second wing with engine. 26. Make triangle plate with bars and tiles. 27. Repeat for another wing with tiles. 28. Add stud shooter and fire away with caution.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building Ninjago Cole’s Dragon set number 70599.
+</user>
 
-assistant
+<assistant>
 Build a minifigure:
 1. Attach a 1x1 corner piece to the minifigure's neck with the button to the back.
 2. Add a 1x1 clasp on the corner piece.
@@ -3799,16 +3901,18 @@ Final steps:
 3. Attach the part made in step 22 to the structure.
 4. Assemble additional parts as per the remaining steps.
 5. Enjoy your completed set! Thank you for building!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for LEGO Friends Beach Buggy Fun (41725) set featuring Liann, Zac, a pug, a dolphin, a toy beach buggy, and accessories like a food cooler, banana, and ice cream. Ages 4+. Includes intuitive instructions, Starter Brick for easy building, and LEGO Builder app guidance. Perfect for imaginative play and creative storytelling at the beach.
+</user>
 
-assistant
+<assistant>
 Building Instructions:
 1. Assemble Liann minifigure: Use white, blue, pink, and orange torso, blue shorts, tan legs, green/white shoes, tan head, and black hair. Attach head to body, hair to head, shoes forward, and arms elbows back.
 2. Add ice cream to Liann: Place pink scoop on tan cone, then attach cone to Liann's hand.
@@ -3834,16 +3938,18 @@ Building Instructions:
 22. Set up Zac on the wave: Place Zac on the wave with surfboard.
 23. Final touch: Raise Zac's back hand as if waving.
 24. Congratulations! Beach Buggy Fun set complete.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for LEGO Friends set 41724 Paisley's House, designed by Ann Wei and tested by Torsten Werner. This set features a 2-story house with a bedroom, bathroom, kitchen, and outdoor dining area. Includes 3 mini-dolls (Paisley, Ella, Jonathan) and a pet bunny character. Accessories for role play include a guitar, kitchenware, and food items. Interactive features like removable top floor and cozy outdoor corner for imaginative play. Suitable for kids aged 4 and up. Package includes 185 pieces, 3 bags, 3 instruction books, and approximately 160 pages of building instructions.
+</user>
 
-assistant
+<assistant>
 Building Instructions:
 1. Build Jonathan: Assemble head, torso, legs, hair, waffle, and frying pan.
 2. Build 1st floor of house: Place blue 8x16 plate horizontally, fill gaps, add purple 2x4 plate and blue 1x4 tile.
@@ -3882,16 +3988,18 @@ Building Instructions:
 16. Build a comfy chair/couch using specific white, blue, and purple bricks and tiles.
 17. Complete the tree by attaching a green branch and stick to the pole.
 18. Finish by placing Paisley in the nook or on the chair.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for 43199 Elsa’s Castle Courtyard.
+</user>
 
-assistant
+<assistant>
 LEGO Building Instructions:
 1. Place white 8x4 plate horizontally on table, wide end to back.
 2. Add two blue 2x1 bricks, one on each edge with horizontal clasp.
@@ -3914,16 +4022,18 @@ LEGO Building Instructions:
 19. Create part with white plate, slopes, and accessories.
 20. Repeat step 19 with different parts.
 21. Assemble final parts onto structure.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building a Seaside Cabana set from 1992. This set includes a deck with a table, sunshade, two chairs, a mug, a parrot, a wind-surfing board with sail, foliage, and a one-person motorboat. It also includes two minifigures: a man wearing a lifejacket, and a woman with a ponytail, bangs, heavy eyelashes, and red lipstick, dressed in a red summer blouse with a blue bow.
+</user>
 
-assistant
+<assistant>
 1. Place the 2 pizza pieces together to form a semi-circle.
 2. Attach a 2x2 cylinder in the center of the front row, connecting the pizza pieces. Add a 4x1 fence piece horizontally to each side, one column from the left edge.
 3. Place 2 tall 2x1 pieces on the edges of the structure, with another 2x1 piece between the fences one row in front of the back edge.
@@ -3932,16 +4042,18 @@ assistant
 6. Seat the girl in the left chair and give the man a lifejacket.
 7. Build the watercraft using specified pieces and place the man in it. Add the saucer with a pink umbrella pattern to the table.
 8. Assemble the sail by attaching the parts to the pole and stick. Connect the sail to the surfboard. Enjoy your creation! Thank you for building this set.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for set 8058 Atlantis: Guardian of the Deep.
+</user>
 
-assistant
+<assistant>
 LEGO Building Instructions:
 1. Take a 6x1 concaved jaw piece and place it vertically, 2x2 rise to the back.
 2. Place a 2x2 in the middle of the fifth row from the front.
@@ -3965,16 +4077,18 @@ LEGO Building Instructions:
 20.1-20.5: Follow step-by-step instructions to assemble a specific part.
 21.1: Assemble another part and connect it to the right x-hole of the crank.
 Enjoy your build! Thank you for choosing this set!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building a Grocery Store set (60347) that includes a toy supermarket stocked with produce, an EV, forklift truck, shopping cart, Road Plate parking lot, and 5 minifigures. The set allows for transporting crates, displaying produce, loading a recycling container, and connecting to other LEGO City playsets. The Grocery Store measures over 4 in. high, 14 in. wide, and 5 in. deep when built and includes a shopping cart, fish, bread, fruits, and veggies. The box features images of the store, minifigures, vehicles, and grocery items, along with scenes of the forklift in action and customers shopping.
+</user>
 
-assistant
+<assistant>
 LEGO Building Instructions:
 
 Minifigure Assembly:
@@ -4036,16 +4150,18 @@ This revised version aims to provide clear and concise instructions for building
 12. Attach solar cell tiles to the roof of the store.
 13. Add a parking sign to the front right of the store.
 14. Place road plates and tiles to complete the scene.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for the Avatar Skimwing Adventure set (75576) designed for ages 8+. Create a posable Skimwing figure, along with Tonowari and Jake Sully minifigures, set in a Pandoran coral-reef setting. The set includes a display stand for recreating scenes from the movie Avatar: The Way of Water. Skimwing measures over 2.5 in. (6 cm) high, 13 in. (33 cm) long, and 13 in. (33 cm) wide. The set features 259 pieces and requires 70 steps to build.
+</user>
 
-assistant
+<assistant>
 Construct the Tonowari Na'vi minifigure using long avatar legs, tail, torso, head, and hair. Assemble the staff by connecting a three-stud long brown bar with darker brown light saber hilts on both ends. Attach two translucent light blue triangular pieces to the light sabers and place the staff in Tonowari's hand. Tonowari wears medium azure blue with a "toa guard" across his chest symbolizing the guarding of the heart for the Na'vi.
 
 To build the first coral reef:
@@ -4086,16 +4202,18 @@ Proceed with constructing the Jake Sully minifigure using the tall legs, tail, t
 7. Connect the four wings by sliding the ball joints through the holes, with the bigger wings at the front.
 8. Optional: Connect the beast to the base by sliding the base axle through the hole at the bottom.
 9. Optional: Attach a minifigure to the other base. Thank you for building this set!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for assembling a two-seater dragster for Wyldstyle and guide Emmet on how to escape from the Robo SWATs. Include steps to jump over a spike strip roadblock and avoid the Robo Police guns, 4x4 SWAT car's flick missiles, and deadly dynamite.
+</user>
 
-assistant
+<assistant>
 Book 1:
 
 1. Place a 4x2 horizontal piece on the table. Add a 2x1 vertical piece with a hook on the leftmost column, overhanging to the left.
@@ -4135,16 +4253,18 @@ Book 2:
 34. Build sidestep parts with various pieces in sequence.
 35. Make shooter parts and insert them.
 36. Create mirror parts and install them. Enjoy your build!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building a forest scene with Claire Dearing and 3 baby dinosaur figures (Triceratops, Pteranodon, Brachiosaurus) from the Jurassic World movie. The set includes 27 pieces for toddlers over 2 years old. The animals have a cave, nest, and tree with leaves. Front box image features Claire and dinosaurs in the forest; back box image shows toddlers with Duplo sets.
+</user>
 
-assistant
+<assistant>
 LEGO Building Instructions:
 1. Place a green 8x2 brick horizontally on the table.
 2. Add two light grey 2x2 slopes with studs on top vertically at each end of the green brick, slanting outward.
@@ -4163,16 +4283,18 @@ LEGO Building Instructions:
 15. Top the slopes with a brown round 2x2 brick with horizontal cylinders/teeth.
 16. Place the Pteranodon on the tree.
 17. Fold the briefcase piece and place it in Claire's hand. Enjoy playing with your dinosaur nursery! Thank you for building this set!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building the LEGO Icons Chevrolet Corvette 1961 (set number 10321), a detailed replica model of the revered 1961 cabriolet sports car. Craft an immersive building experience by assembling each iconic detail, including opening hood and trunk, detailed engine bay with spinning radiator fan, working tie-rod steering, and intricate interior featuring brake, clutch, and gas pedals, gear shift, radio, rearview mirror, and working steering. Choose between hard- or open-top styling options. The set includes accessories such as 3 sets of license plates. This model measures over 4 in. (10 cm) high, 12.5 in. (32 cm) long, and 5.5 in. (14
+</user>
 
-assistant
+<assistant>
 Building Instructions:  
 1. Open bag 1 and group 1.  
 2. Start with the car chassis.  
@@ -4351,16 +4473,18 @@ By condensing the instructions and focusing on the main actions of each step, we
 10. Attach clear 4x12x3 windshield to create the rear window. Add a light gray 1x2 plate on the left anti-stud.
 11. Place the hardtop to the right of the windshield on the car, attaching it to the two exposed studs to the right of the seats.
 12. Your 1961 Chevrolet Corvette build is complete! Thank you for building this set!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building the 10315 Tranquil Garden set, featuring a traditional Japanese garden with an arched bridge, stream, koi carp, lotus flowers, trees, rocks, stone lanterns, and a pavilion with a tea-ceremony room. Enjoy a mindful building experience and customize your display configurations with ease. The set includes a pavilion, arched bridge, stream, koi carp, lotus flowers, trees, rocks, stone lanterns, a teapot, and whisk. Use the LEGO Builder app for digital building instructions. The set measures over 8 in. (21 cm) high, 12.5 in. (32 cm) wide, and 8 in. (20 cm) deep
+</user>
 
-assistant
+<assistant>
 **LEGO Building Instructions: Tea-ceremony room**
 
 1. Open bag 1.
@@ -4469,16 +4593,18 @@ By simplifying and condensing the instructions, the building process becomes cle
 1. Connect light green pieces over a 6L bar to form bamboo shoots. Attach tow balls accordingly to avoid collisions.
 2. Insert pieces to create a small tree with branches and leaves. Place the tree in the garden.
 3. Arrange all accessories as desired. Congratulations, the Tranquil Garden set is complete! Thank you for building.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for 60377 Explorer’s Diving Boat playset, including building steps for the inflatable boat, mini-sub, coral reef setting, 3 explorer minifigures, manta ray, hammerhead shark, crab, 2 fish, 2 turtle figures, and accessories.
+</user>
 
-assistant
+<assistant>
 1. Assemble the male diver minifigure: legs, torso, scuba tank, head, and attach blond hair. Add orange flippers to feet. Clip the goggles onto the helmet, ensuring snorkel slopes up. Attach blue camera with round plate and tile. Add stingray accessory.
 2. Build the minisub: connect bricks and plates to form the body. Add gear for propeller, lights, and robot arms. Complete assembly by attaching lights and arms.
 3. Construct the explorer's diving boat: attach bricks and slopes to create the boat body. Add steering wheel, dashboard, and storage box. Finish by adding panels for minifigure posing and accessories.
@@ -4494,16 +4620,18 @@ assistant
 9. Build a colorful coral reef using various colored pieces.  
 10. Include sea creatures and a treasure chest in the coral reef scene.  
 11. Add a ship's wheel to the reef for a shipwreck effect.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building the Horizon Express (Set 10233) that can be used to create a model that resembles a train flying down a track.
+</user>
 
-assistant
+<assistant>
 Book 1: Start by building a minifigure of a girl with specific clothing and features. Bag 1: Begin by placing specific LEGO pieces on the table in a particular arrangement. Bag 2: Continue adding more pieces in a symmetrical pattern. Bag 3: Add more pieces following the same symmetrical layout. Bag 4: Add specific pieces in a symmetrical arrangement. Bag 5: Place additional pieces in a specific order. Bag 6: Assemble a part using various pieces in a particular configuration. Bag 7: Add specific pieces in a symmetrical pattern. Bag 8: Continue adding pieces in a symmetrical layout. Bags 9-14: Create black and white arrow patterns on the front and back sides. Bag 15: Put together parts using the provided pieces. Bag 16: Add more pieces in a specific order. Bag 17: Create a part using different colored pieces. Bag 18: Continue assembling parts following specific instructions. Bag 19: Build the front part of the train using a step-by-step process. Bag 20: Add more pieces to the front wall of the structure. Bag 21: Place specific pieces in a particular arrangement. Bag 22: Continue adding pieces in a specific order. Bag 23: Build a part using the provided pieces. Bag 24: Create an underneath railing part following detailed instructions. Bag 25: Make a wheeled platform using step-by-step directions. 1. Place a 2x1 vertical piece to the left between the two seesaw ends.
 2. Add a 2x1 vertical piece to the right end of the back row, between the seesaw ends.
 3. Insert a 2x1 vertical piece at the right end of the two rightmost columns.
@@ -4561,16 +4689,18 @@ Book 1: Start by building a minifigure of a girl with specific clothing and feat
 16. For motorization, replace the dummy engine with the train motor, position the IR receiver and battery box as directed, and connect multiple sets to create a train.
 
 Thank you for building this set!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building a meter-high model of the NASA Apollo Saturn V, including 3 removable rocket stages, lunar lander, and orbiter. Note: Advanced building skills required, handle delicate pieces with caution. Instructions may require sighted assistance in specific steps. Kit includes astronaut microfigures and a booklet on Apollo missions.
+</user>
 
-assistant
+<assistant>
 Concise Version:
 **Building Instructions for LEGO Rocket - First Stage**
 1. **Inner Structure:**  
@@ -4728,16 +4858,18 @@ These steps complete the first stage of the rocket. Continue building the engine
 9. Connect top and bottom of lunar lander and attach to display base.
 10. Complete lunar lander assembly by adding figures and flag.
 11. Build lunar orbiter with pieces from group 57, following steps provided. Build three stands to display the rocket sideways. 1. Place a blue 1x6 plate vertically on top of a light bluish gray 1x6 plate. 2. Add a blue 1x6x5 rectangular girder vertically on top. 3. Create two pieces: a. Insert yellow 3l axles into a dark bluish gray 1x4 thin lift-arm horizontally. b. Slide light bluish gray bushes onto the axles. Rotate and attach the pieces to the stands. 4. Repeat steps 1-3 for the slightly taller stand. 5. Repeat steps 1-3 twice for the two smaller stands. 6. Place the rocket on the stands so it rests between the lift-arms, with the taller stand under the third stage and the smaller stands under the first and second stages. Congratulations on building the NASA Apollo Saturn V!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for the Pop Star Recording Studio set (41103) featuring Olivia preparing the production room for pop star Livi to record her next hit album. Instructions involve setting up technical equipment, testing settings in the recording booth, recording a demo with Olivia's headset and guitar, ejecting the CD, and relaxing on the sofa with a drink and magazine. Set includes Olivia mini-doll figure.
+</user>
 
-assistant
+<assistant>
 Build a mixer:  
 1. Place a 2x2 cylinder.  
 2. Attach a 2x1 pew piece to the back two buttons horizontally.  
@@ -4791,16 +4923,18 @@ Make two music notes:
 1. Stack pieces to create two music notes.
 
 Enjoy your build! Thank you for assembling this set.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for the 31140 Magical Unicorn set, featuring a posable unicorn in two poses and two additional magical creatures, a seahorse and a peacock. Each creature has posable body parts and can be displayed on designated stands. The set includes 145 pieces for the unicorn, 95 pieces for the seahorse, and 90 pieces for the peacock.
+</user>
 
-assistant
+<assistant>
 LEGO Building Instructions for Magical Unicorn:
 
 1. Build the Rainbow Base:
@@ -4888,16 +5022,18 @@ LEGO Peacock Building Instructions:
 3. Create the bottom of the tail: Place a teal 2x6 plate in front of you. Attach a white 1x2 plate with two click hinge fingers on the front studs of the left two columns. Repeat this step once more. Add an orange 1x2 plate to the right and a light teal 2x4 plate to the right of the previous piece.
 4. Center the rest of the tail vertically on the assembly, with the curved slope tiles overhanging on the right.
 5. Position the peacock in front of you with the head on the left. Connect the click fingers on the tail to the top right of the peacock. Adjust the tail up to the left and then down to the right by one click to complete the peacock.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for Lego Star Wars Microfighters 75072.
+</user>
 
-assistant
+<assistant>
 Concise LEGO building instructions:
 1. Start with a F 4x4 upside down, add F 2x2 pieces.
 2. Add FS 1x1 wedges, corner pieces, and step pieces.
@@ -4914,16 +5050,18 @@ Concise LEGO building instructions:
 13. Build parts with long connectors and wings, then attach them.
 14. Make parts with sticks and cones, then install them.
 15. Enjoy your build! Thank you for assembling this set.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building the Queen Anne’s Revenge set featuring Captain Jack Sparrow and his crew in a battle against Angelica and her zombie crew, while Blackbeard lurks in the captain’s quarters.
+</user>
 
-assistant
+<assistant>
 Concise LEGO Building Instructions:
 Bag 0.3: Make assorted men with weapons. Attach a 2x2 circle and two bottles with plugs on a barrel.
 Bag 0.4: Construct a table by placing a 6x2 on top of a 6x1, adding 2x1 lipped pieces for support. Attach legs using cylinders and add map, jars, and chess piece.
@@ -5079,16 +5217,18 @@ Bag 63:
 Bag 64:
 1. Attach sail to mast with clasps and buttons.
 2. Place other items on the ship. Enjoy building!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building a set of Lotus Flowers (40647) designed by Alex Charbonneau and tested by Natalie Charbonneau. Show how to create 2 Lotus flowers in full bloom and 1 flower head in bud, all in delicate pink and white shades with long green stems. Instructions should include 220 pieces and 29 building steps.
+</user>
 
-assistant
+<assistant>
 LEGO Building Instructions: Lotus Flower Set
 Pink, Un-bloomed Flower:
 1. Open bag 1 and group 1. Place a green 2x2 circular plate, then a black 2x2 thick plate on top.
@@ -5110,16 +5250,18 @@ White, Bloomed Flower:
 2. Add inner petals and create stamen and seedpod.
 3. Attach inner parts to the petals and assemble the stem.
 Congratulations! The Lotus Flowers are complete. Thank you for building this set!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for set 60011 Surfer Rescue. The set includes a surfer with a surfboard, a shark, and a coast-guard watercraft with a life-preserver. There are two minifigures: a Surfer with a surfboard and a Coast-guard officer with a helmet. For the Coast-guard diver, build a minifigure wearing a coast-guard uniform with a badge and a golden belt buckle. The diver is printed with epaulettes with golden stripes, two shirt creases at the back, and a belt. The shirt has three buttons, two pockets, and a down-turned collar, with reflective glasses. Attach the helmet with a visor and a life vest. For the surfer, use light
+</user>
 
-assistant
+<assistant>
 Build the diver's boat:
 1. Place the large smooth boat piece on the table with the narrow side to the left.
 2. Insert a 2x1 piece vertically in the third column from the left.
@@ -5133,27 +5275,31 @@ Build the diver's boat:
 10. Slide a 2x1/2x1 curved frame piece horizontally to the left in the middle, starting on the third column from the left. Add a 2x1 piece with one button vertically to the right.
 11. Slide a 4x2 smooth curved piece to the left, starting on the left edge. Add a 2x1 slide vertically to the right of the previous slide. Apply the shield sticker with blue-and-white stripes and a life-preserver on the curved piece. Add a 2x1 piece with one button vertically to the right. Place a 1x1 clasp vertically on top of the previous piece.
 12. Attach the wheel to the clasp, with the handlebars on the right. Place the life-saver on the left and the diver on top. Enjoy your creation! Thank you for building this set.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building set 60364 Street Skate Park, designed by John Le and tested by Natalie Charbonneau. The set includes combinable ramp modules for various park configurations, a toy BMX bike, skateboard, scooter, in-line skates, 4 skater minifigures, and a LEGO Road Plate for connecting to other LEGO City sets. The standard configuration of the toy skatepark measures over 7.5 in. (19 cm) high, 17.5 in. (44 cm) wide, and 10 in. (25 cm) deep. The set features removable ramps, railings, platforms, and accessories like a boombox and phone for skaters to enjoy while playing. The instructions consist of
+</user>
 
-assistant
+<assistant>
 
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for the 76244 Miles Morales vs Morbius set, featuring two minifigures and a super racer car with stud shooters and a booster element. The set includes 220 pieces and 78 steps for kids aged 7 and up to enjoy.
+</user>
 
-assistant
+<assistant>
 Construct the Miles Morales minifigure: 1. Combine legs, torso, and head. 2. The figure wears a black suit with red spider symbols on the front and back, revealing muscle details. The masked face has a light grey web pattern, large blue eyeholes outlined in red.
 
 Assemble Miles Morales’ web accessory: 1. Connect a transparent blue 1x1 round plate with hole to a transparent clear bar with knob. Insert the bar into a splayed web element. 2. Attach a transparent blue cone piece to the web element and add another round plate. 3. Insert a transparent blue large web piece into Miles Morales’ hand to simulate web-slinging.
@@ -5185,16 +5331,18 @@ Continue building the body with tiles, corner pieces, and curved wedges to compl
 13. Finish the spoiler by connecting parts with a tile. The spoiler can be adjusted.
 14. Add a red stepped wedge above the trunk and a transparent windscreen to the front.
 15. Complete the car by adding wheels.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building a highly detailed, 3-story Pet Shop and townhouse. Include full internal and external detailing, such as a menagerie of pets, toys, and supplies. The pet shop building should have a hinged staircase, upper apartment with a kitchenette, and loft overlooking the interior. The townhouse should have a detailed ground floor, spiral staircase, attic with storage boxes, French doors leading to a balcony, and a rooftop garden with fresh vegetables.
+</user>
 
-assistant
+<assistant>
 Consolidated LEGO Building Steps:
 
 Book 1, Bag 1, Number 1: 
@@ -5405,16 +5553,18 @@ Unit 6
 1. Place two 8x1 bricks horizontally over the previous part, on top of the four 1x1 pieces on the front wall.  
 2. Install on the roof.  
 3. Connect all floors. Enjoy building this set! Thank you!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for the 43212 Disney Celebration Train set, designed by Alex Charbonneau and tested by Natalie Charbonneau. This set includes a station, an engine, 3 train floats, and 6 LEGO minifigures: Mickey Mouse, Minnie Mouse, Moana, Peter Pan, Tinkerbell, and Woody. Use the LEGO Builder app for an intuitive building experience with zoom and rotate tools. Boost children's confidence with Starter Bricks and character-themed bags for flexible play. The 200-piece set offers fast fun with story starters, hidden features in the floats, and the fully connected train measuring over 4.5 in. (12 cm) high, 17 in. (44 cm) long, and
+</user>
 
-assistant
+<assistant>
 Building Instructions:
 Bag 1:
 - Sub-build 1 - Mickey Mouse Minifigure:
@@ -5452,16 +5602,18 @@ Bag 3:
 12. Celebrate completion of the Disney Celebration Train set.
 
 This revised version provides a more succinct overview of the LEGO building steps while maintaining clarity and essential details.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for set 76401 Hogwarts Courtyard: Sirius’s Rescue.
+</user>
 
-assistant
+<assistant>
 Building Instructions:
 1. Assemble Hermione Granger minifigure.
 2. Build the courtyard wall:
@@ -5543,16 +5695,18 @@ These steps provide a concise summary of the detailed LEGO building instructions
 28. Assemble a turntable and attach the cell to it.  
 29. Complete the courtyard by attaching the roof and third story.  
 30. Congratulations on completing the Hogwarts Courtyard: Sirius’s Rescue set! Thank you for building!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for the Arctic Explorer Snowmobile set (60376) designed by John Le and tested by Natalie Charbonneau. This set includes a toy snowmobile with tracked wheels and skis, an Arctic scene, an explorer minifigure, and seal and seal pup figures. With 70 pieces and 51 steps, this build is suitable for ages 5 and up. Follow the detailed instructions over 51 pages to assemble the snowmobile, camera, iceberg, minifigure, and seals for an exciting Arctic adventure.
+</user>
 
-assistant
+<assistant>
 LEGO Building Instructions Summary:  
 1. **Arctic Explorer Minifigure + Seal**: Assemble Arctic Explorer minifigure and seal. Attach white goggles to the helmet.  
 2. **Camera**: Build camera with black bricks, phone, clear tile, and torch handle.  
@@ -5563,30 +5717,34 @@ LEGO Building Instructions Summary:
 7. **Floating Ice Sheet**: Create iceberg with white plates and slopes. Add fish.  
 
 Arrange Arctic Explorer, camera, and seals as desired. Attach quadpod to snowmobile for camera. Enjoy building and playing!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for the set "43220 Peter Pan & Wendy's Storybook Adventure" based on the upcoming Peter Pan & Wendy movie. Follow the 59 steps provided in 2 pages of instructions to build the Darling house, Big Ben, the Lost Boys’ hideout, Skull Island, a pirate ship, and other elements. Use the LEGO micro-doll figures of Disney’s Peter Pan, Wendy, Captain Hook, a Nana LEGO dog figure, and additional characters to bring the storybook adventure to life. Utilize the LEGO Builder app for an interactive building experience.
+</user>
 
-assistant
+<assistant>
 Minifigure Sub-builds:
 1. Assemble Peter Pan: Attach green body, nougat head, and black hair with ears and green pointy hat. Align head stud upwards, chin downwards, and attach to body. Place hat, hair, and ears with bangs facing front and point of hat facing back. Extend arms slightly forward.
 2. Assemble Wendy: Connect light blue and white body, light nougat head, and reddish-brown wavy hair. Align head stud upwards, chin downwards, and attach to body. Place hair with open side facing front and nose bump. Position arms and nose in the same direction. Place Nana LEGO dog figure next to Wendy.
 3. Assemble Captain Hook: Combine dark blue and white body, light nougat head with mustache, and reddish-brown ponytail with pirate hat. Align head stud upwards, chin downwards, and attach to body. Position hat towards nose bump and extended arms, and ponytail facing opposite direction.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building a T-Rex model from set 6914 Prehistoric Hunters. The model should feature an opening mouth with teeth, powerful moving legs, and a long tail. Additionally, provide instructions to rebuild the T-Rex into a flying pterodactyl with moving wings or a poseable brachiosaurus.
+</user>
 
-assistant
+<assistant>
 LEGO sauropod building instructions:
 1. Place a 6x2 horizontal piece on the table. Add a 4x2 horizontal piece on top, starting from the right. Place another 4x2 piece to the left.
 2. Flip it over and add a 2x1 vertical piece to the left of the 6x1 piece. Flip it upright and add a 2x2 vertical piece with two tubes to the right end.
@@ -5604,27 +5762,31 @@ LEGO sauropod building instructions:
 14. Repeat steps to create a second tail part and connect both parts together.
 15. Attach a final piece to complete the dinosaur model.
 Enjoy building this set! Thank you for your effort.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for 10732 Guido and Luigi's Pit Stop.
+</user>
 
-assistant
+<assistant>
 Build the car: Attach wheels to a 4x2 piece with short wheel axles. Add 2 fs2x1s with buttons at front and back, then 2 f2x1s on top. Place a 2x1-2x4 corner piece upright at the front and back, followed by a 2x4-2x2 windshield piece at the front. Add a grate and phone-receiver pieces as described. For the second car, follow similar steps with slight variations. Build a structure: Place a 2x2 ver piece on each side of a 4x2, then add various pieces as directed. Create a sign reading "Rust Easy Bumper Ointment" and attach it to the structure. Assemble a hose with telescope piece and cone, then attach it to the structure. Thank you for building this set!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building the 10246 Detective’s Office set.
+</user>
 
-assistant
+<assistant>
 Book 1 Bag 1:  
 1. Place a 32x32 piece on the table.  
 2. Attach a 1x1 piece to the left front button, then attach a 6x1 piece horizontally to the right. Repeat four times.  
@@ -5755,16 +5917,18 @@ Bag 44: Build the newspaper dispenser part as described. 1. Place a 2x1 flat pie
 5. Attach to the front of the left awning.
 6. Create a tree part using a truncated 2x2 cone, a flat square disk, a ribbed stick, and branch pieces. Place in the middle of the front pavement.
 7. This completes the 2,262 piece set. Thank you for building!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building the NASA Apollo 11 Lunar Lander set (10266) developed in cooperation with NASA to commemorate the historic moon landing. The set includes a detailed replica of the Eagle lunar module, lunar surface with crater, footprints, and U.S. flag. The descent stage features gold-colored details, opening hatches, and a ladder, while the ascent stage has a detailed interior for 2 astronauts. The set contains 1,087 pieces and 207 steps, measuring over 7" high, 8" wide, and 7" deep.
+</user>
 
-assistant
+<assistant>
 **LEGO Building Instructions:**
 
 1. Assemble the astronaut minifigure: Connect white legs to white torso, add yellow head, gold helmet, and life support backpack.
@@ -5901,29 +6065,33 @@ These concise instructions provide a simplified guide for building a LEGO lunar 
 18. Repeat step 16 with limbs bent back.
 19. Connect the assembly to the capsule.
 20. Connect the capsule to the lander using clips and hinges.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for a LEGO Juniors set with the following components: Road Repair Truck, construction worker minifigure, cement mixer, and truck/trailer.
+</user>
 
-assistant
+<assistant>
 Build a minifig with a red construction hat, orange vest, and black shovel. Place the car body on the table, adding a steering wheel to the left indent and a seat to the right. Add a 2x4 brick to the left of the steering wheel and a 4x1 bench piece horizontally to the right of the seat. Attach two 1x4 bricks with buttons vertically to the right of the seat, followed by a 4x1 railing. Add a 4x1 windshield on the left edge and a 4x4 dump-truck bed vertically on the right end. Place a 2x2 ball-joint-holder under the dump-truck bed in the middle. Finish by adding cones to the buttons on the minifig's chest, and insert a shovel and jackhammer into the holes on the 4x1 railing. The truck is complete!
 
 For the trailer, add small wheels to the trailer body. Attach a 2x1 brick with a ball-joint horizontally on the left end. Place a 2x2 curved brick on the buttons of the minifig's chest and add a handle at the front and back. Insert a 2x1 brick with a handle vertically on the right end. Assemble a trash-can-holder by combining a 4x4 plate, a 4x2 plate with clasps, and a 4x1 plate. Mount a 4x4 disk upright on the handle and connector. Finish by placing a 4x4 cone with a hole on top of the trash-can-holder. Thank you for building this set!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for set 31040 Desert Racers.
+</user>
 
-assistant
+<assistant>
 Build Model 1: Jeep-style Car
 1. Place a 6x2 piece upside-down on the table.
 2. Attach a 2x1 piece with clasp upside-down vertically, with the clasp on the left edge.
@@ -5954,16 +6122,18 @@ Build Model 3:
 17. Insert a ladder into the clasps.
 18. Create a bumper piece and attach it to the bottom right edge.
 19. Mount a disk with a hole on the right edge. Add pieces and accessories to complete the build. Place ties on the wheels and attach them to the axles. You have completed the set. Thank you for building!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for decorating a tree (Set number: 40058).
+</user>
 
-assistant
+<assistant>
 Build a tree: Place a 6x6 plate on the table. Insert a 2x2 cylinder in the center. Surround the cylinder with 4 curved quarter round pieces. Insert a long-ribbed stick into the cylinder. Set aside.
 
 Make a part: Place a 3-bladed 2x1 propeller piece on the table. Attach a 3x1 slope piece with one button to the frontmost button of the propeller, with two buttons overhanging. Repeat for the other blades. Add a 2x1 slope piece behind the previous piece. Attach 3 green 2x1 pieces to the propeller. Stack white and red 1x1 buttons and attach them to the slope piece. Repeat with white and yellow buttons. Place this part on the long-ribbed stick.
@@ -5975,16 +6145,18 @@ Continue building: Attach 3 2x1 slides to a 3-bladed propeller, adding 3 1x1 toe
 Build a present: Stack pieces on a 2x2 plate to create a gift box shape. Add a wedge on each end. Attach a ladder by placing a railing on a hinge, and attach a dad figure. Construct a camera by assembling pieces and placing it under the tree.
 
 You're done! Enjoy your creation. Thank you for building this set!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building the Metkayina Reef Home set from Avatar. Includes 4 unique Avatar minifigures, a toy canoe, underwater decorations, and a flexible roof. Set features 528 pieces and 182 steps. Combine with other LEGO Avatar sets for expanded play possibilities.
+</user>
 
-assistant
+<assistant>
 Building instructions for Bag 1: 
 1. Build two minifigures: First minifigure with shorter legs, darker blue features. Second minifigure with longer legs, lighter turquoise features. 
 2. Construct a boat: Connect tan bar with black oar, give oar to minifigure. 
@@ -6066,16 +6238,18 @@ Building instructions for Bag 2:
 9. Put a dark brown 2x2 barrel piece to the back left of the assembly and place an orange fish piece inside.
 
 10. Finished! Thank you for assembling this set.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Create LEGO instructions for set 43214 Twirling Rapunzel.
+</user>
 
-assistant
+<assistant>
 Building Instructions for Rapunzel Minifigure:
 1. Attach torso to translucent purple 4x4 octagonal dress.
 2. Add head with chin at front and gold hairpiece.
@@ -6136,16 +6310,18 @@ Main Build - Music Box:
 38.1. Create flower with magenta and green plates.
 38.2. Make three more flowers and attach.
 38.3. Place Rapunzel and Pascal on music box, turn key, and watch her spin. Congratulations on completing Twirling Rapunzel!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for the 76398 Hogwarts™ Hospital Wing set, designed by Alex Charbonneau and tested by Natalie Charbonneau.
+</user>
 
-assistant
+<assistant>
 Building Instructions:
 1. Assemble Ron Weasley minifigure: torso, legs, head, hair. Add a brown 3L bar in right hand and wand in left.
 2. Build lower hospital wing floor:
@@ -6183,16 +6359,18 @@ Building Instructions:
 9. Make roof with gear mechanism.  
 10. Complete roof with slopes and decorations.  
 11. Attach clock tower to hospital wing for completion.
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for building a detailed model of the 10224 Town Hall. Include features like entranceway columns, a coat of arms, a bell tower with a clock, a skylight, a ground floor with a hall, tax office, and auditorium, a working elevator to the second floor with the secretary and mayor's offices, furnished with desks, chairs, paintings, and a frog sculpture. The third floor should include a meeting room with a conference table, chairs, globe, and plants.
+</user>
 
-assistant
+<assistant>
 Book 1 Bag 1:
 1. Place a 32x32 baseplate.
 2. Add a 1x1 flat smooth piece at the leftmost button of the first row.
@@ -6478,27 +6656,31 @@ Continue following the instructions for Bags 22 to 33 and for the subsequent ste
 34. Place flat 2x2 pieces in the corners and 3x1 pieces between specific parts.  
 35. Assemble the tower top and install it.  
 36. Attach the roof onto the third floor and place the third floor onto the building. Enjoy your completed set!
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for set 60394 ATV and Otter Habitat.
+</user>
 
-assistant
+<assistant>
 
+</assistant>
 
-
-system
+<system>
 You are a helpful assistant providing detailed LEGO building instructions.
+</system>
 
-user
+<user>
 Provide step-by-step instructions for a LEGO build with this description:
 Generate LEGO instructions for the Police Bike Car Chase set (60392) designed by John Le and tested by Natalie Charbonneau. The set includes a police pursuit motorcycle, a crook's getaway sports car, police officer and crook minifigures, a toy banknote, and handcuffs. The sports car measures over 1.5 in. (4 cm) high, 4 in. (10 cm) long, and 2 in. (5 cm) wide. The set contains 59 pieces and 36 pages/steps for ages 5 and up. Bag 1 includes pieces for the police bike, getaway car, police officer, and crook. Let your imagination run wild with hours of crook-catching adventures
+</user>
 
-assistant
+<assistant>
 LEGO Building Instructions: Bag 1 and 2, Book 1
 
 1. Police Officer Minifigure:
@@ -6526,5 +6708,5 @@ LEGO Building Instructions: Bag 1 and 2, Book 1
 - Insert cylinders into tires and attach them to the car.
 
 Congratulations on completing the crook's car! Place the crook behind the steering wheel and enjoy the ride while avoiding the police officer.
-
+</assistant>
 
