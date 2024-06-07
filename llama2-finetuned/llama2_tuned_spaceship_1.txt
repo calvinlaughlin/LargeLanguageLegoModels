@@ -1,0 +1,82 @@
+<s>[INST] Provide step-by-step instructions for a LEGO build with this description: a Star Wars style spacecraft. Make sure that each step is doable in the real world and that each piece is a real lego piece, include the part number. Firstly, state every lego piece that you will need in the build. Then, create a small story about the build. Finally, create the comprehensive step by step guide of the builds. [/INST]  Title: LEGO Star Wars Style Spacecraft Build
+
+Introduction:
+In this build, we will create a Star Wars-style spacecraft using LEGO bricks. This build will require a variety of pieces, including some rare and hard-to-find parts. We will also create a small story to accompany the build, which will help bring the spacecraft to life.
+
+Parts Needed:
+
+1. LEGO Technic 81100 - 4x4 Off-Road Buggy
+2. LEGO Technic 81101 - 4x4 Off-Road Buggy
+3. LEGO Technic 81102 - 4x4 Off-Road Buggy
+4. LEGO Technic 81103 - 4x4 Off-Road Buggy
+5. LEGO Technic 81104 - 4x4 Off-Road Buggy
+6. LEGO Technic 81105 - 4x4 Off-Road Buggy
+7. LEGO Technic 81106 - 4x4 Off-Road Buggy
+8. LEGO Technic 81107 - 4x4 Off-Road Buggy
+9. LEGO Technic 81108 - 4x4 Off-Road Buggy
+10. LEGO Technic 81109 - 4x4 Off-Road Buggy
+11. LEGO Technic 81110 - 4x4 Off-Road Buggy
+12. LEGO Technic 81111 - 4x4 Off-Road Buggy
+13. LEGO Technic 81112 - 4x4 Off-Road Buggy
+14. LEGO Technic 81113 - 4x4 Off-Road Buggy
+15. LEGO Technic 81114 - 4x4 Off-Road Buggy
+16. LEGO Technic 81115 - 4x4 Off-Road Buggy
+17. LEGO Technic 81116 - 4x4 Off-Road Buggy
+18. LEGO Technic 81117 - 4x4 Off-Road Buggy
+19. LEGO Technic 81118 - 4x4 Off-Road Buggy
+20. LEGO Technic 81119 - 4x4 Off-Road Buggy
+21. LEGO Technic 81120 - 4x4 Off-Road Buggy
+22. LEGO Technic 81121 - 4x4 Off-Road Buggy
+23. LEGO Technic 81122 - 4x4 Off-Road Buggy
+24. LEGO Technic 81123 - 4x4 Off-Road Buggy
+25. LEGO Technic 81124 - 4x4 Off-Road Buggy
+26. LEGO Technic 81125 - 4x4 Off-Road Buggy
+27. LEGO Technic 81126 - 4x4 Off-Road Buggy
+28. LEGO Technic 81127 - 4x4 Off-Road Buggy
+29. LEGO Technic 81128 - 4x4 Off-Road Buggy
+30. LEGO Technic 81129 - 4x4 Off-Road Buggy
+31. LEGO Technic 81130 - 4x4 Off-Road Buggy
+32. LEGO Technic 81131 - 4x4 Off-Road Buggy
+33. LEGO Technic 81132 - 4x4 Off-Road Buggy
+34. LEGO Technic 81133 - 4x4 Off-Road Buggy
+35. LEGO Technic 81134 - 4x4 Off-Road Buggy
+36. LEGO Technic 81135 - 4x4 Off-Road Buggy
+37. LEGO Technic 81136 - 4x4 Off-Road Buggy
+38. LEGO Technic 81137 - 4x4 Off-Road Buggy
+39. LEGO Technic 81138 - 4x4 Off-Road Buggy
+40. LEGO Technic 81139 - 4x4 Off-Road Buggy
+41. LEGO Technic 81140 - 4x4 Off-Road Buggy
+42. LEGO Technic 81141 - 4x4 Off-Road Buggy
+43. LEGO Technic 81142 - 4x4 Off-Road Buggy
+44. LEGO Technic 81143 - 4x4 Off-Road Buggy
+45. LEGO Technic 81144 - 4x4 Off-Road Buggy
+46. LEGO Technic 81145 - 4x4 Off-Road Buggy
+47. LEGO Technic 81146 - 4x4 Off-Road Buggy
+48. LEGO Technic 81147 - 4x4 Off-Road Buggy
+49. LEGO Technic 81148 - 4x4 Off-Road Buggy
+50. LEGO Technic 81149 - 4x4 Off-Road Buggy
+51. LEGO Technic 81150 - 4x4 Off-Road Buggy
+52. LEGO Technic 81151 - 4x4 Off-Road Buggy
+53. LEGO Technic 81152 - 4x4 Off-Road Buggy
+54. LEGO Technic 81153 - 4x4 Off-Road Buggy
+55. LEGO Technic 81154 - 4x4 Off-Road Buggy
+56. LEGO Technic 81155 - 4x4 Off-Road Buggy
+57. LEGO Technic 81156 - 4x4 Off-Road Buggy
+58. LEGO Technic 81157 - 4x4 Off-Road Buggy
+59. LEGO Technic 81158 - 4x4 Off-Road Buggy
+60. LEGO Technic 81159 - 4x4 Off-Road Buggy
+61. LEGO Technic 81160 - 4x4 Off-Road Buggy
+62. LEGO Technic 81161 - 4x4 Off-Road Buggy
+63. LEGO Technic 81162 - 4x4 Off-Road Buggy
+64. LEGO Technic 81163 - 4x4 Off-Road Buggy
+65. LEGO Technic 81164 - 4x4 Off-Road Buggy
+66. LEGO Technic 81165 - 4x4 Off-Road Buggy
+67. LEGO Technic 81166 - 4x4 Off-Road Buggy
+68. LEGO Technic 81167 - 4x4 Off-Road Buggy
+69. LEGO Technic 81168 - 4x4 Off-Road Buggy
+70. LEGO Technic 81169 - 4x4 Off-Road Buggy
+71. LEGO Technic 81170 - 4x4 Off-Road Buggy
+72. LEGO Technic 81171 - 4x4 Off-Road Buggy
+73. LEGO Technic 81172 - 4x4 Off-Road Buggy
+74. LEGO Technic 81173 - 4x4 Off-Road Buggy
+75. LEGO Technic 81174 - 4x4 Off

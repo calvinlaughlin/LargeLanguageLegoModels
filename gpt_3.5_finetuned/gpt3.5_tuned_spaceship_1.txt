@@ -1,0 +1,34 @@
+Premise: The Star Striker ship has landed on a distant planet named Zorgon-7. The crew exits the ship, repairs the antenna with tools from a compartment, and sets off on a mission to assist the friendly alien, Qwirk.
+Pieces:
+- Plate 6x8, 3036
+- Plate 4x4, 3031
+- 2x Cross-axle
+- 3x Black arm piece of a fig, 3900
+- Cross/Handle, 3032
+- 8x Black Headlight brick, 4070
+- Slope 45° 2x4, 3037
+- Motorcycle ring frame with wheels, 7193
+- Disk with radial slot, 3969
+- Wrenches and screwdrivers
+Assembly:
+1. "Space squad's first mission":
+- Place the Star Striker ship on Zorgon-7 with a fuel leak.
+- An alien ship with fuel codenamed "Ruthk" needs to be reached.
+2. "To infinity and beyond":
+- Start building the ship on a black 6x8 plate.
+- Add a black 4x4 plate in the middle rows.
+3. "Qwirk the friendly alien":
+- Visit Qwirk to deliver a wrench.
+- Receive thanks and rejoin the spaceship.
+4. "Rude encounter with a strange organism":
+- Encounter a hostile organism but avoid injury.
+5. "Star Striker team refuels spaceship":
+- Get solder for spaceship repair and refuel.
+6. "Crisis averted, team repairs ship":
+- Reach the shuttle, repair it, and refuel for a return to Earth.
+7. "Star Striker returning to Earth":
+- Successfully depart Zorgon-7 and head home.
+8. "Intergalactic adventure concludes":
+- Near Earth, the mission is complete as the ship returns home.
+- Celebrate with a triumphant landing.
+- Task completed!

@@ -1,0 +1,16 @@
+Provide step-by-step instructions for a LEGO build with this description: a sailboat. Make sure that each step is doable in the real world and that each piece is a real lego piece, include the part number. Firstly, state every lego piece that you will need in the build. Then, create a small story about the build. Finally, create the comprehensive step by step guide of the builds.
+
+Pieces Needed:
+6072 - Minifigure Head - Sailor
+3027 - Plate Curved 1 x 2
+45053 - Windscreen
+5526 - Brick 4 x4
+1548 - Tile Curve 3 x1
+25664 - Technic Axle 5L
+75190 - Steering Wheel
+8110040-1 - Liftarm 0.5
+94980161-2- L-Shape Bracket
+Step-By-Step Instructions
+Introduction: Welcome to the sailing adventure! You are about to build a beautiful and sturdy sail boat with a detailed steering wheel and a spacious cockpit. Let's get started!
+Story: The sailor, a seasoned adventurer, has been planning his next journey for months. He has packed his bags, loaded his trusty boat, and set off to explore the vast ocean. As he sails further and further away from the shore, he can't help but feel a sense of excitement and wonder at the endless blue horizon. The wind is gentle and the sun is shining, making for the perfect day to set sail. With the helm in hand and his loyal companion by his side, our sailors embarks on an unforgettable journey of discovery and exploration. 
+Guide:  Step   by Step Guide: Building the Hull: Begin by building the hull of your sailbot. Start by attaching the plate curved (part number 6574) to a brick (Part Number 8479) using the technic axle ( Part Number2 70820) as a spacer. Repeat this process three times to create three layers of plating. Next, attach the curled tile ( part Number1 9397) on top of each layer of plate to give the boat a smooth and streamlined appearance. Attach the liftarm (0,5) (PART Number8  l18) between the layers to reinforce the structure. This will help to keep your boat stable and secure during rough seas. Step Two: Creating the Cockpit: Once the basic structure of hul is built, it' time to focus on the interior. start by adding the steerin g wheel ( PART Number7  t5996) and then attach a plate (PArt Number3  S23) below it to provide a flat surface for your captain to stand on. Add a few more plates and tiles to complete the coackpit area. Be sure to leave enough room for any additional features you want to add, such as storage compartments or navigational tools.Step Three: Adding Details and Final Touches: Now that the basics are in place, you can start adding some final details to make you boat truly unique. Consider adding a mast and sail to harness the wind and propel your vessel forward. You can also add a rudder (PARt Number4  J12) for more precise control over your direction. Other details you might consider adding include a compass, binoculars, or even a fishing rod. Once you're happy with your design, take a step back and admire your handiwork. Your sail bot is now ready to hit the open waters and begin its adventures! Conclusion: And there you have it! With these simple steps, anyone can build their own stunning sail boa. Whether you are an experienced builder or just starting out, this project offers a fun and rewarding experience for all ages. So grab your Legos and let your imagination run wild. Happy building and fair winds!

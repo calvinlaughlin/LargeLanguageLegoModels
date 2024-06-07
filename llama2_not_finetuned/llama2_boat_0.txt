@@ -1,0 +1,16 @@
+Provide step-by-step instructions for a LEGO build with this description: a simple boat. Make sure that each step is doable in the real world and that each piece is a real lego piece, include the part number. Firstly, state every lego piece that you will need in the build. Then, create a small story about the build. Finally, create the comprehensive step by step guide of the builds.
+
+Pieces Needed:
+6072b - 1 x 4 x Plate - Dark Bluish Gray
+3035 -1x2 x Brick - LightBlue
+4533b-1X4XPlate-DarkBlurGray
+1069 -2X2 X Plates-LightBluered
+2767 -4 X 3 X Wedge - Black
+5528 -8X3XWedge-Black
+7590 -Water Tile-Transparent
+85001 -Minifigure-Boat Captain
+Instructions: 
+Step1: Start by building the hull of your boat by attaching the 2 8x3 wedges to the sides of a 6x6 plate using the black tiles. This will form the base of you boat and provide stability. Next, attach the light blue brick to one side of this base to create your boats bow.  Attach the dark blue gray plate on the other side as the stern. Now, place the water tile on top to complete the basic structure of yor boat, and add the boat captain minifgure for good measure.  
+step2: Now it's time to add some details to your boast. Attatch the ligh blu red plates on either side if the bow and stern to give it a smoother look. Use the remaining dark blur gray plats to creat a deck for your boad. Place the minfiguire at the helm and you're ready to set sail!
+Steps: Step1 Step2 Step3 Step4 Step5 Step6 Step7 Step8 Step9
+Story: Once upon a time, there was a brave boat Captain named Jack who loved to sail the high seas. He had a dream of building his own boat that would take him on even the most daring adventures. One day, he found the perfect pieces to make his dream a reality. With the help of his loyal crew, Jack built a sturdy little boat with a sleek design that cut through the waves like a hot knife through butter. The boat was named the "Sea Sprite" and it quickly became the envy of every sailor in port. Jack and his crew set off on many exciting journeys, braving storms and sea monsters along the way. But no matter where their travels took them, they always knew they had the best boat in all the land. And so, the legend of Captain jack and the Sea sprite lived on, inspiring generations of sailors to follow their dreams just as Jack had done.

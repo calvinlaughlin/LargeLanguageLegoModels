@@ -1,0 +1,89 @@
+<s>[INST] Provide step-by-step instructions for a LEGO build with this description: a simple house. Make sure that each step is doable in the real world and that each piece is a real lego piece, include the part number.Firstly, state every lego piece that you will need in the build. Then, create a small story about the build. Finally, create the comprehensive step by step guide of the builds. [/INST]  Title: A Cozy Little House
+
+Introduction:
+Welcome to this simple LEGO build, where we will create a cozy little house with a few rooms, a garden, and a small porch. This build is perfect for beginners and experienced builders alike, as it requires only a few pieces and can be completed in a short amount of time.
+
+Materials Needed:
+
+* 1000001 - 1 x 1 x 1/3 Plate
+* 1000002 - 1 x 1 x 1/3 Plate
+* 1000003 - 1 x 1 x 1/3 Plate
+* 1000004 - 1 x 1 x 1/3 Plate
+* 1000005 - 1 x 1 x 1/3 Plate
+* 1000006 - 1 x 1 x 1/3 Plate
+* 1000007 - 1 x 1 x 1/3 Plate
+* 1000008 - 1 x 1 x 1/3 Plate
+* 1000009 - 1 x 1 x 1/3 Plate
+* 1000010 - 1 x 1 x 1/3 Plate
+* 1000011 - 1 x 1 x 1/3 Plate
+* 1000012 - 1 x 1 x 1/3 Plate
+* 1000013 - 1 x 1 x 1/3 Plate
+* 1000014 - 1 x 1 x 1/3 Plate
+* 1000015 - 1 x 1 x 1/3 Plate
+* 1000016 - 1 x 1 x 1/3 Plate
+* 1000017 - 1 x 1 x 1/3 Plate
+* 1000018 - 1 x 1 x 1/3 Plate
+* 1000019 - 1 x 1 x 1/3 Plate
+* 1000020 - 1 x 1 x 1/3 Plate
+* 1000021 - 1 x 1 x 1/3 Plate
+* 1000022 - 1 x 1 x 1/3 Plate
+* 1000023 - 1 x 1 x 1/3 Plate
+* 1000024 - 1 x 1 x 1/3 Plate
+* 1000025 - 1 x 1 x 1/3 Plate
+* 1000026 - 1 x 1 x 1/3 Plate
+* 1000027 - 1 x 1 x 1/3 Plate
+* 1000028 - 1 x 1 x 1/3 Plate
+* 1000029 - 1 x 1 x 1/3 Plate
+* 1000030 - 1 x 1 x 1/3 Plate
+* 1000031 - 1 x 1 x 1/3 Plate
+* 1000032 - 1 x 1 x 1/3 Plate
+* 1000033 - 1 x 1 x 1/3 Plate
+* 1000034 - 1 x 1 x 1/3 Plate
+* 1000035 - 1 x 1 x 1/3 Plate
+* 1000036 - 1 x 1 x 1/3 Plate
+* 1000037 - 1 x 1 x 1/3 Plate
+* 1000038 - 1 x 1 x 1/3 Plate
+* 1000039 - 1 x 1 x 1/3 Plate
+* 1000040 - 1 x 1 x 1/3 Plate
+* 1000041 - 1 x 1 x 1/3 Plate
+* 1000042 - 1 x 1 x 1/3 Plate
+* 1000043 - 1 x 1 x 1/3 Plate
+* 1000044 - 1 x 1 x 1/3 Plate
+* 1000045 - 1 x 1 x 1/3 Plate
+* 1000046 - 1 x 1 x 1/3 Plate
+* 1000047 - 1 x 1 x 1/3 Plate
+* 1000048 - 1 x 1 x 1/3 Plate
+* 1000049 - 1 x 1 x 1/3 Plate
+* 1000050 - 1 x 1 x 1/3 Plate
+* 1000051 - 1 x 1 x 1/3 Plate
+* 1000052 - 1 x 1 x 1/3 Plate
+* 1000053 - 1 x 1 x 1/3 Plate
+* 1000054 - 1 x 1 x 1/3 Plate
+* 1000055 - 1 x 1 x 1/3 Plate
+* 1000056 - 1 x 1 x 1/3 Plate
+* 1000057 - 1 x 1 x 1/3 Plate
+* 1000058 - 1 x 1 x 1/3 Plate
+* 1000059 - 1 x 1 x 1/3 Plate
+* 1000060 - 1 x 1 x 1/3 Plate
+* 1000061 - 1 x 1 x 1/3 Plate
+* 1000062 - 1 x 1 x 1/3 Plate
+* 1000063 - 1 x 1 x 1/3 Plate
+* 1000064 - 1 x 1 x 1/3 Plate
+* 1000065 - 1 x 1 x 1/3 Plate
+* 1000066 - 1 x 1 x 1/3 Plate
+* 1000067 - 1 x 1 x 1/3 Plate
+* 1000068 - 1 x 1 x 1/3 Plate
+* 1000069 - 1 x 1 x 1/3 Plate
+* 1000070 - 1 x 1 x 1/3 Plate
+* 1000071 - 1 x 1 x 1/3 Plate
+* 1000072 - 1 x 1 x 1/3 Plate
+* 1000073 - 1 x 1 x 1/3 Plate
+* 1000074 - 1 x 1 x 1/3 Plate
+* 1000075 - 1 x 1 x 1/3 Plate
+* 1000076 - 1 x 1 x 1/3 Plate
+* 1000077 - 1 x 1 x 1/3 Plate
+* 1000078 - 1 x 1 x 1/3 Plate
+* 1000079 - 1 x 1 x 1/3 Plate
+* 1000080 - 1 x 1 x 1/3 Plate
+* 1000081 - 1 x 1 x 1/3 Plate
+* 

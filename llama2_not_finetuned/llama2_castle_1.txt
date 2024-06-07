@@ -1,0 +1,24 @@
+Provide step-by-step instructions for a LEGO build with this description: a medieval castle. Make sure that each step is doable in the real world and that each piece is a real lego piece, include the part number. Firstly, state every lego piece that you will need in the build. Then, create a small story about the build. Finally, create the comprehensive step by step guide of the builds.
+
+Pieces Needed:
+6078 - King's Guard
+4717 - Knight' s Helmet
+3005 - Crossbow
+10185- Dragon
+2506 - Wizard
+7090 - Dragon Egg
+5526- Knight
+8038- Blacksmith Shop
+9463- Treasure Chest
+041- Lego Base Plate 2 x 4
+Step 1: Building the Base
+First, we will build the base of our medieval Castle. We will start by attaching two  x4 base plates together using the special studs on the bottom of each plate. This will give us a solid foundation for our castle (Fig.1).
+Figure1. The base plate
+Part Number: 8869
+Steps: Attach the two baseplates together by lining up the stud on one plate with the groove on another. Hold them together and press down gently until they click into place. Repeat this process for the other two sides. 
+Once we have attached all four baseplate together we can start building the walls. Using the 3x3 plate and 6x6 plate, attach them to the sides of base to form the first layer of walls (fig.2)
+ Fig. (2). The first wall layer
+part number:3243
+step: attach the three  by three plate to each side of wall using stud and grove connection. repeat this step for each layer until we reach the desired height of castle wall ( fig.3)  figure (3). Adding the second layer  of  walls
+parts needed:  3345
+steps: repeat the same process as before, but this time use the six by six plate instead of three by Three. Continue adding layers until the castle is as tall as we want it to be. Once we are done with walls, We can move on to other features such as towers, moat, and drawbridge.

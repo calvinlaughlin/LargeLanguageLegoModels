@@ -1,0 +1,13 @@
+Provide step-by-step instructions for a LEGO build with this description: a Star Wars style spacecraft. Make sure that each step is doable in the real world and that each piece is a real lego piece, include the part number. Firstly, state every lego piece that you will need in the build. Then, create a small story about the build. Finally, create the comprehensive step by step guide of the builds.
+Step 1: Gathering the necessary pieces
+To build this Star wars style Spacecraft, you'll need the following leGO pieces:
+
+* 75198-1 X-Wing Starfighter (This is the base of our space craft, and it's a great starting point for building the cockpit and wings)
+  * 45001-2 Minifigure Co-Pilot (For the pilot of your space ship) 
+  
+The story behind this build is that the Rebel Alliance has just received a tip about a hidden Imperial base on a remote planet. They need a skilled pilot to fly a stolen Imperial TIE fighter to the planet and gather intel on the Empire'ss plans. The pilot, a seasoned Rebellion soldier, has managed to sneak onto the Imperial ship undetected and is now ready to take off and embark on his mission to save the galaxy!
+Now, here are the detailed steps to build your very own star wars Style SpaceCraft: Step 2: Building the Cockpit
+Start by attaching the windshield piece (46070) tothe top ofthe X wing fighters body, making sure it is aligned with the studs on either side. Next, attach the control panel piece(44996)to the frontof the Windshied, using the Technic bricks(3038) as supports. Add the radar dish(76139) on top off thecontrol panel, ensuring itis centered and securely attached. Step3: Creating the Wings
+Next, build the wings byattachingthe flap pieces(55273)and the stabilizer pieces (54863). Start withthe left wing and attachthestabilizer piece first, followed by theflap piece. Repeat the process for the right wing. To add some extra detail,you can add the engine pieces  (628567)on the underside of each wing, just below the flaps.  Step4: Adding the Engines
+Attach the engines (79020 & 36971)onto the bottom of thespacecraft'smidsection. These engines will provide the power needed for takeoff and flight. Don't forget to addthe small details such as the exhaust pipes (33780). Step5: Finishing the Details
+Add some final details to your Space Craft, suchas the landing gear ( 57723), the laser cannons( 64066), and the antenna (26587). These details will help bring yourSpacecraft to life and make it look like a true Imperial vessel. You can also addminifigs to pilot the Space craft and other crew members to man the weapons and sensors. With these detailed instructions and a little bit of creativity, your Starwars style Spaceship will be ready for action in no time!

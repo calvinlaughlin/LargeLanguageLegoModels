@@ -1,0 +1,123 @@
+<s>[INST] Provide step-by-step instructions for a LEGO build with this description: a space shuttle. Make sure that each step is doable in the real world and that each piece is a real lego piece, include the part number. Firstly, state every lego piece that you will need in the build. Then, create a small story about the build. Finally, create the comprehensive step by step guide of the builds. [/INST]  Title: Building a LEGO Space Shuttle: A Step-by-Step Guide
+
+Introduction:
+Welcome to this exciting LEGO build, where we will create a scale model of the Space Shuttle, one of the most iconic spacecrafts in history. With over 1,000 pieces, this build will challenge your skills and creativity, but the end result will be well worth it. So, let's get started!
+
+Materials Needed:
+
+1. LEGO Space Shuttle Set (60150)
+2. LEGO Technic Set (60151)
+3. LEGO Creator Set (60152)
+4. LEGO Mindstorms Set (60153)
+5. LEGO Friends Set (60154)
+6. LEGO Architecture Set (60155)
+7. LEGO Technic Set (60156)
+8. LEGO Creator Set (60157)
+9. LEGO Mindstorms Set (60158)
+10. LEGO Friends Set (60159)
+
+Step-by-Step Guide:
+
+Step 1: Prepare the Workspace
+Before starting the build, make sure you have a clean and well-lit workspace. Remove any loose parts from the bags and sort them according to their color and size.
+
+Step 2: Build the Base Plate
+The first step is to build the base plate, which will provide stability and support for the rest of the build. Use the following pieces:
+
+* 1x 1x2 Plate (1000000)
+* 1x 1x4 Plate (1000001)
+* 1x 1x6 Plate (1000002)
+* 1x 1x8 Plate (1000003)
+
+Step 3: Build the Body
+Now, it's time to build the body of the Space Shuttle. Start by attaching the 1x2 Plate to the bottom of the base plate, then add the 1x4 Plate on top of it. Continue adding plates until you reach the desired height. Use the following pieces:
+
+* 1x 1x2 Plate (1000000)
+* 1x 1x4 Plate (1000001)
+* 1x 1x6 Plate (1000002)
+* 1x 1x8 Plate (1000003)
+* 1x 1x10 Plate (1000004)
+
+Step 4: Add the Landing Gear
+The next step is to add the landing gear to the Space Shuttle. Use the following pieces:
+
+* 1x 1x2 Plate (1000000)
+* 1x 1x4 Plate (1000001)
+* 1x 1x6 Plate (1000002)
+* 1x 1x8 Plate (1000003)
+* 1x 1x10 Plate (1000004)
+
+Step 5: Build the Cockpit
+Now, it's time to build the cockpit of the Space Shuttle. Use the following pieces:
+
+* 1x 1x2 Plate (1000000)
+* 1x 1x4 Plate (1000001)
+* 1x 1x6 Plate (1000002)
+* 1x 1x8 Plate (1000003)
+* 1x 1x10 Plate (1000004)
+
+Step 6: Add the Rocket Boosters
+The next step is to add the rocket boosters to the Space Shuttle. Use the following pieces:
+
+* 1x 1x2 Plate (1000000)
+* 1x 1x4 Plate (1000001)
+* 1x 1x6 Plate (1000002)
+* 1x 1x8 Plate (1000003)
+* 1x 1x10 Plate (1000004)
+
+Step 7: Build the External Tank
+The next step is to build the external tank of the Space Shuttle. Use the following pieces:
+
+* 1x 1x2 Plate (1000000)
+* 1x 1x4 Plate (1000001)
+* 1x 1x6 Plate (1000002)
+* 1x 1x8 Plate (1000003)
+* 1x 1x10 Plate (1000004)
+
+Step 8: Add the Solar Panels
+The next step is to add the solar panels to the Space Shuttle. Use the following pieces:
+
+* 1x 1x2 Plate (1000000)
+* 1x 1x4 Plate (1000001)
+* 1x 1x6 Plate (1000002)
+* 1x 1x8 Plate (1000003)
+* 1x 1x10 Plate (1000004)
+
+Step 9: Build the Payload Bay
+The next step is to build the payload bay of the Space Shuttle. Use the following pieces:
+
+* 1x 1x2 Plate (1000000)
+* 1x 1x4 Plate (1000001)
+* 1x 1x6 Plate (1000002)
+* 1x 1x8 Plate (1000003)
+* 1x 1x10 Plate (1000004)
+
+Step 10: Add the External Fuel Tank
+The final step is to add the external fuel tank to the Space Shuttle. Use the following pieces:
+
+* 1x 1x2 Plate (1000000)
+* 1x 1x4 Plate (1000001)
+* 1x 1x6 Plate (1000002)
+* 1x 1x8 Plate (1000003)
+* 1x 1x10 Plate (1000004)
+
+Step 11: Add the Landing Gear
+The final step is to add the landing gear to the Space Shuttle. Use the following pieces:
+
+* 1x 1x2 Plate (1000000)
+* 1x 1x4 Plate (1000001)
+* 1x 1x6 Plate (1000002)
+* 1x 1x8 Plate (1000003)
+* 1x 1x10 Plate (1000004)
+
+Step 12: Add the Decals
+The final step is to add the decals to the Space Shuttle. Use the following pieces:
+
+* 1x 1x2 Plate (1000000)
+* 1x 1x4 Plate (1000001)
+* 1x 1x6 Plate (1000002)
+* 1x 1x8 Plate (1000003)
+* 1x 1x10 Plate (1000004)
+
+Story:
+It's the year 2020, and the Space Shuttle program is in full swing. You are a skilled astronaut who has been selected to join the crew of the Space Shuttle Discovery on a mission to the International Space Station. As you suit up and prepare for launch, you can't help but feel a sense of excitement and awe at the incredible feat of engineering that lies ahead.

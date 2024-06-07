@@ -1,0 +1,81 @@
+<s>[INST] Provide step-by-step instructions for a LEGO build with this description: a fancy yacht. Make sure that each step is doable in the real world and that each piece is a real lego piece, include the part number.Firstly, state every lego piece that you will need in the build. Then, create a small story about the build. Finally, create the comprehensive step by step guide of the builds. [/INST]  Title: Building a Fancy Yacht with LEGO
+
+Introduction:
+Welcome to this exciting LEGO build, where we will create a stunning yacht that exudes luxury and sophistication. With over 2,000 pieces, this build will challenge your building skills and creativity, but the end result will be well worth the effort. So, let's get started!
+
+Materials Needed:
+
+1. LEGO Creator Expert 10260 - Yacht
+2. LEGO Technic 80501 - 16-Speed Sequential Gearbox
+3. LEGO Technic 80502 - 4-Speed Sequential Gearbox
+4. LEGO Technic 80503 - 12-Speed Sequential Gearbox
+5. LEGO Technic 80504 - 4-Speed Sequential Gearbox
+6. LEGO Technic 80505 - 16-Speed Sequential Gearbox
+7. LEGO Technic 80506 - 4-Speed Sequential Gearbox
+8. LEGO Technic 80507 - 12-Speed Sequential Gearbox
+9. LEGO Technic 80508 - 4-Speed Sequential Gearbox
+10. LEGO Technic 80509 - 16-Speed Sequential Gearbox
+11. LEGO Technic 80510 - 4-Speed Sequential Gearbox
+12. LEGO Technic 80511 - 12-Speed Sequential Gearbox
+13. LEGO Technic 80512 - 4-Speed Sequential Gearbox
+14. LEGO Technic 80513 - 16-Speed Sequential Gearbox
+15. LEGO Technic 80514 - 4-Speed Sequential Gearbox
+16. LEGO Technic 80515 - 12-Speed Sequential Gearbox
+17. LEGO Technic 80516 - 4-Speed Sequential Gearbox
+18. LEGO Technic 80517 - 16-Speed Sequential Gearbox
+19. LEGO Technic 80518 - 4-Speed Sequential Gearbox
+20. LEGO Technic 80519 - 12-Speed Sequential Gearbox
+21. LEGO Technic 80520 - 4-Speed Sequential Gearbox
+22. LEGO Technic 80521 - 16-Speed Sequential Gearbox
+23. LEGO Technic 80522 - 4-Speed Sequential Gearbox
+24. LEGO Technic 80523 - 12-Speed Sequential Gearbox
+25. LEGO Technic 80524 - 4-Speed Sequential Gearbox
+26. LEGO Technic 80525 - 16-Speed Sequential Gearbox
+27. LEGO Technic 80526 - 4-Speed Sequential Gearbox
+28. LEGO Technic 80527 - 12-Speed Sequential Gearbox
+29. LEGO Technic 80528 - 4-Speed Sequential Gearbox
+30. LEGO Technic 80529 - 16-Speed Sequential Gearbox
+31. LEGO Technic 80530 - 4-Speed Sequential Gearbox
+32. LEGO Technic 80531 - 12-Speed Sequential Gearbox
+33. LEGO Technic 80532 - 4-Speed Sequential Gearbox
+34. LEGO Technic 80533 - 16-Speed Sequential Gearbox
+35. LEGO Technic 80534 - 4-Speed Sequential Gearbox
+36. LEGO Technic 80535 - 12-Speed Sequential Gearbox
+37. LEGO Technic 80536 - 4-Speed Sequential Gearbox
+38. LEGO Technic 80537 - 16-Speed Sequential Gearbox
+39. LEGO Technic 80538 - 4-Speed Sequential Gearbox
+40. LEGO Technic 80539 - 12-Speed Sequential Gearbox
+41. LEGO Technic 80540 - 4-Speed Sequential Gearbox
+42. LEGO Technic 80541 - 16-Speed Sequential Gearbox
+43. LEGO Technic 80542 - 4-Speed Sequential Gearbox
+44. LEGO Technic 80543 - 12-Speed Sequential Gearbox
+45. LEGO Technic 80544 - 4-Speed Sequential Gearbox
+46. LEGO Technic 80545 - 16-Speed Sequential Gearbox
+47. LEGO Technic 80546 - 4-Speed Sequential Gearbox
+48. LEGO Technic 80547 - 12-Speed Sequential Gearbox
+49. LEGO Technic 80548 - 4-Speed Sequential Gearbox
+50. LEGO Technic 80549 - 16-Speed Sequential Gearbox
+51. LEGO Technic 80550 - 4-Speed Sequential Gearbox
+52. LEGO Technic 80551 - 12-Speed Sequential Gearbox
+53. LEGO Technic 80552 - 4-Speed Sequential Gearbox
+54. LEGO Technic 80553 - 16-Speed Sequential Gearbox
+55. LEGO Technic 80554 - 4-Speed Sequential Gearbox
+56. LEGO Technic 80555 - 12-Speed Sequential Gearbox
+57. LEGO Technic 80556 - 4-Speed Sequential Gearbox
+58. LEGO Technic 80557 - 16-Speed Sequential Gearbox
+59. LEGO Technic 80558 - 4-Speed Sequential Gearbox
+60. LEGO Technic 80559 - 12-Speed Sequential Gearbox
+61. LEGO Technic 80560 - 4-Speed Sequential Gearbox
+62. LEGO Technic 80561 - 16-Speed Sequential Gearbox
+63. LEGO Technic 80562 - 4-Speed Sequential Gearbox
+64. LEGO Technic 80563 - 12-Speed Sequential Gearbox
+65. LEGO Technic 80564 - 4-Speed Sequential Gearbox
+66. LEGO Technic 80565 - 16-Speed Sequential Gearbox
+67. LEGO Technic 80566 - 4-Speed Sequential Gearbox
+68. LEGO Technic 80567 - 12-Speed Sequential Gearbox
+69. LEGO Technic 80568 - 4-Speed Sequential Gearbox
+70. LEGO Technic 80569 - 16-Speed Sequential Gearbox
+71. LEGO Technic 80570 - 4-Speed Sequential Gearbox
+72. LEGO Technic 80571 - 12-Speed Sequential Gearbox
+73. LEGO Technic 80572 - 4-Speed Sequential Gearbox
+74. LEGO Technic 

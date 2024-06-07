@@ -1,0 +1,22 @@
+Provide step-by-step instructions for a LEGO build with this description: a simple spaceship. Make sure that each step is doable in the real world and that each piece is a real lego piece, include the part number. Firstly, state every lego piece that you will need in the build. Then, create a small story about the build. Finally, create the comprehensive step by step guide of the builds.
+
+Pieces Needed:
+- 1x 31101 - Minifigure with Space Suit
+ - 2x3008 - Plate, 4 x 6 Studs, Dark Bluish Gray
+  -2060 - Window, Transparent, Curved, Large
+   -1662 - Windshield, Wedge Shaped, Clear, Tinted
+    -6173 - Landing Gear, Retractable, Pointed, Blank
+     -5526 - Radiator, Brick, Red
+      -4505 - Fuel Tank, Cylindrical, Light Bl blue
+       -3407 - Engine, Technic, Small, With Fins, Black
+        -8090- Engine Exhaust, Pipe, Short, Silver
+         -75181- Coaxial Cannon, Gunmetal Grey
+          -9398- Display Stand, Bracket, Round, Base
+           -0.025- L-Shaped Brace, Plates, Bright Bl ue/Dark Bl. Gray 
+            -Brick, Modified, Flat, Top, Angled, Off-White
+            
+Story:  It's the year  2154 and you are a space explorer on a mission to explore a new planet. You have been traveling through space for weeks and have finally reached your destination. As you approach the planet, you realize that it is surrounded by a thick layer of atmosphere, making it difficult to land. But you have a secret weapon, your trusty space ship. With its advanced landing gear and powerful engine, it can navigate even the most treacherous of landscapes. Your mission is to collect data on the atmosphere and find a safe place for your spacecraft to touch down.  As the ship descends through the thick clouds, the instruments on board begin to malfunction. Suddenly a bolt of lightning strikes the radar dish, causing it to short circuit. The ship is now off course and plummeting towards the surface at an alarming rate. Can you repair the damage and make it back to safety before its too late?
+Step by Step Guide:  
+1. Start by building the base of your spaceships, using 8x8 plate and 5x5 plate. (part numbers 7682 and  7489)
+2. Next, build the landing legs using the retractible landing leg pieces. Attach these to the bottom of you spaceshipt using technic bricks and axles. Be sure to angle the legs so that they can absorb any shocks when landing on uneven terrain. Use (parts 03678 and part numbers).
+3. Build the cockpit by attaching the windshied and window pieces on top of each other. Add the minifgure and space suit piece inside. Don't forget to add the control panel and instruments to make the interior look more realistic! (Part numbers:6388,6437, and others) 
