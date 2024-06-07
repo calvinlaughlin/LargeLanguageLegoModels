@@ -1,0 +1,77 @@
+a small castle### Pieces Needed:
+1. **2x8 Plate (Part 3034)**
+2. **2x4 Plate (Part 3020)**
+3. **1x4 Brick (Part 3010)**
+4. **1x2 Brick (Part 3004)**
+5. **1x1 Brick with Stud on Side (Part 87087)**
+6. **2x2 Corner Brick (Part 2357)**
+7. **1x2x2 Window with Shutter Tabs and Pair of Shutters (Part 60594, 61409, 60616)**
+8. **1x4 Door Frame with Door (Part 60598, 3861)**
+9. **2x2 Slope 45º (Part 3039)**
+10. **2x4 Slope 45º (Part 3037)**
+11. **1x1 Round Plate (Part 4073)**
+12. **1x1 Cone (Part 4589)**
+13. **2x2 Tile with Central Stud (Part 87580)**
+14. **1x4 Roof Tile (Part 60477)**
+15. **1x2 Tile (Part 3069)**
+16. **1x1 Tile (Part 3070)**
+17. **Minifigure with Castle Attire (Any standard minifigure with castle theme)**
+
+### Story About the Build:
+In the heart of a mystical forest stood a small, quaint castle known as Fort Brave. Fort Brave was renowned for its resilience and beauty, surrounded by tall trees and a bustling stream. This castle was home to Sir Alfie, a brave knight who swore to protect the neighboring villages from any threat. Today, we embark on an exciting journey to construct this iconic fortress and bring Fort Brave to life, brick by brick.
+
+### Step-by-Step Guide:
+
+#### Step 1: Foundation
+1. **Piece Required:** 2x8 Plate (Part 3034)
+   - **Placement:** Place the 2x8 Plate on your building surface to serve as the foundation of the castle.
+
+#### Step 2: Building the Walls
+2. **Piece Required:** 2x4 Plate (Part 3020)
+   - **Placement:** Attach the 2x4 Plate horizontally on the left side of the 2x8 Plate.
+3. **Piece Required:** 1x4 Brick (Part 3010)
+   - **Placement:** Place the 1x4 Brick vertically at the top right corner of the 2x8 Plate.
+4. **Piece Required:** 1x2 Brick (Part 3004)
+   - **Placement:** Place the 1x2 Brick at the bottom right corner of the 2x8 Plate.
+
+#### Step 3: Corner Support and Side Extensions
+5. **Piece Required:** 2x2 Corner Brick (Part 2357)
+   - **Placement:** Attach the 2x2 Corner Brick at the junction of the 1x4 Brick and the 1x2 Brick to create a corner.
+6. **Piece Required:** 1x4 Brick (Part 3010) x2
+   - **Placement:** Attach one 1x4 Brick horizontally to the right of the Corner Brick, and the other echoing this horizontally below the Corner Brick to extend the side walls.
+
+#### Step 4: Adding Features
+7. **Piece Required:** 1x1 Brick with Stud on Side (Part 87087)
+   - **Placement:** Attach the 1x1 Brick with Stud on Side at the center of the front wall for future detailing.
+8. **Piece Required:** 1x2x2 Window with Shutter Tabs (Part 60594) and Pair of Shutters (Parts 60616)
+   - **Placement:** Place the Window nicely to the left of the Corner Brick on the 1x4 Plate. Attach the Shutters to the Window.
+
+#### Step 5: Doorway
+9. **Piece Required:** 1x4 Door Frame (Part 60598) with Door (Part 3861)
+   - **Placement:** Place the Door Frame along the edge of the first 1x4 Brick on the bottom wall. Snap the Door into the frame.
+
+#### Step 6: Roof Assembly
+10. **Piece Required:** 2x2 Slope 45º (Part 3039)
+    - **Placement:** Attach on top of the Corner Brick on the front façade center.
+11. **Piece Required:** 2x4 Slope 45º (Part 3037)
+    - **Placement:** Attach on the top edges of the remaining front wall to form a pitched roof.
+
+#### Step 7: Detailing
+12. **Piece Required:** 1x1 Round Plate (Part 4073)
+    - **Placement:** Attach on the upper stud of the 1x1 Brick with Stud on Side for a decorative highlight.
+13. **Piece Required:** 1x1 Cone (Part 4589)
+    - **Placement:** Place the cone atop the round plate as a turret peak.
+
+#### Step 8: Finishing the Roof
+14. **Piece Required:** 1x4 Roof Tile (Part 60477)
+    - **Placement:** Place centrally to secure the roof slopes on both sides.
+15. **Piece Required:** 1x2 Tile (Part 3069)
+    - **Placement:** Attach to the top of one of the walls to add a smooth finish.
+16. **Piece Required:** 1x1 Tile (Part 3070)
+    - **Placement:** Attach strategically at the eaves to complete the roofing.
+
+#### Step 9: Final Touch - The Minifigure
+17. **Piece Required:** Minifigure with Castle Attire
+    - **Placement:** Stand the Minifigure at the entrance to Fort Brave, on the sturdy 2x8 foundation plate.
+
+Congratulations! You have successfully built the small yet iconic Fort Brave. Sir Alfie stands ready to protect, and the castle stands resilient and picturesque in its enchanting forest landscape. Enjoy your Lego creation!

@@ -1,0 +1,91 @@
+a cottage
+### LEGO Cottage Build Instruction Manual
+
+#### **LEGO Pieces Required:**
+
+1. **Baseplate**: 32x32 Green Baseplate (Part #3811)
+2. **Walls**: 
+    - 1x2 Brick (Tan) (Part #3004) x40
+    - 1x4 Brick (Tan) (Part #3010) x22
+    - 1x6 Brick (Tan) (Part #3009) x16
+    - 1x8 Brick (Tan) (Part #3008) x10
+3. **Roof**:
+    - 2x4 Roof Tile (Red) (Part #3030) x20
+    - 3x6 Roof Slope (Red) (Part #3298) x10
+    - 33 Degree Roof Tile (Red) (Part #3037) x10
+4. **Windows and Doors**:
+    - 1x4x5 Pane Window (Clear) with Frame (White) (Part #2483, Part #60592) x4
+    - LEGO Door Frame 1x4x6 (White) (Part #30179) x1
+    - LEGO Door 1x4x6 (Brown) (Part #60623) x1
+5. **Accessories**:
+    - 1x1 Round Plate (Green) (Part #6141) x10
+    - 1x1 Flower Plate (Red) (Part #33291) x10 
+    - 1x2 Plate with Handle (Tan) (Part #2540) x2
+
+### **Story:**
+
+In the heart of an enchanting forest, a quaint little cottage with red roof tiles and tan brick walls stands as a haven for adventurers. This cozy abode, complete with beautiful windows, a charming door, and a surrounding garden filled with vibrant flowers, eagerly awaits the builder's touch. Through this building journey, immerse yourself in the serene environment as you create a picturesque dwelling for the forest inhabitants.
+
+### **Step-by-Step Building Instructions:**
+
+#### **Base Construction**
+
+1. **Place the 32x32 Green Baseplate (Part #3811) flat on a surface.**
+
+#### **First Layer of Walls**
+
+2. **Take 1x2 Bricks (Tan) (Part #3004)** and start building the first layer of the wall around the perimeter of the baseplate, skipping spaces for the door and windows.
+    - Place a total of 18 1x2 Bricks around the edges.
+
+3. **At the front of the base**, create a gap for the door frame:
+    - Leave a gap of 4 studs on the front side for the doorway.
+
+#### **Adding Windows and Door**
+
+4. **Place a 1x4 Brick (Tan)** on each side of the doorway gap.
+
+5. **Insert Door Frame (White) (Part #30179)** into the door gap.
+
+6. **Place the LEGO Door (Brown) (Part #60623)** into the frame.
+
+7. **Position the 1x4x5 Pane Windows (Clear) with Frame (White) (Part #2483, Part #60592)** at equal intervals along the side walls:
+    - Two windows on each longer side of the cottage, attached inline.
+
+#### **Building Up the Walls**
+
+8. **Add a 1x4 Brick (Tan)** above every window and door frame to stabilize them. Use:
+    - 4x 1x4 Bricks for this layer.
+
+9. **Continue adding layers of 1x4 Bricks (Tan) and 1x2 Bricks (Tan)** to build up the walls until they reach 6 bricks high.
+    - Use various arrangements to interlock bricks for strength.
+
+#### **Roof Setup**
+
+10. **Top the walls with 1x8 Bricks (Tan) (Part #3008)** for a straight upper edge and then add:
+    - 10x 1x8 Bricks to support the roof base.
+
+#### **Creating the Roof**
+
+11. **Begin the roof with 2x4 Roof Tiles (Red) (Part #3030)**:
+    - Lay 10 Roof Tiles on each side of the upper frame, overlapping slightly to mimic real roof shingles.
+
+12. **Use the 3x6 Roof Slopes (Red) (Part #3298)**:
+    - Attach these from the edges to the ridge line.
+    - Alternate sides, and add 5 slopes on each side for balanced distribution.
+
+13. **Cap the roof ridge with 33 Degree Roof Tiles (Red) (Part #3037)**:
+    - Use these to cover the gap at the ridge.
+    - Attach 10 of these along the top to complete the roof.
+
+#### **Garden Accessories**
+
+14. **Decorate the front yard with 1x1 Round Plates (Green) (Part #6141)** and **1x2 Plate with Handles (Tan) (Part #2540)**:
+    - Place 10 green 1x1 Round Plates around the house for foliage.
+    - Use the 1x2 Plates with Handles for any garden tools or additional decoration.
+
+15. **Add the 1x1 Flower Plates (Red) (Part #33291)** onto the 1x1 Round Plates to complete the flowers:
+    - Attach flowers sporadically to enhance the garden's charm.
+
+### **Conclusion**
+
+Congratulations! You have completed your LEGO Cottage Build. This picturesque abode now stands ready amidst the enchanting forest, bringing warmth and hospitality to its surroundings. Enjoy your creation and let your imagination explore new adventures in this delightful setting!

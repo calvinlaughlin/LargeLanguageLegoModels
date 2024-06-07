@@ -19,7 +19,7 @@ import base64
 import requests
 import os
 
-api_key = "sk-proj-HMzMuOfGEJwmH58C8p2AT3BlbkFJOnzsQdIok4MngMnPNE4M"
+api_key = "sk-proj-ICXYnrO45vlQuUtjQK8vT3BlbkFJ0t74jmpKqIMq1Fqawd2Q"
 
 topic_text = input("describe what you'd like to build: \n") # take in the input from user of what they want
 
@@ -27,10 +27,11 @@ print(topic_text)
 
 template = f"""You are a designer that is creating a novel lego set with the topic {topic_text}. 
 You will give step by step written instructions for the lego set that culminate in a complete lego build.
-Make sure that each step is doable in the real world and that each piece is a real lego piece, include the part number.
+Make sure that each step is doable in the real world and that each piece is a real lego piece, include the part number. 
 Firstly, state every lego piece that you will need in the build.
 Then, create a small story about the build.
-Finally, create the comprehensive step by step guide of the builds.
+Finally, create the comprehensive step by step guide of the build.
+For each step, say what piece is needed and where it should be placed in the context of other pieces.
 """
 
 print(template)
@@ -53,7 +54,7 @@ headers = {
     "Authorization": f"Bearer {api_key}"
 }
 payload = {
-    "model": "gpt-4o",
+    "model": "gpt-3.5-turbo",
     "messages": [
         {
             "role": "user",
@@ -79,6 +80,7 @@ message_content = data['choices'][0]['message']['content']
 print(message_content)
 
 # Write the results to a text file
-output_file_path = 'novel_lego_0.txt'
+output_file_path = 'gpt_3.5_boat_2.txt'
 with open(output_file_path, 'w') as file:
+    file.write(topic_text)
     file.write(message_content)  # Write each result as a paragraph with a newline in between

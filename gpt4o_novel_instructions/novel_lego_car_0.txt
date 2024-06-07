@@ -1,0 +1,77 @@
+a sports car### Lego Sports Car Build
+
+#### Required Lego Pieces:
+1. **Base Plate (6x12) - Part #3028**
+2. **Axle and Wheel Assembly (4x) - Part #56145**
+3. **Mudguard (2x) - Part #50745**
+4. **Flat Tile (1x2) - Part #3069**
+5. **Flat Tile (2x4) - Part #87079**
+6. **Curved Slope (1x2) - Part #11477**
+7. **Curved Slope (2x4) - Part #93274**
+8. **Angle Plate (2x2) - Part #44728**
+9. **Car Roof (Flat) - Part #62360**
+10. **Chair (2x) - Part #4079**
+11. **Steering Wheel Assembly - Part #30663**
+12. **Windscreen (4x6) - Part #52032**
+13. **Side Mirror (2x) - Part #2436**
+14. **Headlight Brick (1x1) - Part #4070**
+15. **Rear Light Brick (1x1) - Part #4073**
+
+#### The Story:
+Imagine yourself on a sunny day, the road gleaming beneath your dream sports car. The engine purrs as you rev it, the windscreen sparkling under the sunlight. Today, we will build a sleek and stylish sports car that’s designed for speed and elegance. From the custom bodywork to the polished wheels, every detail will capture the essence of high-performance automotive design. Let's dive into our build!
+
+#### Step-by-Step Guide:
+
+**Step 1: Create the Car Base**
+- **Piece Needed:** Base Plate (6x12) - Part #3028 WRONG
+- **Instruction:** Place the 6x12 base plate on a flat surface. This will be the foundation of your sports car.
+
+**Step 2: Attach the Wheels**
+- **Pieces Needed:** Axle and Wheel Assembly (4x) - Part #56145
+- **Instruction:** Attach the four wheel assemblies to each corner of the base plate. They should snap into the bottom smoothly.
+
+**Step 3: Install the Mudguards**
+- **Pieces Needed:** Mudguard (2x) - Part #50745
+- **Instruction:** Place one mudguard over each set of front wheels. They should cover the top part of the wheel area.
+
+**Step 4: Form the Body Framework**
+- **Pieces Needed:** Flat Tiles (1x2) - Part #3069 (4x), Flat Tiles (2x4) - Part #87079 (2x)
+- **Instructions:** Stack and place these flat tiles along the sides of the base plate to form the car’s body framework. Arrange them evenly.
+
+**Step 5: Build the Front End**
+- **Pieces Needed:** Curved Slope (1x2) - Part #11477 (2x)
+- **Instruction:** Attach the curved slopes to the front of the base plate to create a sleek, aerodynamic front end.
+
+**Step 6: Construct the Rear End**
+- **Pieces Needed:** Curved Slope (2x4) - Part #93274 WRONG
+- **Instruction:** Attach the larger curved slope to the rear of the base plate. This will give the car a streamlined back.
+
+**Step 7: Assemble the Seats**
+- **Pieces Needed:** Chairs (2x) - Part #4079, Angle Plate (2x2) - Part #44728 WRONG
+- **Instructions:** Attach each chair to an angle plate, then place these assemblies onto the base plate where the seats should be located inside the car body.
+
+**Step 8: Install the Steering Mechanism**
+- **Pieces Needed:** Steering Wheel Assembly - Part #30663
+- **Instruction:** Fix the steering wheel in front of the left seat (or the right, depending on your preference) by attaching it to the base plate.
+
+**Step 9: Attach the Windscreen**
+- **Pieces Needed:** Windscreen (4x6) - Part #52032 WRONG
+- **Instruction:** Place the windscreen in front of the seats, creating the windshield of your sports car.
+
+**Step 10: Side Mirrors**
+- **Pieces Needed:** Side Mirror (2x) - Part #2436 WRONG
+- **Instruction:** Attach the side mirrors to each side of the car, next to the windscreen.
+
+**Step 11: Add the Headlights**
+- **Pieces Needed:** Headlight Brick (1x1) - Part #4070 (2x)
+- **Instruction:** Attach the headlight bricks to the front end of the car.
+
+**Step 12: Install the Rear Lights**
+- **Pieces Needed:** Rear Light Brick (1x1) - Part #4073 (2x) WRONG
+- **Instruction:** Attach the rear light bricks to the back end of the car.
+
+**Step 13: Complete the Roof**
+- **Pieces Needed:** Car Roof (Flat) - Part #62360 WRONG
+- **Instruction:** Snap the car roof onto the top of the car, making sure it covers the seats and fits snugly with the windscreen.
+
+Congratulations! You've successfully built your very own Lego sports car. Enjoy displaying it or racing it with other Lego creations.

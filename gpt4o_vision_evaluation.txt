@@ -1,0 +1,328 @@
+File: /Users/alexwang/Desktop/CS224NLego/lego_instructions/text_files/lego_instructions_6462457.txt
+Evaluation:
+### Total Score Calculation:
+
+**Clarity: 11/15**
+- The instructions are generally clear but might require rereading certain steps to ensure proper understanding, especially with the addition of various directions and specific piece placements.
+
+**Completeness: 12/15**
+- The instructions include most details necessary for assembly; however, some minor omissions or potential confusions exist, such as the exact positioning of some pieces without visual context.
+
+**Accuracy: 30/40**
+- The instructions describe parts and their steps accurately but have some minor errors and might not always describe the precise positioning clearly enough to warrant perfection.
+
+**Accessibility: 8/15**
+- Without visual references, following the instructions would be quite challenging for several steps. While some steps are sufficiently detailed, others would be unclear without seeing the pieces or finished structure.
+
+**Organization: 12/15**
+- The instructions are generally well-organized but could have minor inconsistencies or jumps that might confuse the builder. The flow mostly guides the reader through the steps logically.
+
+**Total Score: 73/100**
+
+File: /Users/alexwang/Desktop/CS224NLego/lego_instructions/text_files/lego_instructions_6127058.txt
+Evaluation:
+### Total Score Calculation:
+
+**Clarity: 6/15**
+
+The instructions provided in the initial set contain significant amounts of information but are quite challenging to follow due to potential inconsistencies and lack of precise direction in some steps. For instance, the descriptions can be confusing without visual aids, leading to ambiguity and difficulty following the steps clearly.
+
+**Completeness: 10/15**
+
+While the instructions attempt to cover all steps and include many necessary details, there are noticeable gaps and inconsistencies, especially concerning the identification and precise usage of some of the pieces. There is also an assumption that the user has access to both pieces and the model for accurate construction.
+
+**Accuracy: 28/40**
+
+The instructions describe parts and steps with relative accuracy, yet there are some areas where errors and omissions are present, such as not always specifying the exact locations or context within the overall build. Misidentified or inconsistently described parts can lead to confusion during assembly.
+
+**Accessibility: 7/15**
+
+The instructions have limited accessibility for individuals without visual references. Many steps may be confusing without accompanying images due to the complex and detailed nature of LEGO constructions. The verbal descriptions, while extensive, may still present challenges for those unfamiliar with LEGO piece identification by feel alone.
+
+**Organization: 9/15**
+
+The organization of the instructions is generally present but somewhat inconsistent. Some steps appear out of order, and the structural flow is not as clear and concise as it should be, leading to potential confusion. Logical sequencing and more coherent segmentation would enhance the guide's usability.
+
+**Total Score: 60/100**
+
+- **Clarity: 6/15**
+- **Completeness: 10/15**
+- **Accuracy: 28/40**
+- **Accessibility: 7/15**
+- **Organization: 9/15**
+- **Total Score: 60/100**
+
+File: /Users/alexwang/Desktop/CS224NLego/lego_instructions/text_files/lego_instructions_6474914.txt
+Evaluation:
+Batman appears on the bottom of the screen, likely denoting it's his vehicle. - The assembly involves ensuring tight connections to maintain the model's stability and ensuring accurate placement to align with Batman's iconic Batmobile design. 
+
+### Step-by-Step Breakdown:
+
+1. **Attach the Bat Wings:**
+   - **Pieces:** Two black wing-like pieces 
+   - **Shape:** Thin with pointed ends resembling bat wings
+   - **Placement:** Install these at the rear of the Batmobile, fitting them into the designated connection slots. Ensure they are aligned symmetrically and angled outward.
+
+2. **Install the Driver Seat:**
+   - **Piece:** Brown 2x2 flat plate
+   - **Shape:** Rectangular, flat
+   - **Placement:** Place this in the middle of the Batmobile’s cockpit area, directly behind the installed windshield. This forms the seat for Batman.
+
+3. **Position the Windshield:**
+   - **Piece:** Transparent curved windshield
+   - **Shape:** Curved and sloping
+   - **Placement:** Fit over the driver seat, connecting to the front body of the vehicle.
+
+4. **Mount the Tires and Rims:**
+   - **Piece:** Four tires with yellow bat symbol hubcaps
+   - **Shape:** Circular wheels, each with a red rim and yellow bat symbol hubcap
+   - **Placement:** Attach each wheel to the axle points at the corners of the Batmobile. Ensure all wheels are firmly connected and able to rotate freely.
+
+5. **Attach the Batman Logo Tile:**
+   - **Piece:** Round yellow 1x1 tile with the Batman logo
+   - **Shape:** Small, circular
+   - **Placement:** Place this tile at the very front middle part of the Batmobile, ensuring the logo faces outward and is centered.
+
+Following these detailed steps ensures the proper assembly of the Batmobile, giving it the signature look and functionality. Ensure all pieces are clicked in place, providing stability and structural integrity for the iconic vehicle.
+Total Score Calculation:
+Clarity: 4/15
+Completeness: 2/15
+Accuracy: 5/40
+Accessibility: 2/15
+Organization: 3/15
+Total Score: 16/100
+
+File: /Users/alexwang/Desktop/CS224NLego/lego_instructions/text_files/lego_instructions_6128668.txt
+Evaluation:
+### Step-by-Step Instructions for Step 39:
+
+### Pieces Needed:
+
+1. **Yellow Wedge Plate (3x1) - ID: 50373**
+   - **Quantity:** 2
+   - **Shape:** Wedge-shaped plate that narrows to one side
+   - **Color:** Yellow
+   - **Dimensions:** 3 studs long, 1 stud wide
+2. **Dark Bluish Gray Modified Plate (1x2 with Pin Holes) - ID: 11458**
+   - **Quantity:** 1
+   - **Shape:** Rectangular plate with two pin holes
+   - **Color:** Dark Bluish Gray
+   - **Dimensions:** 2 studs long, 1 stud wide
+
+### Steps for Assembly:
+
+#### Step 1: Placing the First Yellow Wedge Plate (3x1)
+1. **Identify the Location:**
+   - Locate the top of the existing structure, particularly the central yellow sections where additional support or shaping is necessary.
+2. **Positioning the Wedge Plate:**
+   - Place one of the Yellow Wedge Plates flush against the central structure.
+   - Ensure the wider 3-stud edge aligns with the existing yellow plates, narrowing outward from the structure.
+
+#### Step 2: Placing the Second Yellow Wedge Plate (3x1)
+1. **Mirror Placement:**
+   - Position the second Yellow Wedge Plate on the opposite side, symmetrically mirroring the first wedge plate.
+   - Make sure the wider edge of the wedge is also aligned with the existing structure, narrowing outward.
+
+#### Step 3: Adding the Dark Bluish Gray Modified Plate (1x2 with Pin Holes)
+1. **Identify the Pin Holes:**
+   - Locate suitable connection points within the central section of the model that require reinforcement.
+2. **Placement:**
+   - Insert the Dark Bluish Gray Modified Plate into the top central area, ensuring that the holes align where necessary pin inserts or connectors are needed.
+   - This piece typically stabilizes or preps for additional components to be added later in the construction process.
+
+### Context:
+
+- **Yellow Wedge Plates:** These are adding contour and continuity to the upper sections of the model, helping shape a streamlined appearance.
+- **Dark Bluish Gray Modified Plate:** This stabilizes the central structure and prepares for additional complex components that are likely to follow in the next steps, ensuring the overall build has the necessary strength and connectivity.
+
+By carefully following these specific steps and verifying each piece's placement against the larger model, you ensure the construction's accuracy and stability, maintaining the intended design trajectory. This detailed approach aligns with the visual instructions and helps assemble the LEGO model as planned in step 39.
+### Total Score Calculation:
+
+**Clarity: 13/15**
+- Instructions are clear and mostly easy to understand with minor ambiguities. Could improve in the precision of certain placements and descriptions.
+
+**Completeness: 14/15**
+- Includes most details necessary for assembly with only minor omissions. Every major aspect of the build is covered, but a bit more detail could ensure nothing is left to the builder's interpretation.
+
+**Accuracy: 35/40**
+- Accurately describes most parts and steps with only minor errors. There are some opportunities for improving specificity in the description of part placements and ensuring all instructions align perfectly with intended outcomes.
+
+**Accessibility: 10/15**
+- Moderately accessible but has several points that could be confusing without visual references. While intended for a blind audience, further refinement could improve comprehension, especially regarding part orientations and placements.
+
+**Organization: 13/15**
+- Well-organized with only minor inconsistencies or jumps in the structure. Steps are logical and sequential, guiding the reader effectively from start to finish.
+
+### Total Score: 85/100
+
+Overall, the instruction set is well-constructed with a clear, organized framework, providing enough detail for assembly. With minor improvements in clarity, accuracy, and improved accessibility for the visually impaired, it could achieve a perfect score.
+
+File: /Users/alexwang/Desktop/CS224NLego/lego_instructions/text_files/lego_instructions_4227000.txt
+Evaluation:
+Certainly! Let's proceed with evaluating the given LEGO instruction set based on the outlined criteria:
+
+### Total Score Calculation:
+
+#### Clarity: /15
+- Clarity: 12
+  - The instructions are mostly clear and easy to understand, with minor ambiguities present. Words like "likely include" and "generally" indicate some assumptions but do not significantly hinder understanding.
+
+#### Completeness: /15
+- Completeness: 9
+  - The instruction set includes many necessary details but has some noticeable gaps. Specific piece IDs and clearer step-by-step connections could improve completeness.
+
+#### Accuracy: /40
+- Accuracy: 24
+  - The descriptions of the parts and steps are accurate but show some errors and assumptions. Words like "likely," and the need for visual confirmation hint at some gaps in precise part identification and placement.
+
+#### Accessibility: /15
+- Accessibility: 9
+  - The instructions are moderately accessible, but several points may be confusing without visual references. Although an effort is made to include contextual placement, more precise, tactile-friendly descriptions could enhance accessibility for visually impaired users.
+
+#### Organization: /15
+- Organization: 11
+  - The instructions are generally organized, though some parts like the "Piece by Piece" section and the list of steps could be more consistently structured or ordered.
+
+### Total Score:
+- Total Score: 65/100
+
+**Summary:**
+The LEGO instruction set provides a solid foundation with clear overall guidance but requires improvements in piece-specific details, accuracy, accessibility, and organization to ensure a flawless assembly experience, especially for those without visual aids.
+
+File: /Users/alexwang/Desktop/CS224NLego/lego_instructions/text_files/lego_instructions_4227001.txt
+Evaluation:
+Certainly! Here is the evaluation of the provided LEGO instruction set based on the given criteria:
+
+### Total Score Calculation:
+1. **Clarity: 5/15**
+   - The instructions are often unclear and confusing, making it hard to follow steps. They require significant interpretation and cross-referencing with visual elements that are not available.
+
+2. **Completeness: 5/15**
+   - The instructions include several necessary details but have major gaps that make assembly difficult. Essential information appears to be missing or assumed to be known.
+
+3. **Accuracy: 16/40**
+   - The descriptions of parts and steps contain significant errors and often require assumptions about the actual pieces. There are also apparent inaccuracies and vagueness concerning the specifics of the assembly process, making it easy to misassemble.
+
+4. **Accessibility: 5/15**
+   - The instructions offer limited accessibility, with many points unclear without visual aids. Significant elements are dependent on recognizing and interpreting visual diagrams not described. Following solely by text is very challenging.
+
+5. **Organization: 5/15**
+   - The instructions are poorly organized with many steps out of order or inconsistently structured. The logical flow is hard to follow, and the lack of a coherent sequence adds to the confusion.
+
+### Total Score: 36/100
+
+The provided LEGO instruction set scored a total of **36 out of 100**. This indicates significant room for improvement in clarity, completeness, accuracy, accessibility, and organization to make it a fully functional set of instructions suitable for blind or visually impaired individuals.
+
+File: /Users/alexwang/Desktop/CS224NLego/lego_instructions/text_files/lego_instructions_4565315.txt
+Evaluation:
+Total Score Calculation:
+Clarity: 0/15
+Completeness: 0/15
+Accuracy: 0/40
+Accessibility: 0/15
+Organization: 0/15
+Total Score: 0/100
+Total Score Calculation:
+Clarity: 5/15
+Completeness: 2/15
+Accuracy: 8/40
+Accessibility: 5/15
+Organization: 5/15
+Total Score: 25/100
+
+File: /Users/alexwang/Desktop/CS224NLego/lego_instructions/text_files/lego_instructions_6108935.txt
+Evaluation:
+Total Score Calculation:
+Clarity: 10/15
+Completeness: 11/15
+Accuracy: 26/40
+Accessibility: 10/15
+Organization: 11/15
+Total Score: 68/100
+
+File: /Users/alexwang/Desktop/CS224NLego/lego_instructions/text_files/lego_instructions_6476589.txt
+Evaluation:
+**Total Score Calculation:**
+
+**Clarity: 1/15**  
+The instructions are highly detailed but lack coherence, making them very confusing and hard to follow without frequent references back to the overall structure.
+
+**Completeness: 2/15**  
+While some steps are detailed, they lack coherence and logical sequence, resulting in significant gaps and making it hard to understand the full assembly process.
+
+**Accuracy: 8/40**  
+The steps describe parts and placements correctly but miss crucial details and contain several inaccuracies. The instructions frequently deviate from standard LEGO building practices, leading to potential assembly errors.
+
+**Accessibility: 1/15**  
+Given the absence of a consistent sequence, these instructions are very difficult to follow without visual references. The complexity and random ordering of steps further hinder accessibility for those with visual impairments.
+
+**Organization: 1/15**  
+The structure is incoherent, with many steps out of order and significant logical gaps. The instructions lack a clear, consistent structure, making it hard to discern the intended assembly sequence.
+
+**Total Score: 13/100**
+
+File: /Users/alexwang/Desktop/CS224NLego/lego_instructions/text_files/lego_instructions_6107169.txt
+Evaluation:
+### Total Score Calculation:
+
+#### Clarity: 11/15
+The instructions are generally clear, though they may require rereading for better understanding. Descriptions of parts and steps are provided, but some specifics may be slightly ambiguous without visual references.
+
+#### Completeness: 12/15
+The instructions include most details necessary for assembly with some minor omissions. The descriptions are adequately detailed for constructing the LEGO set, yet the exact nature of some connections may need additional clarity.
+
+#### Accuracy: 32/40
+Most parts and steps are described accurately with minor errors. The types of pieces and their placements are overall accurately depicted, although there could be a few small inaccuracies in the descriptions.
+
+#### Accessibility: 12/15
+The instructions are mostly accessible with minor points needing clarification without visual aids. The detailed descriptions generally assist in understanding for those with visual impairments, though some steps may require tactile verification.
+
+#### Organization: 13/15
+The instructions are well organized with minor inconsistencies. The logical flow of the build is maintained, leading the reader through the steps systematically, but slight improvements in sequence clarity could enhance following the steps.
+
+### Total Score: 80/100
+
+**Clarity:** 11/15  
+**Completeness:** 12/15  
+**Accuracy:** 32/40  
+**Accessibility:** 12/15  
+**Organization:** 13/15  
+**Total Score:** 80/100
+
+File: /Users/alexwang/Desktop/CS224NLego/lego_instructions/text_files/lego_instructions_4597679.txt
+Evaluation:
+laughing with joy, suggesting excitement and engagement. 
+
+2. **Text Content:**
+There are several textual elements scattered around the image, providing information about the contest:
+
+- **Top Section:**
+  - **Main Heading:** "YOU COULD WIN" in large, bold letters. This is likely the promotional hook to grab attention.
+  - **Subheading:** "LEGO® Some great LEGO® prizes!" in slightly smaller text. This reinforces what exactly can be won in the promotion.
+
+- **Middle Section:** 
+  - **Survey Invitation:** Phrases like "Take our survey" invite readers to participate in the contest.
+  - **Survey Details:** Details about the survey such as "Provide your feedback" and "Help us improve" are present to motivate LEGO users to participate by offering their opinions.
+
+- **Contact Information:**
+  - There is usually a small section near the bottom with information on how to participate, which may include a website URL or QR code that directs to the survey page. 
+
+3. **Background and Additional Elements:**
+   - The background might be a vibrant color (commonly associated with excitement, like yellow or orange), designed to stand out and grab attention.
+   - LEGO Logos and some LEGO bricks might be sprinkled around the text to reinforce the brand and make the poster visually appealing.
+
+4. **Miscellaneous:**
+   - **Fine Print:** There could be finer print at the bottom detailing the terms and conditions of the contest, eligibility criteria, and the deadline to participate.
+
+### Summary:
+The advertisement is a promotional material asking Lego users (presumably children and their parents) to provide feedback via a survey. In return, there is a chance to win LEGO prizes. The layout is designed to be eye-catching with a mix of engaging text and images to draw in the audience and encourage participation.
+
+To access the survey or participate in the contest, readers would typically need to visit a provided URL or scan a QR code as detailed in the finer print or main part of the advertisement. For individuals who are blind, assistance might be needed to access the survey online or gather the full details regarding the contest.
+Total Score Calculation:
+Clarity: 4/15
+Completeness: 5/15
+Accuracy: 5/40
+Accessibility: 3/15
+Organization: 3/15
+Total Score: 20/100
+
